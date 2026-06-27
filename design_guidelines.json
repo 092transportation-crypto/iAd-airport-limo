@@ -1,0 +1,153 @@
+{
+  "design_guidelines": {
+    "project_name": "IAD Airport Limo - Ultra Luxury Edition",
+    "theme_strategy": {
+      "mode": "dark",
+      "rationale": "Luxury automotive design demands deep blacks and high-contrast metallics (gold/silver) to accentuate vehicle curves and evoke a 'night out' exclusivity. Light mode feels too corporate/rental-car.",
+      "emotional_archetype": "Jewel & Luxury",
+      "vibe": "Cinematic, Executive, Silent, Powerful"
+    },
+    "typography": {
+      "headings": {
+        "family": "Playfair Display, serif",
+        "weight": "400 (Regular) to 700 (Bold)",
+        "tracking": "tracking-tight",
+        "usage": "All section headers, hero titles. MUST feel editorial and expensive."
+      },
+      "body": {
+        "family": "Manrope, sans-serif",
+        "weight": "300 (Light) to 500 (Medium)",
+        "tracking": "tracking-wide",
+        "usage": "Paragraphs, UI elements, booking forms. Optimized for legibility."
+      },
+      "accent": {
+        "family": "Cinzel, serif",
+        "usage": "Small overlines, luxury badges, 'Est. 2024' tags."
+      }
+    },
+    "colors": {
+      "primary": {
+        "name": "Obsidian Void",
+        "hex": "#0A0A0A",
+        "tailwind": "bg-[#0A0A0A]",
+        "usage": "Main background, card backgrounds."
+      },
+      "secondary": {
+        "name": "Deep Slate",
+        "hex": "#121212",
+        "tailwind": "bg-[#121212]",
+        "usage": "Secondary surfaces, footers, form inputs."
+      },
+      "accent_gold": {
+        "name": "Executive Gold",
+        "hex": "#D4AF37",
+        "tailwind": "text-[#D4AF37] border-[#D4AF37] bg-[#D4AF37]",
+        "usage": "Primary CTAs, active states, key highlights, 1px borders."
+      },
+      "accent_silver": {
+        "name": "Platinum",
+        "hex": "#E5E5E5",
+        "tailwind": "text-[#E5E5E5]",
+        "usage": "Secondary text, icons, inactive states."
+      },
+      "text": {
+        "primary": "#F5F5F5",
+        "secondary": "#A3A3A3",
+        "muted": "#525252"
+      }
+    },
+    "layout_strategies": {
+      "container_padding": "px-6 md:px-12 lg:px-24",
+      "section_spacing": "py-24 md:py-32",
+      "grid_system": "The Bento Grid (Mode A) for Fleet Showcase. Asymmetrical layouts for feature sections.",
+      "visual_hierarchy": "Hero > Quick Quote Bar > Fleet Preview > Service Narrative > Social Proof > Footer"
+    },
+    "component_styles": {
+      "buttons": {
+        "primary": "bg-[#D4AF37] text-black hover:bg-[#B5952F] rounded-none uppercase tracking-widest px-8 py-4 font-bold transition-all duration-300",
+        "secondary": "bg-transparent border border-[#D4AF37] text-[#D4AF37] hover:bg-[#D4AF37] hover:text-black rounded-none uppercase tracking-widest px-8 py-4 transition-all duration-300",
+        "ghost": "text-white hover:text-[#D4AF37] transition-colors"
+      },
+      "cards": {
+        "style": "The Tracing Beam",
+        "implementation": "Dark background (#121212), 1px border (#262626). On hover, a golden gradient glow traces the border.",
+        "padding": "p-8 md:p-12"
+      },
+      "inputs": {
+        "style": "bg-transparent border-b border-[#333] focus:border-[#D4AF37] text-white rounded-none px-0 py-4 focus:ring-0 placeholder:text-gray-600 transition-colors"
+      },
+      "nav": {
+        "style": "Crystal Glass",
+        "classes": "backdrop-blur-xl bg-black/50 border-b border-white/10 sticky top-0 z-50"
+      }
+    },
+    "visual_enhancers": {
+      "gradients": "Subtle radial gradients (gold/20) behind hero images to create depth.",
+      "glassmorphism": "Used heavily in the booking widget and navigation.",
+      "textures": "Noise overlay (opacity 0.03) on the main background to kill digital flatness.",
+      "motion": "Entrance animations: fade-up with a long duration (1.2s) for a 'heavy' luxury feel."
+    },
+    "image_assets": {
+      "hero_background": {
+        "url": "https://images.unsplash.com/photo-1631730666263-37c41034d5ea?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Black Mercedes Luxury Exterior at Night",
+        "category": "hero",
+        "description": "Primary visual for homepage. Dark, sleek, evocative."
+      },
+      "fleet_suv": {
+        "url": "https://images.unsplash.com/photo-1687634365981-f6c4e3bba317?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Luxury Black SUV Fleet",
+        "category": "fleet",
+        "description": "For SUV/Group transport section."
+      },
+      "fleet_interior": {
+        "url": "https://images.unsplash.com/photo-1767277974735-a6e70cd71d2f?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Quilted Leather Interior",
+        "category": "fleet_detail",
+        "description": "Showcasing comfort and premium materials."
+      },
+      "service_corporate": {
+        "url": "https://images.unsplash.com/photo-1765292784374-e061c5b3d111?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Executive with Luxury Car",
+        "category": "services",
+        "description": "For Corporate Travel section."
+      },
+      "service_wedding": {
+        "url": "https://images.unsplash.com/photo-1748126914414-45e56ce30f46?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Bride and Groom in Classic Car",
+        "category": "services",
+        "description": "For Wedding/Events section."
+      },
+      "service_party": {
+        "url": "https://images.unsplash.com/photo-1761671612696-a3258e61b4f3?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Champagne Toast Luxury",
+        "category": "services",
+        "description": "For Night Out/Party section."
+      },
+      "chauffeur": {
+        "url": "https://images.unsplash.com/photo-1610208515203-fc0421e9b60e?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "alt": "Professional Chauffeur Service",
+        "category": "about",
+        "description": "Representing service quality."
+      }
+    },
+    "instructions_to_main_agent": [
+      "IMMEDIATELY install 'lucide-react' and 'framer-motion' if not present.",
+      "Set the body background to #0A0A0A in index.css. Do not leave it white.",
+      "Import Playfair Display and Manrope from Google Fonts in index.css.",
+      "The Booking Widget MUST be visible immediately on the Hero section (floating at bottom or center).",
+      "Do not use standard card shadows. Use 1px borders with very subtle glows.",
+      "For the Fleet section, do not just list cars. Create a 'Bento Grid' of categories that expands or links to details.",
+      "Ensure all text has sufficient contrast against the black background (Text should be #F5F5F5, not #FFF, for less eye strain).",
+      "Use 'gold' (#D4AF37) sparingly for buttons and key accents only. Don't overuse it."
+    ],
+    "universal_guidelines": [
+      "Avoid 'AI slop' design (generic centered layouts).",
+      "Use deep z-index layering.",
+      "Micro-interactions on every clickable element.",
+      "No 'transition: all'. Specialize transitions.",
+      "Accessible contrast ratios are mandatory.",
+      "All interactive elements must have data-testid."
+    ]
+  }
+}
