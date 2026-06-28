@@ -115,7 +115,7 @@ const PrivacyPolicyPage = () => {
               </p>
               <div className="mt-4 p-6 bg-gray-900 border border-[#d4af37]/20 rounded-lg">
                 <p className="text-white font-semibold mb-2">King Transportation</p>
-                <p className="text-gray-400">Phone: (667) 400-0092</p>
+                <p className="text-gray-400">Phone: (877) 679-0100</p>
                 <p className="text-gray-400">Email: info@kingtransportation.com</p>
                 <p className="text-gray-400">Service Area: Maryland | Virginia | Washington DC</p>
               </div>

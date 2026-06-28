@@ -245,11 +245,11 @@ const ReviewsPage = () => {
               Book Your Ride
             </a>
             <a 
-              href="tel:(667)400-0092"
+              href="tel:(877)679-0100"
               className="inline-block px-8 py-4 border-2 border-[#d4af37] text-[#d4af37] hover:bg-[#d4af37] hover:text-black font-bold uppercase tracking-wider transition-colors"
               data-testid="call-cta"
             >
-              Call (667) 400-0092
+              Call (877) 679-0100
             </a>
           </div>
         </div>

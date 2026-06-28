@@ -179,7 +179,7 @@ const WineToursPage = () => {
                 Book Tour Now
               </Button>
             </Link>
-            <a href="tel:(667)400-0092">
+            <a href="tel:(877)679-0100">
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black px-8 py-6 text-lg transition-all">
                 Call for Details
               </Button>

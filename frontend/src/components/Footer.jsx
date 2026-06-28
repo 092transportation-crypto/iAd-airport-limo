@@ -83,12 +83,12 @@ const Footer = () => {
             <h4 className="font-display text-white font-semibold mb-6">Contact</h4>
             <div className="space-y-4">
               <a 
-                href="tel:6674000092" 
+                href="tel:8776790100" 
                 className="flex items-start gap-3 text-white hover:opacity-80 transition-opacity"
               >
                 <Phone className="w-5 h-5 mt-0.5" />
                 <div>
-                  <p className="font-semibold">(667) 400-0092</p>
+                  <p className="font-semibold">(877) 679-0100</p>
                   <p className="text-white/40 text-sm">Available 24/7</p>
                 </div>
               </a>

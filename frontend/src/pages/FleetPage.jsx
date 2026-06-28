@@ -74,7 +74,7 @@ const FleetPage = () => {
           <h2 className="font-display text-2xl sm:text-3xl text-black mb-4">Need Help?</h2>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link to="/contact" className="px-6 py-3 bg-black text-white font-bold uppercase tracking-wider text-sm">Contact Us</Link>
-            <a href="tel:6674000092" className="px-6 py-3 border-2 border-black text-black font-bold uppercase tracking-wider text-sm hover:bg-black hover:text-white">(667) 400-0092</a>
+            <a href="tel:8776790100" className="px-6 py-3 border-2 border-black text-black font-bold uppercase tracking-wider text-sm hover:bg-black hover:text-white">(877) 679-0100</a>
           </div>
         </div>
       </section>
