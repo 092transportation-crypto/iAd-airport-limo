@@ -53,8 +53,8 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="text-white font-semibold mb-1">Phone</h3>
-                    <a href="tel:8776790100" className="text-[#c9a227] text-lg font-medium hover:opacity-80">
-                      (877) 679-0100
+                    <a href="tel:8776091919" className="text-[#c9a227] text-lg font-medium hover:opacity-80">
+                      (877) 609-1919
                     </a>
                     <p className="text-gray-500 text-sm mt-1">Available 24/7 for reservations</p>
                   </div>

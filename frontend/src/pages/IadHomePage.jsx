@@ -118,10 +118,10 @@ const IadHomePage = () => {
                 Reserve Now
               </Button>
             </Link>
-            <a href="tel:(877)679-0100">
+            <a href="tel:+18776091919">
               <Button size="lg" variant="outline" className="border-2 border-[#d4af37] text-[#d4af37] hover:bg-[#d4af37] hover:text-black px-12 py-7 text-lg transition-all hover:scale-105">
                 <Phone className="mr-2 h-5 w-5" />
-                (877) 679-0100
+                (877) 609-1919
               </Button>
             </a>
           </div>

@@ -103,7 +103,7 @@ const TermsPage = () => {
                   For questions about these terms or to make a reservation, please contact us:
                 </p>
                 <ul className="list-none space-y-2">
-                  <li><strong className="text-[#c9a227]">Phone:</strong> (877) 679-0100</li>
+                  <li><strong className="text-[#c9a227]">Phone:</strong> (877) 609-1919</li>
                   <li><strong className="text-[#c9a227]">Email:</strong> limoiadairport@gmail.com</li>
                 </ul>
               </div>

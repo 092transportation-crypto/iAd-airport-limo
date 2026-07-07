@@ -89,9 +89,9 @@ const HomePage = () => {
             <Link to="/contact" className="inline-flex items-center justify-center gap-2 border border-white text-white px-6 sm:px-10 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm sm:text-base" data-testid="hero-contact-btn">Contact Us</Link>
           </div>
         </div>
-        <a href="tel:8776790100" className="hidden md:flex absolute bottom-8 right-8 glass px-6 py-4 items-center gap-4 hover:border-white transition-colors z-10">
+        <a href="tel:8776091919" className="hidden md:flex absolute bottom-8 right-8 glass px-6 py-4 items-center gap-4 hover:border-white transition-colors z-10">
           <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center"><Phone className="w-5 h-5 text-black" /></div>
-          <div><p className="text-white/60 text-xs uppercase tracking-wider">Call Now</p><p className="text-white font-semibold text-lg">(877) 679-0100</p></div>
+          <div><p className="text-white/60 text-xs uppercase tracking-wider">Call Now</p><p className="text-white font-semibold text-lg">(877) 609-1919</p></div>
         </a>
       </section>
 
@@ -224,7 +224,7 @@ const HomePage = () => {
           <p className="text-white/50 text-base mb-8">Book your premium transportation today. Available 24/7.</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">Free Quote <ArrowRight className="w-4 h-4" /></Link>
-            <a href="tel:8776790100" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm"><Phone className="w-4 h-4" /> (877) 679-0100</a>
+            <a href="tel:8776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm"><Phone className="w-4 h-4" /> (877) 609-1919</a>
           </div>
         </div>
       </section>

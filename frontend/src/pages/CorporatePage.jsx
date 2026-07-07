@@ -187,10 +187,10 @@ const CorporatePage = () => {
               Contact Sales
             </Link>
             <a 
-              href="tel:8776790100"
+              href="tel:8776091919"
               className="px-8 py-4 border-2 border-[#c9a227] text-[#c9a227] font-semibold uppercase tracking-wider hover:bg-[#c9a227] hover:text-black transition-all"
             >
-              Call (877) 679-0100
+              Call (877) 609-1919
             </a>
           </div>
         </div>

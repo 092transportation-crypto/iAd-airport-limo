@@ -40,7 +40,7 @@ const Navbar = () => {
             <span className="hidden md:flex items-center gap-1"><Mail className="w-3 h-3" /> limoiadairport@gmail.com</span>
           </div>
           <div className="flex items-center gap-4 ml-auto">
-            <a href="tel:8776790100" className="flex items-center gap-1 font-bold"><Phone className="w-3 h-3" /> (877) 679-0100</a>
+            <a href="tel:8776091919" className="flex items-center gap-1 font-bold"><Phone className="w-3 h-3" /> (877) 609-1919</a>
             <Link to="/book-now" className="bg-black text-white px-3 py-1 font-bold hover:bg-gray-800">BOOK NOW</Link>
           </div>
         </div>
