@@ -2,7 +2,27 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
 import { Phone, Mail, MapPin, Clock, Send } from 'lucide-react';
+
+const contactFaqs = [
+  {
+    question: 'What is the fastest way to reach IAD Airport Limo?',
+    answer:
+      'Call (877) 609-1919 — the line is answered 24/7. You can also email limoiadairport@gmail.com or use the contact form on this page.',
+  },
+  {
+    question: 'Can I get a quote over the phone?',
+    answer:
+      'Yes. Share your pickup address, destination, date, and passenger count and a reservation specialist will quote a flat rate on the spot and confirm it in writing.',
+  },
+  {
+    question: 'Do you answer after hours and on holidays?',
+    answer:
+      'Yes. As a 24/7 airport transportation provider, our dispatch answers around the clock, every day of the year, including holidays.',
+  },
+];
 
 const ContactPage = () => {
   const [formData, setFormData] = useState({
@@ -24,6 +44,12 @@ const ContactPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Contact IAD Airport Limo | Call (877) 609-1919"
+        description="Contact IAD Airport Limo for Dulles airport car service quotes and bookings. Phone, email & contact form — reservations answered 24/7 across DC, MD & VA."
+        path="/contact"
+        faqs={contactFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -209,6 +235,8 @@ const ContactPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={contactFaqs} />
 
       <Footer />
     </div>

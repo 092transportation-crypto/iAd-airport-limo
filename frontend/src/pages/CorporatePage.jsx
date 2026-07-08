@@ -2,7 +2,32 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import { Briefcase, Check, Building, Users, Clock, Globe } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+import { Briefcase, Check, Building, Users, Clock, Globe, Shield } from 'lucide-react';
+
+const corporateFaqs = [
+  {
+    question: 'What does a corporate account include?',
+    answer:
+      'Centralized booking for travel coordinators, consolidated monthly invoicing, fixed rates for your common routes, priority dispatch, and automatic flight tracking on every airport trip.',
+  },
+  {
+    question: 'Can executive assistants book on behalf of travelers?',
+    answer:
+      'Yes. Corporate accounts include coordinator booking by phone or online, with confirmations sent to both the coordinator and the traveler.',
+  },
+  {
+    question: 'Do you handle roadshows and multi-stop itineraries?',
+    answer:
+      'Yes. Hourly as-directed service with a dedicated chauffeur covers investor roadshows, multi-meeting days, and event shuttles across DC, Maryland, and Virginia.',
+  },
+  {
+    question: 'How do I set up corporate car service at Dulles?',
+    answer:
+      'Call (877) 609-1919 and ask for corporate accounts. We will review your travel patterns, set your rate card, and configure billing — usually the same week.',
+  },
+];
 
 const CorporatePage = () => {
   const heroImage = 'https://images.unsplash.com/photo-1758518727707-b023e285b709?w=1920&q=80';
@@ -52,6 +77,12 @@ const CorporatePage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Corporate Car Service | Dulles Airport IAD Limo"
+        description="Corporate car service at Dulles Airport — executive sedans, account billing, flight tracking & 24/7 dispatch for DC, MD & VA teams. Call (877) 609-1919."
+        path="/corporate"
+        faqs={corporateFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -153,22 +184,12 @@ const CorporatePage = () => {
         </div>
       </section>
 
-      {/* Stats */}
+      {/* Trust Banner */}
       <section className="py-16 bg-[#c9a227]">
-        <div className="max-w-7xl mx-auto px-4">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-            {[
-              { value: '10+', label: 'Years Experience' },
-              { value: '500+', label: 'Corporate Clients' },
-              { value: '99%', label: 'On-Time Rate' },
-              { value: '24/7', label: 'Support' }
-            ].map((stat, idx) => (
-              <div key={idx} className="text-center">
-                <div className="text-4xl md:text-5xl font-bold text-black mb-2">{stat.value}</div>
-                <div className="text-sm text-black/70 uppercase tracking-wider">{stat.label}</div>
-              </div>
-            ))}
-          </div>
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <Shield className="h-12 w-12 text-black mx-auto mb-4" />
+          <div className="text-3xl md:text-4xl font-bold text-black mb-2">Licensed &amp; Insured Virginia &amp; Maryland Carrier</div>
+          <div className="text-sm text-black/70 uppercase tracking-wider">Commercial Insurance • Vetted Chauffeurs • 24/7 Dispatch</div>
         </div>
       </section>
 
@@ -195,6 +216,8 @@ const CorporatePage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={corporateFaqs} />
 
       <Footer />
     </div>

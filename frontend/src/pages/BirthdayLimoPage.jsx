@@ -3,6 +3,31 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { PartyPopper, Check, Star, Music, Users } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const birthdayFaqs = [
+  {
+    question: 'How many people fit in a birthday party vehicle?',
+    answer:
+      'Sedans carry up to 3 guests, SUVs up to 6, and our Mercedes Sprinter party van up to 12 with LED lighting, premium sound, and space to celebrate.',
+  },
+  {
+    question: 'Can we plan multiple stops for the night?',
+    answer:
+      'Yes. Birthday packages are hourly with a dedicated chauffeur, so dinner, an event, and a night out can all be on one itinerary.',
+  },
+  {
+    question: 'Do you do kids’ and milestone birthdays?',
+    answer:
+      'Yes — from sweet sixteens (alcohol-free, with adult supervision requirements) to 30th, 40th, and beyond. Call (877) 609-1919 to plan the details.',
+  },
+  {
+    question: 'What areas do you cover for birthday limo service?',
+    answer:
+      'Washington DC, Northern Virginia, and Maryland — including pickups throughout the Dulles, Tysons, Bethesda, and Arlington areas.',
+  },
+];
 
 const BirthdayLimoPage = () => {
   const heroImage = 'https://images.unsplash.com/photo-1740485863233-032dff964d0d?w=1920&q=80';
@@ -31,6 +56,12 @@ const BirthdayLimoPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Birthday Limo Service | DC, Maryland & Virginia"
+        description="Celebrate in style with a birthday limo or party Sprinter — LED lights, premium sound & a professional chauffeur across DC, MD & VA. Call (877) 609-1919."
+        path="/birthday-limo"
+        faqs={birthdayFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -175,6 +206,8 @@ const BirthdayLimoPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={birthdayFaqs} />
 
       <Footer />
     </div>

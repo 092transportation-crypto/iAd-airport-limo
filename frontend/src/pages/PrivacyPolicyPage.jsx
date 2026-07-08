@@ -1,10 +1,30 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Seo from '../components/Seo';
+
+const privacyFaqs = [
+  {
+    question: 'What personal information does IAD Airport Limo collect?',
+    answer:
+      'Booking details you provide — name, contact information, pickup and drop-off addresses, and flight numbers — plus standard technical data when you visit our website.',
+  },
+  {
+    question: 'Does IAD Airport Limo share my information with third parties?',
+    answer:
+      'We share information only with service providers needed to operate our business, such as payment processors and booking systems, and never sell your personal data.',
+  },
+];
 
 const PrivacyPolicyPage = () => {
   return (
     <div className="min-h-screen bg-black">
+      <Seo
+        title="Privacy Policy | IAD Airport Limo"
+        description="How IAD Airport Limo collects, uses & protects your information when you book Dulles airport car service. Questions? Call (877) 609-1919."
+        path="/privacy"
+        faqs={privacyFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}

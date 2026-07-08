@@ -3,6 +3,31 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { Heart, Check, Star, Users, Calendar } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const weddingFaqs = [
+  {
+    question: 'How far in advance should we book wedding transportation?',
+    answer:
+      'Two to six months ahead is ideal, especially for spring and fall Saturdays. Call (877) 609-1919 early to hold your date — popular weekends fill fast.',
+  },
+  {
+    question: 'Can you transport the whole wedding party and guests?',
+    answer:
+      'Yes. We coordinate multiple vehicles — sedans and SUVs for the couple and parents, Sprinter vans for the wedding party, and guest shuttle loops between venues and hotels.',
+  },
+  {
+    question: 'Do wedding packages include decorations?',
+    answer:
+      'Yes. Packages include ribbon or floral decoration, red carpet service, and champagne, scaled to the package you choose.',
+  },
+  {
+    question: 'What areas do you serve for weddings?',
+    answer:
+      'All of Washington DC, Maryland, and Virginia — venues from DC hotels to Loudoun County vineyards and Annapolis waterfronts.',
+  },
+];
 
 const WeddingLimoPage = () => {
   const heroImage = 'https://images.unsplash.com/photo-1764269713585-231f628652be?w=1920&q=80';
@@ -62,6 +87,12 @@ const WeddingLimoPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Wedding Limo Service | DC, Maryland & Virginia"
+        description="Elegant wedding limo & chauffeur service across DC, MD & VA. Decorated vehicles, red carpet, guest shuttles & bridal party coordination. (877) 609-1919."
+        path="/wedding-limo"
+        faqs={weddingFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -206,6 +237,8 @@ const WeddingLimoPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={weddingFaqs} />
 
       <Footer />
     </div>

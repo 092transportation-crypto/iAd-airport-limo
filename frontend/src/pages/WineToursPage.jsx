@@ -5,6 +5,31 @@ import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 import { Wine, Map, Users, DollarSign, Calendar, CheckCircle2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const wineFaqs = [
+  {
+    question: 'Which Virginia wineries do your tours visit?',
+    answer:
+      'We build custom itineraries across Loudoun and Fauquier County wine country — you choose the wineries, or we suggest favorites based on your group size and tastes.',
+  },
+  {
+    question: 'How many wineries can we visit in one tour?',
+    answer:
+      'Most groups visit two to four wineries in a day trip. Your chauffeur handles the driving and timing so you can enjoy every tasting safely.',
+  },
+  {
+    question: 'What vehicles are available for wine tours?',
+    answer:
+      'Luxury SUVs for small groups and Mercedes Sprinter vans seating up to 13 for larger parties — call (877) 609-1919 to match the vehicle to your group.',
+  },
+  {
+    question: 'How is wine tour pricing structured?',
+    answer:
+      'Tours are billed hourly with your chauffeur and vehicle dedicated to the group all day. Call (877) 609-1919 for a quote for your date and headcount.',
+  },
+];
 
 const WineToursPage = () => {
   const features = [
@@ -36,6 +61,12 @@ const WineToursPage = () => {
 
   return (
     <div className="min-h-screen bg-white">
+      <Seo
+        title="Virginia Wine Tours | Chauffeured Limo & SUV Tours"
+        description="Private chauffeured wine tours through Loudoun & Northern Virginia wine country. Luxury SUVs & Sprinter vans, custom itineraries. Call (877) 609-1919."
+        path="/wine-tours"
+        faqs={wineFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -187,6 +218,8 @@ const WineToursPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={wineFaqs} />
 
       <Footer />
     </div>

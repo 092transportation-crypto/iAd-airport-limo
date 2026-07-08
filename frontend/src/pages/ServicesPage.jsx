@@ -3,9 +3,48 @@ import { useParams, Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { User, Briefcase, PartyPopper, Check, ArrowRight } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const seoByType = {
+  personal: {
+    title: 'Personal Chauffeur Service | IAD Airport Limo',
+    description:
+      'Personal chauffeured transportation across DC, MD & VA — airport transfers, appointments, nights out & city tours with flat rates. Call (877) 609-1919.',
+  },
+  corporate: {
+    title: 'Corporate Chauffeur Services | IAD Airport Limo',
+    description:
+      'Executive chauffeur services with account billing, roadshow coordination & Dulles airport transfers for DC, MD & VA businesses. Call (877) 609-1919.',
+  },
+  events: {
+    title: 'Event Transportation | IAD Airport Limo DC MD VA',
+    description:
+      'Chauffeured event transportation — weddings, proms, galas & concerts across DC, Maryland & Virginia with multi-vehicle coordination. Call (877) 609-1919.',
+  },
+};
+
+const servicesFaqs = [
+  {
+    question: 'What chauffeur services do you offer?',
+    answer:
+      'Personal transportation (airport transfers, appointments, nights out), corporate travel with account billing, and event transportation for weddings, proms, and galas across DC, Maryland, and Virginia.',
+  },
+  {
+    question: 'Are your rates flat or metered?',
+    answer:
+      'Point-to-point trips are flat-rate, quoted in writing before you ride. Multi-stop and event service is hourly with a dedicated chauffeur. Call (877) 609-1919 for a quote.',
+  },
+  {
+    question: 'Can I book a chauffeur by the hour?',
+    answer:
+      'Yes. Hourly as-directed service keeps a chauffeur and vehicle with you for roadshows, event nights, and multi-stop days.',
+  },
+];
 
 const ServicesPage = () => {
   const { type } = useParams();
+  const seoMeta = seoByType[type] || seoByType.personal;
 
   const images = {
     personal: 'https://images.unsplash.com/photo-1763789381177-cd8a04aaa2ef?w=1200&q=80',
@@ -137,6 +176,12 @@ const ServicesPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title={seoMeta.title}
+        description={seoMeta.description}
+        path={`/services/${seoByType[type] ? type : 'personal'}`}
+        faqs={servicesFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -238,6 +283,8 @@ const ServicesPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={servicesFaqs} />
 
       <Footer />
     </div>

@@ -2,7 +2,32 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import { Users, Briefcase, ArrowRight } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+import { Users, Briefcase } from 'lucide-react';
+
+const fleetFaqs = [
+  {
+    question: 'What vehicles can I book for a Dulles airport transfer?',
+    answer:
+      'Executive sedans (Mercedes-Benz S-Class, E-Class, BMW 7 Series), luxury SUVs (Cadillac Escalade, Lincoln Navigator, Chevy Suburban, GMC Yukon XL), and Mercedes Sprinter vans for up to 13 passengers.',
+  },
+  {
+    question: 'Which vehicle fits a family of five with checked luggage?',
+    answer:
+      'A full-size SUV — Suburban, Yukon XL, or Navigator — seats up to six passengers with five to six large bags. For more people or luggage, choose a Sprinter van.',
+  },
+  {
+    question: 'Are the vehicles cleaned between trips?',
+    answer:
+      'Yes. Every vehicle is detailed before each pickup and maintained to commercial standards as part of our licensed and insured Virginia and Maryland carrier operation.',
+  },
+  {
+    question: 'Can I request a specific vehicle model?',
+    answer:
+      'Yes — request a specific sedan, SUV, or Sprinter when booking online or by calling (877) 609-1919, and we will confirm availability for your date.',
+  },
+];
 
 const FleetPage = () => {
   const [activeCategory, setActiveCategory] = useState('all');
@@ -33,6 +58,12 @@ const FleetPage = () => {
 
   return (
     <div className="min-h-screen bg-black">
+      <Seo
+        title="Luxury Fleet | Dulles Airport Limo Sedans & SUVs"
+        description="Explore the IAD Airport Limo fleet — Mercedes S-Class, BMW 7 Series, Escalade, Navigator, Suburban & Sprinter vans for Dulles airport car service."
+        path="/fleet"
+        faqs={fleetFaqs}
+      />
       <Navbar />
       <section className="pt-32 pb-12 bg-black">
         <div className="max-w-7xl mx-auto px-4 text-center">
@@ -78,6 +109,7 @@ const FleetPage = () => {
           </div>
         </div>
       </section>
+      <FaqSection faqs={fleetFaqs} />
       <Footer />
     </div>
   );

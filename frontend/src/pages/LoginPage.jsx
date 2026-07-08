@@ -3,6 +3,20 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { User, Lock, Eye, EyeOff } from 'lucide-react';
+import Seo from '../components/Seo';
+
+const loginFaqs = [
+  {
+    question: 'Do I need an account to book a car?',
+    answer:
+      'No. You can book as a guest online or by calling (877) 609-1919. An account simply makes repeat bookings faster.',
+  },
+  {
+    question: 'What are the benefits of creating an account?',
+    answer:
+      'Saved addresses and preferences, faster checkout, and easy access to your trip history and receipts.',
+  },
+];
 
 const LoginPage = () => {
   const [showPassword, setShowPassword] = useState(false);
@@ -29,6 +43,12 @@ const LoginPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Login | IAD Airport Limo Account"
+        description="Sign in to your IAD Airport Limo account to manage bookings and speed up checkout — or book as a guest anytime by calling (877) 609-1919."
+        path="/login"
+        faqs={loginFaqs}
+      />
       <Navbar />
 
       {/* Login Section */}

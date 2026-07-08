@@ -3,6 +3,31 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { GraduationCap, Check, Shield, Clock, Users } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const promFaqs = [
+  {
+    question: 'Is prom limo service safe for teens?',
+    answer:
+      'Yes. Chauffeurs are background-checked, vehicles are GPS-tracked and alcohol-free, and we follow strict pickup and drop-off protocols with direct parent communication.',
+  },
+  {
+    question: 'How many friends can share a prom vehicle?',
+    answer:
+      'SUVs seat up to 6, stretch limos up to 8, and party Sprinters up to 12 — sharing a larger vehicle usually costs less per person.',
+  },
+  {
+    question: 'When should we book for prom season?',
+    answer:
+      'Book 4 to 8 weeks ahead — April and May Saturdays sell out. Call (877) 609-1919 to lock in your school’s prom date.',
+  },
+  {
+    question: 'Can parents track the vehicle during prom night?',
+    answer:
+      'Yes. All vehicles are GPS-tracked, and parents can contact dispatch at (877) 609-1919 at any point during the evening.',
+  },
+];
 
 const PromLimoPage = () => {
   const heroImage = 'https://images.unsplash.com/photo-1716878438300-46c79ffc208c?w=1920&q=80';
@@ -43,6 +68,12 @@ const PromLimoPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Prom Limo Service | Northern Virginia, DC & MD"
+        description="Safe, stylish prom limo service — background-checked chauffeurs, GPS-tracked vehicles & group Sprinters for DC, MD & VA schools. Call (877) 609-1919."
+        path="/prom-limo"
+        faqs={promFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -206,6 +237,8 @@ const PromLimoPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={promFaqs} />
 
       <Footer />
     </div>

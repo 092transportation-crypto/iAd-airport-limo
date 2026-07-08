@@ -1,10 +1,30 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Seo from '../components/Seo';
+
+const termsFaqs = [
+  {
+    question: 'What is the cancellation policy for airport transfers?',
+    answer:
+      'Cancellations made more than 24 hours before pickup avoid any fee. Cancellations within 24 hours may incur a fee of up to 50% of the fare — call (877) 609-1919 as early as possible to change plans.',
+  },
+  {
+    question: 'Am I charged extra if my flight is delayed?',
+    answer:
+      'No. Airport pickups include flight tracking and complimentary wait time, so normal flight delays do not add charges.',
+  },
+];
 
 const TermsPage = () => {
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title="Terms of Service | IAD Airport Limo"
+        description="Booking terms for IAD Airport Limo — reservations, cancellations, wait time & service policies for Dulles airport car service. Call (877) 609-1919."
+        path="/terms"
+        faqs={termsFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}

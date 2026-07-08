@@ -1,7 +1,32 @@
 import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
 import { Shield, Clock, Star, Award, Phone, Mail, ExternalLink, Send, CheckCircle } from 'lucide-react';
+
+const bookingFaqs = [
+  {
+    question: 'How far in advance should I book my Dulles airport car?',
+    answer:
+      'We recommend booking at least 24 hours ahead for guaranteed availability. Same-day requests are often possible — call (877) 609-1919 to check.',
+  },
+  {
+    question: 'What information do I need to book?',
+    answer:
+      'Your pickup address, destination, date and time, passenger and luggage count, and flight number for airport pickups so we can track your arrival.',
+  },
+  {
+    question: 'Is my rate confirmed when I book?',
+    answer:
+      'Yes. You receive a written flat-rate confirmation — no surge pricing and no hidden fees. The quoted price is the final price.',
+  },
+  {
+    question: 'Can I change or cancel my reservation?',
+    answer:
+      'Yes. Contact us at (877) 609-1919 to modify or cancel. Cancellations made more than 24 hours before pickup avoid any fee.',
+  },
+];
 
 const BookingPage = () => {
   const [formData, setFormData] = useState({
@@ -63,6 +88,12 @@ const BookingPage = () => {
 
   return (
     <div className="min-h-screen bg-black">
+      <Seo
+        title="Book IAD Airport Car Service | Free Flat-Rate Quote"
+        description="Book your Dulles airport limo online in minutes. Flat rates, flight tracking & professional chauffeurs across DC, MD & VA. Or call (877) 609-1919 anytime."
+        path="/book-now"
+        faqs={bookingFaqs}
+      />
       <Navbar />
 
       <section className="relative pt-32 pb-12 bg-black">
@@ -213,6 +244,8 @@ const BookingPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={bookingFaqs} />
 
       <Footer />
     </div>

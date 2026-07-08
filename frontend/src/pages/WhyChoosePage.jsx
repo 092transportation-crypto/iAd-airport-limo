@@ -3,9 +3,53 @@ import { useParams, Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { Shield, Award, Smartphone, Globe, Check, Star } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const whyChooseSeo = {
+  safety: {
+    title: 'Safety & Insurance | IAD Chauffeur Service',
+    description:
+      'A licensed & insured Virginia & Maryland carrier — commercial coverage, inspected vehicles & GPS-tracked fleet for Dulles airport car service.',
+  },
+  drivers: {
+    title: 'Licensed Chauffeurs | IAD Airport Car Service',
+    description:
+      'Background-checked, professionally trained chauffeurs behind every IAD airport car service trip across DC, Maryland & Virginia. Call (877) 609-1919.',
+  },
+  technology: {
+    title: 'Booking & Flight Tracking | IAD Airport Limo',
+    description:
+      'Real-time flight tracking, instant confirmations & GPS routing — the technology behind our Dulles airport limo service. Book online or call anytime.',
+  },
+  worldwide: {
+    title: 'Worldwide Chauffeur Network | IAD Airport Limo',
+    description:
+      'Luxury ground transportation beyond DC — our global affiliate network arranges chauffeured service worldwide with one point of contact. (877) 609-1919.',
+  },
+};
+
+const whyChooseFaqs = [
+  {
+    question: 'Why choose IAD Airport Limo over other car services?',
+    answer:
+      'We are a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs, automatic flight tracking, written flat rates, and 24/7 dispatch — standards we hold on every trip.',
+  },
+  {
+    question: 'Are your chauffeurs licensed and background-checked?',
+    answer:
+      'Yes. Every chauffeur passes extensive background checks, holds the required professional licenses, and completes ongoing training.',
+  },
+  {
+    question: 'Can you arrange transportation outside the DC area?',
+    answer:
+      'Yes. Through our global affiliate network we coordinate chauffeured service in other cities and countries with a single point of contact. Call (877) 609-1919 to arrange it.',
+  },
+];
 
 const WhyChoosePage = () => {
   const { section } = useParams();
+  const seoMeta = whyChooseSeo[section] || whyChooseSeo.safety;
 
   const content = {
     safety: {
@@ -22,9 +66,9 @@ const WhyChoosePage = () => {
         'COVID-19 safety measures'
       ],
       stats: [
-        { value: '$5M+', label: 'Insurance Coverage' },
-        { value: '100%', label: 'Safety Record' },
-        { value: 'Daily', label: 'Vehicle Inspections' }
+        { value: 'Licensed', label: 'Virginia & Maryland Carrier' },
+        { value: 'Insured', label: 'Commercial Liability Coverage' },
+        { value: 'GPS', label: 'Tracked Fleet' }
       ]
     },
     drivers: {
@@ -41,9 +85,9 @@ const WhyChoosePage = () => {
         'Customer service focused'
       ],
       stats: [
-        { value: '10+', label: 'Years Avg. Experience' },
-        { value: '100%', label: 'Background Verified' },
-        { value: '5★', label: 'Average Rating' }
+        { value: 'Vetted', label: 'Background-Checked Chauffeurs' },
+        { value: 'Trained', label: 'Professional Standards' },
+        { value: '24/7', label: 'Dispatch Support' }
       ]
     },
     technology: {
@@ -79,8 +123,8 @@ const WhyChoosePage = () => {
         'Event transportation logistics'
       ],
       stats: [
-        { value: '500+', label: 'Partner Cities' },
-        { value: '50+', label: 'Countries Served' },
+        { value: 'Global', label: 'Affiliate Network' },
+        { value: '24/7', label: 'Trip Coordination' },
         { value: '1', label: 'Point of Contact' }
       ]
     }
@@ -97,6 +141,12 @@ const WhyChoosePage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title={seoMeta.title}
+        description={seoMeta.description}
+        path={`/why-choose/${whyChooseSeo[section] ? section : 'safety'}`}
+        faqs={whyChooseFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -156,7 +206,7 @@ const WhyChoosePage = () => {
 
             {/* Stats */}
             <div className="bg-[#1a1a1a] border border-[#333] p-8">
-              <h3 className="text-xl font-semibold text-white mb-8">By The Numbers</h3>
+              <h3 className="text-xl font-semibold text-white mb-8">Our Standards</h3>
               <div className="space-y-8">
                 {currentContent.stats.map((stat, idx) => (
                   <div key={idx} className="flex items-center justify-between border-b border-[#333] pb-6 last:border-b-0">
@@ -173,7 +223,7 @@ const WhyChoosePage = () => {
                     <Star key={i} className="w-5 h-5 fill-[#c9a227]" />
                   ))}
                 </div>
-                <p className="text-gray-400 text-sm mb-4">500+ verified customer reviews</p>
+                <p className="text-gray-400 text-sm mb-4">Read what our clients say about riding with us</p>
                 <Link 
                   to="/reviews"
                   className="text-[#c9a227] hover:text-white transition-colors text-sm"
@@ -191,7 +241,7 @@ const WhyChoosePage = () => {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-light text-black mb-4">Ready to Experience the Difference?</h2>
           <p className="text-black/70 mb-8">
-            Book your luxury transportation today and discover why thousands of customers choose IAD Airport Limo.
+            Book your luxury transportation today and discover why travelers across DC, Maryland, and Virginia choose IAD Airport Limo.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 
@@ -209,6 +259,8 @@ const WhyChoosePage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={whyChooseFaqs} />
 
       <Footer />
     </div>

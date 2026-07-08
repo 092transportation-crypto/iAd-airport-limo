@@ -1,7 +1,27 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import { Star, Quote, CheckCircle } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+import { Star, Quote, CheckCircle, Shield } from 'lucide-react';
+
+const reviewsFaqs = [
+  {
+    question: 'Where do your customer reviews come from?',
+    answer:
+      'The reviews on this page were shared by clients after airport transfers, corporate trips, and special-event service across the DC, Maryland, and Virginia area.',
+  },
+  {
+    question: 'How can I leave a review after my trip?',
+    answer:
+      'We welcome feedback by email at limoiadairport@gmail.com or by phone at (877) 609-1919 — and reviews on Google help other travelers find us.',
+  },
+  {
+    question: 'How do I book the same service these reviews describe?',
+    answer:
+      'Use our online booking page or call (877) 609-1919. Every trip includes flight tracking, a professional chauffeur, and a flat written rate.',
+  },
+];
 
 const ReviewsPage = () => {
   const reviews = [
@@ -127,15 +147,14 @@ const ReviewsPage = () => {
     }
   ];
 
-  const stats = [
-    { value: "500+", label: "Happy Customers" },
-    { value: "4.9", label: "Average Rating" },
-    { value: "99%", label: "On-Time Rate" },
-    { value: "100%", label: "Satisfaction" }
-  ];
-
   return (
     <div className="min-h-screen bg-black">
+      <Seo
+        title="Reviews | IAD Airport Car Service Testimonials"
+        description="Read what clients say about our IAD airport car service — Dulles airport limo trips, corporate travel & special events across DC, Maryland & Virginia."
+        path="/reviews"
+        faqs={reviewsFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -149,30 +168,15 @@ const ReviewsPage = () => {
             See what our valued customers have to say about their experience
           </p>
           
-          {/* Star Rating Display */}
-          <div className="mt-8 flex items-center justify-center space-x-2">
-            <div className="flex">
-              {[...Array(5)].map((_, i) => (
-                <Star key={i} className="h-8 w-8 text-[#d4af37] fill-[#d4af37]" />
-              ))}
-            </div>
-            <span className="text-3xl font-bold text-white ml-4">4.9</span>
-            <span className="text-gray-400 text-lg">out of 5</span>
-          </div>
         </div>
       </section>
 
-      {/* Stats Section */}
+      {/* Trust Banner */}
       <section className="py-12 bg-gradient-to-r from-[#d4af37] via-[#f4d03f] to-[#d4af37]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-            {stats.map((stat, index) => (
-              <div key={index} className="text-center">
-                <div className="text-4xl font-bold text-black mb-1">{stat.value}</div>
-                <div className="text-sm text-black/80 uppercase tracking-wider">{stat.label}</div>
-              </div>
-            ))}
-          </div>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <Shield className="h-10 w-10 text-black mx-auto mb-3" />
+          <div className="text-2xl md:text-3xl font-bold text-black mb-1">Licensed &amp; Insured Virginia &amp; Maryland Carrier</div>
+          <div className="text-sm text-black/80 uppercase tracking-wider">Professional Chauffeurs • Flight Tracking • 24/7 Service</div>
         </div>
       </section>
 
@@ -254,6 +258,8 @@ const ReviewsPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={reviewsFaqs} />
 
       <Footer />
     </div>

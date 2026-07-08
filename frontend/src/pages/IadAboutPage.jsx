@@ -1,10 +1,35 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
 import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 import { CheckCircle2, Star, Shield, Clock, Award, Plane, Users, Car } from 'lucide-react';
 import { Link } from 'react-router-dom';
+
+const aboutFaqs = [
+  {
+    question: 'What is IAD Airport Limo?',
+    answer:
+      'IAD Airport Limo is a luxury chauffeured transportation company based at Dulles International Airport, serving Washington DC, Maryland, and Virginia with airport transfers, corporate travel, and special-event service.',
+  },
+  {
+    question: 'Which airports do you serve?',
+    answer:
+      'We specialize in Washington Dulles International (IAD) and also serve Reagan National (DCA) and BWI Marshall, including airport-to-airport transfers between them.',
+  },
+  {
+    question: 'Are your chauffeurs background-checked?',
+    answer:
+      'Yes. Every chauffeur is professionally trained, background-checked, and employed under our authority as a licensed and insured Virginia and Maryland carrier.',
+  },
+  {
+    question: 'Do you offer corporate accounts?',
+    answer:
+      'Yes. We provide corporate accounts with centralized booking, consolidated billing, and priority dispatch. Call (877) 609-1919 and ask for corporate service.',
+  },
+];
 
 const IadAboutPage = () => {
   const values = [
@@ -30,15 +55,14 @@ const IadAboutPage = () => {
     }
   ];
 
-  const stats = [
-    { number: '10,000+', label: 'Airport Transfers Completed' },
-    { number: '100%', label: 'On-Time Performance' },
-    { number: '24/7', label: 'Customer Support' },
-    { number: '5-Star', label: 'Client Rating' }
-  ];
-
   return (
     <div className="min-h-screen bg-white">
+      <Seo
+        title="About Us | IAD Chauffeur Service at Dulles Airport"
+        description="Meet the team behind IAD Airport Limo — a licensed & insured Virginia & Maryland carrier providing chauffeured Dulles airport car service across DC, MD & VA."
+        path="/about"
+        faqs={aboutFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -71,17 +95,12 @@ const IadAboutPage = () => {
         </div>
       </section>
 
-      {/* Stats Section */}
+      {/* Trust Banner */}
       <section className="py-16 bg-gradient-to-r from-[#d4af37] to-[#b8941f]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-            {stats.map((stat, index) => (
-              <div key={index} className="text-center">
-                <div className="text-4xl md:text-5xl font-bold text-black mb-2">{stat.number}</div>
-                <div className="text-black/80 font-medium">{stat.label}</div>
-              </div>
-            ))}
-          </div>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <Shield className="h-12 w-12 text-black mx-auto mb-4" />
+          <div className="text-3xl md:text-4xl font-bold text-black mb-2">Licensed &amp; Insured Virginia &amp; Maryland Carrier</div>
+          <div className="text-black/80 font-medium">Commercial insurance, vetted professional chauffeurs, and 24/7 customer support</div>
         </div>
       </section>
 
@@ -201,6 +220,8 @@ const IadAboutPage = () => {
           </Link>
         </div>
       </section>
+
+      <FaqSection faqs={aboutFaqs} />
 
       <Footer />
     </div>

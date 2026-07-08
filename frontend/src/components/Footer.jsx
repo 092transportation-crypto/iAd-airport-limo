@@ -10,14 +10,14 @@ const Footer = () => {
     <footer className="bg-black border-t border-white/10">
       {/* Main Footer */}
       <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24 py-20">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-12">
           {/* Brand */}
           <div className="lg:col-span-2">
             <Link to="/" className="inline-block mb-6">
               <img src={logo} alt="IAD Airport Limo" className="h-16" />
             </Link>
             <p className="font-body text-white/40 leading-relaxed mb-6 max-w-sm">
-              Premium airport transportation serving Maryland, Virginia, and Washington DC. Arrive on time and in style.
+              Premium airport transportation serving Maryland, Virginia, and Washington DC. Licensed &amp; Insured Virginia &amp; Maryland Carrier.
             </p>
             <div className="flex gap-4">
               {[Facebook, Instagram, Twitter, Linkedin].map((Icon, idx) => (
@@ -54,6 +54,30 @@ const Footer = () => {
             </ul>
           </div>
 
+          {/* Popular Routes */}
+          <div>
+            <h4 className="font-display text-white font-semibold mb-6">Popular Routes</h4>
+            <ul className="space-y-4">
+              {[
+                { name: 'IAD to Washington DC', path: '/iad-to-washington-dc' },
+                { name: 'IAD to Bethesda', path: '/iad-to-bethesda' },
+                { name: 'IAD to Arlington', path: '/iad-to-arlington' },
+                { name: 'IAD to Alexandria', path: '/iad-to-alexandria' },
+                { name: 'IAD to Tysons', path: '/iad-to-tysons' },
+                { name: 'IAD to Baltimore', path: '/iad-to-baltimore' },
+              ].map((link, idx) => (
+                <li key={idx}>
+                  <Link
+                    to={link.path}
+                    className="font-body text-white/40 hover:text-white transition-colors"
+                  >
+                    {link.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
           {/* Company */}
           <div>
             <h4 className="font-display text-white font-semibold mb-6">Company</h4>
@@ -62,6 +86,7 @@ const Footer = () => {
                 { name: 'About Us', path: '/about' },
                 { name: 'Our Fleet', path: '/fleet' },
                 { name: 'Reviews', path: '/reviews' },
+                { name: 'Blog', path: '/blog' },
                 { name: 'Contact', path: '/contact' },
                 { name: 'Privacy Policy', path: '/privacy' },
                 { name: 'Terms of Service', path: '/terms' },

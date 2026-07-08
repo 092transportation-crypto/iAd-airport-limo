@@ -19,6 +19,11 @@ import WeddingLimoPage from './pages/WeddingLimoPage';
 import BirthdayLimoPage from './pages/BirthdayLimoPage';
 import PromLimoPage from './pages/PromLimoPage';
 import CorporatePage from './pages/CorporatePage';
+import RoutePage from './pages/RoutePage';
+import BlogIndexPage from './pages/BlogIndexPage';
+import BlogPostPage from './pages/BlogPostPage';
+import routesData from './data/routesData';
+import blogPosts from './data/blogData';
 import { Toaster } from './components/ui/toaster';
 
 function App() {
@@ -51,6 +56,17 @@ function App() {
           
           {/* Why Choose Us */}
           <Route path="/why-choose/:section" element={<WhyChoosePage />} />
+
+          {/* IAD Route Landing Pages */}
+          {routesData.map((r) => (
+            <Route key={r.slug} path={`/${r.slug}`} element={<RoutePage slug={r.slug} />} />
+          ))}
+
+          {/* Blog */}
+          <Route path="/blog" element={<BlogIndexPage />} />
+          {blogPosts.map((p) => (
+            <Route key={p.slug} path={`/blog/${p.slug}`} element={<BlogPostPage slug={p.slug} />} />
+          ))}
         </Routes>
       </BrowserRouter>
       <Toaster />

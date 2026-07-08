@@ -5,6 +5,31 @@ import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 import { CheckCircle2, Plane, Clock, Users, Car, Briefcase, Home, MapPin } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const airportFaqs = [
+  {
+    question: 'Which airports does your transfer service cover?',
+    answer:
+      'We specialize in Dulles International (IAD) and also serve Reagan National (DCA) and BWI Marshall, including airport-to-airport connections.',
+  },
+  {
+    question: 'How does airport pickup work at IAD?',
+    answer:
+      'Your chauffeur tracks your flight and meets you at baggage claim with a name sign (meet & greet) or curbside — your choice at booking. Complimentary wait time is included.',
+  },
+  {
+    question: 'What if my flight is delayed or lands early?',
+    answer:
+      'Flight tracking is automatic on every airport pickup. Your chauffeur adjusts to the actual arrival time at no extra charge.',
+  },
+  {
+    question: 'Do you offer flat rates for airport transfers?',
+    answer:
+      'Yes. Every transfer is quoted as a written flat rate based on your address and vehicle — no surge pricing. Call (877) 609-1919 for a quote.',
+  },
+];
 
 const AirportTransferPage = () => {
   const benefits = [
@@ -53,6 +78,12 @@ const AirportTransferPage = () => {
 
   return (
     <div className="min-h-screen bg-white">
+      <Seo
+        title="IAD Airport Transfers | Dulles Car Service 24/7"
+        description="Reliable IAD airport car service with flight tracking, meet & greet and flat rates. Transfers to DC, Maryland & Virginia around the clock. (877) 609-1919."
+        path="/airport-transfer"
+        faqs={airportFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -171,6 +202,8 @@ const AirportTransferPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={airportFaqs} />
 
       <Footer />
     </div>

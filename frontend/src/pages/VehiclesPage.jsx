@@ -3,9 +3,53 @@ import { useParams, Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { Users, Car, Check, Star, ArrowRight } from 'lucide-react';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
+
+const vehicleSeo = {
+  sedans: {
+    title: 'Luxury Sedans | IAD Airport Car Service Fleet',
+    description:
+      'Executive sedans for Dulles airport car service — Mercedes E-Class, S-Class & BMW 7 Series with professional chauffeurs. Call (877) 609-1919 to book.',
+  },
+  suv: {
+    title: 'Luxury SUVs | Dulles Airport Limo Fleet',
+    description:
+      'Premium SUVs for IAD transfers — Escalade, Navigator, Suburban & Yukon XL seating up to 6 with full luggage. Book online or call (877) 609-1919.',
+  },
+  sprinters: {
+    title: 'Sprinter Vans | IAD Group Airport Transportation',
+    description:
+      'Mercedes Sprinter vans for groups up to 13 — Dulles airport transfers, events & tours across DC, MD & VA. Call (877) 609-1919 for group quotes.',
+  },
+  buses: {
+    title: 'Group Transportation | IAD Airport Limo Fleet',
+    description:
+      'Large-group transportation options for Dulles airport transfers and events across DC, Maryland & Virginia. Call (877) 609-1919 to plan your group trip.',
+  },
+};
+
+const vehiclesFaqs = [
+  {
+    question: 'How do I choose the right vehicle for my trip?',
+    answer:
+      'Count passengers and checked bags: sedans fit 3 passengers with 2 bags, SUVs fit 6 with 5-6 bags, and Sprinter vans fit up to 13. Our team can advise at (877) 609-1919.',
+  },
+  {
+    question: 'Do all vehicles come with a professional chauffeur?',
+    answer:
+      'Yes. Every vehicle is chauffeured by a background-checked professional under our licensed and insured Virginia and Maryland carrier authority.',
+  },
+  {
+    question: 'Can I see the exact vehicle before booking?',
+    answer:
+      'Your written confirmation specifies the vehicle class and model. Request a specific model when booking and we will confirm availability for your date.',
+  },
+];
 
 const VehiclesPage = () => {
   const { category } = useParams();
+  const seoMeta = vehicleSeo[category] || vehicleSeo.sedans;
 
   const images = {
     sedan: 'https://images.unsplash.com/photo-1763789381177-cd8a04aaa2ef?w=800&q=80',
@@ -207,6 +251,12 @@ const VehiclesPage = () => {
 
   return (
     <div className="min-h-screen bg-[#111]">
+      <Seo
+        title={seoMeta.title}
+        description={seoMeta.description}
+        path={`/vehicles/${vehicleSeo[category] ? category : 'sedans'}`}
+        faqs={vehiclesFaqs}
+      />
       <Navbar />
 
       {/* Hero Section */}
@@ -373,6 +423,8 @@ const VehiclesPage = () => {
           </div>
         </div>
       </section>
+
+      <FaqSection faqs={vehiclesFaqs} />
 
       <Footer />
     </div>

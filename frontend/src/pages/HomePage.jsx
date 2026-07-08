@@ -2,7 +2,37 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
+
+const homeFaqs = [
+  {
+    question: 'How do I book an IAD airport car service?',
+    answer:
+      'Book online through our booking page in under two minutes, or call (877) 609-1919 any hour. You receive a written flat-rate confirmation with your chauffeur and vehicle details.',
+  },
+  {
+    question: 'Do you track flights arriving at Dulles Airport?',
+    answer:
+      'Yes. Every airport pickup includes automatic flight tracking. If your flight lands early or late, your chauffeur adjusts at no extra charge.',
+  },
+  {
+    question: 'What areas does your Dulles airport limo service cover?',
+    answer:
+      'We serve Washington DC, Maryland, and Virginia — including Bethesda, Arlington, Alexandria, Tysons, Rockville, Silver Spring, Annapolis, Columbia, and Baltimore — plus transfers between IAD, DCA, and BWI.',
+  },
+  {
+    question: 'What vehicles are in your fleet?',
+    answer:
+      'Executive sedans including the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs like the Cadillac Escalade, Lincoln Navigator, Chevy Suburban, and GMC Yukon XL, and Mercedes Sprinter vans for up to 13 passengers.',
+  },
+  {
+    question: 'Is your car service licensed and insured?',
+    answer:
+      'Yes. We are a licensed and insured Virginia and Maryland carrier with commercial insurance and background-checked professional chauffeurs.',
+  },
+];
 
 const HomePage = () => {
   const [activeFleetTab, setActiveFleetTab] = useState('all');
@@ -60,17 +90,16 @@ const HomePage = () => {
     { text: "Made our wedding day perfect. Highly recommend their services!", author: "James & Emily", role: "Newlyweds", rating: 5 },
   ];
 
-  const stats = [
-    { value: '15K+', label: 'Rides' },
-    { value: '500+', label: 'Reviews' },
-    { value: '50+', label: 'Vehicles' },
-    { value: '24/7', label: 'Service' },
-  ];
-
   const currentFleet = fleetData[activeFleetTab] || fleetData.all;
 
   return (
     <div className="min-h-screen bg-black">
+      <Seo
+        title="IAD Airport Car Service | Dulles Airport Limo 24/7"
+        description="Luxury IAD airport car service & Dulles airport limo serving DC, Maryland & Virginia. Flight tracking, flat rates, chauffeurs 24/7. Call (877) 609-1919."
+        path="/"
+        faqs={homeFaqs}
+      />
       <Navbar />
 
       {/* Hero */}
@@ -112,7 +141,7 @@ const HomePage = () => {
       <section className="py-6 md:py-8 bg-black border-b border-white/10">
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid grid-cols-2 md:flex md:justify-center items-center gap-4 md:gap-12">
-            {[{ icon: <Shield className="w-4 h-4" />, text: 'Licensed & Insured' },{ icon: <Award className="w-4 h-4" />, text: 'Professional Chauffeurs' },{ icon: <Clock className="w-4 h-4" />, text: '24/7 Availability' },{ icon: <Star className="w-4 h-4" />, text: '500+ 5-Star Reviews' }].map((badge, idx) => (
+            {[{ icon: <Shield className="w-4 h-4" />, text: 'Licensed & Insured' },{ icon: <Award className="w-4 h-4" />, text: 'Professional Chauffeurs' },{ icon: <Clock className="w-4 h-4" />, text: '24/7 Availability' },{ icon: <Star className="w-4 h-4" />, text: 'Flat-Rate Pricing' }].map((badge, idx) => (
               <div key={idx} className="flex items-center gap-2 text-white/60"><span className="text-white">{badge.icon}</span><span className="text-xs sm:text-sm">{badge.text}</span></div>
             ))}
           </div>
@@ -171,14 +200,12 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Stats */}
+      {/* Trust Banner */}
       <section className="py-12 md:py-20 bg-white">
-        <div className="max-w-7xl mx-auto px-4">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            {stats.map((stat, idx) => (
-              <div key={idx} className="text-center"><div className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-1">{stat.value}</div><div className="text-xs sm:text-sm text-black/60 uppercase tracking-wider">{stat.label}</div></div>
-            ))}
-          </div>
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <Shield className="w-10 h-10 text-black mx-auto mb-4" />
+          <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-black mb-3">Licensed &amp; Insured Virginia &amp; Maryland Carrier</h2>
+          <p className="text-black/60 text-sm sm:text-base max-w-2xl mx-auto">Commercial insurance, background-checked professional chauffeurs, and 24/7 dispatch — the standard behind every trip we run at Dulles.</p>
         </div>
       </section>
 
@@ -198,6 +225,33 @@ const HomePage = () => {
           <div className="text-center mt-8"><Link to="/reviews" className="text-white underline hover:text-white/80">Read More Reviews</Link></div>
         </div>
       </section>
+
+      {/* Popular Routes */}
+      <section className="py-12 bg-black border-t border-white/10">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6">
+          <h2 className="font-display text-xl sm:text-2xl text-white text-center mb-8">Popular Dulles Airport Routes</h2>
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-3 text-center">
+            {[
+              { name: 'Washington DC', slug: 'iad-to-washington-dc' },
+              { name: 'Bethesda', slug: 'iad-to-bethesda' },
+              { name: 'Arlington', slug: 'iad-to-arlington' },
+              { name: 'Alexandria', slug: 'iad-to-alexandria' },
+              { name: 'Tysons', slug: 'iad-to-tysons' },
+              { name: 'Rockville', slug: 'iad-to-rockville' },
+              { name: 'Silver Spring', slug: 'iad-to-silver-spring' },
+              { name: 'Annapolis', slug: 'iad-to-annapolis' },
+              { name: 'Columbia', slug: 'iad-to-columbia' },
+              { name: 'Baltimore', slug: 'iad-to-baltimore' },
+            ].map((r) => (
+              <Link key={r.slug} to={`/${r.slug}`} className="text-white/60 hover:text-white text-sm py-2 border border-white/10 hover:border-white/40 transition-colors">
+                IAD to {r.name}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <FaqSection faqs={homeFaqs} />
 
       {/* Internal Links Section */}
       <section className="py-12 bg-[#0a0a0a] border-t border-white/10">
