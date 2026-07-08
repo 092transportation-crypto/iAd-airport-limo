@@ -242,6 +242,16 @@ const HomePage = () => {
               { name: 'Annapolis', slug: 'iad-to-annapolis' },
               { name: 'Columbia', slug: 'iad-to-columbia' },
               { name: 'Baltimore', slug: 'iad-to-baltimore' },
+              { name: 'Fairfax', slug: 'iad-to-fairfax' },
+              { name: 'McLean', slug: 'iad-to-mclean' },
+              { name: 'Reston', slug: 'iad-to-reston' },
+              { name: 'Herndon', slug: 'iad-to-herndon' },
+              { name: 'Fredericksburg', slug: 'iad-to-fredericksburg' },
+              { name: 'Northern Virginia', slug: 'iad-to-northern-virginia' },
+              { name: 'Columbia MD', slug: 'iad-to-columbia-md' },
+              { name: 'Ocean City', slug: 'iad-to-ocean-city' },
+              { name: 'Downtown Baltimore', slug: 'iad-to-baltimore-downtown' },
+              { name: 'BWI Airport', slug: 'iad-to-bwi-airport' },
             ].map((r) => (
               <Link key={r.slug} to={`/${r.slug}`} className="text-white/60 hover:text-white text-sm py-2 border border-white/10 hover:border-white/40 transition-colors">
                 IAD to {r.name}
