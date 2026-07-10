@@ -210,22 +210,6 @@ const BookingPage = () => {
             </div>
           </div>
 
-          {/* MyLimoBiz Widget */}
-          <div className="bg-white rounded-lg overflow-hidden shadow-xl">
-            <div className="bg-black p-4">
-              <h2 className="text-lg font-semibold text-white text-center">Or Book Directly Online</h2>
-            </div>
-            <div className="relative">
-              <iframe 
-                src="https://book.mylimobiz.com/v4/92transp"
-                title="Book Your Ride"
-                className="w-full border-0"
-                style={{ height: '500px' }}
-                allow="payment"
-              />
-            </div>
-          </div>
-
           {/* Contact Options */}
           <div className="mt-10 text-center">
             <p className="text-white/40 mb-4 text-sm">Prefer to book by phone or email?</p>
