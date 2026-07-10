@@ -33,9 +33,28 @@ const ContactPage = () => {
     message: ''
   });
 
-  const handleSubmit = (e) => {
+  const [sending, setSending] = useState(false);
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    alert('Thank you for your message. We will get back to you shortly!');
+    if (sending) return;
+    setSending(true);
+    try {
+      const response = await fetch('/api/quote-requests', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ...formData, source: 'Contact page' })
+      });
+      const data = await response.json();
+      if (!response.ok || !data.success) {
+        throw new Error(data.message || `HTTP ${response.status}`);
+      }
+      alert('Thank you for your message. We will get back to you shortly!');
+      setFormData({ name: '', email: '', phone: '', subject: '', message: '' });
+    } catch (err) {
+      alert("Couldn't send your message. Please call (877) 609-1919 instead.");
+    }
+    setSending(false);
   };
 
   const handleChange = (e) => {

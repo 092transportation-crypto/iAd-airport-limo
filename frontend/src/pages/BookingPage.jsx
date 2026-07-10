@@ -45,8 +45,6 @@ const BookingPage = () => {
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState('');
 
-  const API_URL = process.env.REACT_APP_BACKEND_URL;
-
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -57,10 +55,10 @@ const BookingPage = () => {
     setError('');
 
     try {
-      const response = await fetch(`${API_URL}/api/booking-inquiry`, {
+      const response = await fetch('/api/quote-requests', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData)
+        body: JSON.stringify({ ...formData, source: 'Booking page' })
       });
 
       if (response.ok) {
