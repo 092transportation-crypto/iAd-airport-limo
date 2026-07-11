@@ -20,9 +20,12 @@ import BirthdayLimoPage from './pages/BirthdayLimoPage';
 import PromLimoPage from './pages/PromLimoPage';
 import CorporatePage from './pages/CorporatePage';
 import RoutePage from './pages/RoutePage';
+import VenuePage from './pages/VenuePage';
+import ConcertTransportationPage from './pages/ConcertTransportationPage';
 import BlogIndexPage from './pages/BlogIndexPage';
 import BlogPostPage from './pages/BlogPostPage';
 import routesData from './data/routesData';
+import venuesData from './data/venuesData';
 import blogPosts from './data/blogData';
 import { Toaster } from './components/ui/toaster';
 
@@ -61,6 +64,12 @@ function App() {
           {/* IAD Route Landing Pages */}
           {routesData.map((r) => (
             <Route key={r.slug} path={`/${r.slug}`} element={<RoutePage slug={r.slug} />} />
+          ))}
+
+          {/* Concert & Event Venue Pages */}
+          <Route path="/concert-transportation" element={<ConcertTransportationPage />} />
+          {venuesData.map((v) => (
+            <Route key={v.slug} path={`/${v.slug}`} element={<VenuePage slug={v.slug} />} />
           ))}
 
           {/* Blog */}
