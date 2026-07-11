@@ -88,6 +88,7 @@ const Navbar = () => {
               )}
             </div>
 
+            <Link to="/concert-transportation" className="px-4 py-2 text-white text-sm font-medium hover:text-white/70">Events &amp; Concerts</Link>
             <Link to="/about" className="px-4 py-2 text-white text-sm font-medium hover:text-white/70">About</Link>
             <Link to="/contact" className="px-4 py-2 text-white text-sm font-medium hover:text-white/70">Contact</Link>
             <Link to="/reviews" className="px-4 py-2 text-white text-sm font-medium hover:text-white/70 flex items-center gap-1">
@@ -115,6 +116,7 @@ const Navbar = () => {
             <Link to="/fleet" className="block text-white py-2" onClick={() => setIsMobileMenuOpen(false)}>Fleet</Link>
             <Link to="/airport-transfer" className="block text-white py-2" onClick={() => setIsMobileMenuOpen(false)}>Airport Transfers</Link>
             <Link to="/corporate" className="block text-white py-2" onClick={() => setIsMobileMenuOpen(false)}>Corporate</Link>
+            <Link to="/concert-transportation" className="block text-white py-2" onClick={() => setIsMobileMenuOpen(false)}>Events &amp; Concerts</Link>
             <Link to="/contact" className="block text-white py-2" onClick={() => setIsMobileMenuOpen(false)}>Contact</Link>
             <Link to="/book-now" className="block w-full py-3 bg-white text-black text-center font-bold" onClick={() => setIsMobileMenuOpen(false)}>FREE QUOTE</Link>
           </div>
