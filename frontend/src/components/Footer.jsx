@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Phone, Mail, MapPin, Facebook, Instagram, Linkedin, Twitter } from 'lucide-react';
+import { Phone, Mail, MapPin } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -19,16 +19,6 @@ const Footer = () => {
             <p className="font-body text-white/40 leading-relaxed mb-6 max-w-sm">
               Premium airport transportation serving Maryland, Virginia, and Washington DC. Licensed &amp; Insured Virginia &amp; Maryland Carrier.
             </p>
-            <div className="flex gap-4">
-              {[Facebook, Instagram, Twitter, Linkedin].map((Icon, idx) => (
-                <span 
-                  key={idx}
-                  className="w-10 h-10 border border-white/20 flex items-center justify-center text-white/40 hover:border-white hover:text-white transition-all cursor-pointer"
-                >
-                  <Icon className="w-4 h-4" />
-                </span>
-              ))}
-            </div>
           </div>
 
           {/* Services */}
@@ -108,7 +98,7 @@ const Footer = () => {
             <h4 className="font-display text-white font-semibold mb-6">Contact</h4>
             <div className="space-y-4">
               <a 
-                href="tel:8776091919" 
+                href="tel:+18776091919" 
                 className="flex items-start gap-3 text-white hover:opacity-80 transition-opacity"
               >
                 <Phone className="w-5 h-5 mt-0.5" />

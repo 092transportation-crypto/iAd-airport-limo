@@ -214,7 +214,7 @@ const BookingPage = () => {
           <div className="mt-10 text-center">
             <p className="text-white/40 mb-4 text-sm">Prefer to book by phone or email?</p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
-              <a href="tel:8776091919"
+              <a href="tel:+18776091919"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-white text-white font-bold uppercase tracking-wider text-sm hover:bg-white hover:text-black transition-all">
                 <Phone className="w-4 h-4" /> (877) 609-1919
               </a>

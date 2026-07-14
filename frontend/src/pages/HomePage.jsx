@@ -95,8 +95,8 @@ const HomePage = () => {
   return (
     <div className="min-h-screen bg-black">
       <Seo
-        title="IAD Airport Car Service | Dulles Airport Limo 24/7"
-        description="Luxury IAD airport car service & Dulles airport limo serving DC, Maryland & Virginia. Flight tracking, flat rates, chauffeurs 24/7. Call (877) 609-1919."
+        title="Dulles Airport Transportation & Limo Service | IAD Airport Limo"
+        description="IAD Airport Limo offers premium airport transportation in Dulles, VA. Mercedes & BMW luxury fleet, real-time flight tracking & meet & greet. Book 24/7. (877) 609-1919."
         path="/"
         faqs={homeFaqs}
       />
@@ -118,7 +118,7 @@ const HomePage = () => {
             <Link to="/contact" className="inline-flex items-center justify-center gap-2 border border-white text-white px-6 sm:px-10 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm sm:text-base" data-testid="hero-contact-btn">Contact Us</Link>
           </div>
         </div>
-        <a href="tel:8776091919" className="hidden md:flex absolute bottom-8 right-8 glass px-6 py-4 items-center gap-4 hover:border-white transition-colors z-10">
+        <a href="tel:+18776091919" className="hidden md:flex absolute bottom-8 right-8 glass px-6 py-4 items-center gap-4 hover:border-white transition-colors z-10">
           <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center"><Phone className="w-5 h-5 text-black" /></div>
           <div><p className="text-white/60 text-xs uppercase tracking-wider">Call Now</p><p className="text-white font-semibold text-lg">(877) 609-1919</p></div>
         </a>
@@ -280,6 +280,25 @@ const HomePage = () => {
       </section>
 
       {/* CTA */}
+      {/* SEO: booking overview */}
+      <section className="py-16 md:py-20 bg-black text-white">
+        <div className="max-w-4xl mx-auto px-4 md:px-6">
+          <h2 className="font-display text-3xl md:text-4xl font-medium mb-6">Book Your Dulles Airport Transportation Today</h2>
+          <p className="text-white/70 leading-relaxed mb-4">
+            When you need a dependable airport transportation service in Northern Virginia, IAD Airport Limo is the
+            call locals make first. Our chauffeurs track your flight in real time, meet you inside the terminal, and
+            load your luggage into a spotless Mercedes or BMW — no rideshare roulette, no surge pricing, no waiting
+            at the curb.
+          </p>
+          <p className="text-white/70 leading-relaxed">
+            Prefer something more discreet? Our Dulles black car service is the professional&apos;s choice for early
+            departures, late arrivals, and everything between: flat all-inclusive rates, licensed and insured
+            chauffeurs, and 24/7 dispatch across Virginia, Maryland, and Washington DC. Book online in minutes or
+            call — we answer around the clock.
+          </p>
+        </div>
+      </section>
+
       <section className="relative py-20 md:py-32 overflow-hidden">
         <div className="absolute inset-0"><img src={images.nightCity} alt="City" className="w-full h-full object-cover opacity-30" /><div className="absolute inset-0 bg-black/80" /></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
@@ -288,7 +307,7 @@ const HomePage = () => {
           <p className="text-white/50 text-base mb-8">Book your premium transportation today. Available 24/7.</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">Free Quote <ArrowRight className="w-4 h-4" /></Link>
-            <a href="tel:8776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm"><Phone className="w-4 h-4" /> (877) 609-1919</a>
+            <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm"><Phone className="w-4 h-4" /> (877) 609-1919</a>
           </div>
         </div>
       </section>

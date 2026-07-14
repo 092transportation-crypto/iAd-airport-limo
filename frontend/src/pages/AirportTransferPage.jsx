@@ -79,8 +79,8 @@ const AirportTransferPage = () => {
   return (
     <div className="min-h-screen bg-white">
       <Seo
-        title="IAD Airport Transfers | Dulles Car Service 24/7"
-        description="Reliable IAD airport car service with flight tracking, meet & greet and flat rates. Transfers to DC, Maryland & Virginia around the clock. (877) 609-1919."
+        title="IAD Airport Transportation & Limo Service Dulles | IAD Airport Limo"
+        description="IAD Airport Limo offers airport transportation in Dulles, VA & Washington DC. Flat rates, no hidden fees, flight tracking & meet & greet. Book 24/7. (877) 609-1919."
         path="/airport-transfer"
         faqs={airportFaqs}
       />
@@ -180,6 +180,29 @@ const AirportTransferPage = () => {
       </section>
 
       {/* CTA Section */}
+      {/* SEO: corporate & VIP airport travel */}
+      <section className="py-16 md:py-20 bg-black text-white">
+        <div className="max-w-4xl mx-auto px-4 md:px-6">
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">IAD Airport Transportation for Corporate &amp; VIP Travelers</h2>
+          <p className="text-white/70 leading-relaxed mb-4">
+            Frequent flyers choose our Dulles luxury airport transportation because it removes every variable from
+            the trip. This is the IAD airport limo service business travelers keep on speed dial: a Virginia airport
+            car service with real-time flight tracking, inside-terminal meet and greet, and flat rates to Washington
+            DC, Tysons Corner, McLean, and beyond. Whether you searched for limo service to Dulles airport, a Dulles
+            airport car service for a red-eye landing, or washington dulles airport limo service for a visiting
+            executive, the answer is the same vehicle-and-chauffeur standard.
+          </p>
+          <p className="text-white/70 leading-relaxed">
+            We also run IAD Tysons Corner car service and Germantown MD car service to Dulles daily, alongside
+            chauffeur service at Dulles airport for VIP arrivals. One flat quote covers tolls, taxes, and gratuity —
+            see arrival details at the official{" "}
+            <a href="https://www.flydulles.com" target="_blank" rel="noopener noreferrer" className="underline text-white hover:text-white/80">
+              Dulles International Airport site
+            </a>, then let us handle the rest.
+          </p>
+        </div>
+      </section>
+
       <section className="py-20 bg-gradient-to-r from-black via-gray-900 to-black text-white">
         <div className="max-w-4xl mx-auto text-center px-4">
           <h2 className="text-4xl font-bold mb-6">

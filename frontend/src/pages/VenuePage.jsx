@@ -33,7 +33,7 @@ const VenuePage = ({ slug }) => {
             <Link to="/booking" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 transition-colors text-sm" data-testid="venue-book-now-btn">
               Book Your Ride <ArrowRight className="w-4 h-4" />
             </Link>
-            <a href="tel:8776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">
+            <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">
               <Phone className="w-4 h-4" /> (877) 609-1919
             </a>
           </div>
@@ -131,7 +131,7 @@ const VenuePage = ({ slug }) => {
             <Link to="/booking" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">
               Book Now <ArrowRight className="w-4 h-4" />
             </Link>
-            <a href="tel:8776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">
+            <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">
               <Phone className="w-4 h-4" /> Call (877) 609-1919
             </a>
           </div>

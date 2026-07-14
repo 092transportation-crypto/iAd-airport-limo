@@ -78,8 +78,8 @@ const CorporatePage = () => {
   return (
     <div className="min-h-screen bg-[#111]">
       <Seo
-        title="Corporate Car Service | Dulles Airport IAD Limo"
-        description="Corporate car service at Dulles Airport — executive sedans, account billing, flight tracking & 24/7 dispatch for DC, MD & VA teams. Call (877) 609-1919."
+        title="Corporate Transportation Service Dulles | IAD Airport Limo"
+        description="IAD Airport Limo offers corporate transportation in Dulles, VA. Executive car service, corporate accounts & priority scheduling. Book 24/7. (877) 609-1919."
         path="/corporate"
         faqs={corporateFaqs}
       />
@@ -194,6 +194,25 @@ const CorporatePage = () => {
       </section>
 
       {/* CTA */}
+      {/* SEO: executive coverage */}
+      <section className="py-16 md:py-20 bg-black text-white">
+        <div className="max-w-4xl mx-auto px-4 md:px-6">
+          <h2 className="text-4xl md:text-5xl font-light mb-6">Executive Car Service for Every Business Need</h2>
+          <p className="text-white/70 leading-relaxed mb-4">
+            Dulles corporate transportation should be the most predictable part of a business day. Our executive
+            transportation across Northern Virginia gives your team the same chauffeur standard in every vehicle:
+            Wi-Fi-ready cabins, professionally attired drivers, and billing that finance actually likes — corporate
+            accounts, consolidated invoicing, and priority scheduling.
+          </p>
+          <p className="text-white/70 leading-relaxed">
+            We cover the whole corridor: limo service in McLean VA for headquarters visits, chauffeur service in
+            Tysons Corner VA for client dinners, Reston car service for tech campuses, and Ashburn car service for
+            data-center teams working odd hours. From a single airport pickup to a week-long executive roadshow, one
+            call moves everyone — on time, every time.
+          </p>
+        </div>
+      </section>
+
       <section className="py-20 bg-[#0d0d0d]">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-light text-white mb-4">Ready to Elevate Your Corporate Travel?</h2>
@@ -208,7 +227,7 @@ const CorporatePage = () => {
               Contact Sales
             </Link>
             <a 
-              href="tel:8776091919"
+              href="tel:+18776091919"
               className="px-8 py-4 border-2 border-[#c9a227] text-[#c9a227] font-semibold uppercase tracking-wider hover:bg-[#c9a227] hover:text-black transition-all"
             >
               Call (877) 609-1919
