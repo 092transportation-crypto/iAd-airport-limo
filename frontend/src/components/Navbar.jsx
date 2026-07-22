@@ -98,8 +98,8 @@ const Navbar = () => {
 
           {/* CTA + Mobile Toggle */}
           <div className="flex items-center gap-3">
-            <Link to="/book-now" className="hidden md:block px-6 py-2 bg-white text-black text-sm font-bold hover:bg-white/90">
-              FREE QUOTE
+            <Link to="/book-now" data-testid="header-book-now" className="px-4 md:px-6 py-2 bg-white text-black text-xs md:text-sm font-bold hover:bg-white/90 whitespace-nowrap">
+              BOOK NOW
             </Link>
             <button className="lg:hidden text-white p-2" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
               {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}

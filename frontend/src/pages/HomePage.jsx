@@ -4,6 +4,9 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import PricingTable from '../components/PricingTable';
+import QuickQuoteForm from '../components/QuickQuoteForm';
+import TrustSignals from '../components/TrustSignals';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
 
 const homeFaqs = [
@@ -108,20 +111,37 @@ const HomePage = () => {
           <img src={images.hero} alt="Luxury Transportation" className="w-full h-full object-cover opacity-30" />
           <div className="absolute inset-0 bg-gradient-to-b from-black via-black/70 to-black" />
         </div>
-        <div className="relative z-10 text-center px-4 sm:px-6 py-8">
-          <img src={logo} alt="IAD Airport Limo" className="w-48 sm:w-64 md:w-80 lg:w-96 mx-auto mb-6 md:mb-8" style={{background:'transparent'}} data-testid="hero-logo" />
+        <div className="relative z-10 text-center px-4 sm:px-6 py-8 w-full">
+          <img src={logo} alt="IAD Airport Limo" className="w-40 sm:w-52 md:w-64 mx-auto mb-5 md:mb-6" style={{background:'transparent'}} data-testid="hero-logo" />
           <p className="font-accent text-white/60 text-xs sm:text-sm tracking-[0.2em] uppercase mb-4">IAD Dulles, Virginia, USA</p>
-          <h1 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white font-medium leading-tight mb-4 md:mb-6 px-4">IAD Airport Limo - Premium Transportation</h1>
-          <p className="font-body text-white/60 text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-8 md:mb-12 px-4">Arrive on time and in style with your trusted partner for executive travel.</p>
+          <h1 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white font-medium leading-tight mb-4 px-4">IAD Airport Limo - Premium Transportation</h1>
+          <p className="font-body text-white/60 text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-6 px-4">Arrive on time and in style with your trusted partner for executive travel.</p>
+
+          {/* Big phone CTA */}
+          <div className="mb-6">
+            <p className="text-white/60 text-xs sm:text-sm font-semibold tracking-[0.25em] uppercase mb-2 flex items-center justify-center gap-2">
+              <Phone className="w-4 h-4 text-white" /> Call or Text 24/7
+            </p>
+            <a
+              href="tel:+18776091919"
+              data-testid="hero-phone-number"
+              className="inline-block font-display text-4xl sm:text-5xl md:text-6xl font-bold text-white hover:text-white/80 transition-colors tracking-tight"
+            >
+              (877) 609-1919
+            </a>
+            <TrustSignals className="mt-3" />
+          </div>
+
+          {/* Quick quote form */}
+          <div className="px-2 sm:px-4 mb-6">
+            <QuickQuoteForm />
+          </div>
+
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-4">
             <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-6 sm:px-10 py-4 font-bold uppercase tracking-wider hover:bg-white/90 transition-colors text-sm sm:text-base" data-testid="hero-book-now-btn">Free Quote <ArrowRight className="w-4 h-4" /></Link>
             <Link to="/contact" className="inline-flex items-center justify-center gap-2 border border-white text-white px-6 sm:px-10 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm sm:text-base" data-testid="hero-contact-btn">Contact Us</Link>
           </div>
         </div>
-        <a href="tel:+18776091919" className="hidden md:flex absolute bottom-8 right-8 glass px-6 py-4 items-center gap-4 hover:border-white transition-colors z-10">
-          <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center"><Phone className="w-5 h-5 text-black" /></div>
-          <div><p className="text-white/60 text-xs uppercase tracking-wider">Call Now</p><p className="text-white font-semibold text-lg">(877) 609-1919</p></div>
-        </a>
       </section>
 
       {/* Flight Tracking */}
@@ -147,6 +167,9 @@ const HomePage = () => {
           </div>
         </div>
       </section>
+
+      {/* Flat-Rate Pricing */}
+      <PricingTable />
 
       {/* Fleet */}
       <section className="py-16 md:py-24 bg-black">
@@ -309,6 +332,7 @@ const HomePage = () => {
             <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">Free Quote <ArrowRight className="w-4 h-4" /></Link>
             <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm"><Phone className="w-4 h-4" /> (877) 609-1919</a>
           </div>
+          <TrustSignals className="mt-6" />
         </div>
       </section>
 

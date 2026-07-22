@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import TrustSignals from '../components/TrustSignals';
 import { Shield, Clock, Star, Award, Phone, Mail, ExternalLink, Send, CheckCircle } from 'lucide-react';
 
 const bookingFaqs = [
@@ -31,15 +32,12 @@ const bookingFaqs = [
 const BookingPage = () => {
   const [formData, setFormData] = useState({
     name: '',
-    email: '',
     phone: '',
-    service_type: 'Airport Transfer',
+    email: '',
     pickup_location: '',
     dropoff_location: '',
     date: '',
-    time: '',
-    passengers: 1,
-    message: ''
+    passengers: 1
   });
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
@@ -64,9 +62,9 @@ const BookingPage = () => {
       if (response.ok) {
         setSubmitted(true);
         setFormData({
-          name: '', email: '', phone: '', service_type: 'Airport Transfer',
-          pickup_location: '', dropoff_location: '', date: '', time: '',
-          passengers: 1, message: ''
+          name: '', phone: '', email: '',
+          pickup_location: '', dropoff_location: '', date: '',
+          passengers: 1
         });
       } else {
         setError('Failed to submit. Please try again or call us directly.');
@@ -121,6 +119,7 @@ const BookingPage = () => {
           <div className="bg-white rounded-lg overflow-hidden shadow-xl mb-8">
             <div className="bg-black p-4">
               <h2 className="text-lg font-semibold text-white text-center">Request a Free Quote</h2>
+              <p className="text-white/60 text-xs text-center mt-1">We respond within 15 minutes</p>
             </div>
             
             <div className="p-6">
@@ -155,37 +154,20 @@ const BookingPage = () => {
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Service Type</label>
-                      <select name="service_type" value={formData.service_type} onChange={handleChange}
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white">
-                        <option>Airport Transfer</option>
-                        <option>Corporate Travel</option>
-                        <option>Wedding Limo</option>
-                        <option>Wine Tour</option>
-                        <option>Special Event</option>
-                        <option>Hourly Charter</option>
-                      </select>
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Location</label>
-                      <input type="text" name="pickup_location" value={formData.pickup_location} onChange={handleChange}
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Location *</label>
+                      <input type="text" name="pickup_location" value={formData.pickup_location} onChange={handleChange} required
                         placeholder="Address or Airport"
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Drop-off Location</label>
-                      <input type="text" name="dropoff_location" value={formData.dropoff_location} onChange={handleChange}
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Drop-off Location *</label>
+                      <input type="text" name="dropoff_location" value={formData.dropoff_location} onChange={handleChange} required
                         placeholder="Address or Airport"
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Date</label>
-                      <input type="date" name="date" value={formData.date} onChange={handleChange}
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Time</label>
-                      <input type="time" name="time" value={formData.time} onChange={handleChange}
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Date *</label>
+                      <input type="date" name="date" value={formData.date} onChange={handleChange} required
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                     <div>
@@ -194,17 +176,12 @@ const BookingPage = () => {
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                   </div>
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">Additional Notes</label>
-                    <textarea name="message" value={formData.message} onChange={handleChange} rows="3"
-                      placeholder="Flight number, special requests, etc."
-                      className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                  </div>
                   {error && <p className="text-red-500 text-sm">{error}</p>}
                   <button type="submit" disabled={loading}
                     className="w-full py-3 bg-black text-white font-bold uppercase tracking-wider hover:bg-gray-800 disabled:bg-gray-400 flex items-center justify-center gap-2">
                     {loading ? 'Submitting...' : <><Send className="w-4 h-4" /> Get Free Quote</>}
                   </button>
+                  <TrustSignals dark className="pt-1" />
                 </form>
               )}
             </div>

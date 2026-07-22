@@ -28,6 +28,7 @@ import routesData from './data/routesData';
 import venuesData from './data/venuesData';
 import blogPosts from './data/blogData';
 import { Toaster } from './components/ui/toaster';
+import FloatingCallButton from './components/FloatingCallButton';
 
 function App() {
   return (
@@ -80,6 +81,7 @@ function App() {
         </Routes>
       </BrowserRouter>
       <Toaster />
+      <FloatingCallButton />
     </div>
   );
 }

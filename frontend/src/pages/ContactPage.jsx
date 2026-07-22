@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import TrustSignals from '../components/TrustSignals';
 import { Phone, Mail, MapPin, Clock, Send } from 'lucide-react';
 
 const contactFaqs = [
@@ -25,13 +26,16 @@ const contactFaqs = [
 ];
 
 const ContactPage = () => {
-  const [formData, setFormData] = useState({
+  const emptyForm = {
     name: '',
-    email: '',
     phone: '',
-    subject: '',
-    message: ''
-  });
+    email: '',
+    pickup_location: '',
+    dropoff_location: '',
+    date: '',
+    passengers: ''
+  };
+  const [formData, setFormData] = useState(emptyForm);
 
   const [sending, setSending] = useState(false);
 
@@ -49,8 +53,8 @@ const ContactPage = () => {
       if (!response.ok || !data.success) {
         throw new Error(data.message || `HTTP ${response.status}`);
       }
-      alert('Thank you for your message. We will get back to you shortly!');
-      setFormData({ name: '', email: '', phone: '', subject: '', message: '' });
+      alert('Thank you! We will get back to you within 15 minutes.');
+      setFormData(emptyForm);
     } catch (err) {
       alert("Couldn't send your message. Please call (877) 609-1919 instead.");
     }
@@ -161,9 +165,10 @@ const ContactPage = () => {
             {/* Contact Form */}
             <div>
               <div className="bg-[#1a1a1a] border border-[#333] p-8">
-                <h2 className="text-2xl font-light text-white mb-6">Send Us a Message</h2>
-                
-                <form onSubmit={handleSubmit} className="space-y-6">
+                <h2 className="text-2xl font-light text-white mb-1">Get a Free Quote</h2>
+                <p className="text-[#c9a227] text-sm mb-6">We respond within 15 minutes</p>
+
+                <form onSubmit={handleSubmit} className="space-y-6" data-testid="contact-quote-form">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
                       <label className="block text-gray-400 text-sm mb-2">Your Name *</label>
@@ -179,75 +184,103 @@ const ContactPage = () => {
                       />
                     </div>
                     <div>
-                      <label className="block text-gray-400 text-sm mb-2">Email Address *</label>
+                      <label className="block text-gray-400 text-sm mb-2">Phone Number *</label>
                       <input
-                        type="email"
-                        name="email"
-                        value={formData.email}
+                        type="tel"
+                        name="phone"
+                        value={formData.phone}
                         onChange={handleChange}
                         required
                         className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
-                        placeholder="john@example.com"
-                        data-testid="contact-email-input"
+                        placeholder="(555) 123-4567"
+                        data-testid="contact-phone-input"
+                      />
+                    </div>
+                  </div>
+
+                  <div>
+                    <label className="block text-gray-400 text-sm mb-2">Email Address *</label>
+                    <input
+                      type="email"
+                      name="email"
+                      value={formData.email}
+                      onChange={handleChange}
+                      required
+                      className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                      placeholder="john@example.com"
+                      data-testid="contact-email-input"
+                    />
+                  </div>
+
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                      <label className="block text-gray-400 text-sm mb-2">Pickup Location *</label>
+                      <input
+                        type="text"
+                        name="pickup_location"
+                        value={formData.pickup_location}
+                        onChange={handleChange}
+                        required
+                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                        placeholder="Address or Airport"
+                        data-testid="contact-pickup-input"
+                      />
+                    </div>
+                    <div>
+                      <label className="block text-gray-400 text-sm mb-2">Drop-off Location *</label>
+                      <input
+                        type="text"
+                        name="dropoff_location"
+                        value={formData.dropoff_location}
+                        onChange={handleChange}
+                        required
+                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                        placeholder="Address or Airport"
+                        data-testid="contact-dropoff-input"
                       />
                     </div>
                   </div>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-gray-400 text-sm mb-2">Phone Number</label>
+                      <label className="block text-gray-400 text-sm mb-2">Pickup Date *</label>
                       <input
-                        type="tel"
-                        name="phone"
-                        value={formData.phone}
-                        onChange={handleChange}
-                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
-                        placeholder="(555) 123-4567"
-                        data-testid="contact-phone-input"
-                      />
-                    </div>
-                    <div>
-                      <label className="block text-gray-400 text-sm mb-2">Subject *</label>
-                      <select
-                        name="subject"
-                        value={formData.subject}
+                        type="date"
+                        name="date"
+                        value={formData.date}
                         onChange={handleChange}
                         required
                         className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
-                        data-testid="contact-subject-select"
-                      >
-                        <option value="">Select a subject</option>
-                        <option value="booking">Booking Inquiry</option>
-                        <option value="quote">Request a Quote</option>
-                        <option value="corporate">Corporate Account</option>
-                        <option value="feedback">Feedback</option>
-                        <option value="other">Other</option>
-                      </select>
+                        data-testid="contact-date-input"
+                      />
                     </div>
-                  </div>
-
-                  <div>
-                    <label className="block text-gray-400 text-sm mb-2">Message *</label>
-                    <textarea
-                      name="message"
-                      value={formData.message}
-                      onChange={handleChange}
-                      required
-                      rows={6}
-                      className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors resize-none"
-                      placeholder="How can we help you?"
-                      data-testid="contact-message-input"
-                    />
+                    <div>
+                      <label className="block text-gray-400 text-sm mb-2">Passengers</label>
+                      <input
+                        type="number"
+                        name="passengers"
+                        value={formData.passengers}
+                        onChange={handleChange}
+                        min="1"
+                        max="14"
+                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                        placeholder="How many?"
+                        data-testid="contact-passengers-input"
+                      />
+                    </div>
                   </div>
 
                   <button
                     type="submit"
-                    className="w-full py-4 bg-[#c9a227] text-black font-semibold uppercase tracking-wider hover:bg-[#b8941f] transition-all flex items-center justify-center gap-2"
+                    disabled={sending}
+                    className="w-full py-4 bg-[#c9a227] text-black font-semibold uppercase tracking-wider hover:bg-[#b8941f] disabled:opacity-60 transition-all flex items-center justify-center gap-2"
                     data-testid="contact-submit-btn"
                   >
                     <Send className="w-4 h-4" />
-                    Send Message
+                    {sending ? 'Sending...' : 'Get My Free Quote'}
                   </button>
+
+                  <TrustSignals />
                 </form>
               </div>
             </div>
