@@ -30,15 +30,20 @@ const bookingFaqs = [
 ];
 
 const BookingPage = () => {
-  const [formData, setFormData] = useState({
+  const emptyForm = {
     name: '',
     phone: '',
     email: '',
+    preferred_contact: 'Phone',
+    service_type: 'Airport Transfer',
     pickup_location: '',
     dropoff_location: '',
     date: '',
-    passengers: 1
-  });
+    time: '',
+    passengers: 1,
+    message: ''
+  };
+  const [formData, setFormData] = useState(emptyForm);
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState('');
@@ -61,11 +66,7 @@ const BookingPage = () => {
 
       if (response.ok) {
         setSubmitted(true);
-        setFormData({
-          name: '', phone: '', email: '',
-          pickup_location: '', dropoff_location: '', date: '',
-          passengers: 1
-        });
+        setFormData(emptyForm);
       } else {
         setError('Failed to submit. Please try again or call us directly.');
       }
@@ -154,6 +155,30 @@ const BookingPage = () => {
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                     <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Preferred Contact</label>
+                      <select name="preferred_contact" value={formData.preferred_contact} onChange={handleChange}
+                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white">
+                        <option value="Phone">Phone</option>
+                        <option value="Email">Email</option>
+                        <option value="Text">Text</option>
+                      </select>
+                    </div>
+                    <div className="md:col-span-2">
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Service Type</label>
+                      <select name="service_type" value={formData.service_type} onChange={handleChange}
+                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white">
+                        <option value="Airport Transfer">Airport Transfer</option>
+                        <option value="Corporate Travel">Corporate Travel</option>
+                        <option value="Wedding Transportation">Wedding Transportation</option>
+                        <option value="Prom / School Event">Prom / School Event</option>
+                        <option value="Wine Tour">Wine Tour</option>
+                        <option value="Concert / Event">Concert / Event</option>
+                        <option value="Birthday / Night Out">Birthday / Night Out</option>
+                        <option value="Hourly Charter">Hourly Charter</option>
+                        <option value="Other">Other</option>
+                      </select>
+                    </div>
+                    <div>
                       <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Location *</label>
                       <input type="text" name="pickup_location" value={formData.pickup_location} onChange={handleChange} required
                         placeholder="Address or Airport"
@@ -171,9 +196,20 @@ const BookingPage = () => {
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
                     </div>
                     <div>
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Time *</label>
+                      <input type="time" name="time" value={formData.time} onChange={handleChange} required
+                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
+                    </div>
+                    <div>
                       <label className="block text-sm font-medium text-gray-700 mb-1">Passengers</label>
                       <input type="number" name="passengers" value={formData.passengers} onChange={handleChange} min="1" max="14"
                         className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
+                    </div>
+                    <div className="md:col-span-2">
+                      <label className="block text-sm font-medium text-gray-700 mb-1">Notes</label>
+                      <textarea name="message" value={formData.message} onChange={handleChange} rows={3}
+                        placeholder="Flight number, luggage count, child seats, special requests…"
+                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white resize-y" />
                     </div>
                   </div>
                   {error && <p className="text-red-500 text-sm">{error}</p>}
