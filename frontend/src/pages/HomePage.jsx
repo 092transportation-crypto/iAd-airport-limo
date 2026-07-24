@@ -4,7 +4,6 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
-import QuickQuoteForm from '../components/QuickQuoteForm';
 import TrustSignals from '../components/TrustSignals';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
 
@@ -129,11 +128,6 @@ const HomePage = () => {
               (877) 609-1919
             </a>
             <TrustSignals className="mt-3" />
-          </div>
-
-          {/* Quick quote form */}
-          <div className="px-2 sm:px-4 mb-6">
-            <QuickQuoteForm />
           </div>
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-4">
