@@ -4,7 +4,6 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
-import PricingTable from '../components/PricingTable';
 import QuickQuoteForm from '../components/QuickQuoteForm';
 import TrustSignals from '../components/TrustSignals';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
@@ -168,8 +167,29 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Flat-Rate Pricing */}
-      <PricingTable />
+      {/* Get Your Free Quote CTA */}
+      <section className="py-16 md:py-24 bg-[#0a0a0a] border-b border-white/10">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 text-center">
+          <p className="font-accent text-white/40 text-xs tracking-widest uppercase mb-3">Flat-Rate Pricing</p>
+          <h2 className="font-display text-3xl sm:text-4xl md:text-5xl text-white mb-4">Get Your Free Quote</h2>
+          <p className="text-white/60 text-base sm:text-lg max-w-2xl mx-auto mb-8">
+            Every trip is a flat, all-inclusive rate tailored to your route, vehicle, and schedule —
+            no surge pricing, no hidden fees. Call us now or request your quote online and we&apos;ll
+            confirm your exact rate in writing within 15 minutes.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
+            <a href="tel:+18776091919" data-testid="quote-cta-call"
+              className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 transition-colors text-sm">
+              <Phone className="w-4 h-4" /> Call (877) 609-1919
+            </a>
+            <Link to="/book-now" data-testid="quote-cta-form"
+              className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">
+              Request a Quote Online <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+          <TrustSignals className="mt-6" />
+        </div>
+      </section>
 
       {/* Fleet */}
       <section className="py-16 md:py-24 bg-black">
