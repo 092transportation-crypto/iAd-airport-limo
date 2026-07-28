@@ -1347,6 +1347,684 @@ const routes = [
       },
     ],
   },
+  {
+    slug: 'iad-to-richmond-va',
+    city: 'Richmond, VA',
+    shortName: 'Richmond',
+    metaTitle: 'IAD to Richmond VA Car Service | Dulles Long Distance',
+    metaDescription:
+      'Private car service from Dulles Airport (IAD) to Richmond VA. Flat rates, flight tracking, professional chauffeurs 24/7. Call (877) 609-1919 to book.',
+    h1: 'IAD to Richmond, VA Car Service',
+    subtitle: 'Long-distance chauffeured transfers between Dulles International Airport and Richmond',
+    distance: '106 miles',
+    duration: '2–2.5 hours',
+    corridor: 'I-66 East & I-95 South',
+    intro: [
+      'Richmond travelers often discover that the flight they actually need — the nonstop to Europe, the West Coast direct, the fare that saves four figures — departs from Dulles, not RIC. That leaves a 106-mile gap between the airport and home, and it is exactly the kind of gap our IAD to Richmond car service was built to close. A professional chauffeur tracks your flight, meets you at baggage claim, and drives you down I-95 while you sleep off the time zones in a quiet luxury sedan or SUV.',
+      'The trip typically runs two to two and a half hours depending on how I-95 behaves between Fredericksburg and the capital. Our chauffeurs make this run weekly and manage it strategically — timing departures around the Northern Virginia rush, using the express lanes when they pay off, and knowing when US-301 or Route 1 rescues a trip that the interstate wants to ruin.',
+    ],
+    sections: [
+      {
+        heading: 'Serving Downtown Richmond, Short Pump, and the West End',
+        paragraphs: [
+          'We deliver travelers throughout metropolitan Richmond: the convention hotels and offices of downtown and Shockoe Slip, the Virginia State Capitol and its surrounding government complex, VCU and the University of Richmond campuses, VCU Medical Center and Bon Secours hospitals, and the corporate parks of Short Pump, Innsbrook, and the West Creek corridor where Capital One and CarMax anchor thousands of business trips a year.',
+          'Residential service covers the whole region — the Fan and Museum District, Midlothian, Glen Allen, Mechanicsville, and Chesterfield — with door-to-door pickups scheduled to your itinerary. Families connecting through Dulles for international vacations are among our most frequent Richmond passengers.',
+        ],
+      },
+      {
+        heading: 'Why a Chauffeur Beats Driving or Rideshare for This Trip',
+        paragraphs: [
+          'Driving yourself to Dulles means two hours behind the wheel after a red-eye, plus a week of airport parking charges that rival the cost of the ride. Rideshare rarely works at all — few drivers accept a 106-mile run, and those who do charge whatever the surge algorithm dictates that minute. Our service replaces both with a committed chauffeur and a flat, written rate that never changes with traffic, weather, or demand.',
+          'The distance also makes the vehicle matter. Our Mercedes-Benz and BMW sedans offer genuine executive comfort for two hours of highway, and our Suburbans, Yukon XLs, and Navigators swallow a family’s international luggage with room to stretch. Groups up to 13 ride together in a Mercedes Sprinter. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+        ],
+      },
+      {
+        heading: 'Flight-Tracked Pickups in Both Directions',
+        paragraphs: [
+          'For arrivals into Dulles, flight tracking is automatic — if your inbound from London or Los Angeles runs three hours late, your chauffeur adjusts without a phone call or a fee, and generous complimentary wait time covers customs. For departures, we schedule Richmond pickups against live I-95 conditions and your airline’s check-in window, with honest buffers — we would rather have you at the gate early than watching the clock at a Fredericksburg standstill.',
+          'Book your IAD to Richmond transfer online or call (877) 609-1919. Round trips, one-way transfers, and recurring corporate schedules between Richmond and Dulles are all easy to arrange, any hour of the day.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How far is Richmond from Dulles International Airport?',
+        answer:
+          'About 106 miles. The drive typically takes 2 to 2.5 hours via I-66 and I-95 South, depending on Northern Virginia and Fredericksburg-corridor traffic.',
+      },
+      {
+        question: 'How much does a car service from IAD to Richmond cost?',
+        answer:
+          'We quote a flat rate based on your exact Richmond-area address and vehicle choice, confirmed in writing before you ride — no surge pricing on long trips, ever. Call (877) 609-1919 for an instant quote.',
+      },
+      {
+        question: 'Is a car service cheaper than parking at Dulles for a long trip?',
+        answer:
+          'For trips of a week or more, round-trip chauffeured service is frequently comparable to or cheaper than long-term parking plus the drive — and you skip four hours behind the wheel.',
+      },
+      {
+        question: 'Do you serve Short Pump, Glen Allen, and Midlothian?',
+        answer:
+          'Yes. All of metropolitan Richmond is standard service area, including Short Pump, Innsbrook, Glen Allen, Mechanicsville, Midlothian, and Chesterfield.',
+      },
+      {
+        question: 'Can you handle a 4 a.m. Richmond pickup for a morning Dulles departure?',
+        answer:
+          'Yes. We operate 24/7 and regularly run pre-dawn pickups from Richmond for morning international departures out of IAD. Call (877) 609-1919 to schedule.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-philadelphia',
+    city: 'Philadelphia, PA',
+    shortName: 'Philadelphia',
+    metaTitle: 'IAD to Philadelphia Car Service | Dulles Long Distance',
+    metaDescription:
+      'Chauffeured car service from Dulles Airport (IAD) to Philadelphia. Flat rates, flight tracking, luxury sedans & SUVs 24/7. Call (877) 609-1919 to book.',
+    h1: 'IAD to Philadelphia Car Service',
+    subtitle: 'Premium long-distance transfers between Dulles International Airport and Philadelphia',
+    distance: '150 miles',
+    duration: '2.5–3.5 hours',
+    corridor: 'I-95 North via Baltimore & Wilmington',
+    intro: [
+      'A transfer from Dulles to Philadelphia is a serious journey — 150 miles up I-95 through Baltimore and Wilmington — and travelers book it for serious reasons: an international arrival at IAD with a final destination in Center City, a cancelled connection that turned a flight into a road trip, a medical visit to Penn Medicine or CHOP, or a corporate itinerary that simply works better door-to-door. Our IAD to Philadelphia car service handles it with one chauffeur, one flat rate, and zero connection anxiety.',
+      'Typical travel time runs two and a half to three and a half hours. Our chauffeurs plan each departure around the corridor’s known choke points — the Fort McHenry Tunnel, the Delaware toll plazas, the approach to the Girard Point Bridge — and time trips to avoid the worst of the Baltimore and Philadelphia rush hours whenever your schedule allows.',
+    ],
+    sections: [
+      {
+        heading: 'Center City, University City, the Main Line, and Beyond',
+        paragraphs: [
+          'We deliver passengers throughout greater Philadelphia: hotels and offices in Center City and along the Ben Franklin Parkway, the University of Pennsylvania, Drexel, and Temple campuses, Penn Medicine, CHOP, and Jefferson hospitals, the Navy Yard’s corporate campuses, and Main Line communities from Bryn Mawr to Villanova. South Jersey destinations across the Ben Franklin and Walt Whitman bridges are standard service area as well.',
+          'The reverse trip is just as common — Philadelphia-area travelers catching a nonstop out of Dulles that PHL does not offer. We pick up anywhere in the region and deliver you to IAD’s departure doors rested and on schedule.',
+        ],
+      },
+      {
+        heading: 'The Alternative to a Risky Connection or a Rental Car',
+        paragraphs: [
+          'Travelers often weigh this trip against a connecting flight or the train. A connection adds hours of layover risk for a 35-minute hop; Amtrak from Union Station means getting into Washington first, luggage in tow. A chauffeured car leaves when you land, goes directly to your door, and costs a known, flat amount quoted in writing at booking — no surge, no mileage surprises, no dropping a rental in an unfamiliar city.',
+          'For two-plus hours on the interstate, comfort and safety are the product: late-model Mercedes-Benz and BMW sedans, full-size Suburbans, Yukon XLs, and Navigators for families with international luggage, and Sprinter vans for groups up to 13 — every vehicle detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier with commercial insurance.',
+        ],
+      },
+      {
+        heading: 'Timed Around Flights, Customs, and I-95 Reality',
+        paragraphs: [
+          'Arrivals into Dulles are tracked automatically, with generous complimentary wait time for international customs clearance — your chauffeur is at baggage claim whenever you actually walk out. For Philadelphia-to-IAD departures, we build pickup times against live I-95 conditions plus your airline’s check-in guidance, with buffers sized honestly for a 150-mile trip.',
+          'Reserve your IAD to Philadelphia transfer online or call (877) 609-1919. The line is answered 24/7, and same-day bookings after cancellations or airport reroutes are a specialty — when the airlines scramble your plans, we unscramble the ground leg.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long is the drive from Dulles Airport to Philadelphia?',
+        answer:
+          'Plan on 2.5 to 3.5 hours for the roughly 150-mile trip up I-95 through Baltimore and Wilmington, depending on traffic and time of day.',
+      },
+      {
+        question: 'How much does a car service from IAD to Philadelphia cost?',
+        answer:
+          'Long-distance transfers are quoted as flat rates by destination and vehicle class, confirmed in writing at booking — no surge pricing and no per-mile surprises. Call (877) 609-1919 for a quote.',
+      },
+      {
+        question: 'Can you pick me up at IAD after a cancelled connection to PHL?',
+        answer:
+          'Yes. Same-day rescue trips after cancellations are among our most common Philadelphia bookings. Call (877) 609-1919 and dispatch will arrange the fastest available chauffeur.',
+      },
+      {
+        question: 'Do you serve the Main Line, South Jersey, and Philadelphia suburbs?',
+        answer:
+          'Yes. Bryn Mawr, Villanova, King of Prussia, Cherry Hill, and the wider Philadelphia metro area are all standard destinations on this route.',
+      },
+      {
+        question: 'Is the vehicle comfortable enough for a 3-hour trip with luggage?',
+        answer:
+          'Yes — that is the point of the service. Executive sedans offer full-size comfort for one to three passengers, and our SUVs carry up to six with a complete international luggage load. Sprinter vans seat up to 13.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-gaithersburg-md',
+    city: 'Gaithersburg, MD',
+    shortName: 'Gaithersburg',
+    metaTitle: 'IAD to Gaithersburg MD Car Service | Dulles Limo',
+    metaDescription:
+      'Private car service from Dulles Airport to Gaithersburg, NIST & Crown. Flight tracking, flat rates, professional chauffeurs 24/7. Call (877) 609-1919.',
+    h1: 'IAD to Gaithersburg, MD Car Service',
+    subtitle: 'Chauffeured transfers between Dulles International Airport and Gaithersburg, Maryland',
+    distance: '24 miles',
+    duration: '30–50 minutes',
+    corridor: 'Route 28 & I-270',
+    intro: [
+      'Gaithersburg sits at the heart of Montgomery County’s I-270 science and technology corridor, and its travelers — federal researchers, biotech executives, and the families of one of Maryland’s most international cities — fly through Dulles constantly. Our IAD to Gaithersburg car service gives them a dependable link: a professional chauffeur who tracks the flight, meets you at baggage claim, and covers the roughly 24 miles to your door at a flat, written rate.',
+      'The trip typically takes 30 to 50 minutes. Route 28 across the Potomac at Point of Rocks is not the play here — our chauffeurs run Route 28 to Rockville or the Toll Road to the Beltway and I-270, choosing in real time based on live conditions at the American Legion Bridge and the I-270 spurs. That judgment routinely saves 15 minutes over a static GPS route.',
+    ],
+    sections: [
+      {
+        heading: 'Serving NIST, Crown, Kentlands, and the Rio District',
+        paragraphs: [
+          'Gaithersburg’s anchor institution is NIST — the National Institute of Standards and Technology — and visiting scientists, standards delegations, and conference speakers make up a steady share of our passengers on this route. We know the campus visitor procedures and time pickups around its gate lines. The biotech and life-science employers clustered from Shady Grove to Germantown, including the AstraZeneca campus, generate equally regular corporate travel.',
+          'Beyond the labs, we serve every corner of the city: the Kentlands and Lakelands, the Crown and Downtown Crown district, the Rio Washingtonian lakefront, Montgomery Village, and Olde Towne Gaithersburg. Door-to-door residential pickups are the default, scheduled to your flight rather than a shuttle loop.',
+          'Gaithersburg’s calendar adds its own rhythms: the Montgomery County Agricultural Fair each August, graduation weeks at the city’s schools, and the steady drumbeat of conferences at the hotels around Rio and the Washingtonian district. We stage additional vehicles for those peaks, so a last-minute arrival during fair week is a solved problem rather than a scramble — one chauffeur, one written rate, door to door.',
+        ],
+      },
+      {
+        heading: 'A Fixed Rate Across the River, Every Time',
+        paragraphs: [
+          'Cross-river trips from IAD into Maryland are the rides rideshare drivers decline most, and Beltway weather turns their pricing volatile precisely when you need the ride most. Our model removes the gamble: your chauffeur is committed the moment you book, the flat rate is confirmed in writing, and meet and greet at baggage claim is available on every reservation.',
+          'Solo business travelers typically choose a Mercedes-Benz or BMW executive sedan; families flying into Dulles with vacation luggage take a Suburban, Yukon XL, or Navigator with genuine room for six plus bags. Child seats are available on request, and every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+        ],
+      },
+      {
+        heading: 'Around the Clock, in Both Directions',
+        paragraphs: [
+          'Arrivals are tracked automatically — land early or three hours late and your chauffeur adjusts without a call or a fee. For departures, we time Gaithersburg pickups against live I-270 and Beltway conditions plus your airline’s check-in guidance at Dulles, with honest buffers for security lines and the earlier windows international carriers recommend.',
+          'Book your IAD to Gaithersburg transfer online in minutes or call (877) 609-1919. Early-morning departures, late-night arrivals, round trips, and recurring corporate schedules for the I-270 corridor are all routine.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long does it take to get from IAD to Gaithersburg?',
+        answer:
+          'Typically 30 to 50 minutes for the roughly 24-mile trip, routed via Route 28 or the Dulles Toll Road, the Beltway, and I-270 depending on live traffic.',
+      },
+      {
+        question: 'Do you provide car service to the NIST campus in Gaithersburg?',
+        answer:
+          'Yes. Visiting researchers and delegations bound for NIST are regular passengers, and our chauffeurs are familiar with the campus visitor-entrance procedures.',
+      },
+      {
+        question: 'Is the fare from Dulles to Gaithersburg a flat rate?',
+        answer:
+          'Yes. You receive a written flat-rate quote at booking based on your exact address and vehicle class — no surge pricing, no hidden fees. Call (877) 609-1919 for a quote.',
+      },
+      {
+        question: 'Do you serve Kentlands, Crown, and Montgomery Village?',
+        answer:
+          'Yes. All of Gaithersburg is standard service area, including the Kentlands, Lakelands, Crown, Rio Washingtonian, Montgomery Village, and Olde Towne.',
+      },
+      {
+        question: 'Can I book an early morning pickup in Gaithersburg for a Dulles flight?',
+        answer:
+          'Yes — we operate 24/7 and handle pre-dawn pickups across Montgomery County every day. Your chauffeur arrives a few minutes early, every time.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-leesburg-va',
+    city: 'Leesburg, VA',
+    shortName: 'Leesburg',
+    metaTitle: 'IAD to Leesburg VA Car Service | Dulles Airport Limo',
+    metaDescription:
+      'Car service from Dulles Airport to Leesburg, Lansdowne & Loudoun wine country. Flat rates, flight tracking, 24/7 chauffeurs. Call (877) 609-1919 to book.',
+    h1: 'IAD to Leesburg, VA Car Service',
+    subtitle: 'Chauffeured transfers between Dulles International Airport and Leesburg, Virginia',
+    distance: '12 miles',
+    duration: '15–25 minutes',
+    corridor: 'Dulles Greenway (Route 267)',
+    intro: [
+      'Leesburg is Dulles’ own backyard — twelve miles straight up the Dulles Greenway — yet the short hop is exactly where travelers get careless and pay for it: a rideshare queue that takes longer than the drive, or a friend’s favor that falls through at 5 a.m. Our IAD to Leesburg car service makes the last leg as polished as the flight: a chauffeur at baggage claim, a detailed luxury vehicle, and your door in Leesburg 15 to 25 minutes later.',
+      'Because the trip is short, precision is the entire product. We stage vehicles before your wheels touch down, track your flight automatically, and time departures from Leesburg against the Greenway’s rhythms — so an early meeting in the terminal or a tight international check-in never starts with waiting at the curb.',
+    ],
+    sections: [
+      {
+        heading: 'Historic Downtown, Lansdowne, and Loudoun Wine Country',
+        paragraphs: [
+          'We serve all of greater Leesburg: the historic downtown’s inns and restaurants, the Village at Leesburg, Lansdowne Resort and the Lansdowne medical campus at Inova Loudoun Hospital, River Creek and Raspberry Falls, and the outlet crowds at Leesburg Premium Outlets. Government and business travelers headed to the county seat’s offices and courts ride with us weekly.',
+          'Leesburg is also the gateway to Loudoun wine country, and airport pickups that continue to Stone Tower, Willowcroft, or a Waterford-area vineyard wedding are a specialty. Arriving guests for winery weddings and weekend tastings can be delivered straight from baggage claim to the vines — and we can arrange the return trip after the toasts.',
+          'For businesses along the Route 7 corridor — from the contractors near the airport to the medical practices around Lansdowne — corporate accounts add consolidated billing and priority dispatch, so recurring Dulles travel runs on rails. Visiting executives are met at baggage claim, delivered to Leesburg offices ahead of the morning’s first meeting, and returned against an honest reading of Greenway traffic in the afternoon.',
+        ],
+      },
+      {
+        heading: 'The Reliable Alternative for a Trip Apps Undervalue',
+        paragraphs: [
+          'Short airport runs expose rideshare’s weakest habits: drivers idle in the queue hoping for a long fare, then accept and cancel the 12-mile trip to Leesburg. Meanwhile you are standing in the garage with your luggage. Our chauffeurs are dispatched exclusively to your trip — there is no queue, no cancellation roulette, and the flat rate is confirmed in writing when you book.',
+          'Vehicles range from Mercedes-Benz and BMW executive sedans to Suburbans, Yukon XLs, and Navigators for families, with Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and commercial insurance.',
+        ],
+      },
+      {
+        heading: 'Every Flight, Every Hour — Including the Early Ones',
+        paragraphs: [
+          'Leesburg’s proximity to Dulles makes it a favorite overnight for travelers with morning departures, and pre-dawn pickups from downtown hotels and Lansdowne are among our most common bookings on this route. We operate 24/7, with flight tracking on every arrival and complimentary wait time built in — including the longer customs clearances on international flights.',
+          'Book your IAD to Leesburg transfer online in a couple of minutes or call (877) 609-1919. Round trips, winery add-ons, and recurring corporate service throughout Loudoun County are all easy to arrange.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How far is Leesburg from Dulles Airport?',
+        answer:
+          'About 12 miles straight up the Dulles Greenway — typically a 15-to-25-minute drive, making Leesburg one of the closest towns to IAD.',
+      },
+      {
+        question: 'Is a car service worth it for such a short trip from IAD?',
+        answer:
+          'Yes — the value is certainty. Your chauffeur is staged before you land, there is no rideshare queue or cancellation risk, and the flat rate is confirmed in writing. The short trip stays short.',
+      },
+      {
+        question: 'Can you take us from Dulles to a Loudoun County winery or vineyard wedding?',
+        answer:
+          'Absolutely. Airport transfers continuing to Loudoun wineries, vineyard weddings, and Waterford-area venues are a specialty. Call (877) 609-1919 to arrange guest transportation.',
+      },
+      {
+        question: 'Do you serve Lansdowne Resort and Inova Loudoun Hospital?',
+        answer:
+          'Yes. Lansdowne Resort, the Inova Loudoun medical campus, River Creek, and all surrounding communities are standard service area for Dulles transfers.',
+      },
+      {
+        question: 'Can I get a pre-dawn pickup in Leesburg for a morning flight?',
+        answer:
+          'Yes. Early-morning pickups from Leesburg hotels and homes are among our most frequent bookings — we operate 24/7 and chauffeurs arrive a few minutes early. Call (877) 609-1919 to schedule.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-winchester-va',
+    city: 'Winchester, VA',
+    shortName: 'Winchester',
+    metaTitle: 'IAD to Winchester VA Car Service | Dulles Limo',
+    metaDescription:
+      'Private car service from Dulles Airport to Winchester & the Shenandoah Valley. Flat rates, flight tracking, chauffeurs 24/7. Call (877) 609-1919 to book.',
+    h1: 'IAD to Winchester, VA Car Service',
+    subtitle: 'Chauffeured transfers between Dulles International Airport and Winchester, Virginia',
+    distance: '50 miles',
+    duration: '55–75 minutes',
+    corridor: 'Route 7 West over the Blue Ridge',
+    intro: [
+      'Winchester and the northern Shenandoah Valley sit just far enough from Dulles that the transfer options thin out fast: rideshare drivers rarely accept the run west over the Blue Ridge, and the drive home after an overnight international flight is exactly the drive nobody should make on jet lag. Our IAD to Winchester car service fills the gap properly — a professional chauffeur, a luxury sedan or SUV, and a flat written rate for the roughly 50-mile trip.',
+      'Travel time runs 55 to 75 minutes, most of it on Route 7 West through Loudoun’s horse country and over the ridge at Snickers Gap. Our chauffeurs know the corridor in every season — including when winter weather on the mountain makes Route 50 through Paris and Ashby Gap the smarter crossing — so your arrival stays predictable year-round.',
+    ],
+    sections: [
+      {
+        heading: 'Serving Old Town, the Medical Center, and Shenandoah University',
+        paragraphs: [
+          'Winchester’s travelers are more varied than its size suggests: families and students bound for Shenandoah University, patients and specialists visiting Winchester Medical Center — the valley’s regional hub — executives at the manufacturing and distribution operations that anchor Frederick County’s economy, and visitors to the walking mall, museums, and inns of Old Town Winchester.',
+          'Our service area covers the whole northern valley: Stephens City, Middletown, Strasburg, Front Royal, and Berryville in Clarke County, plus West Virginia’s eastern panhandle across the line. Apple Blossom Festival week each spring fills our Winchester calendar quickly — book those dates early.',
+          'Wine and orchard country adds a leisure current to the route as well: visitors bound for the vineyards and cideries of Frederick and Clarke counties, wedding parties at the region’s barn venues, and leaf-season travelers making Winchester their Shenandoah base camp. A chauffeured pickup at Dulles turns the valley’s distance from the airport into part of the getaway — the run west over the ridge is, after all, one of the prettier drives in Virginia.',
+        ],
+      },
+      {
+        heading: 'Why Valley Travelers Book a Chauffeur for Dulles',
+        paragraphs: [
+          'Fifty miles is the distance at which rideshare reliability collapses — long pickups get declined, and a cancellation leaves you stranded at the IAD garage with no recourse. Booking with us inverts the experience: the chauffeur is committed at reservation, tracks your flight automatically, and meets you at baggage claim with a name sign if you choose meet and greet.',
+          'The rate is flat and confirmed in writing — mountain weather, Route 7 construction, and Friday traffic never change the number. Sedans suit solo travelers; Suburbans, Yukon XLs, and Navigators handle families with a vacation’s worth of luggage; Sprinter vans carry groups up to 13. Every trip runs under the authority of a licensed and insured Virginia and Maryland carrier.',
+        ],
+      },
+      {
+        heading: 'Scheduled Honestly for a Mountain Corridor',
+        paragraphs: [
+          'For departures out of Winchester, we build pickup times around live Route 7 conditions and your airline’s check-in window at Dulles, with buffers sized for the corridor’s reality — a slow truck on the ridge should cost you patience, not a flight. For arrivals, complimentary wait time covers customs lines, and your chauffeur adjusts automatically to early or delayed landings.',
+          'Reserve your IAD to Winchester transfer online or call (877) 609-1919 any hour. One-way trips, round trips, and recurring medical or corporate travel between the valley and Dulles are all straightforward to arrange.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long is the drive from Dulles Airport to Winchester?',
+        answer:
+          'Typically 55 to 75 minutes for the roughly 50-mile trip, primarily on Route 7 West over the Blue Ridge at Snickers Gap.',
+      },
+      {
+        question: 'Do rideshares serve the IAD to Winchester route?',
+        answer:
+          'Inconsistently — 50-mile runs are frequently declined or cancelled by rideshare drivers. A booked chauffeur is committed to your trip at reservation, with a flat written rate.',
+      },
+      {
+        question: 'Do you serve Front Royal, Berryville, and the surrounding valley towns?',
+        answer:
+          'Yes. Stephens City, Middletown, Strasburg, Front Royal, Berryville, and the West Virginia panhandle are all standard service area for Dulles transfers.',
+      },
+      {
+        question: 'Can you handle transportation for Apple Blossom Festival week?',
+        answer:
+          'Yes, but book early — festival week each spring is our busiest Winchester period. Call (877) 609-1919 to reserve your dates in advance.',
+      },
+      {
+        question: 'Is the IAD to Winchester fare fixed in advance?',
+        answer:
+          'Yes. Every trip is quoted as a flat rate at booking and confirmed in writing. Weather, traffic, and time of day never change the price.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-charlottesville-va',
+    city: 'Charlottesville, VA',
+    shortName: 'Charlottesville',
+    metaTitle: 'IAD to Charlottesville Car Service | Dulles to UVA',
+    metaDescription:
+      'Private car service from Dulles Airport to Charlottesville, UVA & Monticello. Flat rates, flight tracking, chauffeurs 24/7. Call (877) 609-1919 to book.',
+    h1: 'IAD to Charlottesville, VA Car Service',
+    subtitle: 'Long-distance chauffeured transfers between Dulles International Airport and Charlottesville',
+    distance: '100 miles',
+    duration: '1.75–2.25 hours',
+    corridor: 'US-50 West & US-29 South',
+    intro: [
+      'Charlottesville’s own airport is charming and small — which is precisely why so many of its travelers fly through Dulles instead, where the nonstops, the international routes, and the resilient schedules live. That choice leaves a 100-mile gap through the Piedmont, and our IAD to Charlottesville car service closes it in comfort: a chauffeur at baggage claim, a luxury sedan or SUV, and a quiet run down US-29 while the Blue Ridge grows on the horizon.',
+      'The trip takes roughly an hour and three quarters to two and a quarter hours. Our chauffeurs run it via US-50 and US-29 through Gainesville and Culpeper, with I-66 alternatives when Route 29’s signal corridor bogs down — local judgment that keeps a long trip predictable in a way a static GPS estimate never is.',
+    ],
+    sections: [
+      {
+        heading: 'Serving UVA, the Medical Center, and the Downtown Mall',
+        paragraphs: [
+          'The University of Virginia drives this route’s rhythm, and we move with it: parents and students at move-in, graduation, and Days on the Lawn; visiting faculty and speakers bound for Grounds; fans headed to Scott Stadium and John Paul Jones Arena; and patients and families traveling to UVA Medical Center, where we handle pickups with unhurried, patient-appropriate care.',
+          'Beyond the university, we serve the Downtown Mall’s hotels and restaurants, the Boar’s Head Resort and Farmington, Keswick Hall, and the wineries of the Monticello Wine Trail. Visitors beginning a Monticello or Highland itinerary can ride straight from the IAD baggage claim to Albemarle County without touching a rental counter.',
+          'Celebration travel deserves its own mention: the Monticello Wine Trail’s tasting rooms and the vineyard wedding venues of Albemarle and Nelson counties draw parties through Dulles all year. We deliver wedding guests directly from baggage claim to their vineyard inns and can arrange multi-stop itineraries when the weekend spans venues.',
+        ],
+      },
+      {
+        heading: 'The Civilized Alternative for a 100-Mile Transfer',
+        paragraphs: [
+          'Rideshare essentially does not exist for this trip — a 100-mile run is declined faster than it is read — and driving yourself means two hours behind the wheel on jet lag plus a week of Dulles parking fees. Our service replaces both with a committed chauffeur and a flat rate quoted in writing at booking. The number never moves with traffic, weather, or demand.',
+          'Distance rewards the right vehicle: Mercedes-Benz and BMW executive sedans for solo travelers and couples, Suburbans, Yukon XLs, and Navigators for families with a semester’s or a vacation’s worth of luggage, and Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs.',
+        ],
+      },
+      {
+        heading: 'Flight-Tracked, Both Directions, All Year',
+        paragraphs: [
+          'Arrivals into Dulles are tracked automatically with generous complimentary wait time — international customs lines cost you nothing and require no phone calls. Departing Charlottesville, we schedule pickups against live US-29 conditions and your airline’s check-in window, with honest buffers; graduation weekends and home-football Saturdays get extra margin because we know what Route 29 becomes on those days.',
+          'Book your IAD to Charlottesville transfer online or call (877) 609-1919 — the line answers 24/7. UVA event weekends sell out early, so reserve graduation and move-in dates as soon as you have them.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How far is Charlottesville from Dulles International Airport?',
+        answer:
+          'About 100 miles. The drive typically takes 1.75 to 2.25 hours via US-50 and US-29 through Gainesville and Culpeper, depending on traffic.',
+      },
+      {
+        question: 'How much does a car from IAD to Charlottesville cost?',
+        answer:
+          'We quote flat rates by exact address and vehicle class, confirmed in writing at booking — no surge pricing on long trips. Call (877) 609-1919 or book online for a quote.',
+      },
+      {
+        question: 'Do you handle UVA graduation and move-in weekend transfers?',
+        answer:
+          'Yes — they are our busiest Charlottesville dates. Book as early as possible for Final Exercises and August move-in; call (877) 609-1919 to lock in your times.',
+      },
+      {
+        question: 'Can you take us to Monticello, Keswick Hall, or a Monticello Wine Trail winery?',
+        answer:
+          'Yes. Transfers continuing to Monticello, Keswick, the Boar’s Head, and Albemarle County wineries are routine, and we can arrange round trips with a waiting chauffeur.',
+      },
+      {
+        question: 'Is a car service practical for getting to UVA Medical Center from IAD?',
+        answer:
+          'Yes. Medical transfers to UVA Medical Center are handled with patient-appropriate timing and care, door to door, with help with luggage at both ends.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-ashburn-va',
+    city: 'Ashburn, VA',
+    shortName: 'Ashburn',
+    metaTitle: 'IAD to Ashburn VA Car Service | Dulles Black Car',
+    metaDescription:
+      'Executive car service from Dulles Airport to Ashburn, One Loudoun & Data Center Alley. Flat rates, flight tracking, 24/7. Call (877) 609-1919 to book.',
+    h1: 'IAD to Ashburn, VA Car Service',
+    subtitle: 'Executive transfers between Dulles International Airport and Ashburn, Virginia',
+    distance: '8 miles',
+    duration: '12–20 minutes',
+    corridor: 'Dulles Greenway & Loudoun County Parkway',
+    intro: [
+      'Ashburn is closer to Dulles than most of the airport’s own parking lots feel — about eight miles up the Greenway — and it hosts an industry that flies constantly: the data center capital of the world. Our IAD to Ashburn car service is built for that traffic. A chauffeur is staged before your flight lands, meets you at baggage claim, and has you at your campus, hotel, or front door in 12 to 20 minutes.',
+      'Short transfers live or die on precision, and precision is what you are buying: automatic flight tracking, vehicles positioned early, and a chauffeur dedicated to your trip rather than a queue of app drivers hoping for a longer fare. The trip is brief; it should also be flawless.',
+    ],
+    sections: [
+      {
+        heading: 'Data Center Alley, One Loudoun, and the Commanders’ Backyard',
+        paragraphs: [
+          'Ashburn’s cloud corridor brings engineers, executives, and construction leadership through Dulles every week, and we run daily service to the campuses along Loudoun County Parkway, Waxpool Road, and Beaumeade Circle. Corporate accounts with consolidated billing and priority dispatch keep site visits and vendor rotations moving without expense-report friction.',
+          'The rest of Ashburn rides with us too: One Loudoun’s hotels, restaurants, and offices, the Washington Commanders’ training facility, Brambleton, Broadlands, Ashburn Farm, and Belmont. Residential pickups are door-to-door and scheduled to your flight, not a shuttle timetable.',
+          'Ashburn’s residential growth means family travel keeps pace with the corporate traffic. School-break departures, university drop-offs, and grandparents arriving for long visits all move through this route, and our SUVs handle the full-luggage version of each — child seats installed on request, meet and greet at baggage claim so nobody navigates the terminal alone. Metro’s Silver Line reaches Ashburn now, but with luggage, children, or a pre-dawn departure, the door-to-door math still favors a staged chauffeur waiting at the driveway.',
+        ],
+      },
+      {
+        heading: 'Why an 8-Mile Trip Deserves a Booked Chauffeur',
+        paragraphs: [
+          'From the rideshare zones at the IAD parking structures, an Ashburn fare is the one drivers least want — short, low-paying, and back to the end of the queue. Acceptance is slow, cancellations are common, and you absorb the wait after a five-hour flight. Our chauffeurs take the trip because it is their trip: committed at booking, at a flat written rate, with meet and greet inside the terminal available on every reservation.',
+          'Vehicles are late-model Mercedes-Benz and BMW sedans, Cadillac and Lincoln SUVs, Suburbans and Yukon XLs for families, and Sprinter vans for teams up to 13 — all detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
+        ],
+      },
+      {
+        heading: 'Around the Clock for a Neighborhood That Never Sleeps',
+        paragraphs: [
+          'Data centers run 24/7 and so do we. Midnight arrivals for an overnight cutover, 4 a.m. pickups in Brambleton for the first departure bank, late international landings clearing customs at 1 a.m. — every one gets a staged chauffeur, automatic flight tracking, and complimentary wait time.',
+          'Book your IAD to Ashburn transfer online in under two minutes or call (877) 609-1919. Recurring corporate service, round trips, and multi-passenger site-visit logistics are all easy to set up — and same-day requests are frequently possible on a route this close to the airport, so a schedule change never leaves you stranded.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How far is Ashburn from Dulles Airport?',
+        answer:
+          'About 8 miles — typically a 12-to-20-minute drive via the Dulles Greenway and Loudoun County Parkway, making Ashburn one of the closest communities to IAD.',
+      },
+      {
+        question: 'Do you serve the Ashburn data center campuses?',
+        answer:
+          'Yes. Daily service to Data Center Alley — Loudoun County Parkway, Waxpool Road, and Beaumeade Circle — with corporate accounts for recurring engineering and executive travel.',
+      },
+      {
+        question: 'Is a booked car faster than rideshare for such a short trip?',
+        answer:
+          'Usually, yes. Short fares are the ones rideshare drivers accept slowest and cancel most. A staged chauffeur with meet and greet is waiting before you land — no queue, no roulette.',
+      },
+      {
+        question: 'Do you serve One Loudoun, Brambleton, and Broadlands?',
+        answer:
+          'Yes. All of Ashburn is standard service area, including One Loudoun, Brambleton, Broadlands, Ashburn Farm, Belmont, and the Commanders’ facility.',
+      },
+      {
+        question: 'Can you handle a middle-of-the-night pickup in Ashburn?',
+        answer:
+          'Yes — we operate 24/7, and overnight pickups for data center work and early departures are routine on this route. Call (877) 609-1919 to schedule.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-frederick-md',
+    city: 'Frederick, MD',
+    shortName: 'Frederick',
+    metaTitle: 'IAD to Frederick MD Car Service | Dulles Airport Limo',
+    metaDescription:
+      'Private car service from Dulles Airport to Frederick MD & Fort Detrick. Flat rates, flight tracking, professional chauffeurs 24/7. Call (877) 609-1919.',
+    h1: 'IAD to Frederick, MD Car Service',
+    subtitle: 'Chauffeured transfers between Dulles International Airport and Frederick, Maryland',
+    distance: '42 miles',
+    duration: '50–70 minutes',
+    corridor: 'Route 28 & US-15 North',
+    intro: [
+      'Frederick has grown into one of Maryland’s most dynamic small cities — a biotech and federal hub wrapped around a genuinely charming downtown — but its link to Dulles has never matched that growth. Transit does not make the trip at all, and rideshare treats a 42-mile cross-river run as a fare to avoid. Our IAD to Frederick car service is the professional answer: a chauffeur who meets your flight and a flat written rate to your door.',
+      'The drive takes 50 to 70 minutes, and routing judgment matters more here than almost anywhere in our service area. Route 28 to US-15 across Point of Rocks, or the Toll Road to the Beltway and I-270 — the right answer changes by the hour, and our chauffeurs choose it live rather than trusting a static estimate.',
+    ],
+    sections: [
+      {
+        heading: 'Fort Detrick, the Biotech Corridor, and Downtown Frederick',
+        paragraphs: [
+          'Frederick’s anchor is Fort Detrick and the biomedical research community around it, and visiting scientists, military personnel, and federal program staff make up a steady share of this route’s passengers. The city’s commercial biotech cluster — including the manufacturing campuses along the I-270 and Route 85 corridors — adds regular executive and technical travel we support with corporate accounts and consistent chauffeurs.',
+          'We serve the rest of the city just as thoroughly: the restaurants and inns of downtown’s Market Street and Carroll Creek, Frederick Health Hospital, Hood College and Mount St. Mary’s, and the neighborhoods from Worman’s Mill to Ballenger Creek. Urbana, Middletown, Mount Airy, and New Market are all standard service area.',
+          'Leisure travel rounds out the route: downtown Frederick’s restaurant scene and festival weekends, weddings at the county’s barn and vineyard venues, and travelers using Frederick as a base for Antietam, Harpers Ferry, and the Catoctin mountain country. Whatever brings you through Dulles, the pattern holds — one chauffeur, one flat rate, door to door.',
+        ],
+      },
+      {
+        heading: 'A Committed Ride Across a Gap Apps Won’t Fill',
+        paragraphs: [
+          'The IAD-to-Frederick corridor is where rideshare fails most reliably: long pickup, cross-state destination, and a return trip the driver does not want. Cancellations are the norm, and surge pricing punishes the passengers who persist. We invert that: your chauffeur is committed the moment you book, meets you at baggage claim with a name sign if you choose meet and greet, and the flat rate on your confirmation is the rate on your receipt.',
+          'Choose an executive Mercedes-Benz or BMW sedan for business, a Suburban, Yukon XL, or Navigator when the family lands with full luggage, or a Sprinter van for groups up to 13. Every vehicle is detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
+        ],
+      },
+      {
+        heading: 'Timed to Flights, Not Hope',
+        paragraphs: [
+          'Arrivals into Dulles are tracked automatically — early, delayed, or diverted, your chauffeur adjusts without a call or a fee, and complimentary wait time covers customs. For departures, we build Frederick pickups against live US-15 and I-270 conditions plus your airline’s check-in guidance, with buffers that respect how quickly Point of Rocks can back up behind a single incident.',
+          'Book your IAD to Frederick transfer online or call (877) 609-1919 — reservations answer 24/7, and round trips, medical travel, and recurring corporate schedules are all straightforward to arrange.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long does it take to get from IAD to Frederick MD?',
+        answer:
+          'Typically 50 to 70 minutes for the roughly 42-mile trip, routed via Route 28 and US-15 at Point of Rocks or via I-270, whichever live traffic favors.',
+      },
+      {
+        question: 'Do you provide car service to Fort Detrick?',
+        answer:
+          'Yes. Visiting researchers, military personnel, and program staff bound for Fort Detrick are regular passengers, and our chauffeurs know the gate and visitor procedures.',
+      },
+      {
+        question: 'Is the fare from Dulles to Frederick a flat rate?',
+        answer:
+          'Yes. You receive a written flat-rate quote at booking based on your address and vehicle class — traffic, weather, and time of day never change it. Call (877) 609-1919 for a quote.',
+      },
+      {
+        question: 'Do you serve Urbana, Middletown, and New Market?',
+        answer:
+          'Yes. All of Frederick County is standard service area, including Urbana, Middletown, Mount Airy, New Market, and Ballenger Creek.',
+      },
+      {
+        question: 'Can I book an early morning Frederick pickup for a Dulles departure?',
+        answer:
+          'Yes — we operate 24/7 and run pre-dawn pickups from Frederick daily. Your chauffeur arrives a few minutes early with your flight already checked.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-manassas-va',
+    city: 'Manassas, VA',
+    shortName: 'Manassas',
+    metaTitle: 'IAD to Manassas VA Car Service | Dulles Airport Limo',
+    metaDescription:
+      'Car service from Dulles Airport to Manassas, Old Town & Innovation Park. Flat rates, flight tracking, chauffeurs 24/7. Call (877) 609-1919 to book now.',
+    h1: 'IAD to Manassas, VA Car Service',
+    subtitle: 'Chauffeured transfers between Dulles International Airport and Manassas, Virginia',
+    distance: '20 miles',
+    duration: '25–40 minutes',
+    corridor: 'Route 28 South',
+    intro: [
+      'Manassas sits a straight shot down Route 28 from Dulles — twenty miles that should take half an hour — but anyone who knows the corridor knows the catch: Route 28 at the wrong hour is one of Northern Virginia’s most stubborn bottlenecks. Our IAD to Manassas car service pairs the short distance with the local judgment it needs: a professional chauffeur who tracks your flight, meets you at baggage claim, and picks the right way south in real time.',
+      'Typical door-to-door time runs 25 to 40 minutes. When Route 28 jams at Westfields or the railroad crossings, our chauffeurs pivot to the Fairfax County Parkway or Braddock Road without drama — the kind of routing instinct that keeps a short trip short.',
+    ],
+    sections: [
+      {
+        heading: 'Old Town, Innovation Park, and the Micron Corridor',
+        paragraphs: [
+          'Manassas blends history and high-tech in a way few cities its size do, and our passengers reflect it: engineers and executives visiting the Micron semiconductor campus and the employers of Innovation Park, faculty and families at George Mason’s Science and Technology campus, and patients bound for UVA Health Prince William Medical Center.',
+          'Leisure travel keeps pace — visitors to Old Town Manassas’ restaurants and railway museum, battlefield tourists headed to Manassas National Battlefield Park, and concert crowds bound for Jiffy Lube Live in Bristow, one of our signature event venues. Residential service covers Manassas, Manassas Park, Bristow, Gainesville, and Nokesville door-to-door.',
+          'The corridor also carries steady family traffic: relatives arriving for graduations, travelers connecting an international trip to a home pickup, and youth sports families flying teams in and out of tournament weekends. Our SUVs carry six passengers with the full equipment load, child seats are installed on request, and meet and greet at baggage claim means nobody herds children through the terminal while hunting a license plate in the garage.',
+        ],
+      },
+      {
+        heading: 'Certainty on a Corridor Where Timing Is Everything',
+        paragraphs: [
+          'From IAD’s garage-level rideshare zones, a Manassas trip means a walk, a queue, and a price the algorithm sets that minute. Our model removes every variable: the chauffeur is committed at booking, the flat rate is confirmed in writing, and meet and greet inside the terminal is available on every reservation — a genuine relief for families landing with car seats and luggage. Child seats are available on request.',
+          'Vehicles range from Mercedes-Benz and BMW executive sedans to Suburbans, Yukon XLs, and Navigators, with Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and commercial insurance.',
+        ],
+      },
+      {
+        heading: 'Every Departure Bank, Every Arrival, Every Day',
+        paragraphs: [
+          'We run this corridor around the clock: 4 a.m. pickups in Gainesville for the first departures out of Dulles, midday business transfers to Innovation Park, and late-night arrivals tracked automatically with complimentary wait time. If your flight moves, your pickup moves with it — no phone calls, no fees.',
+          'Book your IAD to Manassas transfer online in minutes or call (877) 609-1919. Round trips, event transportation to Jiffy Lube Live, and recurring corporate service throughout Prince William County are all easy to arrange with a single call.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long is the drive from Dulles Airport to Manassas?',
+        answer:
+          'Typically 25 to 40 minutes for the roughly 20-mile trip down Route 28, with alternate routing via the Fairfax County Parkway when the corridor backs up.',
+      },
+      {
+        question: 'Do you serve the Micron campus and Innovation Park?',
+        answer:
+          'Yes. Corporate transfers to Micron, Innovation Park, and George Mason’s Science and Technology campus are daily runs for us, with corporate accounts available.',
+      },
+      {
+        question: 'Can you take us from IAD to a concert at Jiffy Lube Live?',
+        answer:
+          'Yes. Jiffy Lube Live in Bristow is one of our signature venues — we offer drop-offs and round trips with a chauffeur waiting after the show. Call (877) 609-1919 to arrange it.',
+      },
+      {
+        question: 'Do you serve Gainesville, Bristow, and Nokesville?',
+        answer:
+          'Yes. Manassas, Manassas Park, Bristow, Gainesville, Nokesville, and the surrounding Prince William County communities are all standard service area.',
+      },
+      {
+        question: 'Is the IAD to Manassas fare fixed when I book?',
+        answer:
+          'Yes. Every trip is quoted as a flat rate and confirmed in writing at booking — Route 28 traffic never changes the price. Call (877) 609-1919 for a quote.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-national-harbor-md',
+    city: 'National Harbor, MD',
+    shortName: 'National Harbor',
+    metaTitle: 'IAD to National Harbor Car Service | Dulles Limo',
+    metaDescription:
+      'Car service from Dulles Airport to National Harbor, Gaylord & MGM. Flat rates, flight tracking, luxury chauffeurs 24/7. Call (877) 609-1919 to book now.',
+    h1: 'IAD to National Harbor Car Service',
+    subtitle: 'Chauffeured transfers between Dulles International Airport and National Harbor, Maryland',
+    distance: '40 miles',
+    duration: '45–70 minutes',
+    corridor: 'I-495 & the Woodrow Wilson Bridge',
+    intro: [
+      'National Harbor exists to host — the Gaylord’s convention floors, the MGM’s casino and theater, a waterfront of hotels, restaurants, and the Capital Wheel — and nearly everyone it hosts arrives by air. From Dulles, the trip crosses the entire southern arc of the Beltway to the Woodrow Wilson Bridge, and it is a far better experience in the back of a chauffeured car than in a rideshare queue. Our IAD to National Harbor service makes the transfer part of the occasion.',
+      'The roughly 40-mile drive takes 45 to 70 minutes depending on Beltway behavior. Our chauffeurs run it daily, timing convention arrival waves, watching the Wilson Bridge merges, and delivering you to the Gaylord’s porte cochère or the MGM’s entrance composed and on schedule.',
+    ],
+    sections: [
+      {
+        heading: 'Conventions at the Gaylord, Shows at the MGM, Weekends on the Water',
+        paragraphs: [
+          'Convention travel is this route’s heartbeat. We move keynote speakers, exhibitor teams, and attendees to the Gaylord National Resort & Convention Center throughout the year, coordinating multi-vehicle arrivals for delegations and staggering pickups around session schedules. Corporate accounts with consolidated billing make conference logistics one less thing to manage.',
+          'The MGM National Harbor’s theater calendar, casino floor, and restaurants draw a steady leisure crowd, and the waterfront district itself — the Capital Wheel, Tanger Outlets, and the marina — fills our weekend schedule. We also serve nearby Oxon Hill, Fort Washington, and Alexandria across the bridge.',
+          'The Harbor is a celebration destination too — birthday weekends at the MGM, bachelorette itineraries along the waterfront, holiday trips to ICE! at the Gaylord — and celebration travel deserves a polished start. Groups arriving on separate flights can be coordinated into staged pickups, Sprinter vans keep parties of up to 13 together, and the return home is booked in the same reservation so the weekend ends as smoothly as it began.',
+        ],
+      },
+      {
+        heading: 'Why Convention Travelers Book Ahead Instead of Queuing',
+        paragraphs: [
+          'When a conference lets out or an arrival bank lands, the rideshare math at both ends turns ugly — surge pricing at the Harbor, 20-minute queues at the IAD garage. A booked chauffeur bypasses all of it: committed at reservation, staged before your flight lands, flat rate confirmed in writing, and meet and greet at baggage claim so a first visit to Washington starts with your name on a sign rather than a license-plate hunt.',
+          'Solo attendees ride executive Mercedes-Benz and BMW sedans; teams take Suburbans, Yukon XLs, and Navigators; delegations up to 13 travel together in a Sprinter van. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+        ],
+      },
+      {
+        heading: 'Timed to Sessions, Shows, and Flight Banks',
+        paragraphs: [
+          'Tell us your keynote time or curtain time and we plan backward from it — live Beltway conditions, Wilson Bridge patterns, and a margin that keeps you early rather than anxious. Arrivals into Dulles are tracked automatically with complimentary wait time, and departures from the Harbor are scheduled against your airline’s check-in window at IAD.',
+          'Book your National Harbor transfer online or call (877) 609-1919 any hour. Group movements for conventions, round trips for shows, and recurring service for event-industry teams are all easy to arrange.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long does it take to get from IAD to National Harbor?',
+        answer:
+          'Typically 45 to 70 minutes for the roughly 40-mile trip around the southern Beltway and across the Woodrow Wilson Bridge, depending on traffic.',
+      },
+      {
+        question: 'Do you provide transfers to the Gaylord National for conventions?',
+        answer:
+          'Yes. Convention transfers to the Gaylord are one of our signature runs — including multi-vehicle coordination for delegations and exhibitor teams. Call (877) 609-1919 for group logistics.',
+      },
+      {
+        question: 'Can you take us from Dulles to the MGM National Harbor?',
+        answer:
+          'Yes. Direct drop-offs at the MGM’s entrance for shows, casino visits, and hotel stays are daily trips, with round-trip service available after events.',
+      },
+      {
+        question: 'Is the fare from IAD to National Harbor fixed?',
+        answer:
+          'Yes. Every trip is quoted as a written flat rate at booking based on vehicle class — Beltway traffic and event-night demand never change the price.',
+      },
+      {
+        question: 'Do you serve Oxon Hill and Fort Washington?',
+        answer:
+          'Yes. Oxon Hill, Fort Washington, and the communities surrounding National Harbor are all standard service area for Dulles transfers.',
+      },
+    ],
+  },
 ];
 
 export default routes;

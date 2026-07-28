@@ -686,6 +686,386 @@ const posts = [
       },
     ],
   },
+  {
+    slug: 'dulles-airport-car-service-vs-uber-2026',
+    title: 'Dulles Airport Car Service vs. Uber in 2026: The Real Cost Comparison',
+    metaTitle: 'Dulles Car Service vs Uber 2026: Real Cost Compared',
+    metaDescription:
+      'Dulles Airport car service vs Uber in 2026 — real fare scenarios, surge math, pickup times, and which wins for early flights, groups, and business travel.',
+    datePublished: '2026-06-16',
+    readTime: '7 min read',
+    excerpt:
+      'Run the actual numbers on Dulles rideshare vs a booked chauffeur — scenario by scenario — and the “cheap” option wins less often than you would think.',
+    intro: [
+      'Ask ten travelers whether Uber or a car service is the better way to leave Dulles Airport and you will get ten versions of “Uber is cheaper.” Sometimes it is. But the comparison most people run in their heads uses Uber’s best-case fare against a car service’s standard rate — off-peak, no surge, instant pickup, driver accepts immediately. Dulles at 6 p.m. on a rainy Friday is not that best case. This guide runs the comparison the honest way: scenario by scenario, with the variables that actually decide what you pay and when you leave.',
+    ],
+    sections: [
+      {
+        heading: 'The Scenarios Where Uber Genuinely Wins',
+        paragraphs: [
+          'Credit where due: for a solo traveler with a carry-on, landing mid-afternoon on a dry Tuesday, headed somewhere close like Herndon or Reston, rideshare is usually the economical call. Demand is low, the walk to the garage pickup zone is annoying but tolerable without checked bags, and short-hop fares are modest. If your schedule is flexible and a 15-minute wait costs you nothing, the app earns its place.',
+          'The problem is that very few of the trips people actually book fall into that window. Airport travel clusters around peak banks, bad-weather days, holidays, and distances rideshare handles poorly — which is where the math flips.',
+        ],
+      },
+      {
+        heading: 'Scenario One: The Rainy Friday Arrival',
+        paragraphs: [
+          'Surge pricing at Dulles is not a rare event — it is the predictable result of arrival banks landing together, and weather multiplies it. A fare into Washington that reads modestly on a quiet afternoon can double or worse when three widebodies deplane into a thunderstorm. You discover the number standing in the parking garage, luggage in hand, with no leverage and every alternative equally surged.',
+          'A booked car service quoted your flat rate when you reserved — days earlier, in writing. Rain does not change it. The arrival bank does not change it. On the days rideshare is at its most expensive, the flat rate is unchanged, and those are precisely the days you are most likely to be traveling.',
+        ],
+      },
+      {
+        heading: 'Scenario Two: The Long Trip into Maryland',
+        paragraphs: [
+          'Distance is rideshare’s quiet failure mode at IAD. Drivers see a 45-mile run to Columbia or Annapolis, weigh the empty return trip, and decline or cancel — a pattern every frequent Dulles flyer has lived through. Each cancellation sends you to the back of the queue, and the fare that finally sticks carries long-trip pricing plus whatever surge has built in the meantime.',
+          'On long transfers, a chauffeur service is not a luxury alternative; it is often the only reliable option. The trip is committed at booking, the rate is flat regardless of what I-95 or the Beltway does, and nobody is doing return-trip math against your itinerary.',
+        ],
+      },
+      {
+        heading: 'Scenario Three: The Family of Five with Checked Bags',
+        paragraphs: [
+          'Rideshare pricing is per vehicle, but capacity is the catch: five passengers with international luggage need an XL, and XL fares from Dulles routinely land within striking distance of a booked SUV — without the guarantee that the vehicle that shows up actually fits six suitcases. A chauffeured Suburban or Navigator is specified in advance, meets you at baggage claim, and installs the child seats you requested at booking.',
+          'Price the comparison honestly — XL surge fare plus the garage walk with children and a luggage cart, against a flat-rate SUV with meet and greet — and the gap narrows to nothing on many dates, then inverts on the bad ones.',
+        ],
+      },
+      {
+        heading: 'The Verdict: Match the Tool to the Trip',
+        paragraphs: [
+          'Use rideshare for what it is good at: short, spontaneous, solo, flexible, fair-weather trips. Book a car service when the trip has stakes — early departures where a missed pickup means a missed flight, arrivals with family and luggage, long transfers, and business travel where predictability is worth more than the occasional off-peak savings.',
+          'If your next Dulles trip falls in the second category, we make the comparison easy to test: call (877) 609-1919 or book online, get a flat written quote, and measure it against what the app shows you on travel day. The quote will not have moved. The app almost certainly will.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Is Uber cheaper than a car service from Dulles Airport?',
+        answer:
+          'Off-peak, for solo short trips, usually yes. During surge windows, for long transfers, or for groups needing an XL, flat-rate car service pricing is frequently equal or cheaper — and it never changes after booking.',
+      },
+      {
+        question: 'How bad is surge pricing at IAD really?',
+        answer:
+          'During peak arrival banks, storms, and holidays, rideshare fares from Dulles can run double or more their off-peak level. Flat-rate car service quotes are confirmed in writing and are immune to surge.',
+      },
+      {
+        question: 'Where do Uber and Lyft pick up at Dulles?',
+        answer:
+          'In designated zones at the parking structures — a walk from baggage claim with your luggage. A chauffeur with meet and greet waits inside the terminal at baggage claim with a name sign.',
+      },
+      {
+        question: 'Why do rideshare drivers cancel long trips from IAD?',
+        answer:
+          'A long run usually means an empty return trip, so many drivers decline or cancel after seeing the destination. A booked chauffeur is committed to your specific trip at reservation.',
+      },
+      {
+        question: 'How do I get a flat-rate quote to compare against Uber?',
+        answer:
+          'Call (877) 609-1919 or use our online booking page with your exact addresses and vehicle preference. The written quote you receive is the final price — compare it on travel day.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-airport-early-morning-pickup-guide',
+    title: 'The IAD Early Morning Pickup Guide: Making a 6 A.M. Flight Without the Stress',
+    metaTitle: 'Early Morning Pickup at IAD: 3-6 AM Flight Guide',
+    metaDescription:
+      'How to guarantee a reliable 3-6 a.m. ride to Dulles Airport — booking timing, buffer math, and why pre-booked car service beats rideshare before dawn.',
+    datePublished: '2026-06-25',
+    readTime: '6 min read',
+    excerpt:
+      'The 6 a.m. departure bank at Dulles is unforgiving, and pre-dawn is when rideshare is thinnest. Here is how to engineer a morning that cannot go wrong.',
+    intro: [
+      'The first departure bank at Dulles — roughly 6 to 8 a.m. — is where the airport’s cheapest fares and best connections live, and it is also where ground transportation fails most often. At 4 a.m. there is no Metro, few taxis, and a rideshare driver pool at its thinnest of the entire day. The traveler who plans the ride as carefully as the flight makes it to the gate with coffee in hand; the one who opens an app at 3:45 a.m. gambles the whole itinerary on whoever happens to be awake. This guide is the plan.',
+    ],
+    sections: [
+      {
+        heading: 'Why Pre-Dawn Is Rideshare’s Weakest Hour',
+        paragraphs: [
+          'Rideshare supply follows demand, and at 3:30 a.m. demand is near zero — so supply is too. Scheduled rideshare pickups help but do not commit a specific driver; the app simply starts searching shortly before your window, and if nobody is nearby, you wait while your buffer evaporates. Cancellations sting doubly at that hour because the replacement search starts from the same empty pool.',
+          'A chauffeur service works on the opposite model: a specific chauffeur is assigned to your trip the night before, the vehicle is prepared, and dispatch monitors the pickup. The 4 a.m. ride is not an edge case for a licensed operator — at Dulles it is a core product, running every single morning.',
+        ],
+      },
+      {
+        heading: 'The Buffer Math: Working Backward from Wheels-Up',
+        paragraphs: [
+          'Build the morning backward. For a 6 a.m. domestic departure, most airlines want bags dropped by 5:15 and TSA can take 20 to 40 minutes even early; you want to walk into the terminal around 4:45. Add your drive time — 25 minutes from Reston, 45 from Arlington, an hour or more from Maryland — plus a ten-minute margin for loading, and your pickup lands somewhere between 3:30 and 4:15 a.m.',
+          'International departures move everything an hour earlier. The good news: pre-dawn roads are empty, so drive times are at their most predictable of the day. The risk is not traffic — it is the ride simply not showing up. Solve that and the morning is easy.',
+        ],
+      },
+      {
+        heading: 'What a Professional Early Pickup Looks Like',
+        paragraphs: [
+          'When you book an early pickup with us, the trip is confirmed in writing the moment you reserve — vehicle, chauffeur, flat rate, and pickup time calculated against your specific flight. Your chauffeur arrives a few minutes early and waits quietly; you get a notification, not a horn. Luggage is loaded for you, the cabin is warm in winter, and the route is the emptiest version of the roads you will ever see.',
+          'Dispatch is awake too. If anything changes overnight — a schedule adjustment, an equipment swap by the airline — a human is monitoring and reachable at (877) 609-1919, which is not something an app’s help menu offers at 3:50 a.m.',
+        ],
+      },
+      {
+        heading: 'Five Habits of Travelers Who Never Miss the Early Flight',
+        paragraphs: [
+          'The travelers who make early departures look effortless share the same playbook:',
+        ],
+        list: [
+          'Book the ride the day before at the latest — early pickups should never depend on real-time driver supply.',
+          'Confirm the pickup time against the airline’s actual bag-drop cutoff, not a generic “two hours early.”',
+          'Stage luggage by the door the night before; pre-dawn minutes are the most expensive of the day.',
+          'Check in online and download boarding passes before bed — terminals are quietest before 5 a.m. but kiosk lines still happen.',
+          'Keep the chauffeur service’s number saved: a live dispatcher at 4 a.m. is worth more than any app feature.',
+        ],
+      },
+      {
+        heading: 'Book the Morning, Sleep the Night',
+        paragraphs: [
+          'An early flight out of Dulles should cost you sleep only once — the night you take it, not the week you spend worrying about the ride. Reserve your pre-dawn pickup online or call (877) 609-1919; we run this bank of departures every morning of the year, and the flat rate we quote is the rate you pay, whatever hour the alarm goes off.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How early should I book a 4 a.m. pickup to Dulles?',
+        answer:
+          'At least 24 hours ahead is ideal. Pre-dawn pickups depend on assigned chauffeurs, not real-time driver supply, so booking the day before guarantees your vehicle and time. Call (877) 609-1919 to reserve.',
+      },
+      {
+        question: 'What time should I leave for a 6 a.m. flight at IAD?',
+        answer:
+          'Work backward: in the terminal by about 4:45 a.m. for a domestic flight, plus your drive time and a ten-minute margin. From Arlington that typically means a pickup around 3:45-4:00 a.m.',
+      },
+      {
+        question: 'Is scheduled Uber reliable for early morning IAD trips?',
+        answer:
+          'A scheduled rideshare starts searching for a driver near your window rather than committing one in advance. At 3:30 a.m. the driver pool is at its thinnest, so no-shows and delays are a real risk.',
+      },
+      {
+        question: 'Do you charge extra for pre-dawn pickups?',
+        answer:
+          'Our rates are flat and quoted in writing at booking regardless of hour. Early morning pickups are standard service, not a surcharge event.',
+      },
+      {
+        question: 'What happens if my early flight is cancelled overnight?',
+        answer:
+          'Call (877) 609-1919 — dispatch is staffed around the clock and will move or cancel your pickup to match your rebooked flight.',
+      },
+    ],
+  },
+  {
+    slug: 'corporate-travel-guide-dulles-airport',
+    title: 'The Corporate Travel Guide to Dulles Airport: Ground Game for Business Flyers',
+    metaTitle: 'Corporate Travel Guide to Dulles Airport (IAD)',
+    metaDescription:
+      'A practical corporate travel guide for Dulles Airport — ground transportation, corporate accounts, expensing, timing meetings, and executive travel tips.',
+    datePublished: '2026-07-07',
+    readTime: '7 min read',
+    excerpt:
+      'Dulles is the region’s gateway for business travel. Here is how travel managers and road warriors run the ground leg as professionally as the flight.',
+    intro: [
+      'Dulles is the Washington region’s long-haul business gateway — the airport of choice for international deals, West Coast nonstops, and the government-and-contractor corridor that runs from Tysons to Reston. Companies polish every other leg of a business trip: preferred airlines, negotiated hotel rates, expense automation. Then the traveler lands and the ground leg — the part that actually determines whether they walk into the meeting composed — is left to a rideshare queue. This guide covers how experienced travel managers and frequent flyers run the IAD ground game properly.',
+    ],
+    sections: [
+      {
+        heading: 'Why the Ground Leg Deserves a Policy, Not an App',
+        paragraphs: [
+          'The economics of executive time make the case quickly. A director billing meaningful hourly value who loses 30 minutes to a garage queue and a cancelled ride has cost the company more than the difference between rideshare and a chauffeur — before counting the meeting that starts poorly because the morning did. Predictability, not luxury, is what the corporate ground leg is buying.',
+          'A managed car service converts the variables into constants: a committed chauffeur, a flat contracted rate, flight tracking that absorbs delays automatically, and a vehicle that functions as a mobile office for the 30 minutes between wheels-down and the client’s lobby.',
+        ],
+      },
+      {
+        heading: 'Corporate Accounts: What Good Ones Include',
+        paragraphs: [
+          'A corporate account worth signing centralizes the friction away. Look for consolidated monthly billing that replaces per-trip receipts, booking access for executive assistants and travel coordinators, priority dispatch during peak banks and weather events, and trip reporting that drops cleanly into your expense system.',
+          'Consistency is the underrated feature: repeat travelers get chauffeurs who know their terminal preferences, their office’s garage entrance, and whether they want conversation or quiet. Our corporate program at (877) 609-1919 is built around exactly this list — measured against it, not marketed past it.',
+        ],
+      },
+      {
+        heading: 'Timing Meetings Around IAD’s Rhythms',
+        paragraphs: [
+          'Dulles has predictable pulses, and scheduling around them is free efficiency. Transatlantic arrivals cluster in the early afternoon; the first domestic departure bank runs 6 to 8 a.m.; security is lightest mid-morning and mid-afternoon. A traveler landing from Europe at 1:30 p.m. can realistically hold a 3:30 meeting in Tysons — 13 miles away — but only if the ground leg is pre-arranged rather than improvised at the curb.',
+          'For departures, the reverse math applies: an experienced dispatcher schedules a Reston or DC pickup against live Toll Road conditions and the airline’s actual cutoff, not a generic buffer — which is how a 4 p.m. meeting and a 7 p.m. international departure coexist without drama.',
+        ],
+      },
+      {
+        heading: 'Group Movements: Roadshows, Offsites, and Visiting Boards',
+        paragraphs: [
+          'The hardest corporate ground problems are plural: a board arriving on six different flights, a roadshow hitting four offices in a day, a conference delegation moving between Dulles and a Tysons or National Harbor hotel. This is coordination work, not driving work — staggered staging, real-time flight tracking across multiple tail numbers, and a dispatcher accountable for the whole picture.',
+          'A capable operator assigns one point of contact, coordinates sedans, SUVs, and Sprinter vans as the manifest requires, and adjusts the plan as flights move. The travel manager sees one confirmation and one invoice instead of eleven apps and a spreadsheet.',
+        ],
+      },
+      {
+        heading: 'The Bottom Line for Travel Managers',
+        paragraphs: [
+          'Audit last quarter’s IAD trips: tally the rideshare receipts that surged, the meetings that started late, and the hours senior people spent solving transportation problems that a policy would have prevented. Then run a month with a corporate car service account and compare. Call (877) 609-1919 to set up corporate service — consolidated billing, priority dispatch, and a standing answer to the question of how your people get to and from Dulles.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'What does a corporate car service account at IAD include?',
+        answer:
+          'Consolidated monthly billing, booking access for assistants and coordinators, priority dispatch, trip reporting for expenses, and consistent chauffeurs for repeat travelers. Call (877) 609-1919 to enroll.',
+      },
+      {
+        question: 'Is a car service expensable for business travel?',
+        answer:
+          'Ground transportation to and from the airport is a standard business expense at most companies, and consolidated monthly invoicing makes reconciliation simpler than per-trip rideshare receipts.',
+      },
+      {
+        question: 'How far in advance should corporate airport transfers be booked?',
+        answer:
+          '24 hours is comfortable for individual trips; group movements and board visits deserve a week or more. Same-day requests are accommodated whenever fleet availability allows.',
+      },
+      {
+        question: 'Can one booking cover a team arriving on different flights?',
+        answer:
+          'Yes. We coordinate multi-flight arrivals with per-passenger flight tracking and staggered vehicles, managed by one dispatcher with one consolidated confirmation.',
+      },
+      {
+        question: 'Which vehicles suit executive travel from Dulles?',
+        answer:
+          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Cadillac Escalades and Lincoln Navigators for small teams, and Mercedes Sprinters for delegations up to 13.',
+      },
+    ],
+  },
+  {
+    slug: 'dulles-airport-parking-vs-car-service',
+    title: 'Dulles Airport Parking vs. Car Service: The Math Nobody Runs',
+    metaTitle: 'Dulles Parking vs Car Service: The 2026 Cost Math',
+    metaDescription:
+      'Dulles Airport parking rates vs booking a car service in 2026 — total trip cost comparisons by trip length, plus the hidden costs of driving yourself.',
+    datePublished: '2026-07-15',
+    readTime: '6 min read',
+    excerpt:
+      'Daily garage rates compound quietly. For trips past a few days, the drive-and-park habit often costs more than a chauffeur — here is the honest math.',
+    intro: [
+      'Driving yourself to Dulles feels free because the costs arrive in pieces: a daily parking rate here, a tank of gas there, forty minutes of shuttle-and-walk time you never invoice yourself for. Booking a car service feels expensive because the cost arrives as one visible number. This guide puts the two options side by side honestly — by trip length, by season, and by what your time is actually worth — because for a surprising share of trips, the “free” option is the costlier one.',
+    ],
+    sections: [
+      {
+        heading: 'What Parking at IAD Actually Costs',
+        paragraphs: [
+          'Dulles offers a ladder of options: economy lots at the bottom, daily garages in the middle, and hourly/valet at the top. Economy is the budget play, but it sits farthest out and adds a shuttle ride and a wait on both ends of your trip. The garages adjacent to the terminal are convenient and priced accordingly — a week there is a three-figure line item on its own.',
+          'The sticker rate is only the start. Add fuel and tolls both ways, the per-mile wear the IRS values at a real number for a reason, and — the piece everyone omits — the 30 to 45 minutes per direction that parking, shuttling, and hiking the garage actually consume. On a 6 a.m. departure, that unbudgeted time comes straight out of sleep.',
+        ],
+      },
+      {
+        heading: 'The Crossover Point: Where the Chauffeur Gets Cheaper',
+        paragraphs: [
+          'For a one- or two-day trip from a nearby suburb, driving and parking usually wins on pure dollars. But parking compounds daily and a round-trip car service is a fixed cost — so somewhere between day four and day seven, depending on your distance and lot choice, the lines cross. A ten-day international trip parked in a daily garage frequently costs more than round-trip chauffeured transfers from the same address.',
+          'Run your own numbers with your real parking choice — the garage you would actually use, not the economy lot you tell yourself you would — plus fuel, tolls, and mileage. Then call (877) 609-1919 for a flat round-trip quote and compare. The result surprises most people at the one-week mark.',
+        ],
+      },
+      {
+        heading: 'The Costs That Never Make the Spreadsheet',
+        paragraphs: [
+          'Some drive-and-park costs are real but uncountable until they happen: circling a full garage while your check-in window shrinks, a February return landing to a windshield under ice, a dead battery in row F at 11 p.m., or two weeks of airport-lot exposure for a car you care about. Long-term travelers also discover their preferred lot full during holiday peaks — precisely when flights are least forgiving.',
+          'A car service converts all of it into someone else’s job. You are dropped at the departures curb, and on return your chauffeur is at baggage claim, the cabin already warm or cool, while other passengers queue for the shuttle to remember where they parked.',
+        ],
+      },
+      {
+        heading: 'When Driving Yourself Still Makes Sense',
+        paragraphs: [
+          'Honesty cuts both ways. Overnight trips, flexible schedules, and travelers who live minutes from the airport with cheap parking access are legitimate drive-and-park territory. If your car is a commodity, your trip is short, and your departure is mid-morning, the garage wins the spreadsheet.',
+          'The chauffeur wins when trips run long, start pre-dawn, end after midnight, involve family and luggage, or follow international flights that leave you in no state to drive the Toll Road. For those trips, book online or call (877) 609-1919 — the flat quote makes the comparison a two-minute exercise.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Is a car service cheaper than parking at Dulles?',
+        answer:
+          'For trips of roughly 5 to 7 days or longer, round-trip flat-rate car service is frequently comparable to or cheaper than daily garage parking plus fuel, tolls, and mileage — and it wins on time and hassle well before that.',
+      },
+      {
+        question: 'How much time does parking at IAD add to a trip?',
+        answer:
+          'Plan on 30 to 45 minutes per direction for economy lots once you include the shuttle wait and terminal transfer — nearly an hour and a half round trip that a door-to-door pickup eliminates.',
+      },
+      {
+        question: 'What should I include when comparing parking vs a car service?',
+        answer:
+          'Daily parking for your actual trip length, fuel and tolls both directions, per-mile vehicle wear, and your time on both ends. Compare against a written round-trip flat quote at (877) 609-1919.',
+      },
+      {
+        question: 'Does a round trip booking cover my return pickup automatically?',
+        answer:
+          'Yes. Book both legs at once and we track your return flight, adjust for delays automatically, and have a chauffeur at baggage claim when you land.',
+      },
+      {
+        question: 'When does driving myself to Dulles make more sense?',
+        answer:
+          'Short trips of one to three days, flexible mid-day departures, and short distances to the airport favor driving and parking. Long, early, late, or family trips favor the car service.',
+      },
+    ],
+  },
+  {
+    slug: 'dulles-airport-international-arrivals-guide',
+    title: 'Landing at Dulles from Abroad: The International Arrivals Pickup Guide',
+    metaTitle: 'Dulles International Arrivals: IAD Pickup Guide',
+    metaDescription:
+      'Landing at Dulles from abroad? How international arrivals, customs, and pickups work at IAD — and how to have a chauffeur waiting when you clear customs.',
+    datePublished: '2026-07-22',
+    readTime: '6 min read',
+    excerpt:
+      'From the mobile lounge to customs to the arrivals hall — what actually happens after an international landing at IAD, and how to make the pickup seamless.',
+    intro: [
+      'International arrival at Dulles is a process, not a moment: deplane, possibly ride the airport’s famous mobile lounges to the main terminal, queue for passport control, wait for bags, clear customs, and finally emerge into the international arrivals hall — anywhere from 30 minutes to two hours after wheels touch down. For the traveler, it is the last stretch of a long day. For whoever is picking you up, it is a scheduling puzzle. This guide explains how the process actually flows and how to arrange a pickup that works with it instead of against it.',
+    ],
+    sections: [
+      {
+        heading: 'What Happens Between Landing and the Arrivals Hall',
+        paragraphs: [
+          'Most international flights at IAD deplane at the midfield concourses, and passengers reach the main terminal by AeroTrain or, from some gates, the mobile lounges that have shuttled Dulles passengers since the 1960s. Then comes passport control — where Global Entry holders and returning citizens with the MPC app move fastest — followed by baggage claim and the customs exit into the international arrivals hall.',
+          'The total varies enormously: a quiet weekday morning with Global Entry might take 25 minutes door to door; a peak afternoon bank of widebody arrivals can stretch past 90. Any pickup plan built on a fixed time is built on sand — which is exactly why timed curbside meetups with family or app drivers so often dissolve into circling cars and frantic texts.',
+        ],
+      },
+      {
+        heading: 'Why Meet and Greet Exists — and Earns Its Keep Here',
+        paragraphs: [
+          'Meet and greet service was designed for precisely this situation. Your chauffeur tracks the flight, positions inside the arrivals hall before the first passengers emerge, and waits with a name sign — however long customs takes. You walk out to a person expecting you, not a phone full of parking-garage instructions in a country you may be visiting for the first time.',
+          'For arriving executives, first-time visitors, families with children and trolleys of luggage, and anyone functioning on a nine-hour time difference, the difference is enormous: bags handled, vehicle staged, and the first decision of your American day already made. International arrivals bookings include generous complimentary wait time because slow customs is a normal event, not an exception.',
+        ],
+      },
+      {
+        heading: 'Set Up the Pickup Before You Board',
+        paragraphs: [
+          'The clean way to do this is to book before departure with your flight number attached. The flight number lets dispatch track the actual arrival — early, delayed, or diverted — and time the chauffeur to reality rather than the schedule. Add your destination address, vehicle preference, and any child seats when you book, and the entire American ground leg is solved before you leave your origin city.',
+          'Landing without a plan? The arrivals hall has taxi and app-pickup options, but after a long-haul flight with luggage, the garage walk and surge-priced queue are a rough welcome. Even a same-day call to (877) 609-1919 while waiting to board your connection can usually stage a chauffeur by the time you clear customs at Dulles.',
+        ],
+      },
+      {
+        heading: 'Onward: Where International Arrivals Actually Go',
+        paragraphs: [
+          'Dulles is the front door to an enormous region, and our arrivals continue everywhere: Washington hotels and embassies, the Tysons and Reston corporate corridor, university drop-offs at Georgetown and Charlottesville, medical stays in Baltimore and Bethesda, and long transfers to Richmond, Philadelphia, and the Chesapeake. One booking covers the whole leg — no transit transfers with jet lag, no negotiating a long fare at a curb.',
+          'Book your international arrival pickup online or call (877) 609-1919. Give us the flight number and the address; customs can take whatever time it takes, and your chauffeur will be waiting either way.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How long does customs take at Dulles Airport?',
+        answer:
+          'Anywhere from about 25 minutes on quiet mornings with Global Entry to over 90 minutes during peak afternoon arrival banks. Pickups should be flight-tracked rather than fixed to a clock time.',
+      },
+      {
+        question: 'Where does a chauffeur meet international arrivals at IAD?',
+        answer:
+          'Inside the international arrivals hall, holding a name sign, positioned before the first passengers from your flight emerge. Bags are handled and the vehicle is staged nearby.',
+      },
+      {
+        question: 'Do you charge for waiting if customs is slow?',
+        answer:
+          'International arrival bookings include generous complimentary wait time, and we track your flight’s actual arrival — slow customs never generates a surprise fee.',
+      },
+      {
+        question: 'Can I book a pickup for a relative arriving from overseas?',
+        answer:
+          'Yes. Book with their flight number and name, and the chauffeur meets them at arrivals with a name sign — a common arrangement for arriving parents, students, and guests. Call (877) 609-1919 to set it up.',
+      },
+      {
+        question: 'Can the pickup continue to a distant city like Richmond or Philadelphia?',
+        answer:
+          'Yes. Long-distance onward transfers are a specialty — one flat-rate booking covers baggage claim to your final door, however far the region takes you.',
+      },
+    ],
+  },
 ];
 
 export default posts;
