@@ -167,7 +167,7 @@ const BookingPage = () => {
 
       <section className="py-10 bg-[#050505]">
         <div className="max-w-3xl mx-auto px-4">
-          <div className="bg-[#0d0d0d] border border-[#d4af37]/25 rounded-2xl overflow-hidden shadow-[0_0_60px_rgba(212,175,55,0.08)]">
+          <div className="bg-[#0d0d0d] border border-[#d4af37]/25 rounded-2xl shadow-[0_0_60px_rgba(212,175,55,0.08)]">
             {/* Card header with completion progress */}
             <div className="px-6 sm:px-8 pt-6 pb-5 border-b border-white/10">
               <div className="flex items-end justify-between gap-4">
@@ -275,14 +275,14 @@ const BookingPage = () => {
                       </div>
                     </Field>
 
-                    <Field index={6}>
+                    <Field index={6} className="relative z-30">
                       <AddressAutocomplete
                         label="Pickup Location" name="pickup_location" required
                         value={formData.pickup_location}
                         onChange={(v) => setField('pickup_location', v)}
                       />
                     </Field>
-                    <Field index={7}>
+                    <Field index={7} className="relative z-20">
                       <AddressAutocomplete
                         label="Drop-off Location" name="dropoff_location" required
                         value={formData.dropoff_location}

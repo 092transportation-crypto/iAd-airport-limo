@@ -100,7 +100,7 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
   };
 
   return (
-    <div className={`relative ${className}`} style={style}>
+    <div className={`relative ${open ? 'z-40' : ''} ${className}`} style={style}>
       <input
         type="text"
         name={name}
@@ -121,13 +121,16 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
       </span>
 
       {open && visible.length > 0 && (
-        <div className="absolute z-30 left-0 right-0 mt-2 bg-[#111111] border border-white/15 rounded-xl shadow-2xl overflow-hidden bk-scale-in">
+        <div
+          className="absolute z-50 left-0 right-0 mt-2 border border-white/20 rounded-xl shadow-[0_12px_40px_rgba(0,0,0,0.85)] overflow-hidden bk-scale-in"
+          style={{ backgroundColor: '#1a1a1a' }}
+        >
           {showAirports && (
             <div className="px-4 pt-2.5 pb-1 text-[10px] uppercase tracking-widest text-white/35">
               Popular airports
             </div>
           )}
-          <ul>
+          <ul className="max-h-64 overflow-y-auto overscroll-contain">
             {visible.map((item, i) => (
               <li key={item}>
                 <button
@@ -136,9 +139,10 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
                     e.preventDefault();
                     select(item);
                   }}
+                  onTouchStart={() => setHighlight(i)}
                   onMouseEnter={() => setHighlight(i)}
-                  className={`w-full flex items-start gap-2.5 px-4 py-2.5 text-left text-sm transition-colors duration-150 ${
-                    i === highlight ? 'bg-[#d4af37]/15 text-white' : 'text-white/75'
+                  className={`w-full flex items-start gap-2.5 px-4 py-3 text-left text-sm transition-colors duration-150 hover:bg-[#d4af37]/20 hover:text-white ${
+                    i === highlight ? 'bg-[#d4af37]/20 text-white' : 'text-white/90'
                   }`}
                 >
                   {showAirports ? (
