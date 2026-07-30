@@ -1,10 +1,13 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
-import TrustSignals from '../components/TrustSignals';
-import { Shield, Clock, Star, Award, Phone, Mail, ExternalLink, Send, CheckCircle } from 'lucide-react';
+import AddressAutocomplete from '../components/AddressAutocomplete';
+import {
+  Phone, Mail, MessageSquare, Send, ShieldCheck, BadgeCheck, Clock,
+  PlaneTakeoff, Minus, Plus
+} from 'lucide-react';
 
 const bookingFaqs = [
   {
@@ -29,6 +32,53 @@ const bookingFaqs = [
   },
 ];
 
+const SERVICE_TYPES = [
+  'Airport Transfer', 'Corporate Travel', 'Wedding Transportation', 'Prom / School Event',
+  'Wine Tour', 'Concert / Event', 'Birthday / Night Out', 'Hourly Charter', 'Other',
+];
+
+const VEHICLE_TYPES = ['Any Vehicle', 'Sedan', 'SUV', 'Sprinter Van'];
+
+const CONTACT_OPTIONS = [
+  { value: 'Phone', icon: Phone },
+  { value: 'Text', icon: MessageSquare },
+  { value: 'Email', icon: Mail },
+];
+
+const TRUST_BADGES = [
+  { icon: BadgeCheck, label: 'MD PSC Carrier #6325' },
+  { icon: ShieldCheck, label: 'Licensed & Insured' },
+  { icon: Clock, label: '24/7 Service' },
+  { icon: PlaneTakeoff, label: 'Flight Tracking' },
+];
+
+const GOLD = '#d4af37';
+
+// Wrapper that staggers each field's entrance animation on page load.
+const Field = ({ index, className = '', children }) => (
+  <div className={`bk-field-in ${className}`} style={{ animationDelay: `${index * 70}ms` }}>
+    {children}
+  </div>
+);
+
+const FloatingInput = ({ label, name, value, onChange, type = 'text', required = false, alwaysFloat = false, min }) => (
+  <div className="relative">
+    <input
+      type={type}
+      name={name}
+      value={value}
+      onChange={onChange}
+      required={required}
+      min={min}
+      placeholder=" "
+      className="bk-input"
+    />
+    <label className={`bk-label ${alwaysFloat ? 'bk-label--float' : ''}`}>
+      {label}{required ? ' *' : ''}
+    </label>
+  </div>
+);
+
 const BookingPage = () => {
   const emptyForm = {
     name: '',
@@ -36,6 +86,7 @@ const BookingPage = () => {
     email: '',
     preferred_contact: 'Phone',
     service_type: 'Airport Transfer',
+    vehicle_type: 'Any Vehicle',
     pickup_location: '',
     dropoff_location: '',
     date: '',
@@ -51,6 +102,17 @@ const BookingPage = () => {
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
+
+  const setField = (name, value) => setFormData((f) => ({ ...f, [name]: value }));
+
+  const stepPassengers = (delta) =>
+    setFormData((f) => ({ ...f, passengers: Math.min(14, Math.max(1, f.passengers + delta)) }));
+
+  const progress = useMemo(() => {
+    const required = ['name', 'phone', 'email', 'pickup_location', 'dropoff_location', 'date', 'time'];
+    const filled = required.filter((k) => String(formData[k]).trim() !== '').length;
+    return Math.round((filled / required.length) * 100);
+  }, [formData]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -76,12 +138,14 @@ const BookingPage = () => {
     setLoading(false);
   };
 
-  const features = [
-    { icon: <Shield className="h-5 w-5" />, text: 'Secure Booking' },
-    { icon: <Clock className="h-5 w-5" />, text: 'Quick Response' },
-    { icon: <Star className="h-5 w-5" />, text: 'Best Rates' },
-    { icon: <Award className="h-5 w-5" />, text: 'Professional Service' }
-  ];
+  const contactIndex = CONTACT_OPTIONS.findIndex((o) => o.value === formData.preferred_contact);
+
+  const pillClasses = (active) =>
+    `px-4 py-2 rounded-full text-xs sm:text-sm font-semibold border transition-all duration-300 active:scale-95 ${
+      active
+        ? 'bg-[#d4af37] text-black border-[#d4af37] shadow-[0_0_18px_rgba(212,175,55,0.35)]'
+        : 'bg-white/[0.04] text-white/60 border-white/15 hover:border-[#d4af37]/60 hover:text-white'
+    }`;
 
   return (
     <div className="min-h-screen bg-black">
@@ -93,135 +157,200 @@ const BookingPage = () => {
       />
       <Navbar />
 
-      <section className="relative pt-32 pb-12 bg-black">
+      <section className="relative pt-32 pb-10 bg-black">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <p className="text-white/40 text-xs tracking-widest uppercase mb-3">Reservations</p>
+          <p className="text-[#d4af37] text-xs tracking-[0.3em] uppercase mb-3">Reservations</p>
           <h1 className="font-display text-4xl md:text-5xl text-white mb-4">Book Your Ride</h1>
-          <p className="text-white/60 max-w-2xl mx-auto">Get a free quote for premium airport transportation</p>
+          <p className="text-white/60 max-w-2xl mx-auto">Get a free flat-rate quote for premium airport transportation</p>
         </div>
       </section>
 
-      <section className="py-4 bg-white">
-        <div className="max-w-7xl mx-auto px-4">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {features.map((feature, index) => (
-              <div key={index} className="flex items-center justify-center gap-2">
-                <div className="text-black">{feature.icon}</div>
-                <span className="text-black font-semibold text-xs sm:text-sm">{feature.text}</span>
+      <section className="py-10 bg-[#050505]">
+        <div className="max-w-3xl mx-auto px-4">
+          <div className="bg-[#0d0d0d] border border-[#d4af37]/25 rounded-2xl overflow-hidden shadow-[0_0_60px_rgba(212,175,55,0.08)]">
+            {/* Card header with completion progress */}
+            <div className="px-6 sm:px-8 pt-6 pb-5 border-b border-white/10">
+              <div className="flex items-end justify-between gap-4">
+                <div>
+                  <h2 className="font-display text-2xl text-white">Request a Free Quote</h2>
+                  <p className="text-white/50 text-xs mt-1">We respond within 15 minutes</p>
+                </div>
+                {!submitted && (
+                  <div className="text-right">
+                    <span className="text-[#d4af37] font-semibold text-lg tabular-nums">{progress}%</span>
+                    <p className="text-white/40 text-[10px] uppercase tracking-widest">complete</p>
+                  </div>
+                )}
               </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="py-12 bg-[#0a0a0a]">
-        <div className="max-w-4xl mx-auto px-4">
-          {/* Booking Form */}
-          <div className="bg-white rounded-lg overflow-hidden shadow-xl mb-8">
-            <div className="bg-black p-4">
-              <h2 className="text-lg font-semibold text-white text-center">Request a Free Quote</h2>
-              <p className="text-white/60 text-xs text-center mt-1">We respond within 15 minutes</p>
+              {!submitted && (
+                <div className="mt-4 h-1 rounded-full bg-white/10 overflow-hidden">
+                  <div
+                    className="h-full rounded-full transition-all duration-500 ease-out"
+                    style={{
+                      width: `${progress}%`,
+                      background: `linear-gradient(90deg, #a8871c, ${GOLD})`,
+                      boxShadow: progress > 0 ? '0 0 10px rgba(212,175,55,0.6)' : 'none',
+                    }}
+                  />
+                </div>
+              )}
             </div>
-            
-            <div className="p-6">
+
+            <div className="p-6 sm:p-8">
               {submitted ? (
-                <div className="text-center py-8">
-                  <CheckCircle className="w-16 h-16 text-green-500 mx-auto mb-4" />
-                  <h3 className="text-2xl font-bold text-gray-800 mb-2">Request Submitted!</h3>
-                  <p className="text-gray-600 mb-4">We'll contact you shortly with your quote.</p>
-                  <button 
+                <div className="text-center py-10 bk-scale-in">
+                  <svg viewBox="0 0 52 52" className="w-24 h-24 mx-auto mb-6" aria-hidden="true">
+                    <circle className="bk-success-circle" cx="26" cy="26" r="24" fill="none" stroke={GOLD} strokeWidth="2" />
+                    <path className="bk-success-check" fill="none" stroke={GOLD} strokeWidth="3"
+                      strokeLinecap="round" strokeLinejoin="round" d="M14 27l8 8 16-16" />
+                  </svg>
+                  <h3 className="font-display text-3xl text-white mb-3">Request Submitted!</h3>
+                  <p className="text-white/60 mb-8">We'll contact you shortly with your flat-rate quote.</p>
+                  <button
                     onClick={() => setSubmitted(false)}
-                    className="px-6 py-2 bg-black text-white font-semibold hover:bg-gray-800"
+                    className="px-8 py-3 border border-[#d4af37] text-[#d4af37] font-semibold uppercase tracking-wider text-sm rounded-full hover:bg-[#d4af37] hover:text-black transition-all duration-300"
                   >
                     Submit Another Request
                   </button>
                 </div>
               ) : (
-                <form onSubmit={handleSubmit} className="space-y-4">
+                <form onSubmit={handleSubmit} className="space-y-5">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Name *</label>
-                      <input type="text" name="name" value={formData.name} onChange={handleChange} required
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Email *</label>
-                      <input type="email" name="email" value={formData.email} onChange={handleChange} required
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Phone *</label>
-                      <input type="tel" name="phone" value={formData.phone} onChange={handleChange} required
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Preferred Contact</label>
-                      <select name="preferred_contact" value={formData.preferred_contact} onChange={handleChange}
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white">
-                        <option value="Phone">Phone</option>
-                        <option value="Email">Email</option>
-                        <option value="Text">Text</option>
-                      </select>
-                    </div>
-                    <div className="md:col-span-2">
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Service Type</label>
-                      <select name="service_type" value={formData.service_type} onChange={handleChange}
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white">
-                        <option value="Airport Transfer">Airport Transfer</option>
-                        <option value="Corporate Travel">Corporate Travel</option>
-                        <option value="Wedding Transportation">Wedding Transportation</option>
-                        <option value="Prom / School Event">Prom / School Event</option>
-                        <option value="Wine Tour">Wine Tour</option>
-                        <option value="Concert / Event">Concert / Event</option>
-                        <option value="Birthday / Night Out">Birthday / Night Out</option>
-                        <option value="Hourly Charter">Hourly Charter</option>
-                        <option value="Other">Other</option>
-                      </select>
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Location *</label>
-                      <input type="text" name="pickup_location" value={formData.pickup_location} onChange={handleChange} required
-                        placeholder="Address or Airport"
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Drop-off Location *</label>
-                      <input type="text" name="dropoff_location" value={formData.dropoff_location} onChange={handleChange} required
-                        placeholder="Address or Airport"
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Date *</label>
-                      <input type="date" name="date" value={formData.date} onChange={handleChange} required
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Pickup Time *</label>
-                      <input type="time" name="time" value={formData.time} onChange={handleChange} required
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white" />
-                    </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Number of Passengers</label>
-                      <select name="passengers" value={formData.passengers} onChange={handleChange}
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white">
-                        {Array.from({ length: 14 }, (_, i) => i + 1).map((n) => (
-                          <option key={n} value={n}>{n} {n === 1 ? 'Passenger' : 'Passengers'}</option>
+                    <Field index={0}>
+                      <FloatingInput label="Full Name" name="name" value={formData.name} onChange={handleChange} required />
+                    </Field>
+                    <Field index={1}>
+                      <FloatingInput label="Phone" name="phone" type="tel" value={formData.phone} onChange={handleChange} required />
+                    </Field>
+                    <Field index={2}>
+                      <FloatingInput label="Email" name="email" type="email" value={formData.email} onChange={handleChange} required />
+                    </Field>
+
+                    {/* Animated preferred-contact toggle */}
+                    <Field index={3}>
+                      <p className="text-[10px] uppercase tracking-widest text-white/40 mb-1.5 pl-1">Preferred Contact</p>
+                      <div className="relative grid grid-cols-3 bg-white/[0.05] border border-white/10 rounded-full p-1">
+                        <span
+                          className="absolute inset-y-1 left-1 w-[calc((100%-0.5rem)/3)] rounded-full bg-[#d4af37] transition-transform duration-300 ease-out shadow-[0_0_14px_rgba(212,175,55,0.4)]"
+                          style={{ transform: `translateX(${Math.max(0, contactIndex) * 100}%)` }}
+                        />
+                        {CONTACT_OPTIONS.map(({ value, icon: Icon }) => (
+                          <button
+                            key={value}
+                            type="button"
+                            onClick={() => setField('preferred_contact', value)}
+                            className={`relative z-10 flex items-center justify-center gap-1.5 py-2 text-xs font-semibold rounded-full transition-colors duration-300 ${
+                              formData.preferred_contact === value ? 'text-black' : 'text-white/60 hover:text-white'
+                            }`}
+                          >
+                            <Icon className="w-3.5 h-3.5" /> {value}
+                          </button>
                         ))}
-                      </select>
-                    </div>
-                    <div className="md:col-span-2">
-                      <label className="block text-sm font-medium text-gray-700 mb-1">Notes</label>
-                      <textarea name="message" value={formData.message} onChange={handleChange} rows={3}
-                        placeholder="Flight number, luggage count, child seats, special requests…"
-                        className="w-full px-4 py-2 border border-gray-300 rounded focus:ring-2 focus:ring-black focus:border-transparent text-gray-900 bg-white resize-y" />
-                    </div>
+                      </div>
+                    </Field>
+
+                    {/* Service type pills */}
+                    <Field index={4} className="md:col-span-2">
+                      <p className="text-[10px] uppercase tracking-widest text-white/40 mb-2 pl-1">Service Type</p>
+                      <div className="flex flex-wrap gap-2">
+                        {SERVICE_TYPES.map((s) => (
+                          <button key={s} type="button" onClick={() => setField('service_type', s)}
+                            className={pillClasses(formData.service_type === s)}>
+                            {s}
+                          </button>
+                        ))}
+                      </div>
+                    </Field>
+
+                    {/* Vehicle type pills */}
+                    <Field index={5} className="md:col-span-2">
+                      <p className="text-[10px] uppercase tracking-widest text-white/40 mb-2 pl-1">Vehicle Type</p>
+                      <div className="flex flex-wrap gap-2">
+                        {VEHICLE_TYPES.map((v) => (
+                          <button key={v} type="button" onClick={() => setField('vehicle_type', v)}
+                            className={pillClasses(formData.vehicle_type === v)}>
+                            {v}
+                          </button>
+                        ))}
+                      </div>
+                    </Field>
+
+                    <Field index={6}>
+                      <AddressAutocomplete
+                        label="Pickup Location" name="pickup_location" required
+                        value={formData.pickup_location}
+                        onChange={(v) => setField('pickup_location', v)}
+                      />
+                    </Field>
+                    <Field index={7}>
+                      <AddressAutocomplete
+                        label="Drop-off Location" name="dropoff_location" required
+                        value={formData.dropoff_location}
+                        onChange={(v) => setField('dropoff_location', v)}
+                      />
+                    </Field>
+
+                    <Field index={8}>
+                      <FloatingInput label="Date" name="date" type="date" value={formData.date} onChange={handleChange} required alwaysFloat />
+                    </Field>
+                    <Field index={9}>
+                      <FloatingInput label="Pickup Time" name="time" type="time" value={formData.time} onChange={handleChange} required alwaysFloat />
+                    </Field>
+
+                    {/* Passenger stepper */}
+                    <Field index={10} className="md:col-span-2">
+                      <p className="text-[10px] uppercase tracking-widest text-white/40 mb-2 pl-1">Number of Passengers</p>
+                      <div className="flex items-center gap-5">
+                        <button type="button" onClick={() => stepPassengers(-1)} disabled={formData.passengers <= 1}
+                          aria-label="Fewer passengers"
+                          className="w-11 h-11 rounded-full border border-white/20 text-white flex items-center justify-center transition-all duration-200 hover:border-[#d4af37] hover:text-[#d4af37] active:scale-90 disabled:opacity-25 disabled:pointer-events-none">
+                          <Minus className="w-4 h-4" />
+                        </button>
+                        <div className="w-20 text-center">
+                          <span key={formData.passengers} className="bk-pop inline-block text-3xl font-bold text-[#d4af37] tabular-nums">
+                            {formData.passengers}
+                          </span>
+                          <p className="text-white/40 text-[10px] uppercase tracking-widest">
+                            {formData.passengers === 1 ? 'Passenger' : 'Passengers'}
+                          </p>
+                        </div>
+                        <button type="button" onClick={() => stepPassengers(1)} disabled={formData.passengers >= 14}
+                          aria-label="More passengers"
+                          className="w-11 h-11 rounded-full border border-white/20 text-white flex items-center justify-center transition-all duration-200 hover:border-[#d4af37] hover:text-[#d4af37] active:scale-90 disabled:opacity-25 disabled:pointer-events-none">
+                          <Plus className="w-4 h-4" />
+                        </button>
+                      </div>
+                    </Field>
+
+                    <Field index={11} className="md:col-span-2">
+                      <div className="relative">
+                        <textarea name="message" value={formData.message} onChange={handleChange} rows={3}
+                          placeholder=" " className="bk-input resize-y" />
+                        <label className="bk-label">Notes — flight number, luggage, child seats…</label>
+                      </div>
+                    </Field>
                   </div>
-                  {error && <p className="text-red-500 text-sm">{error}</p>}
-                  <button type="submit" disabled={loading}
-                    className="w-full py-3 bg-black text-white font-bold uppercase tracking-wider hover:bg-gray-800 disabled:bg-gray-400 flex items-center justify-center gap-2">
-                    {loading ? 'Submitting...' : <><Send className="w-4 h-4" /> Get Free Quote</>}
-                  </button>
-                  <TrustSignals dark className="pt-1" />
+
+                  {error && <p className="text-red-400 text-sm">{error}</p>}
+
+                  <Field index={12}>
+                    <button type="submit" disabled={loading}
+                      className="bk-shimmer-btn w-full py-4 rounded-xl text-black font-bold uppercase tracking-[0.15em] text-sm flex items-center justify-center gap-2 transition-transform duration-200 hover:scale-[1.015] active:scale-[0.99] disabled:opacity-60 disabled:pointer-events-none">
+                      {loading ? 'Submitting…' : <><Send className="w-4 h-4" /> Get My Free Quote</>}
+                    </button>
+                  </Field>
+
+                  {/* Trust badges */}
+                  <Field index={13}>
+                    <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-2">
+                      {TRUST_BADGES.map(({ icon: Icon, label }) => (
+                        <div key={label} className="flex items-center justify-center gap-2 py-2 px-1 rounded-lg bg-white/[0.03] border border-white/10">
+                          <Icon className="w-4 h-4 flex-shrink-0 text-[#d4af37]" />
+                          <span className="text-white/60 text-[11px] font-medium leading-tight">{label}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </Field>
                 </form>
               )}
             </div>
@@ -232,11 +361,11 @@ const BookingPage = () => {
             <p className="text-white/40 mb-4 text-sm">Prefer to book by phone or email?</p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a href="tel:+18776091919"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-white text-white font-bold uppercase tracking-wider text-sm hover:bg-white hover:text-black transition-all">
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-white/70 text-white font-bold uppercase tracking-wider text-sm hover:border-[#d4af37] hover:text-[#d4af37] transition-all">
                 <Phone className="w-4 h-4" /> (877) 609-1919
               </a>
               <a href="mailto:limoiadairport@gmail.com"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-white text-white font-bold uppercase tracking-wider text-sm hover:bg-white hover:text-black transition-all">
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-white/70 text-white font-bold uppercase tracking-wider text-sm hover:border-[#d4af37] hover:text-[#d4af37] transition-all">
                 <Mail className="w-4 h-4" /> Email Us
               </a>
             </div>

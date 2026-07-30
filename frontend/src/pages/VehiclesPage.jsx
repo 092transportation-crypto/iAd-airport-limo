@@ -54,7 +54,7 @@ const VehiclesPage = () => {
   const images = {
     sedan: 'https://images.unsplash.com/photo-1763789381177-cd8a04aaa2ef?w=800&q=80',
     suv: 'https://images.unsplash.com/photo-1767749995450-7b63ab7cd4fd?w=800&q=80',
-    sprinter: 'https://images.unsplash.com/photo-1740485863233-032dff964d0d?w=800&q=80',
+    sprinter: '/sprinter-van.jpg',
   };
 
   const vehicleData = {

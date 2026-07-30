@@ -41,10 +41,10 @@ const HomePage = () => {
   const logo = '/logo.png';
 
   const fleetImages = {
-    eclass: 'https://92limo.com/wp-content/uploads/2025/06/mercedes-e-class-removebg-preview-300x138.png',
+    eclass: '/mercedes-eclass.jpg',
     sclass: '/mercedes-sclass-new.png',
-    escalade: 'https://92limo.com/wp-content/uploads/2025/06/cadillac-escalade-300x169.png',
-    sprinter: 'https://92limo.com/wp-content/uploads/2025/06/mercedes-sprinter-300x200.png',
+    escalade: '/cadillac-escalade.jpg',
+    sprinter: '/sprinter-van.jpg',
     navigator: '/lincoln-navigator-new.png',
     suburban: '/chevy-suburban-new.png',
     yukon: '/gmc-yukon-new.png',
