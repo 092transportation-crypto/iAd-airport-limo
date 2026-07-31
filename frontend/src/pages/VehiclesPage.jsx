@@ -15,7 +15,7 @@ const vehicleSeo = {
   suv: {
     title: 'Luxury SUVs | Dulles Airport Limo Fleet',
     description:
-      'Premium SUVs for IAD transfers — Escalade, Navigator, Suburban & Yukon XL seating up to 6 with full luggage. Book online or call (877) 609-1919.',
+      'Premium SUVs for IAD transfers — Lincoln Nautilus, Chevrolet Suburban & Cadillac Escalade seating up to 6 with full luggage. Book online or call (877) 609-1919.',
   },
   sprinters: {
     title: 'Sprinter Vans | IAD Group Airport Transportation',
@@ -51,35 +51,36 @@ const VehiclesPage = () => {
   const { category } = useParams();
   const seoMeta = vehicleSeo[category] || vehicleSeo.sedans;
 
+  // Fleet photos in /public/images — byte-identical to 92limo's fleet photos.
   const images = {
-    sedan: 'https://images.unsplash.com/photo-1763789381177-cd8a04aaa2ef?w=800&q=80',
-    suv: 'https://images.unsplash.com/photo-1767749995450-7b63ab7cd4fd?w=800&q=80',
-    sprinter: '/sprinter-van.jpg',
+    sedan: '/images/mercedes-e-class.jpg',
+    bmw7: '/images/bmw-7-series.jpg',
+    nautilus: '/images/lincoln-nautilus.jpg',
+    suburban: '/images/chevy-suburban.jpg',
+    suv: '/images/cadillac-escalade.jpg',
+    sprinter: '/images/mercedes-sprinter.jpg',
+    sprinterShuttle: '/images/sprinter-shuttle-seats.jpg',
+    sprinterLimo: '/images/limousine.jpg',
   };
 
+  // Category pages mirror the 8-vehicle fleet — kept in sync with 92limo.com.
   const vehicleData = {
     sedans: {
       title: 'Luxury Sedans',
       subtitle: 'Executive comfort for business and pleasure',
       vehicles: [
         {
-          name: 'Economy Class',
-          pax: 3, luggage: 2,
-          image: images.sedan,
-          features: ['Leather Interior', 'Climate Control', 'Complimentary Water', 'Professional Driver']
-        },
-        {
-          name: 'Business Class',
-          subtitle: 'Mercedes E-Class',
+          name: 'Business Sedan',
+          subtitle: 'Mercedes-Benz E-Class 2023+ or similar',
           pax: 3, luggage: 2,
           image: images.sedan,
           features: ['Premium Leather', 'WiFi', 'Phone Charger', 'Privacy Glass', 'Climate Control']
         },
         {
-          name: 'First Class',
-          subtitle: 'Mercedes S-Class',
+          name: 'First Class Sedan',
+          subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar',
           pax: 3, luggage: 2,
-          image: images.sedan,
+          image: images.bmw7,
           features: ['Executive Seating', 'Massage Seats', 'Premium Sound', 'Mini Bar', 'Privacy Partition']
         }
       ]
@@ -89,22 +90,25 @@ const VehiclesPage = () => {
       subtitle: 'Spacious luxury for groups and families',
       vehicles: [
         {
-          name: 'Cadillac Escalade',
-          pax: 5, luggage: 5,
-          image: images.suv,
-          features: ['Third Row Seating', 'Premium Sound', 'Climate Zones', 'Leather Interior']
+          name: 'Midsize SUV',
+          subtitle: 'Lincoln Nautilus 2023+ or similar',
+          pax: 3, luggage: 4,
+          image: images.nautilus,
+          features: ['Extra Luggage Room', 'Leather Interior', 'Climate Control', 'WiFi']
         },
         {
-          name: 'Lincoln Navigator',
+          name: 'Luxury SUV',
+          subtitle: 'Chevrolet Suburban 2023+ or similar',
+          pax: 5, luggage: 5,
+          image: images.suburban,
+          features: ['Spacious Interior', 'Fold-Flat Seats', 'Ample Cargo Space', 'Smooth Ride']
+        },
+        {
+          name: 'Premium SUV',
+          subtitle: 'Cadillac Escalade 2023+ or similar',
           pax: 6, luggage: 5,
           image: images.suv,
-          features: ['Perfect Position Seating', 'Panoramic Roof', 'Reclining Seats', 'Premium Audio']
-        },
-        {
-          name: 'Chevy Suburban',
-          pax: 6, luggage: 6,
-          image: images.suv,
-          features: ['Spacious Interior', 'Fold-Flat Seats', 'Ample Cargo Space', 'Smooth Ride']
+          features: ['Third Row Seating', 'Premium Sound', 'Climate Zones', 'Leather Interior']
         }
       ]
     },
@@ -113,18 +117,25 @@ const VehiclesPage = () => {
       subtitle: 'Perfect for groups and corporate travel',
       vehicles: [
         {
-          name: 'Executive Sprinter',
-          subtitle: 'Mercedes Sprinter',
-          pax: 13, luggage: 12,
+          name: 'Sprinter Shuttle',
+          subtitle: 'Mercedes Sprinter 2023+ or similar',
+          pax: 13, luggage: 13,
+          image: images.sprinterShuttle,
+          features: ['Group Seating', 'Spacious Interior', 'WiFi', 'USB Charging']
+        },
+        {
+          name: 'Sprinter Executive',
+          subtitle: 'Mercedes Sprinter 2023+ or similar',
+          pax: 13, luggage: 13,
           image: images.sprinter,
           features: ['Conference Seating', 'LED Lighting', 'Premium Audio', 'USB Charging', 'Standing Room']
         },
         {
-          name: 'Party Sprinter',
-          subtitle: 'Mercedes Sprinter Limo',
-          pax: 10, luggage: 8,
-          image: images.sprinter,
-          features: ['Disco Lighting', 'Sound System', 'Bar Area', 'Privacy Partition', 'Dance Floor']
+          name: 'Sprinter Limo',
+          subtitle: 'Mercedes Sprinter Limo 2023+ or similar',
+          pax: 13, luggage: 13,
+          image: images.sprinterLimo,
+          features: ['Limo Interior', 'Mood Lighting', 'Premium Sound', 'Mini Bar']
         }
       ]
     },

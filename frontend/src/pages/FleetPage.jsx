@@ -10,12 +10,12 @@ const fleetFaqs = [
   {
     question: 'What vehicles can I book for a Dulles airport transfer?',
     answer:
-      'Executive sedans (Mercedes-Benz S-Class, E-Class, BMW 7 Series), luxury SUVs (Cadillac Escalade, Lincoln Navigator, Chevy Suburban, GMC Yukon XL), and Mercedes Sprinter vans for up to 13 passengers.',
+      'Business and First Class sedans (Mercedes-Benz E-Class, BMW 7 Series, Mercedes S-Class), luxury SUVs (Lincoln Nautilus, Chevrolet Suburban, Cadillac Escalade), and Mercedes Sprinter shuttles, executive vans and limos for up to 13 passengers.',
   },
   {
     question: 'Which vehicle fits a family of five with checked luggage?',
     answer:
-      'A full-size SUV — Suburban, Yukon XL, or Navigator — seats up to six passengers with five to six large bags. For more people or luggage, choose a Sprinter van.',
+      'A full-size SUV — the Chevrolet Suburban seats five passengers with five bags, and the Cadillac Escalade seats six with five bags. For more people or luggage, choose a Sprinter van.',
   },
   {
     question: 'Are the vehicles cleaned between trips?',
@@ -32,26 +32,28 @@ const fleetFaqs = [
 const FleetPage = () => {
   const [activeCategory, setActiveCategory] = useState('all');
 
+  // The 8 fleet categories, in exact order — kept in sync with 92limo.com.
+  // Images live in /public/images, byte-identical to 92limo's fleet photos.
   const fleetImages = {
-    eclass: '/mercedes-eclass.jpg',
-    sclass: '/mercedes-sclass-new.png',
-    escalade: '/cadillac-escalade.jpg',
-    sprinter: '/sprinter-van.jpg',
-    navigator: '/lincoln-navigator-new.png',
-    suburban: '/chevy-suburban-new.png',
-    yukon: '/gmc-yukon-new.png',
-    bmw7: '/bmw-7-new.png',
+    eclass: '/images/mercedes-e-class.jpg',
+    bmw7: '/images/bmw-7-series.jpg',
+    nautilus: '/images/lincoln-nautilus.jpg',
+    suburban: '/images/chevy-suburban.jpg',
+    escalade: '/images/cadillac-escalade.jpg',
+    sprinterShuttle: '/images/sprinter-shuttle-seats.jpg',
+    sprinterExecutive: '/images/mercedes-sprinter.jpg',
+    sprinterLimo: '/images/limousine.jpg',
   };
 
   const vehicles = [
-    { id: 1, name: 'BMW 7 Series', subtitle: '2022 Premium Sedan', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.bmw7 },
-    { id: 2, name: 'Business Class', subtitle: 'Mercedes E-Class', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.eclass },
-    { id: 3, name: 'First Class', subtitle: 'Mercedes S-Class', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.sclass },
-    { id: 4, name: 'Lincoln Navigator L', subtitle: '2024 Premium SUV', category: 'suv', pax: 6, luggage: 5, image: fleetImages.navigator },
-    { id: 5, name: 'Cadillac Escalade', subtitle: 'Premium SUV', category: 'suv', pax: 5, luggage: 5, image: fleetImages.escalade },
-    { id: 6, name: 'Chevy Suburban', subtitle: '2025 Luxury SUV', category: 'suv', pax: 6, luggage: 6, image: fleetImages.suburban },
-    { id: 7, name: 'GMC Yukon XL', subtitle: '2024 Luxury SUV', category: 'suv', pax: 6, luggage: 6, image: fleetImages.yukon },
-    { id: 8, name: 'Sprinter Van', subtitle: 'Mercedes Sprinter', category: 'vans', pax: 13, luggage: 12, image: fleetImages.sprinter },
+    { id: 1, name: 'Business Sedan', subtitle: 'Mercedes-Benz E-Class 2023+ or similar', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.eclass },
+    { id: 2, name: 'First Class Sedan', subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.bmw7 },
+    { id: 3, name: 'Midsize SUV', subtitle: 'Lincoln Nautilus 2023+ or similar', category: 'suv', pax: 3, luggage: 4, image: fleetImages.nautilus },
+    { id: 4, name: 'Luxury SUV', subtitle: 'Chevrolet Suburban 2023+ or similar', category: 'suv', pax: 5, luggage: 5, image: fleetImages.suburban },
+    { id: 5, name: 'Premium SUV', subtitle: 'Cadillac Escalade 2023+ or similar', category: 'suv', pax: 6, luggage: 5, image: fleetImages.escalade },
+    { id: 6, name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
+    { id: 7, name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
+    { id: 8, name: 'Sprinter Limo', subtitle: 'Mercedes Sprinter Limo 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterLimo },
   ];
 
   const filteredVehicles = activeCategory === 'all' ? vehicles : vehicles.filter(v => v.category === activeCategory);

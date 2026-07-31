@@ -97,7 +97,7 @@ const routes = [
         heading: 'A Better Ride Than Rideshare or the Silver Line',
         paragraphs: [
           'The Metro’s Silver Line reaches Bethesda only with a Red Line transfer and can stretch past 90 minutes with luggage in tow. Rideshares from IAD to Maryland frequently surge, and long cross-river trips are the ones drivers most often cancel. Our service eliminates both problems: your reservation is guaranteed, your rate is fixed, and your chauffeur is dedicated to your trip from the moment your flight lands.',
-          'Choose a Mercedes-Benz or BMW executive sedan for solo business travel, or a Chevy Suburban, GMC Yukon XL, or Lincoln Navigator when the whole family is flying in with luggage. Every vehicle is detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
+          'Choose a Mercedes-Benz or BMW executive sedan for solo business travel, or a Chevrolet Suburban, Cadillac Escalade, or Lincoln Nautilus when the whole family is flying in with luggage. Every vehicle is detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -194,7 +194,7 @@ const routes = [
       {
         question: 'What vehicles are available for the IAD to Arlington route?',
         answer:
-          'Choose from executive sedans like the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs including the Cadillac Escalade and Lincoln Navigator, or Mercedes Sprinter vans for groups up to 13.',
+          'Choose from executive sedans like the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs including the Cadillac Escalade and Chevrolet Suburban, or Mercedes Sprinter vans for groups up to 13.',
       },
       {
         question: 'Can I set up a corporate account for regular Arlington–IAD travel?',
@@ -231,7 +231,7 @@ const routes = [
         heading: 'Why Alexandria Travelers Skip the Rideshare Queue',
         paragraphs: [
           'IAD’s rideshare pickup area sits a parking-garage walk from baggage claim, and longer trips like Alexandria are the ones drivers decline most often. With our service there is no queue and no gamble: your chauffeur is already at the terminal when you land, tracking your flight, with your name on a sign at baggage claim if you choose meet and greet.',
-          'Rates are flat and confirmed in writing at booking. Vehicles range from executive Mercedes-Benz and BMW sedans to Suburbans, Yukons, and Navigators for families, plus Sprinter vans for groups. Every trip is operated by a licensed and insured Virginia and Maryland carrier with commercial-grade insurance.',
+          'Rates are flat and confirmed in writing at booking. Vehicles range from executive Mercedes-Benz and BMW sedans to Suburbans and Escalades for families, plus Sprinter vans for groups. Every trip is operated by a licensed and insured Virginia and Maryland carrier with commercial-grade insurance.',
         ],
       },
       {
@@ -256,7 +256,7 @@ const routes = [
       {
         question: 'Can you pick up my whole family with luggage at IAD?',
         answer:
-          'Yes. Our Chevy Suburban, GMC Yukon XL, and Lincoln Navigator SUVs carry up to six passengers with a full load of luggage, and Sprinter vans handle groups up to 13.',
+          'Yes. Our Chevrolet Suburban and Cadillac Escalade SUVs carry up to six passengers with a full load of luggage, and Sprinter vans handle groups up to 13.',
       },
       {
         question: 'Do you offer meet and greet inside the terminal at Dulles?',
@@ -298,7 +298,7 @@ const routes = [
         heading: 'Why a Flat Rate Matters Most on Long Transfers',
         paragraphs: [
           'On a 60-mile trip, rideshare surge pricing compounds into serious money, and a metered taxi is a rolling question mark. Our Annapolis rate is quoted before you book and confirmed in writing — the number does not change if US-50 backs up near the Severn River Bridge or a summer storm slows the Beltway.',
-          'The distance also rewards comfort. Our Mercedes-Benz and BMW sedans offer genuine executive-class seating, and for families arriving with Naval Academy weekend luggage or sailing gear, a Suburban, Yukon XL, or Navigator swallows it all. Groups up to 13 travel together in a Mercedes Sprinter. Every vehicle is operated by a licensed and insured Virginia and Maryland carrier.',
+          'The distance also rewards comfort. Our Mercedes-Benz and BMW sedans offer genuine executive-class seating, and for families arriving with Naval Academy weekend luggage or sailing gear, a Suburban or Escalade swallows it all. Groups up to 13 travel together in a Mercedes Sprinter. Every vehicle is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -365,7 +365,7 @@ const routes = [
         heading: 'The Case for a Chauffeur on the IAD–Baltimore Run',
         paragraphs: [
           'Two-state airport transfers are precisely where rideshare reliability breaks down: long pickups get declined, surge pricing bites hardest, and a cancellation strands you far from alternatives. Our service is the opposite — a dedicated chauffeur, dispatched for your trip alone, at a flat rate confirmed in writing when you book.',
-          'You also ride better. Late-model Mercedes-Benz and BMW sedans for business travelers, Suburbans and Navigators for families with luggage, and Sprinter vans for groups up to 13 — all detailed before every trip and operated by a licensed and insured Virginia and Maryland carrier.',
+          'You also ride better. Late-model Mercedes-Benz and BMW sedans for business travelers, Suburbans and Escalades for families with luggage, and Sprinter vans for groups up to 13 — all detailed before every trip and operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -432,7 +432,7 @@ const routes = [
         heading: 'Comfort and Certainty Over the Rideshare Lottery',
         paragraphs: [
           'From IAD’s rideshare lot, a Rockville trip means hoping a driver accepts a cross-river run — and paying whatever the surge algorithm decides. Our passengers skip all of it. The chauffeur is confirmed the moment you book, meets you inside the terminal if you choose meet and greet, and the price on your confirmation is the price on your receipt.',
-          'Solo travelers typically choose a Mercedes-Benz E-Class or BMW 7 Series; families and small teams take a Suburban, Yukon XL, or Navigator; larger groups ride together in a Sprinter van. All vehicles are operated by a licensed and insured Virginia and Maryland carrier and detailed before every pickup.',
+          'Solo travelers typically choose a Mercedes-Benz E-Class or BMW 7 Series; families and small teams take a Suburban, Escalade, or Nautilus; larger groups ride together in a Sprinter van. All vehicles are operated by a licensed and insured Virginia and Maryland carrier and detailed before every pickup.',
         ],
       },
       {
@@ -499,7 +499,7 @@ const routes = [
         heading: 'The Corporate Standard for a Corporate Destination',
         paragraphs: [
           'For a 20-minute trip, the difference between rideshare and chauffeured service is concentrated entirely in reliability. A missed pickup or a 15-minute queue wait can consume the entire time advantage of flying into IAD. Our chauffeurs are dispatched exclusively to your trip, staged at the airport before your wheels touch down, and reachable directly by phone.',
-          'Companies with steady Tysons–IAD traffic use our corporate accounts: centralized booking for executive assistants, consolidated monthly billing, and consistent chauffeurs for repeat travelers. Every vehicle — S-Class, 7 Series, Escalade, Navigator, Suburban, Yukon, or Sprinter — is operated by a licensed and insured Virginia and Maryland carrier.',
+          'Companies with steady Tysons–IAD traffic use our corporate accounts: centralized booking for executive assistants, consolidated monthly billing, and consistent chauffeurs for repeat travelers. Every vehicle — S-Class, 7 Series, Escalade, Suburban, Nautilus, or Sprinter — is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -566,7 +566,7 @@ const routes = [
         heading: 'A Fixed Rate for a Trip Rideshares Dislike',
         paragraphs: [
           'A 45-mile, cross-state airport run is the trip rideshare drivers decline most and surge algorithms punish hardest. Booking with us inverts the experience: your chauffeur is committed at reservation, the rate is flat and in writing, and there is no possibility of standing in the IAD rideshare lot watching drivers cancel.',
-          'Choose an executive Mercedes-Benz or BMW sedan for business, or a Suburban, Yukon XL, or Navigator when the family flies in with a vacation’s worth of luggage. Groups up to 13 travel in a Sprinter van. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+          'Choose an executive Mercedes-Benz or BMW sedan for business, or a Suburban or Escalade when the family flies in with a vacation’s worth of luggage. Groups up to 13 travel in a Sprinter van. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -638,7 +638,7 @@ const routes = [
         heading: 'Certainty on a Route Where Rideshares Hesitate',
         paragraphs: [
           'Cross-river trips from IAD into Maryland are among the most frequently declined rides on rideshare platforms, and the surge pricing when it rains on the Beltway is notorious. We remove the variables: your chauffeur is assigned when you book, the flat rate is confirmed in writing, and the vehicle that arrives is a detailed executive sedan or SUV — not a coin flip.',
-          'Families flying into Dulles appreciate our SUVs — Suburban, Yukon XL, Navigator — with room for six passengers and a full luggage load, and child seats are available on request. Every trip is operated by a licensed and insured Virginia and Maryland carrier with commercial insurance and vetted chauffeurs.',
+          'Families flying into Dulles appreciate our SUVs — Suburban and Escalade — with room for six passengers and a full luggage load, and child seats are available on request. Every trip is operated by a licensed and insured Virginia and Maryland carrier with commercial insurance and vetted chauffeurs.',
         ],
       },
       {
@@ -772,7 +772,7 @@ const routes = [
         heading: 'The Difference Between a Booked Chauffeur and a Nearby Driver',
         paragraphs: [
           'A 20-minute transfer leaves no room to absorb a rideshare failure: a cancellation or a 15-minute queue wait erases the entire advantage of living near the airport. Our chauffeurs are staged at Dulles before your wheels touch down, dispatched exclusively to your trip, with your flight tracked from departure gate to arrival.',
-          'Rates are flat and confirmed in writing — no surge on rainy Fridays, no premium for a 5 a.m. departure. Every vehicle is operated by a licensed and insured Virginia and Maryland carrier, detailed before pickup, and stocked with bottled water. Choose an S-Class or 7 Series for individual travel, or an Escalade, Navigator, or Suburban when the family returns from abroad with luggage.',
+          'Rates are flat and confirmed in writing — no surge on rainy Fridays, no premium for a 5 a.m. departure. Every vehicle is operated by a licensed and insured Virginia and Maryland carrier, detailed before pickup, and stocked with bottled water. Choose an S-Class or 7 Series for individual travel, or an Escalade or Suburban when the family returns from abroad with luggage.',
         ],
       },
       {
@@ -973,7 +973,7 @@ const routes = [
         heading: 'Why This Is the Wrong Trip to Leave to a Rideshare App',
         paragraphs: [
           'A 60-mile, one-way airport fare is the single most-declined trip type on rideshare platforms, and I-95 surge pricing can be brutal. Travelers tell us the same story: accepted ride, driver calls, driver cancels, repeat — all while standing in the IAD garage with a family and a luggage cart. Booking with us eliminates the ritual: your chauffeur is committed the moment you reserve, at a flat written rate that traffic and weather cannot move.',
-          'The distance also makes the vehicle matter. Our Mercedes-Benz and BMW sedans give solo travelers genuine executive comfort for the ninety minutes; Suburbans, Yukon XLs, and Navigators carry families with a vacation’s worth of bags; Sprinter vans move groups up to 13. All operated by a licensed and insured Virginia and Maryland carrier.',
+          'The distance also makes the vehicle matter. Our Mercedes-Benz and BMW sedans give solo travelers genuine executive comfort for the ninety minutes; Suburbans and Escalades carry families with a vacation’s worth of bags; Sprinter vans move groups up to 13. All operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -1099,7 +1099,7 @@ const routes = [
       {
         heading: 'Built for Family Travel and Big Arrivals',
         paragraphs: [
-          'The classic Columbia trip is a family of four or five returning from an international vacation: tired kids, a mountain of checked bags, and a strong preference for zero decisions between customs and the driveway. Our full-size SUVs — Suburban, Yukon XL, Navigator — absorb it all, child seats are installed on request, and meet and greet at baggage claim means a familiar name sign is the first thing you see.',
+          'The classic Columbia trip is a family of four or five returning from an international vacation: tired kids, a mountain of checked bags, and a strong preference for zero decisions between customs and the driveway. Our full-size SUVs — Suburban and Escalade — absorb it all, child seats are installed on request, and meet and greet at baggage claim means a familiar name sign is the first thing you see.',
           'We also handle the milestone traffic that Columbia generates: grandparents arriving for graduations at the county’s high schools, wedding guests bound for Historic Oakland or area venues, and international students starting terms at nearby campuses. Group arrivals ride together in a Sprinter van instead of splitting across three cars.',
         ],
       },
@@ -1166,7 +1166,7 @@ const routes = [
       {
         heading: 'Door to Boardwalk, However Big the Group',
         paragraphs: [
-          'Beach travel is volume travel — coolers, umbrellas, golf bags, a week of luggage for five people. Our Suburbans, Yukon XLs, and Navigators are chosen for exactly this load, and for bigger crews the Mercedes Sprinter carries up to 13 passengers with gear. One vehicle, one pickup, everyone arrives together at the condo, hotel, or beach house.',
+          'Beach travel is volume travel — coolers, umbrellas, golf bags, a week of luggage for five people. Our Suburbans and Escalades are chosen for exactly this load, and for bigger crews the Mercedes Sprinter carries up to 13 passengers with gear. One vehicle, one pickup, everyone arrives together at the condo, hotel, or beach house.',
           'We serve the full resort strip from the Inlet to the Delaware line, plus West Ocean City, Ocean Pines, and the bayside communities. Heading a little further? Bethany, Fenwick Island, and Rehoboth in Delaware, and Assateague-area rentals are all bookable — tell us the address and we quote it flat.',
         ],
       },
@@ -1375,7 +1375,7 @@ const routes = [
         heading: 'Why a Chauffeur Beats Driving or Rideshare for This Trip',
         paragraphs: [
           'Driving yourself to Dulles means two hours behind the wheel after a red-eye, plus a week of airport parking charges that rival the cost of the ride. Rideshare rarely works at all — few drivers accept a 106-mile run, and those who do charge whatever the surge algorithm dictates that minute. Our service replaces both with a committed chauffeur and a flat, written rate that never changes with traffic, weather, or demand.',
-          'The distance also makes the vehicle matter. Our Mercedes-Benz and BMW sedans offer genuine executive comfort for two hours of highway, and our Suburbans, Yukon XLs, and Navigators swallow a family’s international luggage with room to stretch. Groups up to 13 ride together in a Mercedes Sprinter. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+          'The distance also makes the vehicle matter. Our Mercedes-Benz and BMW sedans offer genuine executive comfort for two hours of highway, and our Suburbans and Escalades swallow a family’s international luggage with room to stretch. Groups up to 13 ride together in a Mercedes Sprinter. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -1442,7 +1442,7 @@ const routes = [
         heading: 'The Alternative to a Risky Connection or a Rental Car',
         paragraphs: [
           'Travelers often weigh this trip against a connecting flight or the train. A connection adds hours of layover risk for a 35-minute hop; Amtrak from Union Station means getting into Washington first, luggage in tow. A chauffeured car leaves when you land, goes directly to your door, and costs a known, flat amount quoted in writing at booking — no surge, no mileage surprises, no dropping a rental in an unfamiliar city.',
-          'For two-plus hours on the interstate, comfort and safety are the product: late-model Mercedes-Benz and BMW sedans, full-size Suburbans, Yukon XLs, and Navigators for families with international luggage, and Sprinter vans for groups up to 13 — every vehicle detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier with commercial insurance.',
+          'For two-plus hours on the interstate, comfort and safety are the product: late-model Mercedes-Benz and BMW sedans, full-size Suburbans and Escalades for families with international luggage, and Sprinter vans for groups up to 13 — every vehicle detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier with commercial insurance.',
         ],
       },
       {
@@ -1510,7 +1510,7 @@ const routes = [
         heading: 'A Fixed Rate Across the River, Every Time',
         paragraphs: [
           'Cross-river trips from IAD into Maryland are the rides rideshare drivers decline most, and Beltway weather turns their pricing volatile precisely when you need the ride most. Our model removes the gamble: your chauffeur is committed the moment you book, the flat rate is confirmed in writing, and meet and greet at baggage claim is available on every reservation.',
-          'Solo business travelers typically choose a Mercedes-Benz or BMW executive sedan; families flying into Dulles with vacation luggage take a Suburban, Yukon XL, or Navigator with genuine room for six plus bags. Child seats are available on request, and every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+          'Solo business travelers typically choose a Mercedes-Benz or BMW executive sedan; families flying into Dulles with vacation luggage take a Suburban or Escalade with genuine room for six plus bags. Child seats are available on request, and every trip is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -1578,7 +1578,7 @@ const routes = [
         heading: 'The Reliable Alternative for a Trip Apps Undervalue',
         paragraphs: [
           'Short airport runs expose rideshare’s weakest habits: drivers idle in the queue hoping for a long fare, then accept and cancel the 12-mile trip to Leesburg. Meanwhile you are standing in the garage with your luggage. Our chauffeurs are dispatched exclusively to your trip — there is no queue, no cancellation roulette, and the flat rate is confirmed in writing when you book.',
-          'Vehicles range from Mercedes-Benz and BMW executive sedans to Suburbans, Yukon XLs, and Navigators for families, with Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and commercial insurance.',
+          'Vehicles range from Mercedes-Benz and BMW executive sedans to Suburbans and Escalades for families, with Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and commercial insurance.',
         ],
       },
       {
@@ -1646,7 +1646,7 @@ const routes = [
         heading: 'Why Valley Travelers Book a Chauffeur for Dulles',
         paragraphs: [
           'Fifty miles is the distance at which rideshare reliability collapses — long pickups get declined, and a cancellation leaves you stranded at the IAD garage with no recourse. Booking with us inverts the experience: the chauffeur is committed at reservation, tracks your flight automatically, and meets you at baggage claim with a name sign if you choose meet and greet.',
-          'The rate is flat and confirmed in writing — mountain weather, Route 7 construction, and Friday traffic never change the number. Sedans suit solo travelers; Suburbans, Yukon XLs, and Navigators handle families with a vacation’s worth of luggage; Sprinter vans carry groups up to 13. Every trip runs under the authority of a licensed and insured Virginia and Maryland carrier.',
+          'The rate is flat and confirmed in writing — mountain weather, Route 7 construction, and Friday traffic never change the number. Sedans suit solo travelers; Suburbans and Escalades handle families with a vacation’s worth of luggage; Sprinter vans carry groups up to 13. Every trip runs under the authority of a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -1714,7 +1714,7 @@ const routes = [
         heading: 'The Civilized Alternative for a 100-Mile Transfer',
         paragraphs: [
           'Rideshare essentially does not exist for this trip — a 100-mile run is declined faster than it is read — and driving yourself means two hours behind the wheel on jet lag plus a week of Dulles parking fees. Our service replaces both with a committed chauffeur and a flat rate quoted in writing at booking. The number never moves with traffic, weather, or demand.',
-          'Distance rewards the right vehicle: Mercedes-Benz and BMW executive sedans for solo travelers and couples, Suburbans, Yukon XLs, and Navigators for families with a semester’s or a vacation’s worth of luggage, and Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs.',
+          'Distance rewards the right vehicle: Mercedes-Benz and BMW executive sedans for solo travelers and couples, Suburbans and Escalades for families with a semester’s or a vacation’s worth of luggage, and Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs.',
         ],
       },
       {
@@ -1782,7 +1782,7 @@ const routes = [
         heading: 'Why an 8-Mile Trip Deserves a Booked Chauffeur',
         paragraphs: [
           'From the rideshare zones at the IAD parking structures, an Ashburn fare is the one drivers least want — short, low-paying, and back to the end of the queue. Acceptance is slow, cancellations are common, and you absorb the wait after a five-hour flight. Our chauffeurs take the trip because it is their trip: committed at booking, at a flat written rate, with meet and greet inside the terminal available on every reservation.',
-          'Vehicles are late-model Mercedes-Benz and BMW sedans, Cadillac and Lincoln SUVs, Suburbans and Yukon XLs for families, and Sprinter vans for teams up to 13 — all detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
+          'Vehicles are late-model Mercedes-Benz and BMW sedans, Cadillac, Lincoln, and Chevrolet SUVs for families, and Sprinter vans for teams up to 13 — all detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -1850,7 +1850,7 @@ const routes = [
         heading: 'A Committed Ride Across a Gap Apps Won’t Fill',
         paragraphs: [
           'The IAD-to-Frederick corridor is where rideshare fails most reliably: long pickup, cross-state destination, and a return trip the driver does not want. Cancellations are the norm, and surge pricing punishes the passengers who persist. We invert that: your chauffeur is committed the moment you book, meets you at baggage claim with a name sign if you choose meet and greet, and the flat rate on your confirmation is the rate on your receipt.',
-          'Choose an executive Mercedes-Benz or BMW sedan for business, a Suburban, Yukon XL, or Navigator when the family lands with full luggage, or a Sprinter van for groups up to 13. Every vehicle is detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
+          'Choose an executive Mercedes-Benz or BMW sedan for business, a Suburban or Escalade when the family lands with full luggage, or a Sprinter van for groups up to 13. Every vehicle is detailed before pickup and operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {
@@ -1918,7 +1918,7 @@ const routes = [
         heading: 'Certainty on a Corridor Where Timing Is Everything',
         paragraphs: [
           'From IAD’s garage-level rideshare zones, a Manassas trip means a walk, a queue, and a price the algorithm sets that minute. Our model removes every variable: the chauffeur is committed at booking, the flat rate is confirmed in writing, and meet and greet inside the terminal is available on every reservation — a genuine relief for families landing with car seats and luggage. Child seats are available on request.',
-          'Vehicles range from Mercedes-Benz and BMW executive sedans to Suburbans, Yukon XLs, and Navigators, with Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and commercial insurance.',
+          'Vehicles range from Mercedes-Benz and BMW executive sedans to Suburbans and Escalades, with Sprinter vans for groups up to 13. Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and commercial insurance.',
         ],
       },
       {
@@ -1986,7 +1986,7 @@ const routes = [
         heading: 'Why Convention Travelers Book Ahead Instead of Queuing',
         paragraphs: [
           'When a conference lets out or an arrival bank lands, the rideshare math at both ends turns ugly — surge pricing at the Harbor, 20-minute queues at the IAD garage. A booked chauffeur bypasses all of it: committed at reservation, staged before your flight lands, flat rate confirmed in writing, and meet and greet at baggage claim so a first visit to Washington starts with your name on a sign rather than a license-plate hunt.',
-          'Solo attendees ride executive Mercedes-Benz and BMW sedans; teams take Suburbans, Yukon XLs, and Navigators; delegations up to 13 travel together in a Sprinter van. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+          'Solo attendees ride executive Mercedes-Benz and BMW sedans; teams take Suburbans and Escalades; delegations up to 13 travel together in a Sprinter van. Every trip is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {

@@ -40,15 +40,16 @@ const HomePage = () => {
 
   const logo = '/logo.png';
 
+  // Fleet photos in /public/images — byte-identical to 92limo's fleet photos.
   const fleetImages = {
-    eclass: '/mercedes-eclass.jpg',
-    sclass: '/mercedes-sclass-new.png',
-    escalade: '/cadillac-escalade.jpg',
-    sprinter: '/sprinter-van.jpg',
-    navigator: '/lincoln-navigator-new.png',
-    suburban: '/chevy-suburban-new.png',
-    yukon: '/gmc-yukon-new.png',
-    bmw7: '/bmw-7-new.png',
+    eclass: '/images/mercedes-e-class.jpg',
+    bmw7: '/images/bmw-7-series.jpg',
+    nautilus: '/images/lincoln-nautilus.jpg',
+    suburban: '/images/chevy-suburban.jpg',
+    escalade: '/images/cadillac-escalade.jpg',
+    sprinterShuttle: '/images/sprinter-shuttle-seats.jpg',
+    sprinterExecutive: '/images/mercedes-sprinter.jpg',
+    sprinterLimo: '/images/limousine.jpg',
   };
 
   const images = {
@@ -60,15 +61,16 @@ const HomePage = () => {
     nightCity: 'https://images.unsplash.com/photo-1514924013411-cbf25faa35bb?w=1920&q=85',
   };
 
+  // The 8 fleet categories, in exact order — kept in sync with 92limo.com.
   const allVehicles = [
-    { name: 'BMW 7 Series', subtitle: '2022 Premium Sedan', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.bmw7 },
-    { name: 'Business Class', subtitle: 'Mercedes E-Class', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.eclass },
-    { name: 'First Class', subtitle: 'Mercedes S-Class', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.sclass },
-    { name: 'Lincoln Navigator L', subtitle: '2024 Premium SUV', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.navigator },
-    { name: 'Cadillac Escalade', subtitle: 'Premium SUV', category: 'SUV', pax: 5, luggage: 5, image: fleetImages.escalade },
-    { name: 'Chevy Suburban', subtitle: '2025 Luxury SUV', category: 'SUV', pax: 6, luggage: 6, image: fleetImages.suburban },
-    { name: 'GMC Yukon XL', subtitle: '2024 Luxury SUV', category: 'SUV', pax: 6, luggage: 6, image: fleetImages.yukon },
-    { name: 'Sprinter Van', subtitle: 'Mercedes Sprinter', category: 'Van', pax: 13, luggage: 12, image: fleetImages.sprinter },
+    { name: 'Business Sedan', subtitle: 'Mercedes-Benz E-Class 2023+ or similar', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.eclass },
+    { name: 'First Class Sedan', subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.bmw7 },
+    { name: 'Midsize SUV', subtitle: 'Lincoln Nautilus 2023+ or similar', category: 'SUV', pax: 3, luggage: 4, image: fleetImages.nautilus },
+    { name: 'Luxury SUV', subtitle: 'Chevrolet Suburban 2023+ or similar', category: 'SUV', pax: 5, luggage: 5, image: fleetImages.suburban },
+    { name: 'Premium SUV', subtitle: 'Cadillac Escalade 2023+ or similar', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.escalade },
+    { name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
+    { name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
+    { name: 'Sprinter Limo', subtitle: 'Mercedes Sprinter Limo 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterLimo },
   ];
 
   const fleetData = {

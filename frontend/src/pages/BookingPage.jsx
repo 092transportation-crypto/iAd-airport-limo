@@ -6,7 +6,7 @@ import FaqSection from '../components/FaqSection';
 import AddressAutocomplete from '../components/AddressAutocomplete';
 import {
   Phone, Mail, MessageSquare, Send, ShieldCheck, BadgeCheck, Clock,
-  PlaneTakeoff, Minus, Plus
+  PlaneTakeoff, Minus, Plus, BadgeDollarSign
 } from 'lucide-react';
 
 const bookingFaqs = [
@@ -37,7 +37,11 @@ const SERVICE_TYPES = [
   'Wine Tour', 'Concert / Event', 'Birthday / Night Out', 'Hourly Charter', 'Other',
 ];
 
-const VEHICLE_TYPES = ['Any Vehicle', 'Sedan', 'SUV', 'Sprinter Van'];
+// The 8 fleet categories — kept in sync with the Fleet page and 92limo.com.
+const VEHICLE_TYPES = [
+  'Any Vehicle', 'Business Sedan', 'First Class Sedan', 'Midsize SUV',
+  'Luxury SUV', 'Premium SUV', 'Sprinter Shuttle', 'Sprinter Executive', 'Sprinter Limo',
+];
 
 const CONTACT_OPTIONS = [
   { value: 'Phone', icon: Phone },
@@ -167,6 +171,29 @@ const BookingPage = () => {
 
       <section className="py-10 bg-[#050505]">
         <div className="max-w-3xl mx-auto px-4">
+          {/* Flat-Rate Notice */}
+          <div
+            data-testid="rates-notice"
+            className="mb-8 overflow-hidden rounded-2xl border border-[#d4af37]/40 bg-gradient-to-r from-[#d4af37]/10 via-[#d4af37]/5 to-[#d4af37]/10"
+          >
+            <div className="h-1 w-full bg-gradient-to-r from-[#a8871c] to-[#d4af37]" aria-hidden="true" />
+            <div className="flex flex-col items-center gap-4 px-6 py-6 text-center sm:flex-row sm:gap-5 sm:px-8 sm:text-left">
+              <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-[#d4af37] to-[#f4e5c3] shadow-lg shadow-[#d4af37]/30">
+                <BadgeDollarSign className="h-6 w-6 text-black" aria-hidden="true" />
+              </div>
+              <div className="min-w-0">
+                <p className="text-base font-bold text-white md:text-lg">
+                  Flat-Rate Pricing — <span className="text-[#d4af37]">No Surge, Ever</span>
+                </p>
+                <p className="mt-1 text-sm leading-relaxed text-white/60">
+                  Rates vary by vehicle and distance. Every quote is all-inclusive — tolls,
+                  taxes &amp; gratuity. Fill out the form below for your{' '}
+                  <span className="font-semibold text-[#d4af37]">free instant quote</span>.
+                </p>
+              </div>
+            </div>
+          </div>
+
           <div className="bg-[#0d0d0d] border border-[#d4af37]/25 rounded-2xl shadow-[0_0_60px_rgba(212,175,55,0.08)]">
             {/* Card header with completion progress */}
             <div className="px-6 sm:px-8 pt-6 pb-5 border-b border-white/10">
