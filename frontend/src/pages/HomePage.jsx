@@ -26,7 +26,7 @@ const homeFaqs = [
   {
     question: 'What vehicles are in your fleet?',
     answer:
-      'Executive sedans including the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs like the Cadillac Escalade, Lincoln Navigator, Chevy Suburban, and GMC Yukon XL, and Mercedes Sprinter vans for up to 13 passengers.',
+      'Executive sedans including the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs like the Lincoln Nautilus, Chevrolet Suburban, and Cadillac Escalade, and Mercedes Sprinter vans for up to 13 passengers.',
   },
   {
     question: 'Is your car service licensed and insured?',

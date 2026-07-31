@@ -100,7 +100,7 @@ const posts = [
       {
         heading: '3. Look at the Fleet, Not the Stock Photos',
         paragraphs: [
-          'A serious black car service names its vehicles: Mercedes-Benz S-Class and E-Class, BMW 7 Series, Cadillac Escalade, Lincoln Navigator, Chevy Suburban, GMC Yukon XL, Mercedes Sprinter. It can tell you passenger and luggage capacity for each, and it matches the vehicle to your trip — a sedan for a solo executive, an SUV for a family of five with checked bags, a Sprinter for a conference delegation.',
+          'A serious black car service names its vehicles: Mercedes-Benz E-Class and S-Class, BMW 7 Series, Lincoln Nautilus, Chevrolet Suburban, Cadillac Escalade, Mercedes Sprinter. It can tell you passenger and luggage capacity for each, and it matches the vehicle to your trip — a sedan for a solo executive, an SUV for a family of five with checked bags, a Sprinter for a conference delegation.',
           'Be wary of sites showing only generic stock imagery or promising a “luxury vehicle” without specifics. What shows up at your door tends to match the specificity of what was promised.',
         ],
       },
@@ -317,7 +317,7 @@ const posts = [
       {
         heading: 'The Fleet Question for Corporate Travel',
         paragraphs: [
-          'Corporate travel spans more use cases than sedans. A practical corporate fleet at IAD includes executive sedans (Mercedes-Benz S-Class and E-Class, BMW 7 Series) for individual travel, full-size luxury SUVs (Escalade, Navigator, Suburban, Yukon XL) for teams and clients with luggage, and Mercedes Sprinter vans for delegations up to 13. Matching the vehicle to the movement is part of the provider’s job — your coordinator should be able to say “four people, six bags, two stops” and get the right vehicle without further negotiation.',
+          'Corporate travel spans more use cases than sedans. A practical corporate fleet at IAD includes executive sedans (Mercedes-Benz S-Class and E-Class, BMW 7 Series) for individual travel, full-size luxury SUVs (Escalade, Suburban) for teams and clients with luggage, and Mercedes Sprinter vans for delegations up to 13. Matching the vehicle to the movement is part of the provider’s job — your coordinator should be able to say “four people, six bags, two stops” and get the right vehicle without further negotiation.',
         ],
       },
       {
@@ -377,7 +377,7 @@ const posts = [
       {
         heading: 'Choosing the Right Vehicle for the Trip',
         paragraphs: [
-          'Match the vehicle to your luggage first and your party size second. An executive sedan — a Mercedes-Benz S-Class or E-Class, or BMW 7 Series — comfortably carries up to three passengers with two or three checked bags. A full-size luxury SUV such as a Cadillac Escalade, Lincoln Navigator, Chevy Suburban, or GMC Yukon XL handles up to six passengers with a full load of luggage. For delegations, wedding parties, and conference groups, a Mercedes Sprinter van moves up to thirteen with room to spare.',
+          'Match the vehicle to your luggage first and your party size second. An executive sedan — a Mercedes-Benz S-Class or E-Class, or BMW 7 Series — comfortably carries up to three passengers with two or three checked bags. A full-size luxury SUV such as a Cadillac Escalade or Chevrolet Suburban handles up to six passengers with a full load of luggage. For delegations, wedding parties, and conference groups, a Mercedes Sprinter van moves up to thirteen with room to spare.',
           'The common mistake is booking by headcount alone. Three travelers returning from two weeks in Europe with six suitcases do not fit in a sedan trunk. A good dispatcher will ask about bags before recommending a vehicle — and if the one you booked will not work, will say so before pickup day.',
         ],
       },
@@ -642,7 +642,7 @@ const posts = [
       {
         heading: 'Judge the Fleet by Its Specifics',
         paragraphs: [
-          'The best operators name their vehicles and their capacities: Mercedes-Benz S-Class and E-Class and BMW 7 Series sedans for up to three passengers; Cadillac Escalade, Lincoln Navigator, Chevy Suburban, and GMC Yukon XL SUVs for up to six with full luggage; Mercedes Sprinter vans for groups up to thirteen. Specificity is the tell — a company that knows its fleet can match a vehicle to “four people, six bags” instantly, while a company promising an unnamed “luxury vehicle” is planning to send whatever is available.',
+          'The best operators name their vehicles and their capacities: Mercedes-Benz S-Class and E-Class and BMW 7 Series sedans for up to three passengers; Cadillac Escalade and Chevrolet Suburban SUVs for up to six with full luggage; Mercedes Sprinter vans for groups up to thirteen. Specificity is the tell — a company that knows its fleet can match a vehicle to “four people, six bags” instantly, while a company promising an unnamed “luxury vehicle” is planning to send whatever is available.',
           'In 2026, also ask about vehicle age and condition outright. Late-model, detailed-between-trips fleets are the standard the best operators hold; a seven-year-old SUV with 180,000 miles is not what the website’s photography implied. You are allowed to ask what year the vehicle is. The good companies do not flinch.',
         ],
       },
@@ -724,7 +724,7 @@ const posts = [
       {
         heading: 'Scenario Three: The Family of Five with Checked Bags',
         paragraphs: [
-          'Rideshare pricing is per vehicle, but capacity is the catch: five passengers with international luggage need an XL, and XL fares from Dulles routinely land within striking distance of a booked SUV — without the guarantee that the vehicle that shows up actually fits six suitcases. A chauffeured Suburban or Navigator is specified in advance, meets you at baggage claim, and installs the child seats you requested at booking.',
+          'Rideshare pricing is per vehicle, but capacity is the catch: five passengers with international luggage need an XL, and XL fares from Dulles routinely land within striking distance of a booked SUV — without the guarantee that the vehicle that shows up actually fits six suitcases. A chauffeured Suburban or Escalade is specified in advance, meets you at baggage claim, and installs the child seats you requested at booking.',
           'Price the comparison honestly — XL surge fare plus the garage walk with children and a luggage cart, against a flat-rate SUV with meet and greet — and the gap narrows to nothing on many dates, then inverts on the bad ones.',
         ],
       },
@@ -920,7 +920,7 @@ const posts = [
       {
         question: 'Which vehicles suit executive travel from Dulles?',
         answer:
-          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Cadillac Escalades and Lincoln Navigators for small teams, and Mercedes Sprinters for delegations up to 13.',
+          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Cadillac Escalades and Chevrolet Suburbans for small teams, and Mercedes Sprinters for delegations up to 13.',
       },
     ],
   },
