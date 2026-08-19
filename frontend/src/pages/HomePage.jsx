@@ -33,6 +33,21 @@ const homeFaqs = [
     answer:
       'Yes. We are a licensed and insured Virginia and Maryland carrier with commercial insurance and background-checked professional chauffeurs.',
   },
+  {
+    question: 'How much does a Dulles airport car service cost?',
+    answer:
+      'Every trip is a flat, all-inclusive rate by vehicle class and distance — fuel, tolls, flight tracking, and the chauffeur included, with no surge pricing. Request a quote online or call (877) 609-1919 for an exact written rate.',
+  },
+  {
+    question: 'How far in advance should I book?',
+    answer:
+      'Book by the night before at the latest — earlier for pre-dawn departures, holidays, and event weekends. Same-day requests are accommodated whenever a vehicle is available, and our line answers 24/7.',
+  },
+  {
+    question: 'Do you serve DCA and BWI airports too?',
+    answer:
+      'Yes. Besides Dulles, we run flat-rate, flight-tracked transfers to and from Reagan National (DCA) and BWI Marshall from anywhere in Virginia, Maryland, and Washington DC.',
+  },
 ];
 
 const HomePage = () => {
