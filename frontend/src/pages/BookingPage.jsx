@@ -65,7 +65,7 @@ const Field = ({ index, className = '', children }) => (
   </div>
 );
 
-const FloatingInput = ({ label, name, value, onChange, type = 'text', required = false, alwaysFloat = false, min }) => (
+const FloatingInput = ({ label, name, value, onChange, type = 'text', required = false, alwaysFloat = false, min, placeholder = ' ' }) => (
   <div className="relative">
     <input
       type={type}
@@ -74,7 +74,7 @@ const FloatingInput = ({ label, name, value, onChange, type = 'text', required =
       onChange={onChange}
       required={required}
       min={min}
-      placeholder=" "
+      placeholder={placeholder}
       className="bk-input"
     />
     <label className={`bk-label ${alwaysFloat ? 'bk-label--float' : ''}`}>
@@ -91,6 +91,7 @@ const BookingPage = () => {
     preferred_contact: 'Phone',
     service_type: 'Airport Transfer',
     vehicle_type: 'Any Vehicle',
+    flight_number: '',
     pickup_location: '',
     dropoff_location: '',
     date: '',
@@ -127,7 +128,15 @@ const BookingPage = () => {
       const response = await fetch('/api/quote-requests', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...formData, source: 'Booking page' })
+        body: JSON.stringify({
+          ...formData,
+          // Flight number only applies to airport transfers.
+          flight_number:
+            formData.service_type === 'Airport Transfer'
+              ? formData.flight_number.trim()
+              : '',
+          source: 'Booking page',
+        })
       });
 
       if (response.ok) {
@@ -289,6 +298,20 @@ const BookingPage = () => {
                       </div>
                     </Field>
 
+                    {/* Flight number — airport transfers only */}
+                    {formData.service_type === 'Airport Transfer' && (
+                      <Field index={5} className="md:col-span-2">
+                        <FloatingInput
+                          label="Flight Number (optional)"
+                          name="flight_number"
+                          value={formData.flight_number}
+                          onChange={handleChange}
+                          alwaysFloat
+                          placeholder="e.g. AA1234"
+                        />
+                      </Field>
+                    )}
+
                     {/* Vehicle type pills */}
                     <Field index={5} className="md:col-span-2">
                       <p className="text-[10px] uppercase tracking-widest text-white/40 mb-2 pl-1">Vehicle Type</p>
@@ -353,7 +376,7 @@ const BookingPage = () => {
                       <div className="relative">
                         <textarea name="message" value={formData.message} onChange={handleChange} rows={3}
                           placeholder=" " className="bk-input resize-y" />
-                        <label className="bk-label">Notes — flight number, luggage, child seats…</label>
+                        <label className="bk-label">Notes — luggage, child seats, special requests…</label>
                       </div>
                     </Field>
                   </div>
