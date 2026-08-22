@@ -5,6 +5,9 @@
 export const CARD_FEE_RATE = 0.03;
 export const MAX_MILES = 150;
 
+// Automatic discount applied to every instant quote, before the card fee.
+export const AUTO_DISCOUNT_RATE = 0.1;
+
 // 29 brackets per vehicle: [0–9.9, 10–14.9, 15–19.9, …, 145–150.0]
 export const PRICING = {
   'Business Sedan': {
@@ -87,12 +90,17 @@ export function computeQuote(miles, vehicle) {
   if (!rates || !Number.isFinite(miles) || miles <= 0) return null;
   if (miles > MAX_MILES) return { overLimit: true, miles: round2(miles) };
   const baseFare = rates.brackets[bracketIndex(miles)];
-  const cardFee = round2(baseFare * CARD_FEE_RATE);
+  // Every instant quote gets the automatic discount; the card fee is
+  // charged on the discounted fare.
+  const discount = round2(baseFare * AUTO_DISCOUNT_RATE);
+  const discounted = round2(baseFare - discount);
+  const cardFee = round2(discounted * CARD_FEE_RATE);
   return {
     miles: round2(miles),
     vehicle,
     baseFare,
+    discount,
     cardFee,
-    total: round2(baseFare + cardFee),
+    total: round2(discounted + cardFee),
   };
 }

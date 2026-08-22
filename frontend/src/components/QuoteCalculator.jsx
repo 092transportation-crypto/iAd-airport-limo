@@ -218,6 +218,12 @@ const QuoteCalculator = () => {
                       <dd className="tabular-nums text-white">{money(quote.baseFare)}</dd>
                     </div>
                     <div className="flex items-center justify-between gap-3">
+                      <dt className="text-emerald-400">Instant booking discount (10%)</dt>
+                      <dd className="tabular-nums text-emerald-400" data-testid="calc-discount">
+                        -{money(quote.discount)}
+                      </dd>
+                    </div>
+                    <div className="flex items-center justify-between gap-3">
                       <dt className="text-white/50">Card processing fee (3%)</dt>
                       <dd className="tabular-nums text-white">{money(quote.cardFee)}</dd>
                     </div>
