@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import AddressAutocomplete from './AddressAutocomplete';
-import { computeQuote, PRICING, money, MAX_MILES } from '../lib/pricing';
+import { computeQuote, isShortNotice, PRICING, money, MAX_MILES, SHORT_NOTICE_HOURS } from '../lib/pricing';
 import {
   Calculator, Clock, Loader2, PartyPopper, Route, Car, CarFront, Bus, ArrowDown,
 } from 'lucide-react';
@@ -36,6 +36,8 @@ const QuoteCalculator = () => {
   const [vehicle, setVehicle] = useState('Business Sedan');
   const [pickup, setPickup] = useState('');
   const [dropoff, setDropoff] = useState('');
+  const [pickupDate, setPickupDate] = useState('');
+  const [pickupTime, setPickupTime] = useState('');
   // idle | loading | ready | error
   const [distance, setDistance] = useState({ status: 'idle', miles: null });
   const timerRef = useRef(null);
@@ -74,18 +76,30 @@ const QuoteCalculator = () => {
     return () => clearTimeout(timerRef.current);
   }, [tripType, pickupTrimmed, dropoffTrimmed]);
 
+  const shortNotice = useMemo(
+    () => isShortNotice(pickupDate, pickupTime),
+    [pickupDate, pickupTime]
+  );
+
   const quote = useMemo(
     () =>
       tripType === 'Point-to-Point' && distance.status === 'ready'
-        ? computeQuote(distance.miles, vehicle)
+        ? computeQuote(distance.miles, vehicle, shortNotice)
         : null,
-    [tripType, vehicle, distance]
+    [tripType, vehicle, distance, shortNotice]
   );
 
   const applyToForm = () => {
     window.dispatchEvent(
       new CustomEvent('iad:quote-apply', {
-        detail: { tripType, vehicle, pickup: pickupTrimmed, dropoff: dropoffTrimmed },
+        detail: {
+          tripType,
+          vehicle,
+          pickup: pickupTrimmed,
+          dropoff: dropoffTrimmed,
+          pickupDate,
+          pickupTime,
+        },
       })
     );
   };
@@ -180,6 +194,36 @@ const QuoteCalculator = () => {
               )}
             </div>
 
+            {/* Pickup date & time — short-notice check */}
+            <div className="mt-4">
+              <p className="mb-2 pl-1 text-[10px] uppercase tracking-widest text-white/40">
+                Pickup Date &amp; Time
+              </p>
+              <div className="grid grid-cols-2 gap-3 sm:max-w-md">
+                <input
+                  type="date"
+                  data-testid="calc-pickup-date"
+                  aria-label="Pickup date"
+                  style={{ colorScheme: 'dark' }}
+                  value={pickupDate}
+                  onChange={(e) => setPickupDate(e.target.value)}
+                  className="block w-full appearance-none rounded-xl border border-white/15 bg-white/[0.04] px-4 py-3 text-sm text-white transition-colors duration-300 focus:border-[#d4af37] focus:outline-none focus:ring-1 focus:ring-[#d4af37]/60"
+                />
+                <input
+                  type="time"
+                  data-testid="calc-pickup-time"
+                  aria-label="Pickup time"
+                  style={{ colorScheme: 'dark' }}
+                  value={pickupTime}
+                  onChange={(e) => setPickupTime(e.target.value)}
+                  className="block w-full appearance-none rounded-xl border border-white/15 bg-white/[0.04] px-4 py-3 text-sm text-white transition-colors duration-300 focus:border-[#d4af37] focus:outline-none focus:ring-1 focus:ring-[#d4af37]/60"
+                />
+              </div>
+              <p className="mt-2 text-[11px] text-white/40">
+                Pickups within {SHORT_NOTICE_HOURS} hours include a 20% short-notice surcharge.
+              </p>
+            </div>
+
             {/* Price */}
             <div className="mt-5 rounded-xl border border-[#d4af37]/25 bg-black/50 p-5" data-testid="calc-result">
               {distance.status === 'idle' ? (
@@ -223,6 +267,14 @@ const QuoteCalculator = () => {
                         -{money(quote.discount)}
                       </dd>
                     </div>
+                    {quote.surcharge > 0 && (
+                      <div className="flex items-center justify-between gap-3">
+                        <dt className="text-[#d4af37]">Short-notice surcharge (20%)</dt>
+                        <dd className="tabular-nums text-[#d4af37]" data-testid="calc-surcharge">
+                          +{money(quote.surcharge)}
+                        </dd>
+                      </div>
+                    )}
                     <div className="flex items-center justify-between gap-3">
                       <dt className="text-white/50">Card processing fee (3%)</dt>
                       <dd className="tabular-nums text-white">{money(quote.cardFee)}</dd>

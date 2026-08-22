@@ -8,6 +8,21 @@ export const MAX_MILES = 150;
 // Automatic discount applied to every instant quote, before the card fee.
 export const AUTO_DISCOUNT_RATE = 0.1;
 
+// Bookings within this many hours of pickup carry a short-notice surcharge,
+// applied after the discount and before the card fee.
+export const SHORT_NOTICE_HOURS = 4;
+export const SHORT_NOTICE_RATE = 0.2;
+
+/** True when the requested pickup is within 4 hours of right now. */
+export function isShortNotice(dateStr, timeStr, now = new Date()) {
+  if (!dateStr || !timeStr) return false;
+  const dm = /^(\d{4})-(\d{2})-(\d{2})$/.exec(dateStr);
+  const tm = /^(\d{1,2}):(\d{2})/.exec(timeStr);
+  if (!dm || !tm) return false;
+  const pickup = new Date(+dm[1], +dm[2] - 1, +dm[3], +tm[1], +tm[2]);
+  return pickup.getTime() - now.getTime() < SHORT_NOTICE_HOURS * 60 * 60 * 1000;
+}
+
 // 29 brackets per vehicle: [0–9.9, 10–14.9, 15–19.9, …, 145–150.0]
 export const PRICING = {
   'Business Sedan': {
@@ -85,7 +100,7 @@ export function bracketIndex(miles) {
  * Returns null for unknown vehicles / unusable mileage, and
  * { overLimit: true } for trips beyond 150 miles.
  */
-export function computeQuote(miles, vehicle) {
+export function computeQuote(miles, vehicle, shortNotice = false) {
   const rates = PRICING[vehicle];
   if (!rates || !Number.isFinite(miles) || miles <= 0) return null;
   if (miles > MAX_MILES) return { overLimit: true, miles: round2(miles) };
@@ -94,13 +109,17 @@ export function computeQuote(miles, vehicle) {
   // charged on the discounted fare.
   const discount = round2(baseFare * AUTO_DISCOUNT_RATE);
   const discounted = round2(baseFare - discount);
-  const cardFee = round2(discounted * CARD_FEE_RATE);
+  // Short-notice surcharge applies after the discount, before the card fee.
+  const surcharge = shortNotice ? round2(discounted * SHORT_NOTICE_RATE) : 0;
+  const subtotal = round2(discounted + surcharge);
+  const cardFee = round2(subtotal * CARD_FEE_RATE);
   return {
     miles: round2(miles),
     vehicle,
     baseFare,
     discount,
+    surcharge,
     cardFee,
-    total: round2(discounted + cardFee),
+    total: round2(subtotal + cardFee),
   };
 }
