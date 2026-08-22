@@ -8,6 +8,7 @@
 
 const nodemailer = require('nodemailer');
 const crypto = require('crypto');
+const { computeQuote } = require('./_pricing.js');
 
 const escapeHtml = (v) =>
   String(v ?? '')
@@ -38,6 +39,79 @@ function formatDateTime(date, time) {
   }
   if (prettyDate && prettyTime) return `${prettyDate} at ${prettyTime}`;
   return prettyDate || prettyTime || '';
+}
+
+const usd = (v) => `$${Number(v || 0).toFixed(2)}`;
+const CUSTOM_QUOTE_TEXT = 'Custom quote requested — no instant price calculated';
+
+/**
+ * Normalize the instant-quote pricing the form submits so the notification
+ * email can show the fare breakdown. When the client says an instant price
+ * was shown, the fare is RECOMPUTED here from miles + vehicle (same bracket
+ * math as the Stripe endpoint) so the email always reflects our rate table.
+ *
+ *   { mode: 'instant', vehicle, vehicle_label, miles, base_fare, discount,
+ *     surcharge, short_notice, card_fee, total, paid, payment_intent }
+ *   { mode: 'custom', reason }   // Hourly / Wedding / Special Event, no
+ *                                 // vehicle, over 150 miles, no distance …
+ */
+function normalizePricing(raw) {
+  if (!raw || typeof raw !== 'object') {
+    return { mode: 'custom', reason: 'No pricing data submitted' };
+  }
+  if (raw.mode !== 'instant') {
+    return { mode: 'custom', reason: field(raw.reason, 200) || 'Custom quote' };
+  }
+  const miles = Number(raw.miles);
+  const vehicle = field(raw.vehicle, 40);
+  // The surcharge the customer saw is the source of truth for short notice.
+  const shortNotice = Boolean(raw.short_notice) || Number(raw.surcharge) > 0;
+  const q = computeQuote(miles, vehicle, shortNotice);
+  if (!q) return { mode: 'custom', reason: 'Vehicle has no instant pricing' };
+  if (q.overLimit) {
+    return { mode: 'custom', reason: `Trip is ${q.miles} miles (over the 150-mile instant-quote limit)` };
+  }
+  return {
+    mode: 'instant',
+    vehicle,
+    vehicle_label: field(raw.vehicle_label, 60) || vehicle,
+    miles: q.miles,
+    base_fare: q.baseFare,
+    discount: q.discount,
+    surcharge: q.surcharge,
+    short_notice: shortNotice,
+    card_fee: q.cardFee,
+    total: q.total,
+    paid: Boolean(raw.paid),
+    payment_intent: field(raw.payment_intent, 80),
+  };
+}
+
+/** [label, value] rows for the pricing section of the email. */
+function pricingRows(p) {
+  if (p.mode !== 'instant') {
+    return [['Pricing', `${CUSTOM_QUOTE_TEXT}${p.reason ? ` (${p.reason})` : ''}`]];
+  }
+  return [
+    ['Vehicle', p.vehicle_label],
+    ['Distance', `${p.miles} miles`],
+    ['Base fare', usd(p.base_fare)],
+    ['Discount (10%)', `-${usd(p.discount)}`],
+    ...(p.surcharge > 0 ? [['Short-notice surcharge (20%)', `+${usd(p.surcharge)}`]] : []),
+    ['Card fee (3%)', `+${usd(p.card_fee)}`],
+    ['TOTAL', usd(p.total)],
+    [
+      'Payment',
+      p.paid
+        ? `Paid online via Stripe${p.payment_intent ? ` (${p.payment_intent})` : ''}`
+        : 'Not paid online — instant quote only',
+    ],
+  ];
+}
+
+function pricingSubjectSuffix(p) {
+  if (p.mode !== 'instant') return 'Custom quote';
+  return `${usd(p.total)}${p.paid ? ' PAID' : ''}`;
 }
 
 // Human-readable submission stamp in the business's timezone (Washington, DC).
@@ -89,6 +163,10 @@ module.exports = async (req, res) => {
     });
   }
 
+  // Instant-quote pricing shown to the customer on the form (or the reason
+  // no instant price was calculated).
+  const pricing = normalizePricing(body.pricing);
+
   const id = crypto.randomUUID();
   const submittedAt = formatSubmittedAt(new Date());
   const dateTime = formatDateTime(inquiry.date, inquiry.time);
@@ -102,18 +180,21 @@ module.exports = async (req, res) => {
     ['Service Type', inquiry.service_type],
     // Only present for airport transfers — omit the row entirely otherwise.
     ...(inquiry.flight_number ? [['Flight Number', inquiry.flight_number]] : []),
-    ['Vehicle', inquiry.vehicle_type],
+    // With an instant price the vehicle is listed in the pricing rows below.
+    ...(pricing.mode === 'instant' ? [] : [['Vehicle', inquiry.vehicle_type]]),
     ['Pickup Location', inquiry.pickup_location],
     ['Drop-off Location', inquiry.dropoff_location],
     ['Date & Time', dateTime],
     ['Passengers', inquiry.passengers],
+    // Fare breakdown the customer saw on the form, or the custom-quote line.
+    ...pricingRows(pricing),
     ['Notes', inquiry.message],
   ];
 
   const row = ([label, value]) =>
     `<tr>
        <td style="padding:10px 14px;background:#f7f7f7;font-weight:bold;color:#333;width:170px;border-bottom:1px solid #e5e5e5;vertical-align:top;white-space:nowrap;">${label}</td>
-       <td style="padding:10px 14px;color:#111;border-bottom:1px solid #e5e5e5;">${escapeHtml(value).replace(/\n/g, '<br>') || '<span style="color:#999;">&mdash;</span>'}</td>
+       <td style="padding:10px 14px;color:#111;border-bottom:1px solid #e5e5e5;${label === 'TOTAL' ? 'font-weight:bold;font-size:16px;' : ''}">${escapeHtml(value).replace(/\n/g, '<br>') || '<span style="color:#999;">&mdash;</span>'}</td>
      </tr>`;
 
   const html = `<!doctype html>
@@ -133,7 +214,8 @@ module.exports = async (req, res) => {
   </div>
 </body></html>`;
 
-  const pad = (label) => `${label}:`.padEnd(19);
+  const padWidth = Math.max(...fields.map(([label]) => label.length)) + 2;
+  const pad = (label) => `${label}:`.padEnd(padWidth);
   const text = [
     'NEW BOOKING INQUIRY — IAD AIRPORT LIMO',
     `Submitted: ${submittedAt} (via ${inquiry.source})`,
@@ -155,13 +237,14 @@ module.exports = async (req, res) => {
       from: `IAD Airport Limo Website <${smtpUser}>`,
       to: recipient,
       replyTo: inquiry.email || smtpUser,
-      subject: `New Booking Inquiry — ${inquiry.service_type} — ${inquiry.name}`,
+      subject: `${pricing.paid ? 'New Booking (PAID)' : 'New Booking Inquiry'} — ${inquiry.service_type} — ${inquiry.name} — ${pricingSubjectSuffix(pricing)}`,
       text,
       html,
     });
 
     return res.status(200).json({
       id,
+      pricing,
       success: true,
       message: 'Inquiry received. Our team will contact you shortly.',
     });
