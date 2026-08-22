@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import AddressAutocomplete from './AddressAutocomplete';
+import PayAndBook from './PayAndBook';
 import { computeQuote, isShortNotice, PRICING, money, MAX_MILES, SHORT_NOTICE_HOURS } from '../lib/pricing';
 import {
   Calculator, Clock, Loader2, PartyPopper, Route, Car, CarFront, Bus, ArrowDown,
@@ -294,9 +295,21 @@ const QuoteCalculator = () => {
                   >
                     <ArrowDown className="h-4 w-4" /> Book this trip — details below
                   </button>
+                  <PayAndBook
+                    quote={quote}
+                    meta={{
+                      pickup: pickupTrimmed,
+                      dropoff: dropoffTrimmed,
+                      miles: quote.miles,
+                      vehicle,
+                      pickupDate,
+                      pickupTime,
+                    }}
+                  />
                   <p className="mt-3 text-center text-[11px] leading-relaxed text-white/40">
-                    All-inclusive flat rate — tolls, taxes &amp; gratuity. No payment
-                    is taken now; we confirm after you submit.
+                    All-inclusive flat rate — tolls, taxes &amp; gratuity. Pay
+                    securely now to lock it in, or send the request below and
+                    we&apos;ll confirm your ride either way.
                   </p>
                 </div>
               )}
