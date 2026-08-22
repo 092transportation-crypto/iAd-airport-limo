@@ -1,9 +1,10 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
 import AddressAutocomplete from '../components/AddressAutocomplete';
+import QuoteCalculator from '../components/QuoteCalculator';
 import {
   Phone, Mail, MessageSquare, Send, ShieldCheck, BadgeCheck, Clock,
   PlaneTakeoff, Minus, Plus, BadgeDollarSign
@@ -37,10 +38,11 @@ const SERVICE_TYPES = [
   'Wine Tour', 'Concert / Event', 'Birthday / Night Out', 'Hourly Charter', 'Other',
 ];
 
-// The 8 fleet categories — kept in sync with the Fleet page and 92limo.com.
+// Fleet categories — kept in sync with the instant quote calculator's
+// rate table (names must match exactly).
 const VEHICLE_TYPES = [
-  'Any Vehicle', 'Business Sedan', 'First Class Sedan', 'Midsize SUV',
-  'Luxury SUV', 'Premium SUV', 'Sprinter Shuttle', 'Sprinter Executive', 'Sprinter Limo',
+  'Any Vehicle', 'Business Sedan', 'Mid-Size SUV', 'Luxury SUV',
+  'Premium SUV', 'First Class', 'Sprinter Van', 'Sprinter Executive',
 ];
 
 const CONTACT_OPTIONS = [
@@ -103,6 +105,26 @@ const BookingPage = () => {
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState('');
+  const formCardRef = useRef(null);
+
+  // "Book this trip" in the quote calculator prefills the form below.
+  useEffect(() => {
+    const onApply = (e) => {
+      const d = e.detail || {};
+      setFormData((f) => ({
+        ...f,
+        pickup_location: d.pickup || f.pickup_location,
+        dropoff_location: d.dropoff || f.dropoff_location,
+        vehicle_type:
+          d.tripType === 'Point-to-Point' && d.vehicle ? d.vehicle : f.vehicle_type,
+      }));
+      if (formCardRef.current) {
+        formCardRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    };
+    window.addEventListener('iad:quote-apply', onApply);
+    return () => window.removeEventListener('iad:quote-apply', onApply);
+  }, []);
 
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
@@ -203,7 +225,10 @@ const BookingPage = () => {
             </div>
           </div>
 
-          <div className="bg-[#0d0d0d] border border-[#d4af37]/25 rounded-2xl shadow-[0_0_60px_rgba(212,175,55,0.08)]">
+          {/* Instant quote calculator — above the inquiry form, both coexist */}
+          <QuoteCalculator />
+
+          <div ref={formCardRef} className="scroll-mt-28 bg-[#0d0d0d] border border-[#d4af37]/25 rounded-2xl shadow-[0_0_60px_rgba(212,175,55,0.08)]">
             {/* Card header with completion progress */}
             <div className="px-6 sm:px-8 pt-6 pb-5 border-b border-white/10">
               <div className="flex items-end justify-between gap-4">
