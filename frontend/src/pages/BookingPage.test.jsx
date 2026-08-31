@@ -1,27 +1,20 @@
 /**
- * Regression test: the unified booking form must render even when Stripe
- * isn't configured (publishable-key probe 503s) — the crash class here is
- * calling useStripe() outside an <Elements> provider.
+ * Regression test: the booking page renders the plain quote-request form —
+ * no instant-quote panel and no Pay & Book — and submits through
+ * /api/quote-requests.
  */
-import { render, screen, waitFor } from "@testing-library/react";
+import React from "react";
+import { render, screen } from "@testing-library/react";
 
-// Stub page chrome and router-dependent components — the test targets the
-// unified form only.
-jest.mock("../components/Navbar", () => () => null, { virtual: false });
+// Stub page chrome — the test targets the booking form only.
+jest.mock("../components/Navbar", () => () => null);
 jest.mock("../components/Footer", () => () => null);
 jest.mock("../components/Seo", () => () => null);
 jest.mock("../components/FaqSection", () => () => null);
-jest.mock(
-  "react-router-dom",
-  () => ({
-    Link: ({ children }) => require("react").createElement("a", null, children),
-    useNavigate: () => () => {},
-  }),
-  { virtual: true }
-);
 
-import { UnifiedBookingForm } from "./BookingPage";
+import BookingPage from "./BookingPage";
 
+// jsdom is missing a few browser APIs the page touches.
 beforeAll(() => {
   window.IntersectionObserver =
     window.IntersectionObserver ||
@@ -36,35 +29,12 @@ beforeAll(() => {
   Element.prototype.scrollIntoView = Element.prototype.scrollIntoView || (() => {});
 });
 
-beforeEach(() => {
-  global.fetch = jest.fn((url) => {
-    if (String(url).includes("create-payment-intent")) {
-      return Promise.resolve({
-        ok: false,
-        status: 503,
-        json: () => Promise.resolve({ success: false, message: "Payments not configured" }),
-      });
-    }
-    return Promise.resolve({
-      ok: true,
-      status: 200,
-      json: () => Promise.resolve({ success: true }),
-    });
-  });
-});
-
-test("renders the unified form when payments are not configured", async () => {
-  render(<UnifiedBookingForm />);
-
-  await waitFor(() => expect(screen.getByTestId("inquiry-form")).toBeTruthy());
-
-  expect(screen.getByTestId("inquiry-vehicle-business-sedan")).toBeTruthy();
-  expect(screen.getByTestId("inquiry-vehicle-sprinter-limo")).toBeTruthy();
-  expect(screen.getByTestId("inquiry-quote-panel")).toBeTruthy();
-  expect(screen.getByTestId("inquiry-service-airport-transfer")).toBeTruthy();
-  expect(screen.getByTestId("inquiry-sms-consent")).toBeTruthy();
-  expect(screen.getByTestId("inquiry-submit").textContent).toContain("Request Booking");
-  expect(
-    screen.getByText(/We respond within 15 minutes\. We never share your info\./)
-  ).toBeTruthy();
+test("renders the quote-request form without calculator or payment UI", () => {
+  render(<BookingPage />);
+  expect(screen.getByText("Request a Free Quote")).toBeTruthy();
+  const submit = screen.getByRole("button", { name: /Get My Free Quote/i });
+  expect(submit.getAttribute("type")).toBe("submit");
+  expect(screen.queryByTestId("inquiry-quote-panel")).toBeNull();
+  expect(screen.queryByText(/Pay & Book/i)).toBeNull();
+  expect(screen.queryByText(/instant quote/i)).toBeNull();
 });
