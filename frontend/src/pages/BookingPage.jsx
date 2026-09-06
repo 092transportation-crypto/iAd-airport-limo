@@ -29,7 +29,7 @@ const bookingFaqs = [
   {
     question: 'Can I change or cancel my reservation?',
     answer:
-      'Yes. Contact us at (877) 609-1919 to modify or cancel. Cancellations made more than 24 hours before pickup avoid any fee.',
+      'Yes. Contact us at (877) 609-1919 to modify or cancel. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup; Sprinter vans, limousines and special events up to 12 hours before pickup.',
   },
 ];
 

@@ -7,12 +7,12 @@ const termsFaqs = [
   {
     question: 'What is the cancellation policy for airport transfers?',
     answer:
-      'Cancellations made more than 24 hours before pickup avoid any fee. Cancellations within 24 hours may incur a fee of up to 50% of the fare — call (877) 609-1919 as early as possible to change plans.',
+      'Sedans and SUVs can be cancelled free of charge up to 3 hours before your scheduled pickup time. Sprinter vans, limousines and special-event bookings can be cancelled free of charge up to 12 hours before pickup. Later cancellations may incur a fee — call (877) 609-1919 as early as possible to change plans.',
   },
   {
     question: 'Am I charged extra if my flight is delayed?',
     answer:
-      'No. Airport pickups include flight tracking and complimentary wait time, so normal flight delays do not add charges.',
+      'No. Airport pickups include flight tracking and complimentary wait time — 45 minutes on domestic arrivals and 60 minutes on international — so normal flight delays do not add charges.',
   },
 ];
 
@@ -57,10 +57,13 @@ const TermsPage = () => {
               <h2 className="text-2xl font-light text-white mb-4">2. Cancellation Policy</h2>
               <div className="text-gray-400 space-y-4">
                 <p>
-                  <strong className="text-white">Standard Cancellation:</strong> Cancellations made 24 hours or more before the scheduled pickup time will receive a full refund.
+                  <strong className="text-white">Sedans &amp; SUVs:</strong> Cancel at least 3 hours before the scheduled pickup time for no charge. Cancellations within 3 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.
                 </p>
                 <p>
-                  <strong className="text-white">Late Cancellation:</strong> Cancellations made less than 24 hours before the scheduled pickup time may be subject to a cancellation fee of up to 50% of the total fare.
+                  <strong className="text-white">Sprinter Vans &amp; Limousines:</strong> Cancel at least 12 hours before the scheduled pickup time for no charge. Cancellations within 12 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.
+                </p>
+                <p>
+                  <strong className="text-white">Special Events:</strong> Cancel at least 12 hours before the scheduled pickup time for no charge. Cancellations within 12 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.
                 </p>
                 <p>
                   <strong className="text-white">No-Show:</strong> Failure to appear at the scheduled pickup time without prior notice will result in a charge of the full fare.
@@ -84,7 +87,7 @@ const TermsPage = () => {
               <h2 className="text-2xl font-light text-white mb-4">4. Wait Time & Delays</h2>
               <div className="text-gray-400 space-y-4">
                 <p>
-                  <strong className="text-white">Airport Pickups:</strong> We monitor flight arrivals and adjust pickup times accordingly. A complimentary wait time of 60 minutes after flight landing is included for domestic flights and 90 minutes for international flights.
+                  <strong className="text-white">Airport Pickups:</strong> We monitor flight arrivals and adjust pickup times accordingly. A complimentary wait time of 45 minutes after flight landing is included for domestic flights and 60 minutes for international flights.
                 </p>
                 <p>
                   <strong className="text-white">Other Pickups:</strong> A complimentary wait time of 15 minutes is included. Additional wait time will be charged at the applicable hourly rate.

@@ -17,12 +17,12 @@ const airportFaqs = [
   {
     question: 'How does airport pickup work at IAD?',
     answer:
-      'Your chauffeur tracks your flight and meets you at baggage claim with a name sign (meet & greet) or curbside — your choice at booking. Complimentary wait time is included.',
+      'Your chauffeur tracks your flight and meets you at baggage claim with a name sign (meet & greet) or curbside — your choice at booking. Complimentary wait time is included: 45 minutes on domestic arrivals and 60 minutes on international arrivals.',
   },
   {
     question: 'What if my flight is delayed or lands early?',
     answer:
-      'Flight tracking is automatic on every airport pickup. Your chauffeur adjusts to the actual arrival time at no extra charge.',
+      'Flight tracking is automatic on every airport pickup. Your chauffeur adjusts to the actual arrival time at no extra charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international.',
   },
   {
     question: 'Do you offer flat rates for airport transfers?',

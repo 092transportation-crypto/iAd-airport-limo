@@ -16,7 +16,7 @@ const homeFaqs = [
   {
     question: 'Do you track flights arriving at Dulles Airport?',
     answer:
-      'Yes. Every airport pickup includes automatic flight tracking. If your flight lands early or late, your chauffeur adjusts at no extra charge.',
+      'Yes. Every airport pickup includes automatic flight tracking with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international. If your flight lands early or late, your chauffeur adjusts at no extra charge.',
   },
   {
     question: 'What areas does your Dulles airport limo service cover?',
@@ -42,6 +42,11 @@ const homeFaqs = [
     question: 'How far in advance should I book?',
     answer:
       'Book by the night before at the latest — earlier for pre-dawn departures, holidays, and event weekends. Same-day requests are accommodated whenever a vehicle is available, and our line answers 24/7.',
+  },
+  {
+    question: 'What is your cancellation policy?',
+    answer:
+      'Sedans and SUVs can be cancelled free of charge up to 3 hours before your scheduled pickup time. Sprinter vans, limousines and special-event bookings can be cancelled free of charge up to 12 hours before pickup. Later cancellations may incur a fee — call (877) 609-1919 as early as possible to change plans.',
   },
   {
     question: 'Do you serve DCA and BWI airports too?',

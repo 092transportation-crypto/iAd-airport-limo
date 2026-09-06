@@ -1583,7 +1583,7 @@ const posts = [
       {
         heading: 'What the Flat Rate Includes',
         paragraphs: [
-          'Every legitimate quote bundles the vehicle, the professional chauffeur, fuel, tolls — a real line item in a region organized around the Dulles Toll Road — flight tracking, and standard wait time, which at IAD should run 45–60 minutes on domestic arrivals and longer on international ones, because customs at Dulles keeps its own schedule.',
+          'Every legitimate quote bundles the vehicle, the professional chauffeur, fuel, tolls — a real line item in a region organized around the Dulles Toll Road — flight tracking, and standard wait time, which at IAD should run 45 minutes on domestic arrivals and 60 minutes on international ones, because customs at Dulles keeps its own schedule.',
           'The paid extras that are legitimate: inside-terminal meet and greet with a name sign at baggage claim, professionally installed child seats, and additional stops en route. The charges that should not exist: surge multipliers, overnight fees, and anything discovered on the receipt that was absent from the quote. A 4 a.m. pickup should cost exactly what a 4 p.m. pickup costs.',
         ],
       },
@@ -1644,7 +1644,7 @@ const posts = [
       {
         question: 'Does the flat rate include tolls and wait time?',
         answer:
-          'Yes. A legitimate Dulles quote includes tolls, fuel, flight tracking, and standard wait time — 45–60 minutes on domestic arrivals and more for international, since customs timing at IAD is unpredictable. There is no surge and no overnight surcharge.',
+          'Yes. A legitimate Dulles quote includes tolls, fuel, flight tracking, and standard wait time — 45 minutes on domestic arrivals and 60 minutes for international, since customs timing at IAD is unpredictable. There is no surge and no overnight surcharge.',
       },
       {
         question: 'How much should I tip a Dulles chauffeur?',
