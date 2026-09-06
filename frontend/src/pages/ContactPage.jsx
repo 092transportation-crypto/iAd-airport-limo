@@ -141,9 +141,9 @@ const ContactPage = () => {
                     <MapPin className="w-5 h-5 text-[#c9a227]" />
                   </div>
                   <div>
-                    <h3 className="text-white font-semibold mb-1">Service Area</h3>
-                    <p className="text-gray-400">Washington DC Metropolitan Area</p>
-                    <p className="text-gray-500 text-sm mt-1">Maryland • Virginia • DC</p>
+                    <h3 className="text-white font-semibold mb-1">Office</h3>
+                    <p className="text-gray-400">9836 Lyon Ave, Laurel, MD 20723</p>
+                    <p className="text-gray-500 text-sm mt-1">Serving Dulles, Washington DC, Maryland &amp; Virginia</p>
                   </div>
                 </div>
 

@@ -35,7 +35,7 @@ const Navbar = () => {
       <div className="bg-white text-black py-2 text-xs">
         <div className="max-w-7xl mx-auto px-4 flex flex-wrap justify-between items-center gap-2">
           <div className="hidden sm:flex items-center gap-4 md:gap-6">
-            <span className="flex items-center gap-1"><MapPin className="w-3 h-3" /> IAD Dulles, Virginia</span>
+            <span className="flex items-center gap-1"><MapPin className="w-3 h-3" /> 9836 Lyon Ave, Laurel, MD 20723</span>
             <span className="flex items-center gap-1"><Clock className="w-3 h-3" /> 24/7 Service</span>
             <span className="hidden md:flex items-center gap-1"><Mail className="w-3 h-3" /> limoiadairport@gmail.com</span>
           </div>
