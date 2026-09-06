@@ -26,6 +26,8 @@ import BlogIndexPage from './pages/BlogIndexPage';
 import BlogPostPage from './pages/BlogPostPage';
 import routesData from './data/routesData';
 import venuesData from './data/venuesData';
+import MarylandPage from './pages/MarylandPage';
+import { MARYLAND_PAGES } from './data/marylandPages';
 import blogPosts from './data/blogData';
 import { Toaster } from './components/ui/toaster';
 import FloatingCallButton from './components/FloatingCallButton';
@@ -62,6 +64,10 @@ function App() {
           {/* Why Choose Us */}
           <Route path="/why-choose/:section" element={<WhyChoosePage />} />
 
+          {/* Maryland city, route & service landing pages */}
+          {MARYLAND_PAGES.map((p) => (
+            <Route key={p.slug} path={`/${p.slug}`} element={<MarylandPage slug={p.slug} />} />
+          ))}
           {/* IAD Route Landing Pages */}
           {routesData.map((r) => (
             <Route key={r.slug} path={`/${r.slug}`} element={<RoutePage slug={r.slug} />} />
