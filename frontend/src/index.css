@@ -237,6 +237,15 @@ code {
   transition: border-color 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Placeholders only show once the label has floated up on focus. */
+.bk-input::placeholder {
+  color: transparent;
+}
+
+.bk-input:focus::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+
 .bk-input:focus {
   border-color: #d4af37;
   background: rgba(212, 175, 55, 0.05);

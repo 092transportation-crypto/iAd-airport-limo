@@ -6,6 +6,7 @@ import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
 import TrustSignals from '../components/TrustSignals';
 import { Phone, Mail, MapPin, Clock, Send } from 'lucide-react';
+import { sanitizePhone, isValidPhone } from '../lib/phone';
 
 const contactFaqs = [
   {
@@ -27,7 +28,8 @@ const contactFaqs = [
 
 const ContactPage = () => {
   const emptyForm = {
-    name: '',
+    first_name: '',
+    last_name: '',
     phone: '',
     email: '',
     pickup_location: '',
@@ -42,12 +44,23 @@ const ContactPage = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (sending) return;
+    if (!isValidPhone(formData.phone)) {
+      alert('Please enter a valid phone number (digits only, at least 10).');
+      return;
+    }
     setSending(true);
     try {
       const response = await fetch('/api/quote-requests', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...formData, source: 'Contact page' })
+        body: JSON.stringify({
+          ...formData,
+          name: `${formData.first_name.trim()} ${formData.last_name.trim()}`.trim(),
+          first_name: formData.first_name.trim(),
+          last_name: formData.last_name.trim(),
+          phone: formData.phone.trim(),
+          source: 'Contact page'
+        })
       });
       const data = await response.json();
       if (!response.ok || !data.success) {
@@ -62,7 +75,8 @@ const ContactPage = () => {
   };
 
   const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
+    const { name, value } = e.target;
+    setFormData({ ...formData, [name]: name === 'phone' ? sanitizePhone(value) : value });
   };
 
   return (
@@ -171,37 +185,61 @@ const ContactPage = () => {
                 <form onSubmit={handleSubmit} className="space-y-6" data-testid="contact-quote-form">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-gray-400 text-sm mb-2">Your Name *</label>
+                      <label htmlFor="contact-first-name" className="block text-gray-400 text-sm mb-2">First Name *</label>
                       <input
+                        id="contact-first-name"
                         type="text"
-                        name="name"
-                        value={formData.name}
+                        name="first_name"
+                        autoComplete="given-name"
+                        value={formData.first_name}
                         onChange={handleChange}
                         required
                         className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
-                        placeholder="John Doe"
-                        data-testid="contact-name-input"
+                        placeholder="First Name"
+                        data-testid="contact-first-name-input"
                       />
                     </div>
                     <div>
-                      <label className="block text-gray-400 text-sm mb-2">Phone Number *</label>
+                      <label htmlFor="contact-last-name" className="block text-gray-400 text-sm mb-2">Last Name *</label>
                       <input
-                        type="tel"
-                        name="phone"
-                        value={formData.phone}
+                        id="contact-last-name"
+                        type="text"
+                        name="last_name"
+                        autoComplete="family-name"
+                        value={formData.last_name}
                         onChange={handleChange}
                         required
                         className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
-                        placeholder="(555) 123-4567"
-                        data-testid="contact-phone-input"
+                        placeholder="Last Name"
+                        data-testid="contact-last-name-input"
                       />
                     </div>
                   </div>
 
-                  <div>
-                    <label className="block text-gray-400 text-sm mb-2">Email Address *</label>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                      <label htmlFor="contact-phone" className="block text-gray-400 text-sm mb-2">Phone Number *</label>
+                      <input
+                        id="contact-phone"
+                        type="tel"
+                        inputMode="tel"
+                        pattern="[0-9+()\-.\s]*"
+                        name="phone"
+                        autoComplete="tel"
+                        value={formData.phone}
+                        onChange={handleChange}
+                        required
+                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                        placeholder="Phone Number"
+                        data-testid="contact-phone-input"
+                      />
+                    </div>
+                    <div>
+                    <label htmlFor="contact-email" className="block text-gray-400 text-sm mb-2">Email Address *</label>
                     <input
+                      id="contact-email"
                       type="email"
+                      autoComplete="email"
                       name="email"
                       value={formData.email}
                       onChange={handleChange}
@@ -210,6 +248,7 @@ const ContactPage = () => {
                       placeholder="john@example.com"
                       data-testid="contact-email-input"
                     />
+                    </div>
                   </div>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

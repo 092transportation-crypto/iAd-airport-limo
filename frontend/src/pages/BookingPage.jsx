@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import { sanitizePhone, isValidPhone } from '../lib/phone';
 import AddressAutocomplete from '../components/AddressAutocomplete';
 import {
   Phone, Mail, MessageSquare, Send, ShieldCheck, BadgeCheck, Clock,
@@ -65,9 +66,10 @@ const Field = ({ index, className = '', children }) => (
   </div>
 );
 
-const FloatingInput = ({ label, name, value, onChange, type = 'text', required = false, alwaysFloat = false, min, placeholder = ' ' }) => (
+const FloatingInput = ({ label, name, value, onChange, type = 'text', required = false, alwaysFloat = false, min, placeholder = ' ', autoComplete, inputMode, pattern, testId }) => (
   <div className="relative">
     <input
+      id={`bk-${name}`}
       type={type}
       name={name}
       value={value}
@@ -75,9 +77,13 @@ const FloatingInput = ({ label, name, value, onChange, type = 'text', required =
       required={required}
       min={min}
       placeholder={placeholder}
+      autoComplete={autoComplete}
+      inputMode={inputMode}
+      pattern={pattern}
+      data-testid={testId}
       className="bk-input"
     />
-    <label className={`bk-label ${alwaysFloat ? 'bk-label--float' : ''}`}>
+    <label htmlFor={`bk-${name}`} className={`bk-label ${alwaysFloat ? 'bk-label--float' : ''}`}>
       {label}{required ? ' *' : ''}
     </label>
   </div>
@@ -85,7 +91,8 @@ const FloatingInput = ({ label, name, value, onChange, type = 'text', required =
 
 const BookingPage = () => {
   const emptyForm = {
-    name: '',
+    first_name: '',
+    last_name: '',
     phone: '',
     email: '',
     preferred_contact: 'Phone',
@@ -105,7 +112,8 @@ const BookingPage = () => {
   const [error, setError] = useState('');
 
   const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
+    const { name, value } = e.target;
+    setFormData({ ...formData, [name]: name === 'phone' ? sanitizePhone(value) : value });
   };
 
   const setField = (name, value) => setFormData((f) => ({ ...f, [name]: value }));
@@ -114,13 +122,17 @@ const BookingPage = () => {
     setFormData((f) => ({ ...f, passengers: Math.min(14, Math.max(1, f.passengers + delta)) }));
 
   const progress = useMemo(() => {
-    const required = ['name', 'phone', 'email', 'pickup_location', 'dropoff_location', 'date', 'time'];
+    const required = ['first_name', 'last_name', 'phone', 'email', 'pickup_location', 'dropoff_location', 'date', 'time'];
     const filled = required.filter((k) => String(formData[k]).trim() !== '').length;
     return Math.round((filled / required.length) * 100);
   }, [formData]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (!isValidPhone(formData.phone)) {
+      setError('Please enter a valid phone number (digits only, at least 10).');
+      return;
+    }
     setLoading(true);
     setError('');
 
@@ -130,6 +142,10 @@ const BookingPage = () => {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           ...formData,
+          name: `${formData.first_name.trim()} ${formData.last_name.trim()}`.trim(),
+          first_name: formData.first_name.trim(),
+          last_name: formData.last_name.trim(),
+          phone: formData.phone.trim(),
           // Flight number only applies to airport transfers.
           flight_number:
             formData.service_type === 'Airport Transfer'
@@ -253,13 +269,16 @@ const BookingPage = () => {
                 <form onSubmit={handleSubmit} className="space-y-5">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <Field index={0}>
-                      <FloatingInput label="Full Name" name="name" value={formData.name} onChange={handleChange} required />
+                      <FloatingInput label="First Name" name="first_name" value={formData.first_name} onChange={handleChange} autoComplete="given-name" placeholder="First Name" testId="booking-first-name" required />
+                    </Field>
+                    <Field index={0}>
+                      <FloatingInput label="Last Name" name="last_name" value={formData.last_name} onChange={handleChange} autoComplete="family-name" placeholder="Last Name" testId="booking-last-name" required />
                     </Field>
                     <Field index={1}>
-                      <FloatingInput label="Phone" name="phone" type="tel" value={formData.phone} onChange={handleChange} required />
+                      <FloatingInput label="Phone Number" name="phone" type="tel" inputMode="tel" pattern="[0-9+()\-.\s]*" autoComplete="tel" placeholder="Phone Number" value={formData.phone} onChange={handleChange} testId="booking-phone" required />
                     </Field>
                     <Field index={2}>
-                      <FloatingInput label="Email" name="email" type="email" value={formData.email} onChange={handleChange} required />
+                      <FloatingInput label="Email" name="email" type="email" autoComplete="email" value={formData.email} onChange={handleChange} testId="booking-email" required />
                     </Field>
 
                     {/* Animated preferred-contact toggle */}
