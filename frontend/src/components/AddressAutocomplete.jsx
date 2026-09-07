@@ -1,21 +1,19 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { MapPin, Plane, Loader2 } from 'lucide-react';
-import { hasGooglePlaces, newSessionToken, providerLabel, resolveSelection, suggest } from '../lib/placesAutocomplete';
+import { providerLabel, suggest } from '../lib/placesAutocomplete';
 
 // Address autocomplete for the pickup / drop-off fields. Suggestions come from
 // Google Maps Places when REACT_APP_GOOGLE_MAPS_API_KEY is configured, and
 // from the free Photon geocoder otherwise (see lib/placesAutocomplete).
-// Selecting a suggestion fills the formatted address (onChange) and reports
-// its coordinates (onSelect({ address, lat, lng, placeId })). Typing again
-// clears the coordinates.
+// Selecting a suggestion fills the formatted address via onChange.
 //
 // Two looks: the booking form's floating "bk-input" style (default), or a
 // plain input when `inputClassName` is passed (contact page).
 
 const AIRPORT_PICKS = [
-  { main: 'Washington Dulles International Airport (IAD)', secondary: 'Dulles, VA', lat: 38.9531, lng: -77.4565, isAirport: true, source: 'local' },
-  { main: 'Ronald Reagan Washington National Airport (DCA)', secondary: 'Arlington, VA', lat: 38.8512, lng: -77.0402, isAirport: true, source: 'local' },
-  { main: 'Baltimore/Washington International Airport (BWI)', secondary: 'Baltimore, MD', lat: 39.1754, lng: -76.6682, isAirport: true, source: 'local' },
+  { main: 'Washington Dulles International Airport (IAD)', secondary: 'Dulles, VA', isAirport: true, source: 'local' },
+  { main: 'Ronald Reagan Washington National Airport (DCA)', secondary: 'Arlington, VA', isAirport: true, source: 'local' },
+  { main: 'Baltimore/Washington International Airport (BWI)', secondary: 'Baltimore, MD', isAirport: true, source: 'local' },
 ];
 
 // Bias results toward the Dulles / DC metro area.
@@ -28,7 +26,6 @@ const AddressAutocomplete = ({
   name,
   value,
   onChange,
-  onSelect,
   required = false,
   className = '',
   style,
@@ -42,7 +39,6 @@ const AddressAutocomplete = ({
   const [highlight, setHighlight] = useState(-1);
   const abortRef = useRef(null);
   const timerRef = useRef(null);
-  const sessionRef = useRef(undefined);
   const plain = Boolean(inputClassName);
 
   useEffect(() => () => {
@@ -55,8 +51,7 @@ const AddressAutocomplete = ({
     const ctrl = new AbortController();
     abortRef.current = ctrl;
     setLoading(true);
-    if (hasGooglePlaces() && !sessionRef.current) sessionRef.current = newSessionToken();
-    suggest(q, { bias: BIAS, signal: ctrl.signal, sessionToken: sessionRef.current })
+    suggest(q, { bias: BIAS, signal: ctrl.signal })
       .then((results) => {
         if (ctrl.signal.aborted) return;
         const seen = new Set();
@@ -74,7 +69,6 @@ const AddressAutocomplete = ({
   const handleInput = (e) => {
     const q = e.target.value;
     onChange(q);
-    if (onSelect) onSelect(null);
     if (timerRef.current) clearTimeout(timerRef.current);
     if (q.trim().length < 3) {
       setItems([]);
@@ -86,18 +80,10 @@ const AddressAutocomplete = ({
     timerRef.current = setTimeout(() => fetchSuggestions(q.trim()), 250);
   };
 
-  const select = async (item) => {
-    onChange(labelOf(item));
+  const select = (item) => {
+    onChange(item.address || labelOf(item));
     setItems([]);
     setOpen(false);
-    try {
-      const picked = await resolveSelection(item, sessionRef.current);
-      sessionRef.current = undefined;
-      if (picked.address) onChange(picked.address);
-      if (onSelect) onSelect(picked);
-    } catch {
-      if (onSelect) onSelect({ address: labelOf(item), lat: item.lat ?? null, lng: item.lng ?? null, placeId: item.placeId || null, source: item.source });
-    }
   };
 
   const showAirports = value.trim().length === 0;
