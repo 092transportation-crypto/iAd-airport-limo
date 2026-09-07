@@ -175,7 +175,7 @@ const AddressAutocomplete = ({
           </ul>
           {!showAirports && (
             <div className="px-4 py-1.5 border-t border-white/10 text-[10px] text-white/30 text-right">
-              {providerLabel()}
+              {providerLabel(items)}
             </div>
           )}
         </div>
