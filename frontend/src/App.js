@@ -27,6 +27,7 @@ import BlogPostPage from './pages/BlogPostPage';
 import routesData from './data/routesData';
 import venuesData from './data/venuesData';
 import MarylandPage from './pages/MarylandPage';
+import EventRoute from './pages/EventRoute';
 import { MARYLAND_PAGES } from './data/marylandPages';
 import blogPosts from './data/blogData';
 import { Toaster } from './components/ui/toaster';
@@ -64,6 +65,8 @@ function App() {
           {/* Why Choose Us */}
           <Route path="/why-choose/:section" element={<WhyChoosePage />} />
 
+          {/* Auto-generated event landing pages (92 Limo platform admin) */}
+          <Route path="/:slug" element={<EventRoute />} />
           {/* Maryland city, route & service landing pages */}
           {MARYLAND_PAGES.map((p) => (
             <Route key={p.slug} path={`/${p.slug}`} element={<MarylandPage slug={p.slug} />} />

@@ -12,8 +12,8 @@ const STAT_ICONS = [MapPin, Clock, RouteIcon];
 
 // Maryland city, route and service landing pages — same layout as RoutePage;
 // content lives in src/data/marylandPages.js.
-const MarylandPage = ({ slug }) => {
-  const page = findMarylandPage(slug);
+const MarylandPage = ({ slug, page: pageProp }) => {
+  const page = pageProp || findMarylandPage(slug);
 
   // LocalBusiness + Service + Breadcrumb JSON-LD (Seo handles the FAQ schema).
   useEffect(() => {
