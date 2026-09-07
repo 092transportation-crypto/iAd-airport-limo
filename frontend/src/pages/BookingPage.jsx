@@ -101,6 +101,10 @@ const BookingPage = () => {
     flight_number: '',
     pickup_location: '',
     dropoff_location: '',
+    pickup_lat: null,
+    pickup_lng: null,
+    dropoff_lat: null,
+    dropoff_lng: null,
     date: '',
     time: '',
     passengers: 1,
@@ -117,6 +121,8 @@ const BookingPage = () => {
   };
 
   const setField = (name, value) => setFormData((f) => ({ ...f, [name]: value }));
+  const setCoords = (which, p) =>
+    setFormData((f) => ({ ...f, [`${which}_lat`]: p ? p.lat : null, [`${which}_lng`]: p ? p.lng : null }));
 
   const stepPassengers = (delta) =>
     setFormData((f) => ({ ...f, passengers: Math.min(14, Math.max(1, f.passengers + delta)) }));
@@ -349,6 +355,7 @@ const BookingPage = () => {
                         label="Pickup Location" name="pickup_location" required
                         value={formData.pickup_location}
                         onChange={(v) => setField('pickup_location', v)}
+                        onSelect={(p) => setCoords('pickup', p)}
                       />
                     </Field>
                     <Field index={7} className="relative z-20">
@@ -356,6 +363,7 @@ const BookingPage = () => {
                         label="Drop-off Location" name="dropoff_location" required
                         value={formData.dropoff_location}
                         onChange={(v) => setField('dropoff_location', v)}
+                        onSelect={(p) => setCoords('dropoff', p)}
                       />
                     </Field>
 

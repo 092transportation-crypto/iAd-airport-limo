@@ -42,6 +42,14 @@ function formatDateTime(date, time) {
 }
 
 const usd = (v) => `$${Number(v || 0).toFixed(2)}`;
+const coord = (v) => {
+  if (v === null || v === undefined || v === '') return null;
+  const n = Number(v);
+  return Number.isFinite(n) ? n : null;
+};
+const coordText = (lat, lng) =>
+  lat != null && lng != null ? `${lat.toFixed(5)}, ${lng.toFixed(5)} (https://www.google.com/maps?q=${lat},${lng})` : '';
+
 const CUSTOM_QUOTE_TEXT = 'Custom quote requested — no instant price calculated';
 
 /**
@@ -149,6 +157,10 @@ module.exports = async (req, res) => {
     vehicle_type: field(body.vehicle_type, 80),
     pickup_location: field(body.pickup_location, 300),
     dropoff_location: field(body.dropoff_location, 300),
+    pickup_lat: coord(body.pickup_lat),
+    pickup_lng: coord(body.pickup_lng),
+    dropoff_lat: coord(body.dropoff_lat),
+    dropoff_lng: coord(body.dropoff_lng),
     date: field(body.date, 40),
     time: field(body.time, 40),
     passengers: field(body.passengers, 10),
@@ -183,7 +195,9 @@ module.exports = async (req, res) => {
     // With an instant price the vehicle is listed in the pricing rows below.
     ...(pricing.mode === 'instant' ? [] : [['Vehicle', inquiry.vehicle_type]]),
     ['Pickup Location', inquiry.pickup_location],
+    ...(inquiry.pickup_lat != null ? [['Pickup Coordinates', coordText(inquiry.pickup_lat, inquiry.pickup_lng)]] : []),
     ['Drop-off Location', inquiry.dropoff_location],
+    ...(inquiry.dropoff_lat != null ? [['Drop-off Coordinates', coordText(inquiry.dropoff_lat, inquiry.dropoff_lng)]] : []),
     ['Date & Time', dateTime],
     ['Passengers', inquiry.passengers],
     // Fare breakdown the customer saw on the form, or the custom-quote line.

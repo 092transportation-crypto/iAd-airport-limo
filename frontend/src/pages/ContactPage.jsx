@@ -7,6 +7,7 @@ import FaqSection from '../components/FaqSection';
 import TrustSignals from '../components/TrustSignals';
 import { Phone, Mail, MapPin, Clock, Send } from 'lucide-react';
 import { sanitizePhone, isValidPhone } from '../lib/phone';
+import AddressAutocomplete from '../components/AddressAutocomplete';
 
 const contactFaqs = [
   {
@@ -34,6 +35,10 @@ const ContactPage = () => {
     email: '',
     pickup_location: '',
     dropoff_location: '',
+    pickup_lat: null,
+    pickup_lng: null,
+    dropoff_lat: null,
+    dropoff_lng: null,
     date: '',
     passengers: ''
   };
@@ -254,28 +259,30 @@ const ContactPage = () => {
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
                       <label className="block text-gray-400 text-sm mb-2">Pickup Location *</label>
-                      <input
-                        type="text"
+                      <AddressAutocomplete
+                        label="Pickup Location"
                         name="pickup_location"
-                        value={formData.pickup_location}
-                        onChange={handleChange}
                         required
-                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                        value={formData.pickup_location}
+                        onChange={(v) => setFormData((f) => ({ ...f, pickup_location: v }))}
+                        onSelect={(p) => setFormData((f) => ({ ...f, pickup_lat: p ? p.lat : null, pickup_lng: p ? p.lng : null }))}
+                        inputClassName="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
                         placeholder="Address or Airport"
-                        data-testid="contact-pickup-input"
+                        testId="contact-pickup-input"
                       />
                     </div>
                     <div>
                       <label className="block text-gray-400 text-sm mb-2">Drop-off Location *</label>
-                      <input
-                        type="text"
+                      <AddressAutocomplete
+                        label="Drop-off Location"
                         name="dropoff_location"
-                        value={formData.dropoff_location}
-                        onChange={handleChange}
                         required
-                        className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
+                        value={formData.dropoff_location}
+                        onChange={(v) => setFormData((f) => ({ ...f, dropoff_location: v }))}
+                        onSelect={(p) => setFormData((f) => ({ ...f, dropoff_lat: p ? p.lat : null, dropoff_lng: p ? p.lng : null }))}
+                        inputClassName="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
                         placeholder="Address or Airport"
-                        data-testid="contact-dropoff-input"
+                        testId="contact-dropoff-input"
                       />
                     </div>
                   </div>

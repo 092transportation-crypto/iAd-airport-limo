@@ -1,31 +1,49 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { MapPin, Plane, Loader2 } from 'lucide-react';
+import { hasGooglePlaces, newSessionToken, providerLabel, resolveSelection, suggest } from '../lib/placesAutocomplete';
 
-// Address autocomplete backed by Photon (photon.komoot.io) — free, no API key,
-// OpenStreetMap data. Results are biased toward the Dulles / DC metro area.
+// Address autocomplete for the pickup / drop-off fields. Suggestions come from
+// Google Maps Places when REACT_APP_GOOGLE_MAPS_API_KEY is configured, and
+// from the free Photon geocoder otherwise (see lib/placesAutocomplete).
+// Selecting a suggestion fills the formatted address (onChange) and reports
+// its coordinates (onSelect({ address, lat, lng, placeId })). Typing again
+// clears the coordinates.
+//
+// Two looks: the booking form's floating "bk-input" style (default), or a
+// plain input when `inputClassName` is passed (contact page).
 
 const AIRPORT_PICKS = [
-  'Washington Dulles International Airport (IAD), Dulles, VA',
-  'Ronald Reagan Washington National Airport (DCA), Arlington, VA',
-  'Baltimore/Washington International Airport (BWI), Baltimore, MD',
+  { main: 'Washington Dulles International Airport (IAD)', secondary: 'Dulles, VA', lat: 38.9531, lng: -77.4565, isAirport: true, source: 'local' },
+  { main: 'Ronald Reagan Washington National Airport (DCA)', secondary: 'Arlington, VA', lat: 38.8512, lng: -77.0402, isAirport: true, source: 'local' },
+  { main: 'Baltimore/Washington International Airport (BWI)', secondary: 'Baltimore, MD', lat: 39.1754, lng: -76.6682, isAirport: true, source: 'local' },
 ];
 
-const formatSuggestion = (feature) => {
-  const p = feature.properties || {};
-  const street = [p.housenumber, p.street].filter(Boolean).join(' ');
-  const seen = new Set();
-  return [p.name, street, p.district, p.city, p.state, p.postcode]
-    .filter((part) => part && !seen.has(part) && seen.add(part))
-    .join(', ');
-};
+// Bias results toward the Dulles / DC metro area.
+const BIAS = { lat: 38.95, lng: -77.35 };
 
-const AddressAutocomplete = ({ label, name, value, onChange, required = false, className = '', style }) => {
+const labelOf = (item) => (item.secondary ? `${item.main}, ${item.secondary}` : item.main);
+
+const AddressAutocomplete = ({
+  label,
+  name,
+  value,
+  onChange,
+  onSelect,
+  required = false,
+  className = '',
+  style,
+  inputClassName,
+  placeholder,
+  testId,
+}) => {
   const [open, setOpen] = useState(false);
   const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(false);
   const [highlight, setHighlight] = useState(-1);
   const abortRef = useRef(null);
   const timerRef = useRef(null);
+  const sessionRef = useRef(undefined);
+  const plain = Boolean(inputClassName);
 
   useEffect(() => () => {
     if (abortRef.current) abortRef.current.abort();
@@ -37,19 +55,12 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
     const ctrl = new AbortController();
     abortRef.current = ctrl;
     setLoading(true);
-    fetch(
-      `https://photon.komoot.io/api/?q=${encodeURIComponent(q)}&limit=6&lat=38.95&lon=-77.35&lang=en`,
-      { signal: ctrl.signal }
-    )
-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error('bad response'))))
-      .then((data) => {
+    if (hasGooglePlaces() && !sessionRef.current) sessionRef.current = newSessionToken();
+    suggest(q, { bias: BIAS, signal: ctrl.signal, sessionToken: sessionRef.current })
+      .then((results) => {
+        if (ctrl.signal.aborted) return;
         const seen = new Set();
-        const labels = (data.features || [])
-          .filter((f) => (f.properties || {}).countrycode === 'US')
-          .map(formatSuggestion)
-          .filter((s) => s && !seen.has(s) && seen.add(s))
-          .slice(0, 6);
-        setItems(labels);
+        setItems(results.filter((s) => { const k = labelOf(s); return k && !seen.has(k) && seen.add(k); }).slice(0, 6));
         setHighlight(-1);
         setLoading(false);
       })
@@ -63,6 +74,7 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
   const handleInput = (e) => {
     const q = e.target.value;
     onChange(q);
+    if (onSelect) onSelect(null);
     if (timerRef.current) clearTimeout(timerRef.current);
     if (q.trim().length < 3) {
       setItems([]);
@@ -74,10 +86,18 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
     timerRef.current = setTimeout(() => fetchSuggestions(q.trim()), 250);
   };
 
-  const select = (text) => {
-    onChange(text);
+  const select = async (item) => {
+    onChange(labelOf(item));
     setItems([]);
     setOpen(false);
+    try {
+      const picked = await resolveSelection(item, sessionRef.current);
+      sessionRef.current = undefined;
+      if (picked.address) onChange(picked.address);
+      if (onSelect) onSelect(picked);
+    } catch {
+      if (onSelect) onSelect({ address: labelOf(item), lat: item.lat ?? null, lng: item.lng ?? null, placeId: item.placeId || null, source: item.source });
+    }
   };
 
   const showAirports = value.trim().length === 0;
@@ -110,12 +130,13 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
         onBlur={() => setOpen(false)}
         onKeyDown={onKeyDown}
         required={required}
-        placeholder=" "
+        placeholder={plain ? placeholder || label : ' '}
         autoComplete="off"
-        className="bk-input pr-10"
+        className={plain ? `${inputClassName} pr-10` : 'bk-input pr-10'}
         aria-label={label}
+        data-testid={testId}
       />
-      <label className="bk-label">{label}{required ? ' *' : ''}</label>
+      {!plain && <label className="bk-label">{label}{required ? ' *' : ''}</label>}
       <span className="absolute right-3 top-1/2 -translate-y-1/2 text-[#d4af37]/70 pointer-events-none">
         {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : <MapPin className="w-4 h-4" />}
       </span>
@@ -132,7 +153,7 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
           )}
           <ul className="max-h-64 overflow-y-auto overscroll-contain">
             {visible.map((item, i) => (
-              <li key={item}>
+              <li key={`${item.placeId || ''}${labelOf(item)}`}>
                 <button
                   type="button"
                   onMouseDown={(e) => {
@@ -145,19 +166,22 @@ const AddressAutocomplete = ({ label, name, value, onChange, required = false, c
                     i === highlight ? 'bg-[#d4af37]/20 text-white' : 'text-white/90'
                   }`}
                 >
-                  {showAirports ? (
+                  {item.isAirport ? (
                     <Plane className="w-4 h-4 mt-0.5 flex-shrink-0 text-[#d4af37]" />
                   ) : (
                     <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0 text-[#d4af37]" />
                   )}
-                  <span className="leading-snug">{item}</span>
+                  <span className="leading-snug">
+                    {item.main}
+                    {item.secondary && <span className="block text-xs text-white/50">{item.secondary}</span>}
+                  </span>
                 </button>
               </li>
             ))}
           </ul>
           {!showAirports && (
             <div className="px-4 py-1.5 border-t border-white/10 text-[10px] text-white/30 text-right">
-              Suggestions © OpenStreetMap
+              {providerLabel()}
             </div>
           )}
         </div>
