@@ -57,8 +57,32 @@ const BlogPostPage = ({ slug }) => {
                   ))}
                 </ul>
               )}
+              {section.subsections && section.subsections.map((sub, sIdx) => (
+                <div key={sIdx}>
+                  <h3 className="font-display text-xl sm:text-2xl text-white mt-8 mb-4">{sub.heading}</h3>
+                  {sub.paragraphs.map((para, spIdx) => (
+                    <p key={spIdx} className="text-white/70 text-base sm:text-lg leading-relaxed mb-6">{para}</p>
+                  ))}
+                </div>
+              ))}
             </div>
           ))}
+
+          {/* Related pages */}
+          {post.relatedLinks && post.relatedLinks.length > 0 && (
+            <div className="mt-14 border-t border-white/10 pt-10">
+              <h2 className="font-display text-2xl sm:text-3xl text-white mb-6">Related Pages</h2>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {post.relatedLinks.map((link) => (
+                  <li key={link.to}>
+                    <Link to={link.to} className="flex items-center gap-3 border border-white/10 p-4 text-white/70 hover:text-white hover:border-white/40 transition-colors text-sm sm:text-base">
+                      <ChevronRight className="w-4 h-4 flex-shrink-0 text-white/40" /> {link.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
 
           {/* FAQ */}
           <div className="mt-14 border-t border-white/10 pt-10">

@@ -1,5 +1,6 @@
 // Blog content. Meta titles under 60 chars; descriptions under 160.
-// Section shape: { heading, paragraphs: [...], list?: [...] } — list renders after paragraphs.
+// Section shape: { heading, paragraphs: [...], list?: [...], subsections?: [{ heading, paragraphs }] } — list renders after paragraphs, subsections as H3.
+// Optional post.relatedLinks: [{ label, to }] renders a "Related Pages" block before the FAQ.
 
 const posts = [
   {
@@ -2064,6 +2065,479 @@ const posts = [
         question: 'Which airport handles delays better?',
         answer:
           'They fail differently. DCA’s single main runway makes it weather-sensitive, but its shuttle routes usually offer another departure within the hour. Dulles absorbs weather across multiple runways, but a missed international connection can cost a full day — so build generous connections at IAD.',
+      },
+    ],
+  },
+  {
+    slug: 'top-5-reasons-hire-chauffeur-bwi-airport-transfers',
+    title: 'Top 5 Reasons to Hire a Chauffeur for BWI Airport Transfers',
+    metaTitle: '5 Reasons to Hire a Chauffeur for BWI Airport Transfers',
+    metaDescription:
+      'Flying Southwest out of BWI from Loudoun or Fairfax? Five reasons a chauffeur beats the 60–75-mile drive, BWI parking and a red-eye return. Call (877) 609-1919.',
+    datePublished: '2026-09-10',
+    readTime: '5 min read',
+    excerpt:
+      'For Northern Virginia travelers, BWI is the far airport with the right fare. Here is why the 60–75-mile haul is a chauffeur job, not a parking job.',
+    intro: [
+      'Plenty of Loudoun and Fairfax households fly out of BWI Marshall on purpose. Southwest runs nonstops from Baltimore that Dulles does not, and the fare gap on a family of four can be several hundred dollars. The price of that fare is the drive: 60 to 75 miles by the Beltway and I-95, or the back way through Columbia on Route 32, in either direction. That is the part of the trip a chauffeur solves.',
+      'IAD Airport Limo runs this transfer weekly for clients in Ashburn, Leesburg, Reston and McLean. These are the five reasons they stopped driving it themselves.',
+    ],
+    sections: [
+      {
+        heading: 'Five Reasons the BWI Run Belongs to a Chauffeur',
+        paragraphs: [
+          'The BWI transfer is long enough that the usual rideshare and self-drive tradeoffs change. Each reason below is a problem our clients described before they booked, not a feature list.',
+        ],
+        subsections: [
+          {
+            heading: '1. The Beltway Haul Is Real Work',
+            paragraphs: [
+              'From Ashburn, the trip touches the Greenway or Route 7, the Beltway across the American Legion Bridge, and the BW Parkway or I-95. Ninety minutes each way is the honest estimate at 6 a.m.; two hours is common at 4 p.m. A chauffeur turns that into email time, sleep or a quiet hour with the kids, and dispatch chooses between the Beltway and Route 32 based on live conditions, not habit.',
+            ],
+          },
+          {
+            heading: '2. Parking Math Does Not Favor the Garage',
+            paragraphs: [
+              'A week in BWI hourly or daily parking, plus fuel for 140 miles, plus the shuttle wait, adds up quickly. A round-trip chauffeured SUV is often close to that total and removes the part where you hunt for your car at midnight. Our rates are flat and quoted in writing, with no surge, so the comparison is easy to run before you decide.',
+            ],
+          },
+          {
+            heading: '3. Red-Eye Returns Are Where Self-Driving Fails',
+            paragraphs: [
+              'Southwest brings a lot of West Coast traffic into BWI late. Driving 70 miles home to Loudoun after a cross-country flight is the single riskiest leg of the trip. We track the flight, meet you at the lower-level arrivals curb or at baggage claim, and the chauffeur is rested even when you are not. Domestic arrivals include 45 minutes of free wait time.',
+            ],
+          },
+          {
+            heading: '4. Family Luggage Needs a Suburban, Not a Compact',
+            paragraphs: [
+              'Two checked bags per person on Southwest encourages people to pack. A Chevrolet Suburban or Cadillac Escalade carries six with the luggage in the back, car seats installed before pickup, and no roulette about which vehicle the app assigns. Browse the options on our fleet page.',
+            ],
+          },
+          {
+            heading: '5. Corporate Travel Policy Prefers the Receipt',
+            paragraphs: [
+              'Contractors and federal travelers on a BWI itinerary get one itemized receipt with a flat rate that matches the approved quote. Our corporate car service handles direct billing and standing profiles so an assistant can book the return in a minute.',
+            ],
+          },
+        ],
+      },
+      {
+        heading: 'How the Transfer Works',
+        paragraphs: [
+          'Book the Dulles-area pickup to BWI with your flight number and we schedule against the airline check-in guidance. For inbound trips, our BWI to Washington DC and BWI to Annapolis pages cover the Maryland side, and our IAD to BWI Airport route handles split itineraries. If you are still deciding between airports, read our Dulles vs. Reagan comparison first.',
+        ],
+      },
+      {
+        heading: 'Book the BWI Run',
+        paragraphs: [
+          'Reserve online at our booking page or call (877) 609-1919, 24/7. Quote the flight, the address and the number of bags, and the rate you see is the rate you pay.',
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: 'IAD to BWI Airport Car Service', to: '/iad-to-bwi-airport' },
+      { label: 'BWI to Annapolis Car Service', to: '/bwi-to-annapolis-car-service' },
+      { label: 'BWI to Washington DC', to: '/bwi-to-washington-dc' },
+      { label: 'Airport Transfer Service', to: '/airport-transfer' },
+      { label: 'Corporate Car Service', to: '/corporate' },
+      { label: 'Dulles vs. Reagan National', to: '/blog/dulles-vs-reagan-national-airport' },
+    ],
+    faqs: [
+      {
+        question: 'How long is the drive from Loudoun County to BWI Airport?',
+        answer:
+          'From Ashburn or Leesburg, plan on 60 to 75 miles and 75 to 120 minutes depending on the Beltway and I-95. Our chauffeurs pick between the Beltway and the Route 32 corridor based on live traffic.',
+      },
+      {
+        question: 'Is a chauffeur to BWI cheaper than parking for a week?',
+        answer:
+          'For families and multi-day trips it is often comparable once you add daily parking, fuel for 140 miles and the shuttle. Call (877) 609-1919 for a flat round-trip quote and compare.',
+      },
+      {
+        question: 'Do you meet late Southwest arrivals at BWI?',
+        answer:
+          'Yes. We track the flight, meet you at baggage claim or the lower-level arrivals curb, and include 45 minutes of free wait time on domestic arrivals, 60 on international.',
+      },
+      {
+        question: 'What is your cancellation policy for BWI transfers?',
+        answer:
+          'Sedan and SUV bookings cancel free up to 3 hours before pickup. Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before.',
+      },
+    ],
+  },
+  {
+    slug: 'corporate-travel-executive-car-service-vs-rideshare-dc',
+    title: 'Corporate Travel Guide: Why Executive Car Service Beats Rideshare in DC',
+    metaTitle: 'Executive Car Service vs Rideshare in DC: Corporate Guide',
+    metaDescription:
+      'For Tysons, Reston and Herndon executives heading into DC, executive car service beats rideshare on I-66 tolls, hourly service, discretion and expenses.',
+    datePublished: '2026-09-10',
+    readTime: '5 min read',
+    excerpt:
+      'Dulles-corridor executives lose real money to I-66 tolls, surge fares and unreadable receipts. Here is the case for hourly executive car service into Washington.',
+    intro: [
+      'The Dulles technology corridor and the government-contracting firms clustered in Tysons, Reston, Herndon and Chantilly send thousands of executives into Washington every week. Most of those trips are 25 to 35 miles on I-66 or the Toll Road, timed against a meeting on K Street, Capitol Hill or a federal building on Independence Avenue. Rideshare looks convenient until you price it over a quarter.',
+      'This guide compares the two options the way a travel manager would, on cost, time, security and the expense report.',
+    ],
+    sections: [
+      {
+        heading: 'The I-66 Problem',
+        paragraphs: [
+          'Inside the Beltway, I-66 is dynamically tolled during rush hours, and eastbound pricing can exceed $40 on a bad morning. Rideshare passes that toll through, then adds surge on top because everyone is requesting a car at 7:30 a.m. An executive car service quotes a flat rate that already accounts for the corridor, and the chauffeur decides whether the express lanes, Route 50 or the George Washington Parkway wins that morning.',
+        ],
+      },
+      {
+        heading: 'Hourly Service for Meeting Days',
+        paragraphs: [
+          'A day in the District rarely involves one address. Three meetings, a lunch and a return to Reston means five separate rideshare requests, five waits and five fare surprises. Hourly executive service keeps one chauffeur and one Mercedes-Benz S-Class or BMW 7 Series with you all day, luggage and laptop bag in the trunk, ready when the meeting ends early.',
+        ],
+        subsections: [
+          {
+            heading: 'Client Pickups at Dulles',
+            paragraphs: [
+              'When a client or a visiting partner flies into Dulles, the pickup is the first impression. Our chauffeur meets them at baggage claim with a name sign, tracks the flight and includes 60 minutes of free wait time on international arrivals. The IAD to Tysons and IAD to Reston routes are the ones we run most. Read the Dulles airport car service page for the full arrival process.',
+            ],
+          },
+          {
+            heading: 'Security and Discretion',
+            paragraphs: [
+              'Contractor and defense executives care who is driving. Our chauffeurs are background-checked, in business attire and assigned by name the day before. Conversations in the back seat stay there. Rideshare cannot promise a specific driver, let alone one who has been vetted for a standing account.',
+            ],
+          },
+        ],
+      },
+      {
+        heading: 'Expense Compliance Without the Cleanup',
+        paragraphs: [
+          'Finance teams dislike rideshare receipts: variable fares, tolls itemized separately, tips that change by ride. Executive car service produces one invoice per trip or one monthly statement per account, each line tied to a traveler and a cost center. Flat rates match the approved quote every time, which is why our corporate car service clients set up direct billing. For firms with Maryland offices, the Maryland corporate transportation page covers Bethesda, Baltimore and Annapolis.',
+        ],
+      },
+      {
+        heading: 'When Rideshare Still Makes Sense',
+        paragraphs: [
+          'A two-mile hop from Union Station to a dinner at 9 p.m. is a fine rideshare trip. A 7 a.m. run from Herndon to a Senate office building with a client in the back is not. The dividing line is whether the arrival time carries a cost, and for corporate travel it almost always does.',
+        ],
+      },
+      {
+        heading: 'Set Up a Corporate Account',
+        paragraphs: [
+          'IAD Airport Limo runs executive car service 24/7 across Northern Virginia, DC and Maryland with written flat rates and no surge. Book online or call (877) 609-1919 to open an account, and see our Dulles corporate travel guide for airport-specific tips.',
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: 'Corporate Car Service', to: '/corporate' },
+      { label: 'Maryland Corporate Transportation', to: '/maryland-corporate-transportation' },
+      { label: 'IAD to Washington DC', to: '/iad-to-washington-dc' },
+      { label: 'IAD to Tysons', to: '/iad-to-tysons' },
+      { label: 'IAD to Reston', to: '/iad-to-reston' },
+      { label: 'Dulles Airport Car Service', to: '/iad-dulles-airport-car-service' },
+      { label: 'Corporate Travel Guide: Dulles Airport', to: '/blog/corporate-travel-guide-dulles-airport' },
+    ],
+    faqs: [
+      {
+        question: 'Does your flat rate include I-66 tolls?',
+        answer:
+          'Yes. Rates from Tysons, Reston, Herndon and Chantilly into Washington are quoted flat and include tolls and standard wait time, so the invoice matches the quote.',
+      },
+      {
+        question: 'How does hourly executive service work in DC?',
+        answer:
+          'You reserve a chauffeur and vehicle for a block of hours with a minimum. Stops are unlimited, the vehicle stays with you between meetings, and the rate is confirmed in writing. Call (877) 609-1919 for hourly pricing.',
+      },
+      {
+        question: 'Can you bill our company directly?',
+        answer:
+          'Yes. Corporate accounts get direct billing, monthly statements by traveler and cost center, and stored profiles so assistants can book in under a minute.',
+      },
+      {
+        question: 'Do you handle client pickups at Dulles for corporate accounts?',
+        answer:
+          'Yes. Meet and greet at baggage claim with a name sign, flight tracking, and 45 minutes of free wait time on domestic arrivals or 60 on international.',
+      },
+    ],
+  },
+  {
+    slug: 'wedding-transportation-maryland-choose-right-limo-service',
+    title: 'Wedding Transportation in Maryland: How to Choose the Right Limo Service',
+    metaTitle: 'Maryland Wedding Transportation: Choosing a Limo Service',
+    metaDescription:
+      'Northern Virginia couples marrying in Maryland: how to vet a wedding limo service, check insurance, move guests landing at Dulles and build the timeline.',
+    datePublished: '2026-09-10',
+    readTime: '5 min read',
+    excerpt:
+      'Marrying across the river? A Virginia couple planning a Bethesda, Frederick County or Eastern Shore wedding needs a limo company licensed on both sides of it.',
+    intro: [
+      'Many Northern Virginia couples end up marrying in Maryland. The reasons are practical: a family home in Potomac, a barn or vineyard in Frederick County, or a waterfront venue on the Eastern Shore that Virginia cannot match. The complication is that your guests, your vendors and your own getting-ready location may sit in three jurisdictions, and a limo company that is only comfortable on one side of the Potomac will show it on the day.',
+      'Here is how to choose wedding transportation in Maryland when you are planning from Loudoun, Fairfax or Arlington.',
+    ],
+    sections: [
+      {
+        heading: 'Where Northern Virginia Couples Marry in Maryland',
+        paragraphs: [
+          'Three clusters come up constantly in our bookings. Bethesda and Potomac for country clubs and estate homes, reached by the Beltway across the American Legion Bridge. Frederick County for barns, vineyards and Ceresville Mansion, an hour up I-270 or Route 15 from Leesburg. The Eastern Shore for waterfront ceremonies at Chesapeake Bay Beach Club and similar venues past the Bay Bridge. Each has its own traffic pattern, and each is covered on our Maryland wedding transportation page.',
+        ],
+      },
+      {
+        heading: 'Vetting the Limo Company',
+        paragraphs: [
+          'Before you look at photos of the cars, ask three questions.',
+        ],
+        subsections: [
+          {
+            heading: 'Licensing and Insurance on Both Sides of the River',
+            paragraphs: [
+              'A wedding that starts in Fairfax and ends in Frederick needs a carrier authorized in both Virginia and Maryland. IAD Airport Limo holds Maryland PSC Carrier No. 6325 and commercial livery insurance, not personal auto coverage. Ask any company for the certificate. A hesitation is your answer.',
+            ],
+          },
+          {
+            heading: 'The Fleet Question',
+            paragraphs: [
+              'Match vehicles to roles. A stretch limousine seats up to eight for the wedding party. A Mercedes Sprinter carries 14 guests from the hotel block. A Mercedes-Benz S-Class is the getaway car. Look at the actual fleet, then ask whether the specific vehicle can be named on your contract.',
+            ],
+          },
+          {
+            heading: 'Cancellation and Change Terms',
+            paragraphs: [
+              'Wedding vehicles are booked months out. Our limousines, Sprinter vans and special-event bookings cancel free up to 12 hours before pickup, and on-the-day changes are handled by dispatch by phone or text.',
+            ],
+          },
+        ],
+      },
+      {
+        heading: 'Guests Flying Into Dulles',
+        paragraphs: [
+          'Out-of-town guests usually land at Dulles because it is the airport with the nonstops. A Sprinter from IAD to Bethesda or IAD to Frederick moves a whole family in one trip, with flight tracking and 60 minutes of free wait on international arrivals. It also solves sober transport: a scheduled shuttle back to the hotel block at the end of the night means no one drives after the reception.',
+        ],
+      },
+      {
+        heading: 'Building the Timeline',
+        paragraphs: [
+          'Work backward from the ceremony. Add 20 minutes to every Maryland leg that crosses a bridge on a Saturday, and 30 for the Bay Bridge in summer. Confirm the named chauffeur the day before. Our wedding limo team builds this schedule with you, and for a wider look at venues, see the Maryland wedding limo page.',
+        ],
+      },
+      {
+        heading: 'Talk to a Wedding Coordinator',
+        paragraphs: [
+          'Request a written wedding quote through our booking page or call (877) 609-1919. Flat rates, no surge, and one reservation covering every vehicle on the day.',
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: 'Maryland Wedding Transportation', to: '/maryland-wedding-transportation' },
+      { label: 'Wedding Limo Service', to: '/wedding-limo' },
+      { label: 'Maryland Wedding Limo', to: '/maryland-wedding-limo' },
+      { label: 'IAD to Frederick, MD', to: '/iad-to-frederick-md' },
+      { label: 'IAD to Bethesda', to: '/iad-to-bethesda' },
+      { label: 'View the Fleet', to: '/fleet' },
+    ],
+    faqs: [
+      {
+        question: 'Can a Virginia limo company legally operate a wedding in Maryland?',
+        answer:
+          'Only if it holds Maryland carrier authority. IAD Airport Limo is a licensed and insured Virginia and Maryland carrier, Maryland PSC Carrier No. 6325, so a Fairfax-to-Frederick wedding day is fully covered.',
+      },
+      {
+        question: 'How far ahead should we book wedding transportation in Maryland?',
+        answer:
+          'Four to eight weeks for Saturday dates between May and October, earlier for Commissioning Week in Annapolis or Eastern Shore dates in October. Stretch limousines and Sprinter vans book first.',
+      },
+      {
+        question: 'Can you shuttle guests from Dulles to our Maryland venue?',
+        answer:
+          'Yes. Sprinter vans carry 14 with luggage from IAD to Bethesda, Frederick, Annapolis or the Eastern Shore, with flight tracking and meet and greet. Call (877) 609-1919 to coordinate multiple arrivals.',
+      },
+      {
+        question: 'What happens if the reception runs late?',
+        answer:
+          'Hourly wedding bookings extend at the same rate when the vehicle is available. Tell the chauffeur or dispatch before the scheduled end and the getaway car waits.',
+      },
+    ],
+  },
+  {
+    slug: 'best-events-maryland-2026-get-there-in-style',
+    title: 'A Guide to the Best Events in Maryland 2026 and How to Get There in Style',
+    metaTitle: 'Best Events in Maryland 2026 and How to Get There in Style',
+    metaDescription:
+      'A Northern Virginia traveler’s Maryland calendar for 2026: Preakness at Laurel Park, Camden Yards, Merriweather, the Annapolis Boat Shows and a chauffeur.',
+    datePublished: '2026-09-10',
+    readTime: '5 min read',
+    excerpt:
+      'From Loudoun and Fairfax, the best of Maryland sits on the far side of two bridges. Here is the 2026 calendar and how to cross the river without driving it.',
+    intro: [
+      'For Northern Virginia residents, Maryland is where the big events are and the bridges are the price of admission. Every trip on this calendar crosses the American Legion Bridge on the Beltway or the Woodrow Wilson Bridge on the south side, and both are unforgiving on an event evening. This is the 2026 calendar as our Dulles-corridor clients actually use it, organized by season, with a note on how to arrive.',
+    ],
+    sections: [
+      {
+        heading: 'Spring',
+        paragraphs: [
+          'The Preakness Stakes runs in May, and in 2026 it was held at Laurel Park while Pimlico is rebuilt, returning to Baltimore in 2027. Laurel is a straight shot up the BW Parkway from the Wilson Bridge side, and our Preakness transportation page covers the drop-off procedure. Late May brings Commissioning Week at the Naval Academy in Annapolis, and April opens the Orioles season at Camden Yards.',
+        ],
+      },
+      {
+        heading: 'Summer',
+        paragraphs: [
+          'Merriweather Post Pavilion in Columbia stacks its concert season from June through September, and a chauffeur removes the two-hour lot exit. Artscape fills downtown Baltimore for a summer weekend. Ocean City hosts its Air Show in June, and the Eastern Shore run is a three-hour Sprinter job from Fairfax that people regret driving themselves.',
+        ],
+      },
+      {
+        heading: 'Fall',
+        paragraphs: [
+          'Fall is the crowded season. The Maryland State Fair in Timonium spans late August into early September. The Maryland Renaissance Festival in Crownsville runs weekends from late August through October. The Annapolis Sailboat and Powerboat Shows in October fill every downtown garage, which is why our Annapolis Boat Show transportation service drops at the gate. Ravens home games at M&T Bank Stadium and Navy football at Navy-Marine Corps Memorial Stadium round out the Saturdays and Sundays, and the Baltimore Running Festival closes streets in October.',
+        ],
+      },
+      {
+        heading: 'Winter',
+        paragraphs: [
+          'Christmas Village at the Inner Harbor runs November into December, and the Miracle on 34th Street lights in Hampden are a December tradition. National Harbor is the closest Maryland destination for the Virginia side, minutes over the Wilson Bridge, with MGM National Harbor shows, the Gaylord ice display and the IAD to National Harbor route for guests landing at Dulles.',
+        ],
+      },
+      {
+        heading: 'Getting There From the Virginia Side',
+        paragraphs: [
+          'Two habits make Maryland events painless from Northern Virginia.',
+        ],
+        subsections: [
+          {
+            heading: 'Let the Chauffeur Pick the Bridge',
+            paragraphs: [
+              'Baltimore, Laurel and Columbia usually favor the American Legion Bridge and I-95; Annapolis and National Harbor favor the Wilson Bridge and Route 50 or Route 210. Dispatch watches both and chooses at pickup time, and the flat rate is the same either way.',
+            ],
+          },
+          {
+            heading: 'Move the Group in One Sprinter',
+            paragraphs: [
+              'A Mercedes Sprinter carries 14 with tailgate gear in the back. One vehicle, one drop-off, one pickup point after the show, and no one in the group drives home from a concert or a race day. Book it for the National Harbor run or a Camden Yards game and split the flat rate.',
+            ],
+          },
+        ],
+      },
+      {
+        heading: 'Reserve the Date',
+        paragraphs: [
+          'Book online at our booking page or call (877) 609-1919. Event bookings cancel free up to 12 hours before pickup, and the rate is fixed when you reserve.',
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: 'Preakness Stakes Transportation', to: '/preakness-stakes-transportation' },
+      { label: 'Merriweather Post Pavilion Transportation', to: '/merriweather-post-pavilion-transportation' },
+      { label: 'Camden Yards Transportation', to: '/oriole-park-camden-yards-transportation' },
+      { label: 'Annapolis Boat Show Transportation', to: '/annapolis-boat-show-transportation' },
+      { label: 'Maryland Renaissance Festival Transportation', to: '/maryland-renaissance-festival-transportation' },
+      { label: 'National Harbor Transportation', to: '/national-harbor-transportation' },
+      { label: 'M&T Bank Stadium Transportation', to: '/mt-bank-stadium-transportation' },
+    ],
+    faqs: [
+      {
+        question: 'Where is the Preakness in 2026?',
+        answer:
+          'The 2026 Preakness Stakes was run at Laurel Park in May while Pimlico Race Course is rebuilt. The race returns to Pimlico in 2027. We serve both from Northern Virginia, DC and Maryland.',
+      },
+      {
+        question: 'How long does it take from Fairfax to Merriweather Post Pavilion?',
+        answer:
+          'About 45 miles and 60 to 90 minutes on a concert evening via the American Legion Bridge and I-95 or Route 29. We drop at the venue and stage nearby for the return.',
+      },
+      {
+        question: 'Can a group from Loudoun share one vehicle to a Ravens game?',
+        answer:
+          'Yes. A Mercedes Sprinter carries up to 14 to M&T Bank Stadium at a flat rate, with a fixed pickup point after the game. Call (877) 609-1919 for group quotes.',
+      },
+      {
+        question: 'What is the cancellation policy for event transportation?',
+        answer:
+          'Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before pickup; sedans and SUVs up to 3 hours before.',
+      },
+    ],
+  },
+  {
+    slug: 'flying-into-dulles-or-reagan-professional-car-service',
+    title: "Flying Into Dulles or Reagan? Here's Why You Need a Professional Car Service",
+    metaTitle: 'Dulles or Reagan? Why You Need a Professional Car Service',
+    metaDescription:
+      'Landing at Dulles or Reagan National? Customs, Global Entry, the mid-field concourse walk, the perimeter rule and what a professional car service does at each.',
+    datePublished: '2026-09-10',
+    readTime: '5 min read',
+    excerpt:
+      'Dulles is our home airport. Here is what actually happens after you land at IAD or DCA, and why the last mile deserves a professional chauffeur.',
+    intro: [
+      'IAD Airport Limo was built around Dulles, and we run Reagan National every day too. The two airports are 30 miles and about 45 minutes apart, and they could not feel more different on arrival. Dulles is an international gateway with customs halls and mid-field concourses. Reagan is a compact domestic field four miles from the Capitol. The right car service knows both, and knows which one you should have chosen.',
+    ],
+    sections: [
+      {
+        heading: 'Landing at Dulles: What Actually Happens',
+        paragraphs: [
+          'Most Dulles arrivals land at the A, B, C or D concourses in the mid-field, not at the main terminal.',
+        ],
+        subsections: [
+          {
+            heading: 'Customs and Global Entry',
+            paragraphs: [
+              'International passengers clear immigration at the International Arrivals Building, then collect bags and pass customs. Global Entry kiosks cut the line dramatically; without them, plan on 30 to 90 minutes during an evening bank of European and Asian arrivals. That variance is why our international pickups include 60 minutes of free wait time and why we track the flight rather than the scheduled time. Our Dulles international arrivals guide walks through it door by door.',
+            ],
+          },
+          {
+            heading: 'The Walk From the Mid-Field Concourses',
+            paragraphs: [
+              'Domestic arrivals ride the AeroTrain or the mobile lounges from the concourses to the main terminal, then descend to baggage claim. Ten to twenty minutes is normal. With meet and greet, your chauffeur is standing at the carousel with a name sign, and the walk to the vehicle is short. The full process is on our Dulles airport car service page.',
+            ],
+          },
+        ],
+      },
+      {
+        heading: 'Reagan: The Short Hop and the Perimeter Rule',
+        paragraphs: [
+          'Reagan National is the airport you want for downtown, Capitol Hill and Arlington. The downtown ride is about four miles and 10 to 20 minutes, and Metro runs into the terminal. The catch is the perimeter rule: most flights must stay within 1,250 miles, so the West Coast and nearly all international itineraries land at Dulles regardless of preference. Reagan pickups are quick, but the curb is tight and a professional chauffeur stages precisely.',
+        ],
+      },
+      {
+        heading: 'Which Airport for Which Trip',
+        paragraphs: [
+          'International, transcontinental or bound for Loudoun and Fairfax: Dulles. Domestic East Coast and bound for the District or Arlington: Reagan. Split itineraries that land at one and depart from the other are routine, and the IAD to DCA transfer is a flat-rate 45-minute run. Our Dulles vs. Reagan comparison goes deeper on fares and delays.',
+        ],
+      },
+      {
+        heading: 'What a Professional Car Service Does Differently',
+        paragraphs: [
+          'At Dulles, we watch the flight, the customs queue and the AeroTrain, and adjust the chauffeur without a call from you. At Reagan, we position for a fast curb pickup and a direct run over the 14th Street Bridge or the GW Parkway. At both, the rate is flat and written, with no surge at midnight or in a thunderstorm. Rideshare offers none of that, and the parking garage walk at IAD after a 10-hour flight is the reason most clients call us the second time.',
+        ],
+      },
+      {
+        heading: 'Book Your Arrival',
+        paragraphs: [
+          'Reserve on our booking page with the flight number, or call (877) 609-1919 any hour. Meet and greet, flight tracking and a Mercedes-Benz, BMW or Cadillac waiting when you clear the doors. See our Washington DC airport transfers page for all three airports.',
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: 'Dulles Airport Car Service', to: '/iad-dulles-airport-car-service' },
+      { label: 'Washington DC Airport Transfers', to: '/washington-dc-airport-transfers' },
+      { label: 'IAD to Washington DC', to: '/iad-to-washington-dc' },
+      { label: 'Dulles International Arrivals Guide', to: '/blog/dulles-airport-international-arrivals-guide' },
+      { label: 'Dulles Meet and Greet Service', to: '/blog/dulles-airport-meet-and-greet-service' },
+      { label: 'Dulles vs. Reagan National', to: '/blog/dulles-vs-reagan-national-airport' },
+    ],
+    faqs: [
+      {
+        question: 'Where does my chauffeur meet me at Dulles after an international flight?',
+        answer:
+          'Just outside the customs exit doors in the International Arrivals Building, holding a name sign. Flight tracking and 60 minutes of free wait time cover the customs queue.',
+      },
+      {
+        question: 'How long is the walk from the Dulles concourses to baggage claim?',
+        answer:
+          'Ten to twenty minutes via the AeroTrain or mobile lounges from the mid-field concourses to the main terminal, then down to baggage claim on the lower level.',
+      },
+      {
+        question: 'What is the Reagan National perimeter rule?',
+        answer:
+          'Most DCA flights must stay within 1,250 miles, with a limited number of exemptions. Longer domestic and international itineraries use Dulles instead.',
+      },
+      {
+        question: 'Can you transfer me between Dulles and Reagan?',
+        answer:
+          'Yes. The IAD to DCA run is about 30 miles and 45 minutes outside rush hour at a flat rate. Call (877) 609-1919 with both flight numbers.',
       },
     ],
   },
