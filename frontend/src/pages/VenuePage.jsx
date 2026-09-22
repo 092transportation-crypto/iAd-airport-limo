@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import venues from '../data/venuesData';
 import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Music, ChevronRight } from 'lucide-react';
+import KeywordSection from '../components/KeywordSection';
 
 const VenuePage = ({ slug }) => {
   const venue = venues.find((v) => v.slug === slug);
@@ -83,6 +84,8 @@ const VenuePage = ({ slug }) => {
           </div>
         </div>
       </section>
+
+      <KeywordSection slug={venue.slug} place={venue.name} kind="event" />
 
       {/* FAQ */}
       <section className="py-14 md:py-20 bg-[#0a0a0a] border-t border-white/10">

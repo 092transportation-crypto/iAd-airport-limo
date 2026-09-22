@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import routes from '../data/routesData';
 import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Plane, ChevronRight } from 'lucide-react';
+import KeywordSection from '../components/KeywordSection';
 
 const RoutePage = ({ slug }) => {
   const route = routes.find((r) => r.slug === slug);
@@ -83,6 +84,8 @@ const RoutePage = ({ slug }) => {
           </div>
         </div>
       </section>
+
+      <KeywordSection slug={route.slug} place={`Dulles to ${route.shortName}`} kind="place" />
 
       {/* FAQ */}
       <section className="py-14 md:py-20 bg-[#0a0a0a] border-t border-white/10">

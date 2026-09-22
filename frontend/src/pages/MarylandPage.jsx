@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import { findMarylandPage } from '../data/marylandPages';
 import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Users, ChevronRight } from 'lucide-react';
+import KeywordSection from '../components/KeywordSection';
 
 const SITE_URL = 'https://www.iadairportlimo.com';
 const SCHEMA_ID = 'maryland-page-schema';
@@ -156,6 +157,8 @@ const MarylandPage = ({ slug, page: pageProp }) => {
           </div>
         </div>
       </section>
+
+      <KeywordSection slug={page.slug} place={page.name} kind={page.type === "event" ? "event" : "place"} />
 
       {/* FAQ */}
       <section className="py-14 md:py-20 bg-[#0a0a0a] border-t border-white/10">

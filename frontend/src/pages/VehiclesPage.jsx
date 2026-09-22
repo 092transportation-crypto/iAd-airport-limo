@@ -313,7 +313,7 @@ const VehiclesPage = () => {
               <div>
                 <img 
                   src={currentData.vehicle.image} 
-                  alt={currentData.vehicle.name}
+                  alt={`${currentData.vehicle.name} — IAD Airport Limo chauffeured vehicle for Dulles airport transfers`}
                   className="w-full h-96 object-cover"
                 />
               </div>
@@ -364,7 +364,7 @@ const VehiclesPage = () => {
                   <div className="relative h-56 overflow-hidden">
                     <img 
                       src={vehicle.image} 
-                      alt={vehicle.name}
+                      alt={`${vehicle.name} — Dulles airport limo and black car service`}
                       className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                     />
                   </div>

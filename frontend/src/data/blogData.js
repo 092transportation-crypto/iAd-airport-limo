@@ -2,6 +2,8 @@
 // Section shape: { heading, paragraphs: [...], list?: [...], subsections?: [{ heading, paragraphs }] } — list renders after paragraphs, subsections as H3.
 // Optional post.relatedLinks: [{ label, to }] renders a "Related Pages" block before the FAQ.
 
+import batch2 from './blogDataBatch2';
+
 const posts = [
   {
     slug: 'iad-airport-car-service-vs-uber-2026',
@@ -2541,6 +2543,7 @@ const posts = [
       },
     ],
   },
+  ...batch2,
 ];
 
 export default posts;

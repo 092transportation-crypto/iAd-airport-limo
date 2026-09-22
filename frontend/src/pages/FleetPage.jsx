@@ -88,7 +88,7 @@ const FleetPage = () => {
             {filteredVehicles.map((v) => (
               <div key={v.id} className="luxury-card group overflow-hidden border border-white/10">
                 <div className="h-48 overflow-hidden">
-                  <img src={v.image} alt={v.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                  <img src={v.image} alt={`${v.name} — Dulles airport car service and Northern Virginia chauffeur service`} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                 </div>
                 <div className="p-4 bg-black">
                   <div className="text-white/40 text-xs uppercase tracking-widest mb-1">{v.category}</div>
