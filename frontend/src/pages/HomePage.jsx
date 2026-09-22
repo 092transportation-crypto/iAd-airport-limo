@@ -62,14 +62,14 @@ const HomePage = () => {
 
   // Fleet photos in /public/images — byte-identical to 92limo's fleet photos.
   const fleetImages = {
-    eclass: '/images/mercedes-e-class.jpg',
-    bmw7: '/images/bmw-7-series.jpg',
-    nautilus: '/images/lincoln-nautilus.jpg',
-    suburban: '/images/chevy-suburban.jpg',
-    escalade: '/images/cadillac-escalade.jpg',
-    sprinterShuttle: '/images/sprinter-shuttle-seats.jpg',
-    sprinterExecutive: '/images/mercedes-sprinter.jpg',
-    sprinterLimo: '/images/limousine.jpg',
+    eclass: '/images/mercedes-e-class.webp',
+    bmw7: '/images/bmw-7-series.webp',
+    nautilus: '/images/lincoln-nautilus.webp',
+    suburban: '/images/chevy-suburban.webp',
+    escalade: '/images/cadillac-escalade.webp',
+    sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
+    sprinterExecutive: '/images/mercedes-sprinter.webp',
+    sprinterLimo: '/images/limousine.webp',
   };
 
   const images = {
@@ -119,7 +119,7 @@ const HomePage = () => {
     <div className="min-h-screen bg-black">
       <Seo
         title="Dulles Airport Transportation & Limo Service | IAD Airport Limo"
-        description="IAD Airport Limo offers premium airport transportation in Dulles, VA. Mercedes & BMW luxury fleet, real-time flight tracking & meet & greet. Book 24/7. (877) 609-1919."
+        description="IAD Airport Limo offers premium airport transportation in Dulles, VA. Mercedes & BMW fleet, flight tracking & meet & greet. Book 24/7. (877) 609-1919."
         path="/"
         faqs={homeFaqs}
       />

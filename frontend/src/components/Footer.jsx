@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Phone, Mail, MapPin } from 'lucide-react';
+import SiteBreadcrumbs from './SiteBreadcrumbs';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -8,6 +9,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-black border-t border-white/10">
+      <SiteBreadcrumbs />
       {/* Main Footer */}
       <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24 py-20">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-12">
@@ -77,6 +79,7 @@ const Footer = () => {
                 { name: 'Our Fleet', path: '/fleet' },
                 { name: 'Reviews', path: '/reviews' },
                 { name: 'Blog', path: '/blog' },
+                { name: 'Service Areas', path: '/service-areas' },
                 { name: 'Contact', path: '/contact' },
                 { name: 'Privacy Policy', path: '/privacy' },
                 { name: 'Terms of Service', path: '/terms' },

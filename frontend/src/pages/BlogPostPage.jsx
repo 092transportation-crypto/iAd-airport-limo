@@ -4,21 +4,25 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import posts from '../data/blogData';
+import { GUIDES } from '../data/guides';
+
+// Blog posts live at /blog/<slug>; guides (data/guides.js) share this template at /<slug>.
+const postPath = (p) => (GUIDES.includes(p) ? `/${p.slug}` : `/blog/${p.slug}`);
 import { Phone, ArrowRight, Calendar, Clock, ChevronRight } from 'lucide-react';
 
 const formatDate = (iso) =>
   new Date(`${iso}T12:00:00`).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
-const BlogPostPage = ({ slug }) => {
-  const post = posts.find((p) => p.slug === slug);
-  const otherPosts = posts.filter((p) => p.slug !== slug).slice(0, 3);
+const BlogPostPage = ({ slug, guideSlug }) => {
+  const post = guideSlug ? GUIDES.find((g) => g.slug === guideSlug) : posts.find((p) => p.slug === slug);
+  const otherPosts = [...(guideSlug ? GUIDES : []), ...posts].filter((p) => p.slug !== post.slug).slice(0, 3);
 
   return (
     <div className="min-h-screen bg-black">
       <Seo
         title={post.metaTitle}
         description={post.metaDescription}
-        path={`/blog/${post.slug}`}
+        path={postPath(post)}
         faqs={post.faqs}
         article={{ headline: post.title, datePublished: post.datePublished }}
       />
@@ -124,7 +128,7 @@ const BlogPostPage = ({ slug }) => {
           <h2 className="font-display text-xl sm:text-2xl text-white text-center mb-8">More from the Blog</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {otherPosts.map((p) => (
-              <Link key={p.slug} to={`/blog/${p.slug}`} className="border border-white/10 p-5 hover:border-white/40 transition-colors">
+              <Link key={p.slug} to={postPath(p)} className="border border-white/10 p-5 hover:border-white/40 transition-colors">
                 <p className="text-white/40 text-xs uppercase tracking-widest mb-2">{formatDate(p.datePublished)}</p>
                 <h3 className="font-display text-lg text-white mb-2">{p.title}</h3>
                 <p className="text-white/50 text-sm">{p.excerpt}</p>

@@ -1,5 +1,7 @@
 // Maryland SEO landing pages — city, route and service pages.
 // Generated content; each entry drives one page at /<slug>.
+import { ensureFiveFaqs } from '../lib/faqExtras';
+import { MARYLAND_BATCH3 } from './marylandPagesBatch3';
 
 export const MARYLAND_PAGES = [
   {
@@ -1563,7 +1565,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Gibson Island Limo Service",
@@ -1721,7 +1723,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Gibson Island Limo Service",
@@ -1879,7 +1881,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Gibson Island Limo Service",
@@ -2353,7 +2355,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Gibson Island Limo Service",
@@ -2511,7 +2513,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Gibson Island Limo Service",
@@ -2669,7 +2671,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Gibson Island Limo Service",
@@ -2689,7 +2691,7 @@ export const MARYLAND_PAGES = [
     }
   },
   {
-    "slug": "capstone-limo-service",
+    "slug": "cape-st-claire-limo-service",
     "type": "city",
     "name": "Cape St. Claire",
     "badge": "Anne Arundel County · Maryland",
@@ -4095,7 +4097,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "label": "Cape St. Claire Limo Service",
-        "to": "/capstone-limo-service"
+        "to": "/cape-st-claire-limo-service"
       },
       {
         "label": "Navy-Marine Corps Memorial Stadium Transportation",
@@ -4427,7 +4429,7 @@ export const MARYLAND_PAGES = [
     }
   },
   {
-    "slug": "snopesville-limo-service",
+    "slug": "sykesville-limo-service",
     "type": "city",
     "name": "Sykesville",
     "badge": "Carroll County · Maryland",
@@ -10221,8 +10223,15 @@ export const MARYLAND_PAGES = [
       ],
       "serviceType": "Airport car service"
     }
-  }
+  },
+  // Batch 3 (2026-09-22, Virginia/DC pages) lives in its own file.
+  ...MARYLAND_BATCH3,
 ];
+
+// Every page carries five FAQs (visible block + FAQPage schema).
+MARYLAND_PAGES.forEach((p) => {
+  p.faqs = ensureFiveFaqs(p.faqs, { slug: p.slug });
+});
 
 export const MARYLAND_SLUGS = MARYLAND_PAGES.map((p) => p.slug);
 export const findMarylandPage = (slug) => MARYLAND_PAGES.find((p) => p.slug === slug);

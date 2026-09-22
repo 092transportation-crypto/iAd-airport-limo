@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
 
 const privacyFaqs = [
   {
@@ -145,6 +146,7 @@ const PrivacyPolicyPage = () => {
         </div>
       </section>
 
+      <FaqSection faqs={privacyFaqs} />
       <Footer />
     </div>
   );

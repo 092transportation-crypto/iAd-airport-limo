@@ -35,14 +35,14 @@ const FleetPage = () => {
   // The 8 fleet categories, in exact order — kept in sync with 92limo.com.
   // Images live in /public/images, byte-identical to 92limo's fleet photos.
   const fleetImages = {
-    eclass: '/images/mercedes-e-class.jpg',
-    bmw7: '/images/bmw-7-series.jpg',
-    nautilus: '/images/lincoln-nautilus.jpg',
-    suburban: '/images/chevy-suburban.jpg',
-    escalade: '/images/cadillac-escalade.jpg',
-    sprinterShuttle: '/images/sprinter-shuttle-seats.jpg',
-    sprinterExecutive: '/images/mercedes-sprinter.jpg',
-    sprinterLimo: '/images/limousine.jpg',
+    eclass: '/images/mercedes-e-class.webp',
+    bmw7: '/images/bmw-7-series.webp',
+    nautilus: '/images/lincoln-nautilus.webp',
+    suburban: '/images/chevy-suburban.webp',
+    escalade: '/images/cadillac-escalade.webp',
+    sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
+    sprinterExecutive: '/images/mercedes-sprinter.webp',
+    sprinterLimo: '/images/limousine.webp',
   };
 
   const vehicles = [

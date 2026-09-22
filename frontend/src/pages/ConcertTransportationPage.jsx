@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import { Phone, ArrowRight, Music, Shield, MapPin, ChevronRight } from 'lucide-react';
+import FaqSection from '../components/FaqSection';
 
 const venues = [
   {
@@ -202,6 +203,7 @@ const ConcertTransportationPage = () => {
         </div>
       </section>
 
+      <FaqSection faqs={faqs} />
       <Footer />
     </div>
   );

@@ -3,8 +3,14 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
-import posts from '../data/blogData';
+import datedPosts from '../data/blogData';
+import { GUIDES } from '../data/guides';
+
+// Guides live at /<slug>, posts at /blog/<slug>.
+const postPath = (p) => (GUIDES.includes(p) ? `/${p.slug}` : `/blog/${p.slug}`);
+const posts = [...GUIDES, ...datedPosts];
 import { Calendar, Clock, ArrowRight, Phone } from 'lucide-react';
+import FaqSection from '../components/FaqSection';
 
 const formatDate = (iso) =>
   new Date(`${iso}T12:00:00`).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -46,7 +52,7 @@ const BlogIndexPage = () => {
       <section className="py-14 md:py-20 bg-black">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-6">
           {sorted.map((post) => (
-            <Link key={post.slug} to={`/blog/${post.slug}`} className="block border border-white/10 p-6 sm:p-8 hover:border-white/40 transition-colors">
+            <Link key={post.slug} to={postPath(post)} className="block border border-white/10 p-6 sm:p-8 hover:border-white/40 transition-colors">
               <div className="flex items-center gap-6 text-white/40 text-xs uppercase tracking-widest mb-3">
                 <span className="flex items-center gap-2"><Calendar className="w-3 h-3" /> {formatDate(post.datePublished)}</span>
                 <span className="flex items-center gap-2"><Clock className="w-3 h-3" /> {post.readTime}</span>
@@ -74,6 +80,7 @@ const BlogIndexPage = () => {
         </div>
       </section>
 
+      <FaqSection faqs={blogFaqs} />
       <Footer />
     </div>
   );

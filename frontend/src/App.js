@@ -30,6 +30,8 @@ import MarylandPage from './pages/MarylandPage';
 import EventRoute from './pages/EventRoute';
 import { MARYLAND_PAGES } from './data/marylandPages';
 import blogPosts from './data/blogData';
+import { GUIDES } from './data/guides';
+import ServiceAreasPage from './pages/ServiceAreasPage';
 import { Toaster } from './components/ui/toaster';
 import FloatingCallButton from './components/FloatingCallButton';
 
@@ -84,6 +86,10 @@ function App() {
 
           {/* Blog */}
           <Route path="/blog" element={<BlogIndexPage />} />
+          <Route path="/service-areas" element={<ServiceAreasPage />} />
+          {GUIDES.map((g) => (
+            <Route key={g.slug} path={`/${g.slug}`} element={<BlogPostPage guideSlug={g.slug} />} />
+          ))}
           {blogPosts.map((p) => (
             <Route key={p.slug} path={`/blog/${p.slug}`} element={<BlogPostPage slug={p.slug} />} />
           ))}

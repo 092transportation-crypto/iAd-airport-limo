@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
+import FaqSection from '../components/FaqSection';
 
 const termsFaqs = [
   {
@@ -13,6 +14,11 @@ const termsFaqs = [
     question: 'Am I charged extra if my flight is delayed?',
     answer:
       'No. Airport pickups include flight tracking and complimentary wait time — 45 minutes on domestic arrivals and 60 minutes on international — so normal flight delays do not add charges.',
+  },
+  {
+    question: 'What counts as a no-show?',
+    answer:
+      'A reservation is treated as a no-show when the passenger cannot be reached and does not appear within the complimentary waiting-time allowance. No-shows are charged the confirmed fare plus any waiting time already incurred, so cancelling before pickup always costs less.',
   },
 ];
 
@@ -135,6 +141,7 @@ const TermsPage = () => {
         </div>
       </section>
 
+      <FaqSection faqs={termsFaqs} />
       <Footer />
     </div>
   );

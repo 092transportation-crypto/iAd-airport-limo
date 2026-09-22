@@ -1,8 +1,14 @@
 import React from 'react';
 import { ChevronRight } from 'lucide-react';
+import { useLocation } from 'react-router-dom';
+import { ensureFiveFaqs } from '../lib/faqExtras';
 
 // Visible FAQ block matching the FAQPage schema injected by <Seo faqs={...} />.
-const FaqSection = ({ faqs, dark = true }) => (
+const FaqSection = ({ faqs: rawFaqs, dark = true }) => {
+  // Same top-up as <Seo>, keyed by path, so the visible block matches the schema.
+  const { pathname } = useLocation();
+  const faqs = ensureFiveFaqs(rawFaqs, { slug: pathname, keys: ['question', 'answer'] });
+  return (
   <section className={`py-14 md:py-20 ${dark ? 'bg-[#0a0a0a] border-t border-white/10' : 'bg-white'}`}>
     <div className="max-w-3xl mx-auto px-4 sm:px-6">
       <div className="text-center mb-10">
@@ -23,5 +29,6 @@ const FaqSection = ({ faqs, dark = true }) => (
     </div>
   </section>
 );
+};
 
 export default FaqSection;

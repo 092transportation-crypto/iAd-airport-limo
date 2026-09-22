@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/sitemap.js": {
+      "includeFiles": "public/sitemap-static.xml"
+    }
+  },
   "rewrites": [
     {
       "source": "/sitemap.xml",
@@ -6,7 +11,29 @@
     },
     {
       "source": "/((?!api/).*)",
-      "destination": "/index.html"
+      "destination": "/shell.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/capstone-limo-service",
+      "destination": "/cape-st-claire-limo-service",
+      "permanent": true
+    },
+    {
+      "source": "/snopesville-limo-service",
+      "destination": "/sykesville-limo-service",
+      "permanent": true
+    },
+    {
+      "source": "/images/:name([^/]+)\\.(jpg|jpeg)",
+      "destination": "/images/:name.webp",
+      "permanent": true
+    },
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "permanent": true
     }
   ]
 }

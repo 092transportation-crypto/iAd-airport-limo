@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { ensureFiveFaqs } from '../lib/faqExtras';
 
 const SITE_URL = 'https://www.iadairportlimo.com';
 const SITE_NAME = 'IAD Airport Limo';
@@ -36,8 +37,10 @@ const SCHEMA_ID = 'seo-page-schema';
  * - faqs: optional [{ question, answer }] rendered as FAQPage schema
  * - article: optional { headline, datePublished, dateModified }
  */
-const Seo = ({ title, description, path = '/', faqs, article }) => {
+const Seo = ({ title, description, path = '/', faqs: rawFaqs, article }) => {
   useEffect(() => {
+    // Every page carries five Q&As; extras come from the shared policy pool.
+    const faqs = rawFaqs && rawFaqs.length ? ensureFiveFaqs(rawFaqs, { slug: path, keys: ['question', 'answer'] }) : rawFaqs;
     const url = `${SITE_URL}${path === '/' ? '/' : path}`;
 
     document.title = title;
@@ -92,7 +95,7 @@ const Seo = ({ title, description, path = '/', faqs, article }) => {
     return () => {
       document.querySelectorAll(`script[data-seo="${SCHEMA_ID}"]`).forEach((s) => s.remove());
     };
-  }, [title, description, path, faqs, article]);
+  }, [title, description, path, rawFaqs, article]);
 
   return null;
 };
