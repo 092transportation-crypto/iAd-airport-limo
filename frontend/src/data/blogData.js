@@ -4,6 +4,7 @@
 
 import batch2 from './blogDataBatch2';
 import batch3 from './blogDataBatch3';
+import batch4 from './blogDataBatch4';
 
 const posts = [
   {
@@ -2576,6 +2577,7 @@ const posts = [
   },
   ...batch2,
   ...batch3,
+  ...batch4,
 ];
 
 export default posts;
