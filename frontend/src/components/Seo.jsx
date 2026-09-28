@@ -35,7 +35,8 @@ const SCHEMA_ID = 'seo-page-schema';
  * - description: string (keep under 160 chars)
  * - path: string route path, e.g. "/iad-to-bethesda"
  * - faqs: optional [{ question, answer }] rendered as FAQPage schema
- * - article: optional { headline, datePublished, dateModified }
+ * - article: optional { headline, datePublished, dateModified, image } — when
+ *   present, JSON-LD is emitted as BlogPosting (used by blog/guide pages).
  */
 const Seo = ({ title, description, path = '/', faqs: rawFaqs, article }) => {
   useEffect(() => {
@@ -54,6 +55,7 @@ const Seo = ({ title, description, path = '/', faqs: rawFaqs, article }) => {
     setMeta('name', 'twitter:card', 'summary_large_image');
     setMeta('name', 'twitter:title', title);
     setMeta('name', 'twitter:description', description);
+    if (article && article.image) setMeta('property', 'og:image', `${SITE_URL}${article.image}`);
 
     document.querySelectorAll(`script[data-seo="${SCHEMA_ID}"]`).forEach((s) => s.remove());
 
@@ -72,7 +74,7 @@ const Seo = ({ title, description, path = '/', faqs: rawFaqs, article }) => {
     if (article) {
       schemas.push({
         '@context': 'https://schema.org',
-        '@type': 'Article',
+        '@type': 'BlogPosting',
         headline: article.headline || title,
         description,
         author: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL },
@@ -80,6 +82,7 @@ const Seo = ({ title, description, path = '/', faqs: rawFaqs, article }) => {
         mainEntityOfPage: url,
         ...(article.datePublished ? { datePublished: article.datePublished } : {}),
         ...(article.dateModified ? { dateModified: article.dateModified } : {}),
+        ...(article.image ? { image: `${SITE_URL}${article.image}` } : {}),
       });
     }
     schemas.forEach((schema) => {

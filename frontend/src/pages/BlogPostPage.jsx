@@ -24,7 +24,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
         description={post.metaDescription}
         path={postPath(post)}
         faqs={post.faqs}
-        article={{ headline: post.title, datePublished: post.datePublished }}
+        article={{ headline: post.title, datePublished: post.datePublished, image: post.image }}
       />
       <Navbar />
 
@@ -39,6 +39,17 @@ const BlogPostPage = ({ slug, guideSlug }) => {
           </div>
         </div>
       </section>
+
+      {post.image && (
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 -mt-6 md:-mt-8">
+          <img
+            src={post.image}
+            alt={post.title}
+            className="w-full h-56 sm:h-72 md:h-96 object-cover border border-white/10"
+            loading="eager"
+          />
+        </div>
+      )}
 
       {/* Body */}
       <article className="py-12 md:py-16 bg-black">

@@ -3,6 +3,7 @@
 // Optional post.relatedLinks: [{ label, to }] renders a "Related Pages" block before the FAQ.
 
 import batch2 from './blogDataBatch2';
+import batch3 from './blogDataBatch3';
 
 const posts = [
   {
@@ -2544,6 +2545,7 @@ const posts = [
     ],
   },
   ...batch2,
+  ...batch3,
 ];
 
 export default posts;
