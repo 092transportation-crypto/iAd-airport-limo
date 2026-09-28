@@ -11,6 +11,7 @@ const batch2 = [
     readTime: '6 min read',
     excerpt:
       'International arrivals at Dulles take longer than most travelers expect, and knowing the sequence in advance makes the wait far less stressful.',
+    image: '/images/blog/airport-dropoff.webp',
     intro: [
       'Dulles is a genuine international gateway, and its arrivals process for international flights is more involved than a domestic hop. Knowing the sequence — from touchdown to the arrivals curb — helps you plan the pickup and set realistic expectations for how long it actually takes.',
     ],
@@ -73,6 +74,7 @@ const batch2 = [
     readTime: '6 min read',
     excerpt:
       'Loudoun County is one of the densest wine regions on the East Coast, and it sits right next to Dulles — which makes a chauffeured day trip an easy addition to any Northern Virginia visit.',
+    image: '/images/blog/fleet-7series-2.webp',
     intro: [
       'Loudoun County, stretching west from Dulles through Leesburg, Purcellville and Middleburg, has become one of the most concentrated wine regions on the East Coast. For visitors flying into Dulles or residents across Northern Virginia, a chauffeured day among the vineyards is a natural pairing — no one has to be the designated driver, and the day is not cut short by a long drive home.',
     ],
@@ -134,6 +136,7 @@ const batch2 = [
     readTime: '6 min read',
     excerpt:
       'For a travel manager at a Tysons company, the decision is less about one ride and more about a repeatable, accountable program tied to Dulles.',
+    image: '/images/blog/scenario-corporate-rain.webp',
     intro: [
       'Tysons is one of the largest concentrations of corporate headquarters in the Washington region, and its proximity to Dulles makes ground transportation a recurring line item for most travel managers. Individual employees booking their own rideshare creates gaps in accountability and expense visibility that a corporate car account is built to close.',
     ],
@@ -195,6 +198,7 @@ const batch2 = [
     readTime: '6 min read',
     excerpt:
       'Three ways to leave Dulles, three different trade-offs. Here is an honest look at where each one wins, without pretending the others do not have a place.',
+    image: '/images/blog/fleet-sclass-1.webp',
     intro: [
       'Travelers arriving at Dulles have three real ground transportation options: a taxi, a rideshare app, and a reserved black car service. They are not interchangeable — each is built for a different kind of trip, and picking the wrong one for the moment is usually what makes people unhappy with the result.',
     ],

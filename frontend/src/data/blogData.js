@@ -16,6 +16,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'Surge pricing, garage-level pickup zones, and cancellation roulette — here is how rideshare at Dulles actually compares to a booked chauffeur in 2026.',
+    image: '/images/blog/scenario-airport-pickup-1.webp',
     intro: [
       'If you fly through Dulles International Airport regularly, you have probably run the same calculation at 30,000 feet that every IAD traveler runs: do I open the rideshare app when I land, or should I have booked a car? The honest answer depends on what you are optimizing for. In this guide we compare IAD airport car service and Uber across the factors that actually decide the experience — pickup logistics, pricing behavior, reliability, vehicle quality, and accountability — as they stand in 2026.',
     ],
@@ -84,6 +85,7 @@ const posts = [
     readTime: '6 min read',
     excerpt:
       'Licensing, flight tracking, fleet quality, transparent rates — a practical checklist for picking a black car service at IAD that will actually show up.',
+    image: '/images/blog/fleet-sclass-1.webp',
     intro: [
       'Search “black car service Dulles airport” and you will find dozens of companies making identical promises. Some are professional operations with commercial insurance and trained chauffeurs; others are a single unmarked SUV and a phone number. The stakes are real — this is the ride standing between you and an international departure. Here is a practical framework for separating the best black car services at IAD from the rest, based on what actually predicts a good experience.',
     ],
@@ -151,6 +153,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'Metro Silver Line, buses, taxis, rideshare, rentals, and chauffeured cars — every IAD ground transportation option compared in one guide.',
+    image: '/images/blog/airport-dropoff.webp',
     intro: [
       'Dulles International Airport sits 26 miles west of downtown Washington, and the distance shapes every transportation decision travelers make there. Unlike close-in Reagan National, getting to and from IAD is a real logistics question with half a dozen answers at different price points. This guide walks through every option available in 2026 — how each works, what it genuinely costs in money and time, and which travelers each one suits best.',
     ],
@@ -232,6 +235,7 @@ const posts = [
     readTime: '6 min read',
     excerpt:
       'No meters, no surge, no surprises — what a flat rate from Dulles to Washington actually includes and how to make sure a quote is genuinely all-in.',
+    image: '/images/blog/landmark-capitol-1.webp',
     intro: [
       'The 27 miles between Dulles International Airport and Washington, DC are some of the most price-volatile miles in American ground transportation. The same trip can cost wildly different amounts depending on when you travel, how you book, and what the weather is doing. Flat-rate car service exists to delete that volatility. Here is exactly how it works, what a legitimate flat rate includes, and how to compare quotes intelligently.',
     ],
@@ -293,6 +297,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'Account billing, duty of care, roadshow logistics, and the standards travel managers should demand from an IAD corporate transportation provider.',
+    image: '/images/blog/scenario-corporate-1.webp',
     intro: [
       'For companies in the Washington region, Dulles is the gateway for international clients, visiting executives, and half the consulting workforce. Ground transportation is the first and last impression those travelers get — and for travel managers, it is also a line item, a duty-of-care obligation, and a recurring logistics problem. This guide covers what corporate car service at IAD should look like in practice, and what to require from a provider before you commit your travelers to one.',
     ],
@@ -360,6 +365,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'The 26 miles between IAD and downtown Washington reward a little planning. Here is how a chauffeured transfer works from touchdown to your door.',
+    image: '/images/blog/landmark-capitol-2.webp',
     intro: [
       'The trip from Dulles International Airport into Washington, DC looks simple on a map: one airport, one access road, one city. In practice, those 26 miles hide most of the decisions that determine whether your arrival feels effortless or exhausting — where you meet your driver, which corridor you take at which hour, what vehicle actually fits your party, and what the ride should cost. This guide walks through the whole chauffeured transfer, from the moment your wheels touch down at IAD to the moment your bags are at your door in the District.',
     ],
@@ -428,6 +434,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'Distance, vehicle class, and timing set the price — and the fine print sets the surprises. A straight look at what chauffeured service at Dulles costs in 2026.',
+    image: '/images/blog/fleet-7series-1.webp',
     intro: [
       'Ask what a limo from Dulles Airport costs and you will get answers ranging from suspiciously cheap to inexplicably high — often for what sounds like the same trip. The spread is not random. Chauffeured pricing at IAD follows a handful of factors that are easy to understand once someone lays them out, and knowing them turns you from a price-taker into an informed shopper. Here is how the numbers actually work in 2026, what a legitimate quote includes, and where the hidden fees hide.',
     ],
@@ -496,6 +503,7 @@ const posts = [
     readTime: '6 min read',
     excerpt:
       'A name sign at baggage claim instead of a garage pickup zone — what meet and greet at IAD actually includes and who gets the most from it.',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Every traveler who has walked out of a long international flight at Dulles knows the two possible endings. In one, you haul your bags through the terminal, ride to a parking-structure pickup zone, and squint at license plates while an app recalculates your wait. In the other, a chauffeur is standing at baggage claim with your name on a sign, takes the luggage cart, and walks you to a waiting car. The second ending is called meet and greet, and it is less a luxury flourish than a piece of logistics that removes every failure point between the jet bridge and the highway. Here is exactly how it works at IAD.',
     ],
@@ -564,6 +572,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'Dulles rewards travelers who treat it as a system. Ten field-tested habits that make corporate trips through IAD faster, calmer, and easier to expense.',
+    image: '/images/blog/scenario-corporate-2.webp',
     intro: [
       'Dulles is the workhorse airport of Washington’s corporate corridor — the gateway for international business, the default for the tech firms lining the Toll Road, and a weekly ritual for half the region’s consultants. Frequent flyers eventually learn that IAD rewards system-building: the travelers who glide through have simply made a series of small decisions once, in advance, instead of re-making them under stress every trip. Here are ten of those decisions, collected from the road warriors we drive every week.',
     ],
@@ -632,6 +641,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'The market has changed, the fundamentals have not. A 2026 buyer’s framework for finding an IAD car service that shows up, on time, at the quoted price.',
+    image: '/images/blog/fleet-escalade-1.webp',
     intro: [
       'The Dulles ground transportation market keeps evolving — rideshare tiers rebrand themselves as “premium,” booking apps multiply, and every operator’s website promises luxury and reliability in the same stock-photo dialect. What has not changed in 2026 is what actually predicts a good experience when your flight lands: licensing, flight tracking, fleet reality, pricing honesty, and whether a human answers the phone. This guide distills how to evaluate any car service at IAD this year, and gives you the questions that separate professional operators from a phone number with an SUV.',
     ],
@@ -700,6 +710,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'Run the actual numbers on Dulles rideshare vs a booked chauffeur — scenario by scenario — and the “cheap” option wins less often than you would think.',
+    image: '/images/blog/scenario-airport-pickup-2.webp',
     intro: [
       'Ask ten travelers whether Uber or a car service is the better way to leave Dulles Airport and you will get ten versions of “Uber is cheaper.” Sometimes it is. But the comparison most people run in their heads uses Uber’s best-case fare against a car service’s standard rate — off-peak, no surge, instant pickup, driver accepts immediately. Dulles at 6 p.m. on a rainy Friday is not that best case. This guide runs the comparison the honest way: scenario by scenario, with the variables that actually decide what you pay and when you leave.',
     ],
@@ -778,6 +789,7 @@ const posts = [
     readTime: '6 min read',
     excerpt:
       'The 6 a.m. departure bank at Dulles is unforgiving, and pre-dawn is when rideshare is thinnest. Here is how to engineer a morning that cannot go wrong.',
+    image: '/images/blog/airport-tarmac-sunset.webp',
     intro: [
       'The first departure bank at Dulles — roughly 6 to 8 a.m. — is where the airport’s cheapest fares and best connections live, and it is also where ground transportation fails most often. At 4 a.m. there is no Metro, few taxis, and a rideshare driver pool at its thinnest of the entire day. The traveler who plans the ride as carefully as the flight makes it to the gate with coffee in hand; the one who opens an app at 3:45 a.m. gambles the whole itinerary on whoever happens to be awake. This guide is the plan.',
     ],
@@ -861,6 +873,7 @@ const posts = [
     readTime: '7 min read',
     excerpt:
       'Dulles is the region’s gateway for business travel. Here is how travel managers and road warriors run the ground leg as professionally as the flight.',
+    image: '/images/blog/scenario-corporate-rain.webp',
     intro: [
       'Dulles is the Washington region’s long-haul business gateway — the airport of choice for international deals, West Coast nonstops, and the government-and-contractor corridor that runs from Tysons to Reston. Companies polish every other leg of a business trip: preferred airlines, negotiated hotel rates, expense automation. Then the traveler lands and the ground leg — the part that actually determines whether they walk into the meeting composed — is left to a rideshare queue. This guide covers how experienced travel managers and frequent flyers run the IAD ground game properly.',
     ],
@@ -938,6 +951,7 @@ const posts = [
     readTime: '6 min read',
     excerpt:
       'Daily garage rates compound quietly. For trips past a few days, the drive-and-park habit often costs more than a chauffeur — here is the honest math.',
+    image: '/images/blog/airport-terminal-glass.webp',
     intro: [
       'Driving yourself to Dulles feels free because the costs arrive in pieces: a daily parking rate here, a tank of gas there, forty minutes of shuttle-and-walk time you never invoice yourself for. Booking a car service feels expensive because the cost arrives as one visible number. This guide puts the two options side by side honestly — by trip length, by season, and by what your time is actually worth — because for a surprising share of trips, the “free” option is the costlier one.',
     ],
@@ -1009,6 +1023,7 @@ const posts = [
     readTime: '6 min read',
     excerpt:
       'From the mobile lounge to customs to the arrivals hall — what actually happens after an international landing at IAD, and how to make the pickup seamless.',
+    image: '/images/blog/airport-dropoff.webp',
     intro: [
       'International arrival at Dulles is a process, not a moment: deplane, possibly ride the airport’s famous mobile lounges to the main terminal, queue for passport control, wait for bags, clear customs, and finally emerge into the international arrivals hall — anywhere from 30 minutes to two hours after wheels touch down. For the traveler, it is the last stretch of a long day. For whoever is picking you up, it is a scheduling puzzle. This guide explains how the process actually flows and how to arrange a pickup that works with it instead of against it.',
     ],
@@ -1080,6 +1095,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'Dulles is a big airport that rewards travelers who know its rhythms. Ten field-tested tips covering the AeroTrain, security timing, international arrivals, and the ride on both ends.',
+    image: '/images/blog/fleet-sclass-2.webp',
     intro: [
       'Dulles International is the region’s big airport in every sense — long concourses, an AeroTrain between terminals, an International Arrivals Building, and distances that surprise first-time flyers. None of it is difficult once you know the rhythms. These ten tips are what IAD regulars — and the chauffeurs who serve them every day — actually do differently.',
     ],
@@ -1180,6 +1196,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'The 26 miles from IAD to downtown DC can take 35 minutes or 90. Here is every option compared honestly — and what separates a genuinely good car service from a cheap one.',
+    image: '/images/blog/landmark-capitol-1.webp',
     intro: [
       'The trip from Dulles into Washington is deceptively simple: 26 miles, one toll road, one river crossing. Then rush hour happens, or a delayed landing, or a rainy Friday, and the same trip runs anywhere from 35 minutes to more than 90. How you cover those miles shapes the start or end of every DC visit, so it is worth choosing deliberately. Here is the complete comparison.',
     ],
@@ -1268,6 +1285,7 @@ const posts = [
     readTime: '9 min read',
     excerpt:
       'Dulles is the region’s international gateway and its corporate workhorse. The executive-side playbook: which banks to fly, how to move between IAD and the region’s business districts, and how to host arriving visitors.',
+    image: '/images/blog/scenario-corporate-1.webp',
     intro: [
       'Dulles is where the region’s serious business travel happens — the transatlantic banks, the West Coast nonstops, the roadshow departures. Our companion piece for travel managers covers the program side: accounts, billing, and policy. This guide is the other half — the individual executive’s playbook for using IAD well, trip after trip.',
     ],
@@ -1365,6 +1383,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'Dulles sits inside Northern Virginia — which makes the short hops deceptively tricky and the corridor knowledge valuable. Every NoVA destination, compared honestly.',
+    image: '/images/blog/fleet-7series-2.webp',
     intro: [
       'Dulles has a geographic quirk: it sits inside the very region most of its passengers are trying to reach. That makes some trips wonderfully short — and creates its own traps, because short trips are exactly the ones rideshare drivers decline and travelers under-plan. Here is the corridor-by-corridor guide to getting from IAD to everywhere in Northern Virginia.',
     ],
@@ -1463,6 +1482,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'Dulles with children is completely manageable — with the right plan. Car seats, strollers, the AeroTrain, customs with tired kids, and the vehicle math for families.',
+    image: '/images/blog/scenario-group-boarding.webp',
     intro: [
       'Family travel multiplies everything about an airport: the bags, the timelines, the number of small humans who need a bathroom at the exact wrong moment. Dulles, being big, punishes improvisation and rewards planning more than most. This guide covers the family-specific logistics — from car seats to customs — that turn IAD with kids from an ordeal into a routine.',
     ],
@@ -1557,6 +1577,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'The destination-by-destination price guide for Dulles car service in 2026 — what DC, Tysons, Loudoun, and Maryland runs actually cost, what the rate includes, and a worked example for budgeting a real trip.',
+    image: '/images/blog/fleet-escalade-2.webp',
     intro: [
       'We have already published a guide to how Dulles limo pricing works — the factors, the vehicle classes, the anatomy of a flat rate. This is the other guide, the one people actually search for the night before booking: what does it cost to get from IAD to where I am going? Below are honest 2026 market ranges by destination, what the number does and does not include, and a worked example that shows how to budget a real trip end to end.',
       'One framing note: "limo" here means what it means everywhere in 2026 — a chauffeured luxury sedan, SUV, or Sprinter van at a fixed, pre-quoted price. That is the product IAD Airport Limo runs every day, and it is what these numbers describe.',
@@ -1672,6 +1693,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'Dulles is 26 miles from downtown, and how you cover them decides whether the trip takes 40 minutes or two hours. The honest 2026 comparison of Metro, rideshare, taxi, and chauffeured car — and when each wins.',
+    image: '/images/blog/landmark-capitol-2.webp',
     intro: [
       'Dulles International is the region’s global gateway, but it earns that reach with distance: 26 miles separate the terminal from downtown Washington, and covering them well is the difference between a trip that starts smoothly and one that starts with an hour of friction. Since the Silver Line reached the airport, IAD finally has a full menu of options — rail, rideshare, taxi, and chauffeured car — and each genuinely wins for somebody. Having driven this corridor daily for years, here is the honest comparison, including the options we do not sell.',
     ],
@@ -1774,6 +1796,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'Northern Virginia is Dulles’s home market, and booking a car into it well comes down to prices, pickup mechanics, and a few habits. The practical companion to our corridor-by-corridor guide.',
+    image: '/images/blog/fleet-7series-1.webp',
     intro: [
       'Dulles is Northern Virginia’s airport in the most literal sense — it sits astride the Loudoun–Fairfax line, surrounded by the region it serves. We have already mapped the territory corridor by corridor in our IAD-to-Northern-Virginia guide; this is the practical companion: what each run costs in 2026, how the pickup actually works, what business and government travelers should expect, and the booking habits that make the whole thing effortless. Less geography, more logistics.',
     ],
@@ -1879,6 +1902,7 @@ const posts = [
     readTime: '8 min read',
     excerpt:
       'The complete playbook for a pre-dawn Dulles departure — what to do the night before, how to time the morning, what the terminal looks like at 4:30 a.m., and how to make the ride the one guaranteed piece.',
+    image: '/images/blog/airport-tarmac-sunset.webp',
     intro: [
       'The 6 a.m. departure out of Dulles is a bargain with fine print: better fares, emptier roads, a full first day at your destination — paid for with a morning that starts at 3:45. We have written before about the pickup itself and the buffer math behind it; this guide is the whole playbook, from the night-before checklist to what the terminal actually looks like before dawn, so the early flight feels like a system instead of an ordeal.',
     ],
@@ -1979,6 +2003,7 @@ const posts = [
     readTime: '9 min read',
     excerpt:
       'One airport owns proximity, the other owns the planet. The complete IAD-vs-DCA comparison — routes, fares, rail access, door-to-door math, and the deciding factors travelers weigh wrong.',
+    image: '/images/blog/airport-terminal-glass.webp',
     intro: [
       'Every Washington itinerary starts with the same quiet decision: Dulles or Reagan National? The two airports sit 26 miles apart and were built for opposite jobs — DCA optimized for closeness, IAD for reach — and choosing between them on airfare alone is how travelers end up winning the ticket and losing the trip. As a company that runs chauffeured service to both every day, here is the complete comparison, including the ground-transportation math the booking engines never surface.',
     ],
@@ -2081,6 +2106,7 @@ const posts = [
     readTime: '5 min read',
     excerpt:
       'For Northern Virginia travelers, BWI is the far airport with the right fare. Here is why the 60–75-mile haul is a chauffeur job, not a parking job.',
+    image: '/images/blog/landmark-baltimore-1.webp',
     intro: [
       'Plenty of Loudoun and Fairfax households fly out of BWI Marshall on purpose. Southwest runs nonstops from Baltimore that Dulles does not, and the fare gap on a family of four can be several hundred dollars. The price of that fare is the drive: 60 to 75 miles by the Beltway and I-95, or the back way through Columbia on Route 32, in either direction. That is the part of the trip a chauffeur solves.',
       'IAD Airport Limo runs this transfer weekly for clients in Ashburn, Leesburg, Reston and McLean. These are the five reasons they stopped driving it themselves.',
@@ -2178,6 +2204,7 @@ const posts = [
     readTime: '5 min read',
     excerpt:
       'Dulles-corridor executives lose real money to I-66 tolls, surge fares and unreadable receipts. Here is the case for hourly executive car service into Washington.',
+    image: '/images/blog/scenario-corporate-2.webp',
     intro: [
       'The Dulles technology corridor and the government-contracting firms clustered in Tysons, Reston, Herndon and Chantilly send thousands of executives into Washington every week. Most of those trips are 25 to 35 miles on I-66 or the Toll Road, timed against a meeting on K Street, Capitol Hill or a federal building on Independence Avenue. Rideshare looks convenient until you price it over a quarter.',
       'This guide compares the two options the way a travel manager would, on cost, time, security and the expense report.',
@@ -2270,6 +2297,7 @@ const posts = [
     readTime: '5 min read',
     excerpt:
       'Marrying across the river? A Virginia couple planning a Bethesda, Frederick County or Eastern Shore wedding needs a limo company licensed on both sides of it.',
+    image: '/images/blog/scenario-wedding-1.webp',
     intro: [
       'Many Northern Virginia couples end up marrying in Maryland. The reasons are practical: a family home in Potomac, a barn or vineyard in Frederick County, or a waterfront venue on the Eastern Shore that Virginia cannot match. The complication is that your guests, your vendors and your own getting-ready location may sit in three jurisdictions, and a limo company that is only comfortable on one side of the Potomac will show it on the day.',
       'Here is how to choose wedding transportation in Maryland when you are planning from Loudoun, Fairfax or Arlington.',
@@ -2367,6 +2395,7 @@ const posts = [
     readTime: '5 min read',
     excerpt:
       'From Loudoun and Fairfax, the best of Maryland sits on the far side of two bridges. Here is the 2026 calendar and how to cross the river without driving it.',
+    image: '/images/blog/landmark-annapolis-1.webp',
     intro: [
       'For Northern Virginia residents, Maryland is where the big events are and the bridges are the price of admission. Every trip on this calendar crosses the American Legion Bridge on the Beltway or the Woodrow Wilson Bridge on the south side, and both are unforgiving on an event evening. This is the 2026 calendar as our Dulles-corridor clients actually use it, organized by season, with a note on how to arrive.',
     ],
@@ -2464,6 +2493,7 @@ const posts = [
     readTime: '5 min read',
     excerpt:
       'Dulles is our home airport. Here is what actually happens after you land at IAD or DCA, and why the last mile deserves a professional chauffeur.',
+    image: '/images/blog/scenario-airport-pickup-1.webp',
     intro: [
       'IAD Airport Limo was built around Dulles, and we run Reagan National every day too. The two airports are 30 miles and about 45 minutes apart, and they could not feel more different on arrival. Dulles is an international gateway with customs halls and mid-field concourses. Reagan is a compact domestic field four miles from the Capitol. The right car service knows both, and knows which one you should have chosen.',
     ],
