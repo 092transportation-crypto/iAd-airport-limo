@@ -89,7 +89,10 @@ const FloatingInput = ({ label, name, value, onChange, type = 'text', required =
   </div>
 );
 
-const BookingPage = () => {
+// Rendered at both /book-now and /booking (App.js passes its own matched
+// route as `path` so each URL gets its own self-referencing canonical/OG
+// url instead of both pointing at /book-now).
+const BookingPage = ({ path = '/book-now' }) => {
   const emptyForm = {
     first_name: '',
     last_name: '',
@@ -181,7 +184,7 @@ const BookingPage = () => {
       <Seo
         title="Book IAD Airport Car Service | Free Flat-Rate Quote"
         description="Book your Dulles airport limo online in minutes. Flat rates, flight tracking & professional chauffeurs across DC, MD & VA. Or call (877) 609-1919 anytime."
-        path="/book-now"
+        path={path}
         faqs={bookingFaqs}
       />
       <Navbar />

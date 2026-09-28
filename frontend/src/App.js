@@ -45,8 +45,8 @@ function App() {
           <Route path="/about" element={<IadAboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/login" element={<LoginPage />} />
-          <Route path="/book-now" element={<BookingPage />} />
-          <Route path="/booking" element={<BookingPage />} />
+          <Route path="/book-now" element={<BookingPage path="/book-now" />} />
+          <Route path="/booking" element={<BookingPage path="/booking" />} />
           <Route path="/reviews" element={<ReviewsPage />} />
           <Route path="/privacy" element={<PrivacyPolicyPage />} />
           <Route path="/terms" element={<TermsPage />} />
