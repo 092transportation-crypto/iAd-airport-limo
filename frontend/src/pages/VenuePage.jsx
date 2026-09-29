@@ -31,7 +31,7 @@ const VenuePage = ({ slug }) => {
           <h1 className="font-display text-3xl sm:text-4xl md:text-5xl text-white font-medium leading-tight mb-4">{venue.h1}</h1>
           <p className="font-body text-white/60 text-base sm:text-lg max-w-2xl mx-auto mb-8">{venue.subtitle}</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <Link to="/booking" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 transition-colors text-sm" data-testid="venue-book-now-btn">
+            <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 transition-colors text-sm" data-testid="venue-book-now-btn">
               Book Your Ride <ArrowRight className="w-4 h-4" />
             </Link>
             <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">
@@ -131,7 +131,7 @@ const VenuePage = ({ slug }) => {
           <h2 className="font-display text-3xl sm:text-4xl text-white mb-4">Ready for Your Night at {venue.shortName}?</h2>
           <p className="text-white/50 text-base mb-8">Flat rates, professional chauffeurs, and a vehicle waiting when the show ends — available 24/7.</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <Link to="/booking" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">
+            <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">
               Book Now <ArrowRight className="w-4 h-4" />
             </Link>
             <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm">

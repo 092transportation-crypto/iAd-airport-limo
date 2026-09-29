@@ -207,6 +207,21 @@ const BirthdayLimoPage = () => {
         </div>
       </section>
 
+      {/* Birthday limo guide */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">Planning a Birthday Limo Night</h2>
+          <div className="space-y-4">
+            <p className="text-white/70 leading-relaxed">
+              A birthday limo booking usually covers more than one stop — dinner, then a bar or venue, then home — so we quote it hourly with a dedicated chauffeur and vehicle rather than as a single point-to-point fare. That keeps the group together for the whole night instead of splitting into rideshares between each stop, and means nobody has to be the designated driver.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              Groups of six or fewer typically book a sedan or SUV; larger celebrations move into a Sprinter van or limo for the extra room and the occasion itself. Milestone birthdays — 21st, 30th, 40th and up — are our most common birthday bookings across DC, Maryland and Virginia, and weekend nights fill up first, so we recommend booking at least a week ahead for a Friday or Saturday.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <FaqSection faqs={birthdayFaqs} />
 
       <Footer />

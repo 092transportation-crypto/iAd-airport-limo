@@ -102,6 +102,19 @@ const FleetPage = () => {
           </div>
         </div>
       </section>
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="font-display text-2xl sm:text-3xl text-white mb-6">Choosing a Vehicle Class</h2>
+          <div className="space-y-4">
+            <p className="text-white/70 leading-relaxed">
+              Every vehicle in this fleet is dispatched from the same licensed and insured Virginia and Maryland carrier authority, with the same flight tracking, professional chauffeur and 24/7 dispatch behind it — the difference between classes is capacity and finish, not service quality. Sedans fit one to three riders with two checked bags; SUVs handle three to six with four to five bags; Sprinter vans keep groups of up to 13 together in one vehicle.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              For a closer look at any single class — Sedans, SUVs or Sprinters — the <Link to="/vehicles/sedans" className="text-[#c9a227] hover:text-white transition-colors">vehicles</Link> pages break down which model fits which trip, from a solo executive pickup at Dulles to a full wedding party moving between venues.
+            </p>
+          </div>
+        </div>
+      </section>
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="font-display text-2xl sm:text-3xl text-black mb-4">Need Help?</h2>

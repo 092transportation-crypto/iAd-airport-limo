@@ -16,6 +16,11 @@
   ],
   "redirects": [
     {
+      "source": "/booking",
+      "destination": "/book-now",
+      "permanent": true
+    },
+    {
       "source": "/capstone-limo-service",
       "destination": "/cape-st-claire-limo-service",
       "permanent": true

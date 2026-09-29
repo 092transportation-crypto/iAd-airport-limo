@@ -253,6 +253,26 @@ const VehiclesPage = () => {
 
   const currentData = vehicleData[category] || vehicleData.sedans;
 
+  const vehicleGuide = {
+    sedans: [
+      'A sedan is the right call for one to three travelers moving through Dulles with two checked bags or fewer — solo executives on a morning flight, couples heading to a weekend trip, or a single client pickup where a full-size SUV would just be more car than the trip needs. Both the Business Sedan and the First Class Sedan track your flight automatically, so a delayed arrival at IAD does not cost you anything at pickup.',
+      'The difference between the two comes down to occasion. The Business Sedan (Mercedes-Benz E-Class) is our most-booked vehicle for routine airport transfers and client meetings across DC, Maryland and Virginia. The First Class Sedan — BMW 7 Series or Mercedes S-Class — adds massage seats, a premium sound system and a privacy partition, and is what we recommend when the ride itself is part of the impression you are making, such as picking up a board member or closing a deal on the way from the airport.',
+    ],
+    suv: [
+      'SUVs solve the two problems sedans cannot: more passengers and more luggage. The Midsize SUV (Lincoln Nautilus) fits three riders comfortably with room for four bags, which covers most families flying into Dulles with standard checked luggage. Once a group passes four people or the bag count climbs — golf clubs, a stroller, a week of ski gear — the Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) keeps everyone and everything in one vehicle instead of splitting into two cars.',
+      'The Escalade\'s third row makes it the pick for six passengers with full luggage, and it is our most-requested vehicle for corporate groups and wedding-party transport where a Sprinter feels like overkill but a single sedan will not fit everyone. All three SUV classes include the same flight tracking and complimentary wait time as our sedans.',
+    ],
+    sprinters: [
+      'Once a group reaches five or more travelers, a Sprinter van keeps the whole party together at one flat rate instead of coordinating two or three separate vehicles that inevitably arrive at different times. Each of our three Sprinter configurations seats up to 13 with matching luggage capacity, so a full group and their bags travel in one trip from Dulles.',
+      'Choose the Sprinter Shuttle for straightforward group airport transfers, the Sprinter Executive for corporate roadshows and conference travel where USB charging and conference-style seating matter, or the Sprinter Limo for wedding parties, proms and celebrations that want limousine styling with the capacity a stretch sedan cannot match. All three are driven by the same background-checked, professionally licensed chauffeurs as the rest of our fleet.',
+    ],
+    buses: [
+      'For groups larger than a Sprinter can comfortably seat — wedding blocks, corporate conferences, school and university trips — a Mini Coach or Party Bus keeps 20 to 24 travelers moving together instead of dispatching multiple vehicles. Both options are booked well in advance for Dulles-area events, since large-vehicle availability is more limited than our sedan and SUV fleet.',
+      'The Mini Coach is built for comfort on longer rides, with reclining seats and overhead storage for luggage-heavy group transfers. The Party Bus is the choice for celebrations rather than transfers — dance floor, premium sound and bar service included — and is popular for milestone birthdays, bachelor and bachelorette parties, and wine-tour groups across Northern Virginia and Loudoun County.',
+    ],
+  };
+  const guideParagraphs = vehicleGuide[category] || vehicleGuide.sedans;
+
   const categoryLinks = [
     { key: 'sedans', name: 'Sedans', path: '/vehicles/sedans' },
     { key: 'suv', name: 'SUV', path: '/vehicles/suv' },
@@ -408,6 +428,20 @@ const VehiclesPage = () => {
               ))}
             </div>
           )}
+        </div>
+      </section>
+
+      {/* Vehicle guide */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">
+            Which {currentData.title} Fit Your Trip?
+          </h2>
+          <div className="space-y-4">
+            {guideParagraphs.map((p, i) => (
+              <p key={i} className="text-white/70 leading-relaxed">{p}</p>
+            ))}
+          </div>
         </div>
       </section>
 

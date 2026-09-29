@@ -238,6 +238,21 @@ const WeddingLimoPage = () => {
         </div>
       </section>
 
+      {/* Wedding day planning guide */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">Coordinating Your Wedding Day Timeline</h2>
+          <div className="space-y-4">
+            <p className="text-white/70 leading-relaxed">
+              Share your draft timeline when you first book, even if it is not finalized — getting-ready location, ceremony time, photo locations, and reception venue. We flag realistic timing issues before the day, not on it: a fifteen-minute buffer that looked fine on paper often is not once you account for a bridal party photo stop or DC-area traffic between venues.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              Many couples book more than one vehicle — a Sprinter for the wedding party and a separate sedan or limousine reserved just for the couple, so the newlyweds are not waiting on group logistics for their own exit. Every wedding booking includes a dry run of the route beforehand and a chauffeur in formal attire, with red carpet and "Just Married" decorations included at no extra charge.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <FaqSection faqs={weddingFaqs} />
 
       <Footer />

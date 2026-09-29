@@ -91,7 +91,7 @@ const ServicesPage = () => {
       ]
     },
     corporate: {
-      title: 'Corporate Services',
+      title: 'Corporate Chauffeur Services',
       subtitle: 'Executive transportation solutions',
       icon: <Briefcase className="w-12 h-12" />,
       image: images.corporate,
@@ -167,6 +167,22 @@ const ServicesPage = () => {
   };
 
   const currentContent = content[type] || content.personal;
+
+  const servicesGuide = {
+    personal: [
+      'Personal chauffeured trips cover more ground than airport transfers alone. A recurring medical appointment where parking is the real hassle, a shopping trip where you would rather not circle a garage, a night out where you do not want to think about a ride home — all of it books the same way, with a flat rate quoted before you travel rather than a metered fare that climbs with traffic.',
+      'Most personal-service clients keep our number for the trips a rideshare handles inconsistently: a specific pickup window for a flight, a driver who already knows the route to a regular appointment, or simply not wanting to gamble on driver quality for an evening out. Every trip includes the same flight tracking, professional chauffeur and 24/7 dispatch as our airport transfers.',
+    ],
+    corporate: [
+      'Corporate accounts exist for companies that book chauffeured travel often enough that a fresh credit card charge per trip becomes its own administrative burden. Setting one up establishes negotiated rates, monthly invoicing on net terms, and an approved traveler list, so individual employees can book a ride without a purchase order or expense report attached to every trip.',
+      'Roadshow and multi-stop itineraries are where this matters most — a chauffeur who holds the schedule across several meetings in one day, rather than booking separate one-off rides between each stop. We coordinate directly with an executive assistant or travel manager to build the day\'s itinerary in advance, and the chauffeur works from that schedule rather than waiting for instructions between stops.',
+    ],
+    events: [
+      'Event transportation is booked differently from a point-to-point transfer: instead of one ride, it is a schedule — a wedding party moving from getting-ready location to ceremony to reception, or a group of guests arriving at a gala or concert on a fixed timeline with no room for a late pickup.',
+      'We coordinate multi-vehicle events directly with a planner or venue when there is one, staging chauffeurs and vehicles to match the run of show rather than treating each leg as a separate booking. For weddings and proms specifically, see our dedicated wedding limo and prom limo pages for package details; for a single gala or concert run, this page covers what you need to book directly.',
+    ],
+  };
+  const guideParagraphs = servicesGuide[type] || servicesGuide.personal;
 
   const allServices = [
     { key: 'personal', name: 'Personal', path: '/services/personal' },
@@ -256,6 +272,20 @@ const ServicesPage = () => {
                 </div>
               ))}
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Services guide */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">
+            How {currentContent.title} Bookings Work
+          </h2>
+          <div className="space-y-4">
+            {guideParagraphs.map((p, i) => (
+              <p key={i} className="text-white/70 leading-relaxed">{p}</p>
+            ))}
           </div>
         </div>
       </section>

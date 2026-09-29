@@ -69,7 +69,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book a Chauffeured Car', to: '/booking' },
+      { label: 'Book a Chauffeured Car', to: '/book-now' },
       { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
       { label: 'Corporate Car Service vs Rideshare', to: '/corporate-car-service-vs-rideshare' },
       { label: 'Washington Region Airport Transportation Guide', to: '/airport-transportation-guide' },
@@ -178,7 +178,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book a Chauffeur', to: '/booking' },
+      { label: 'Book a Chauffeur', to: '/book-now' },
       { label: 'Uber vs Limo Service', to: '/uber-vs-limo-service' },
       { label: 'Corporate Car Service vs Rideshare', to: '/corporate-car-service-vs-rideshare' },
       { label: 'Dulles International Arrivals Guide', to: '/blog/dulles-airport-international-arrivals-guide' },
@@ -278,7 +278,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book an Airport Transfer', to: '/booking' },
+      { label: 'Book an Airport Transfer', to: '/book-now' },
       { label: 'Washington DC From Dulles', to: '/washington-dc-from-dulles-transportation-guide' },
       { label: 'Loudoun County Transportation Guide', to: '/loudoun-county-transportation-guide' },
       { label: 'Dulles Airport Car Service', to: '/iad-dulles-airport-car-service' },
@@ -385,7 +385,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book a Corporate Trip', to: '/booking' },
+      { label: 'Book a Corporate Trip', to: '/book-now' },
       { label: 'Tysons, Reston and Herndon Transportation Guide', to: '/tysons-reston-herndon-transportation-guide' },
       { label: 'Uber vs Limo Service', to: '/uber-vs-limo-service' },
       { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
@@ -493,7 +493,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book a Ride in the Corridor', to: '/booking' },
+      { label: 'Book a Ride in the Corridor', to: '/book-now' },
       { label: 'Corporate Car Service vs Rideshare', to: '/corporate-car-service-vs-rideshare' },
       { label: 'Loudoun County Transportation Guide', to: '/loudoun-county-transportation-guide' },
       { label: 'IAD to Tysons', to: '/iad-to-tysons' },
@@ -594,7 +594,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book a Loudoun Pickup', to: '/booking' },
+      { label: 'Book a Loudoun Pickup', to: '/book-now' },
       { label: 'Tysons, Reston and Herndon Transportation Guide', to: '/tysons-reston-herndon-transportation-guide' },
       { label: 'Washington Region Airport Transportation Guide', to: '/airport-transportation-guide' },
       { label: 'IAD to Ashburn', to: '/iad-to-ashburn-va' },
@@ -698,7 +698,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'Book Dulles to DC', to: '/booking' },
+      { label: 'Book Dulles to DC', to: '/book-now' },
       { label: 'Washington Region Airport Transportation Guide', to: '/airport-transportation-guide' },
       { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
       { label: 'IAD to Washington DC', to: '/iad-to-washington-dc' },

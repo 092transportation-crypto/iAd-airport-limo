@@ -132,6 +132,26 @@ const WhyChoosePage = () => {
 
   const currentContent = content[section] || content.safety;
 
+  const whyChooseGuide = {
+    safety: [
+      'Safety on an airport transfer starts before the vehicle ever leaves the lot. Every car in our fleet operates under our commercial Virginia and Maryland carrier authority, which means DOT-mandated inspections, commercial liability coverage well above what a personal auto policy carries, and GPS tracking so dispatch always knows where a vehicle is on the way to a Dulles pickup.',
+      'That coverage matters most on the trips where something goes wrong on someone else\'s end — a flight delay that pushes a pickup into rush hour, a last-minute gate change, weather that backs up the Dulles Toll Road. Because our vehicles and drivers are insured and dispatched as a commercial fleet rather than a collection of independent gig drivers, we can absorb that kind of disruption without leaving a rider stranded.',
+    ],
+    drivers: [
+      'Every chauffeur on our roster passes a background check before their first trip and completes ongoing training beyond what a standard driver\'s license requires — defensive driving, Dulles terminal procedures, and the DC-Maryland-Virginia road network well enough to route around Beltway backups without needing GPS guidance.',
+      'That local knowledge is the actual difference between a chauffeur and a rideshare driver on an airport run: knowing which IAD curb to use for a given terminal, which routes avoid Tysons rush hour, and how to handle a name-sign meet-and-greet professionally rather than circling arrivals looking for a rider who already gave up and called a cab.',
+    ],
+    technology: [
+      'Booking starts with the same information a chauffeur needs to actually find you — pickup address, flight number, passenger and bag count — and our system uses that flight number to track your status automatically, so an early landing or a delay adjusts your pickup time without a phone call from you.',
+      'Confirmations are instant and written, not a verbal promise: you get the vehicle class, rate, and chauffeur contact before the day of travel, and dispatch has GPS visibility into every vehicle on the road so a Dulles pickup can be monitored in real time rather than tracked by guesswork.',
+    ],
+    worldwide: [
+      'Most of our trips stay inside the DC, Maryland and Virginia service area, but travelers with trips beyond it — a connecting flight, a second city on a business trip, an international leg — can book chauffeured ground transportation through our affiliate network rather than researching a local operator from scratch.',
+      'The arrangement works through a single point of contact here: tell us the destination city and dates, and we coordinate with a vetted affiliate chauffeur service on the other end, so the same standards of licensing, insurance and professionalism follow the trip even outside our own fleet.',
+    ],
+  };
+  const guideParagraphs = whyChooseGuide[section] || whyChooseGuide.safety;
+
   const allSections = [
     { key: 'safety', name: 'Safety & Insurance', path: '/why-choose/safety' },
     { key: 'drivers', name: 'Licensed Drivers', path: '/why-choose/drivers' },
@@ -232,6 +252,20 @@ const WhyChoosePage = () => {
                 </Link>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Why-choose guide */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">
+            What {currentContent.title} Actually Means for Your Trip
+          </h2>
+          <div className="space-y-4">
+            {guideParagraphs.map((p, i) => (
+              <p key={i} className="text-white/70 leading-relaxed">{p}</p>
+            ))}
           </div>
         </div>
       </section>

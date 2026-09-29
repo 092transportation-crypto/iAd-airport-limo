@@ -328,6 +328,21 @@ const ContactPage = () => {
         </div>
       </section>
 
+      {/* Why contact us directly */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">Why Riders Contact Us Directly</h2>
+          <div className="space-y-4">
+            <p className="text-white/70 leading-relaxed">
+              Most requests for group airport transfers, weddings, and corporate accounts come through this form or a phone call rather than an app, because trips like those need a person to get right — the exact passenger and bag count, a second pickup stop, or a specific vehicle for a client visit. A reservation specialist reviews every request and replies with a written flat-rate quote, not an algorithm-generated surge price.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              We respond within minutes during business hours, and (877) 609-1919 is answered 24/7 for same-day and urgent requests. If you would rather book online without waiting for a reply, use the <Link to="/book-now" className="text-[#c9a227] hover:text-white transition-colors">booking page</Link> instead — both routes reach the same dispatch team, and both offer flight tracking, flat-rate pricing, and free cancellation up to 3 hours before pickup on sedans and SUVs.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <FaqSection faqs={contactFaqs} />
 
       <Footer />

@@ -1346,7 +1346,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Kennedy Center Transportation", to: "/kennedy-center-transportation" },
       { label: "Corporate Transportation", to: "/corporate" },
       { label: "Wine Tours", to: "/wine-tours" },
-      { label: "Booking", to: "/booking" },
+      { label: "Booking", to: "/book-now" },
     ],
     schema: { areaServed: ["Northern Virginia", "Washington, DC", "Maryland"], serviceType: "Hourly chauffeur service" },
   },
