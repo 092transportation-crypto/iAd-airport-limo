@@ -835,7 +835,7 @@ export const GUIDES = [
       { label: 'Book a Holiday Lights Tour', to: '/book-now' },
       { label: 'Contact Us', to: '/contact' },
       { label: 'Our Fleet', to: '/fleet' },
-      { label: 'Hourly Chauffeured Service', to: '/services/hourly' },
+      { label: 'Personal Chauffeured Service', to: '/services/personal' },
       { label: 'Reston Limo Service', to: '/reston-limo-service' },
       { label: 'Tysons Limo Service', to: '/tysons-limo-service' },
       { label: 'Leesburg Limo Service', to: '/leesburg-limo-service' },
