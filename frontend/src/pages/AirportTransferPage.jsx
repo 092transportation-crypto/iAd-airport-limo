@@ -79,8 +79,8 @@ const AirportTransferPage = () => {
   return (
     <div className="min-h-screen bg-white">
       <Seo
-        title="IAD Airport Transportation & Limo Service | Dulles VA"
-        description="IAD Airport Limo offers airport transportation in Dulles, VA & Washington DC. Flat rates, flight tracking & meet & greet. Book 24/7. (877) 609-1919."
+        title="IAD Airport Car Service | Flat-Rate Dulles Transfers"
+        description="Flat-rate IAD airport car service with flight tracking & meet-and-greet at Dulles. Book online now or call (877) 609-1919 — available 24/7."
         path="/airport-transfer"
         faqs={airportFaqs}
       />

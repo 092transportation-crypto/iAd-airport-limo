@@ -118,8 +118,8 @@ const HomePage = () => {
   return (
     <div className="min-h-screen bg-black">
       <Seo
-        title="Dulles Airport Transportation & Limo Service | IAD Airport Limo"
-        description="IAD Airport Limo offers premium airport transportation in Dulles, VA. Mercedes & BMW fleet, flight tracking & meet & greet. Book 24/7. (877) 609-1919."
+        title="Dulles Airport Limo & Car Service | Flat Rates 24/7"
+        description="IAD airport limo service with flat rates, flight tracking & meet-and-greet pickup. Mercedes & BMW fleet. Book online now or call (877) 609-1919 — 24/7."
         path="/"
         faqs={homeFaqs}
       />

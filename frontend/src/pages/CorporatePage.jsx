@@ -78,8 +78,8 @@ const CorporatePage = () => {
   return (
     <div className="min-h-screen bg-[#111]">
       <Seo
-        title="Corporate Transportation Service Dulles | IAD Airport Limo"
-        description="IAD Airport Limo offers corporate transportation in Dulles, VA. Executive car service, corporate accounts & priority scheduling. Book 24/7. (877) 609-1919."
+        title="Corporate Car Service Dulles | IAD Airport Limo"
+        description="Corporate car service in Dulles, VA — executive sedans, corporate accounts & priority scheduling. Call (877) 609-1919 to set up your account today."
         path="/corporate"
         faqs={corporateFaqs}
       />

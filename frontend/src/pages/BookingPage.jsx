@@ -182,8 +182,8 @@ const BookingPage = ({ path = '/book-now' }) => {
   return (
     <div className="min-h-screen bg-black">
       <Seo
-        title="Book IAD Airport Car Service | Free Flat-Rate Quote"
-        description="Book your Dulles airport limo online in minutes. Flat rates, flight tracking & professional chauffeurs across DC, MD & VA. Or call (877) 609-1919 anytime."
+        title="Book Dulles Airport Car Service | Instant Quote"
+        description="Book your Dulles (IAD) airport limo online in minutes — flat rates, flight tracking & professional chauffeurs across DC, MD & VA. Or call (877) 609-1919."
         path={path}
         faqs={bookingFaqs}
       />

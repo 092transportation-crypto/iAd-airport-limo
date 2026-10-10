@@ -89,7 +89,7 @@ const WeddingLimoPage = () => {
     <div className="min-h-screen bg-[#111]">
       <Seo
         title="Wedding Limo Service | DC, Maryland & Virginia"
-        description="Elegant wedding limo & chauffeur service across DC, MD & VA. Decorated vehicles, red carpet, guest shuttles & bridal party coordination. (877) 609-1919."
+        description="Elegant wedding limo & chauffeur service across DC, MD & VA. Decorated vehicles, red carpet & guest shuttles. Call (877) 609-1919 to check your date."
         path="/wedding-limo"
         faqs={weddingFaqs}
       />

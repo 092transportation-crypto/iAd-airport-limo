@@ -18,9 +18,9 @@ export const MARYLAND_BATCH3 = [
     name: "Ashburn",
     badge: "Loudoun County Limo Service",
     h1: "Ashburn Limo Service",
-    metaTitle: "Ashburn Limo Service | Black Car to Dulles & DC",
+    metaTitle: "Ashburn Limo Service | Black Car Minutes From IAD",
     metaDescription:
-      "Chauffeured limo and black car service in Ashburn, VA. Dulles pickups minutes away, One Loudoun, Brambleton and data-center corridor. Call (877) 609-1919.",
+      "Chauffeured limo and black car service in Ashburn, VA — minutes from Dulles, One Loudoun, Brambleton and the data-center corridor. Book now or call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "10–20 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "45–70 minutes, depending on traffic" },
@@ -186,9 +186,9 @@ export const MARYLAND_BATCH3 = [
     name: "Leesburg",
     badge: "Loudoun County Limo Service",
     h1: "Leesburg Limo Service",
-    metaTitle: "Leesburg Limo Service | Black Car & Wine Country",
+    metaTitle: "Leesburg VA Limo Service | Wine Country Black Car",
     metaDescription:
-      "Chauffeured limo service in Leesburg, VA: Dulles transfers, historic downtown, Lansdowne, Loudoun wine-country days and weddings. Call (877) 609-1919.",
+      "Chauffeured limo service in Leesburg, VA for Dulles transfers, historic downtown, Lansdowne and Loudoun wine-country days. Reserve now or call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "15–30 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "55–80 minutes, depending on traffic" },
@@ -270,9 +270,9 @@ export const MARYLAND_BATCH3 = [
     name: "Reston",
     badge: "Fairfax County Limo Service",
     h1: "Reston Limo Service",
-    metaTitle: "Reston Limo Service | Black Car & Airport Transfers",
+    metaTitle: "Reston Limo Service | Black Car 15 Min From Dulles",
     metaDescription:
-      "Executive limo and black car service in Reston, VA. Reston Town Center, Dulles Toll Road offices, Silver Line hotels and Dulles transfers. Call (877) 609-1919.",
+      "Executive limo and black car service in Reston, VA — Reston Town Center, Toll Road offices and Dulles transfers in 15–25 minutes. Book now: (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "15–25 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "35–60 minutes, depending on traffic" },
@@ -354,9 +354,9 @@ export const MARYLAND_BATCH3 = [
     name: "Herndon",
     badge: "Fairfax County Limo Service",
     h1: "Herndon Limo Service",
-    metaTitle: "Herndon Limo Service | Chauffeur Minutes from IAD",
+    metaTitle: "Herndon Limo Service | Black Car Minutes From IAD",
     metaDescription:
-      "Chauffeured limo and car service in Herndon, VA. Historic downtown, Toll Road tech offices, airport hotels and Dulles transfers nearby. Call (877) 609-1919.",
+      "Chauffeured limo and car service in Herndon, VA — historic downtown, Toll Road tech offices and Dulles transfers nearby. Call (877) 609-1919 to reserve.",
     stats: [
       { label: "Dulles (IAD)", value: "10–20 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "40–65 minutes, depending on traffic" },
@@ -437,9 +437,9 @@ export const MARYLAND_BATCH3 = [
     name: "Tysons",
     badge: "Fairfax County Limo Service",
     h1: "Tysons Limo Service",
-    metaTitle: "Tysons Limo Service | Executive Black Car Tysons VA",
+    metaTitle: "Tysons Limo Service | Executive Black Car 24/7",
     metaDescription:
-      "Executive limo and black car service in Tysons, VA. Corporate headquarters, Tysons Corner Center, Galleria, hotels and airport transfers. Call (877) 609-1919.",
+      "Executive limo and black car service in Tysons, VA for corporate HQs, Tysons Corner Center, the Galleria and airport transfers. Book 24/7: (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "20–35 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "25–45 minutes, depending on traffic" },
@@ -521,9 +521,9 @@ export const MARYLAND_BATCH3 = [
     name: "McLean",
     badge: "Fairfax County Limo Service",
     h1: "McLean Limo Service",
-    metaTitle: "McLean Limo Service | Black Car McLean VA",
+    metaTitle: "McLean VA Limo Service | Discreet Black Car 24/7",
     metaDescription:
-      "Discreet chauffeured limo and black car service in McLean, VA. Residential pickups, Great Falls dining, Dulles and Reagan transfers. Call (877) 609-1919.",
+      "Discreet chauffeured limo and black car service in McLean, VA — residential pickups, Great Falls dining, Dulles and Reagan transfers. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "25–40 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "20–40 minutes, depending on traffic" },
@@ -604,9 +604,9 @@ export const MARYLAND_BATCH3 = [
     name: "Fairfax",
     badge: "City of Fairfax · Virginia",
     h1: "Fairfax Limo Service",
-    metaTitle: "Fairfax Limo Service | Black Car Fairfax VA & GMU",
+    metaTitle: "Fairfax VA Limo Service | GMU & Black Car 24/7",
     metaDescription:
-      "Chauffeured limo and car service in Fairfax, VA. Old Town Fairfax, George Mason University, Fair Oaks, Mosaic District and Dulles trips. Call (877) 609-1919.",
+      "Chauffeured limo and car service in Fairfax, VA — Old Town, George Mason University, Fair Oaks, Mosaic District and Dulles trips. Call (877) 609-1919 now.",
     stats: [
       { label: "Dulles (IAD)", value: "25–40 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "30–55 minutes, depending on traffic" },
@@ -690,7 +690,7 @@ export const MARYLAND_BATCH3 = [
     h1: "Arlington Limo Service",
     metaTitle: "Arlington VA Limo Service | Black Car to IAD & DCA",
     metaDescription:
-      "Chauffeured limo and black car service in Arlington, VA. Rosslyn to Ballston, Crystal City, the Pentagon; Dulles and Reagan transfers. Call (877) 609-1919.",
+      "Chauffeured limo and black car service in Arlington, VA — Rosslyn, Ballston, Crystal City and the Pentagon, with Dulles and Reagan transfers. Book now: (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "35–55 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "10–20 minutes, depending on traffic" },
@@ -772,9 +772,9 @@ export const MARYLAND_BATCH3 = [
     name: "Alexandria",
     badge: "City of Alexandria · Virginia",
     h1: "Alexandria Limo Service",
-    metaTitle: "Alexandria VA Limo Service | Old Town Black Car",
+    metaTitle: "Alexandria VA Limo Service | Old Town Black Car 24/7",
     metaDescription:
-      "Chauffeured limo and black car service in Alexandria, VA. Old Town, King Street, Carlyle, Del Ray; Dulles, Reagan and BWI transfers. Call (877) 609-1919.",
+      "Chauffeured limo and black car service in Alexandria, VA — Old Town, King Street, Carlyle and Del Ray, with Dulles, Reagan and BWI transfers. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "40–60 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "10–20 minutes, depending on traffic" },

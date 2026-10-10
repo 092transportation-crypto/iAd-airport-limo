@@ -62,7 +62,7 @@ const FleetPage = () => {
     <div className="min-h-screen bg-black">
       <Seo
         title="Luxury Fleet | Dulles Airport Limo Sedans & SUVs"
-        description="Explore the IAD Airport Limo fleet — Mercedes S-Class, BMW 7 Series, Escalade, Navigator, Suburban & Sprinter vans for Dulles airport car service."
+        description="Explore the IAD Airport Limo fleet — Mercedes S-Class, BMW 7 Series, Escalade, Suburban & Sprinter vans. Reserve your vehicle now or call (877) 609-1919."
         path="/fleet"
         faqs={fleetFaqs}
       />

@@ -3,6 +3,7 @@
 import { ensureFiveFaqs } from '../lib/faqExtras';
 import { MARYLAND_BATCH3 } from './marylandPagesBatch3';
 import { MARYLAND_BATCH4 } from './marylandPagesBatch4';
+import { MARYLAND_BATCH5 } from './marylandPagesBatch5';
 
 export const MARYLAND_PAGES = [
   {
@@ -9796,8 +9797,8 @@ export const MARYLAND_PAGES = [
     "name": "Washington DC Airport Transfers",
     "badge": "Airport Transfer",
     "h1": "Washington DC Airport Transfers: Dulles, Reagan and BWI Car Service",
-    "metaTitle": "Washington DC Airport Transfers | Dulles, Reagan & BWI",
-    "metaDescription": "Washington DC airport transfers from Dulles, Reagan National and BWI to downtown hotels and embassy districts. Flat rates, meet and greet, 24/7. (877) 609-1919.",
+    "metaTitle": "DC Airport Transfers | Dulles, Reagan & BWI 24/7",
+    "metaDescription": "Door-to-door DC airport transfers from Dulles, Reagan National and BWI to downtown hotels and embassies. Flat rates, meet and greet. Call (877) 609-1919 to book.",
     "stats": [
       {
         "label": "Dulles to downtown",
@@ -10084,8 +10085,8 @@ export const MARYLAND_PAGES = [
     "name": "Dulles Airport Car Service",
     "badge": "Dulles International Airport",
     "h1": "Dulles Airport Car Service (IAD)",
-    "metaTitle": "Dulles Airport Car Service (IAD) | Flat-Rate Chauffeurs",
-    "metaDescription": "Dulles airport car service: meet and greet at customs or baggage claim, flight tracking, 60-min international wait, flat rates to DC and MD. (877) 609-1919.",
+    "metaTitle": "Dulles Airport Car Service (IAD) | Book 24/7",
+    "metaDescription": "Dulles (IAD) airport car service with meet and greet at customs or baggage claim, flight tracking and flat rates to DC, MD and VA. Book now or call (877) 609-1919.",
     "stats": [
       {
         "label": "Meet and greet",
@@ -10228,6 +10229,7 @@ export const MARYLAND_PAGES = [
   // Batch 3 (2026-09-22, Virginia/DC pages) lives in its own file.
   ...MARYLAND_BATCH3,
   ...MARYLAND_BATCH4,
+  ...MARYLAND_BATCH5,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).

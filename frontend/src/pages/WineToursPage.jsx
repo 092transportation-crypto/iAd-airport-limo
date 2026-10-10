@@ -63,7 +63,7 @@ const WineToursPage = () => {
     <div className="min-h-screen bg-white">
       <Seo
         title="Virginia Wine Tours | Chauffeured Limo & SUV Tours"
-        description="Private chauffeured wine tours through Loudoun & Northern Virginia wine country. Luxury SUVs & Sprinter vans, custom itineraries. Call (877) 609-1919."
+        description="Private chauffeured wine tours through Loudoun & Northern Virginia wine country. Luxury SUVs & Sprinter vans. Call (877) 609-1919 to reserve your day."
         path="/wine-tours"
         faqs={wineFaqs}
       />

@@ -151,7 +151,7 @@ const ReviewsPage = () => {
     <div className="min-h-screen bg-black">
       <Seo
         title="Reviews | IAD Airport Car Service Testimonials"
-        description="Read what clients say about our IAD airport car service — Dulles airport limo trips, corporate travel & special events across DC, Maryland & Virginia."
+        description="Read what clients say about our IAD airport car service — Dulles limo trips, corporate travel & special events. Call (877) 609-1919 to book your own ride."
         path="/reviews"
         faqs={reviewsFaqs}
       />
