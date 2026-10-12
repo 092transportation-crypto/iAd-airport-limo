@@ -82,6 +82,9 @@ const RoutePage = ({ slug }) => {
             <Shield className="w-6 h-6 text-white flex-shrink-0" />
             <p className="text-white/80 text-sm sm:text-base">Licensed &amp; Insured Virginia &amp; Maryland Carrier — professional chauffeurs, commercial insurance, 24/7 dispatch.</p>
           </div>
+          <p className="mt-6 text-white/50 text-sm text-center">
+            Flying through a different airport? See our full <Link to="/airport-transfer" className="text-white underline hover:text-white/80">airport transfer service</Link> covering IAD, DCA &amp; BWI.
+          </p>
         </div>
       </section>
 

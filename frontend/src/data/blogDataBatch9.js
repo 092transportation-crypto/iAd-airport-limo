@@ -5,7 +5,7 @@ const batch9 = [
     title: 'How Much Does a Limo Cost From Dulles to Downtown DC?',
     metaTitle: 'Dulles to DC Limo Cost 2026: Prices by Vehicle',
     metaDescription:
-      'Real 2026 pricing for a car service from Dulles Airport to downtown DC — sedan, SUV and Sprinter rates, neighborhood differences, and group cost-splitting. Call (877) 609-1919.',
+      'Real 2026 pricing for a car service from Dulles Airport to downtown DC — sedan, SUV and Sprinter rates, plus group cost-splitting. Call (877) 609-1919.',
     datePublished: '2026-10-05',
     readTime: '6 min read',
     excerpt:
@@ -89,7 +89,7 @@ const batch9 = [
     title: "Northern Virginia's Busiest Weeks for Dulles Airport Car Service — And When to Book",
     metaTitle: 'When to Book Dulles Car Service: NoVA Calendar',
     metaDescription:
-      "A month-by-month look at Northern Virginia's busiest travel weeks — GMU graduation, wine season, Wolf Trap, holidays — and how far ahead to book Dulles car service. Call (877) 609-1919.",
+      "A month-by-month look at Northern Virginia's busiest travel weeks and how far ahead to book Dulles car service. Call (877) 609-1919.",
     datePublished: '2026-10-06',
     readTime: '7 min read',
     excerpt:
@@ -174,7 +174,7 @@ const batch9 = [
     title: 'IAD, DCA or BWI? How Northern Virginia Travelers Should Choose',
     metaTitle: 'IAD vs DCA vs BWI: Best Airport for NoVA',
     metaDescription:
-      'A Northern Virginia travel decision guide comparing Dulles (IAD), Reagan National (DCA) and BWI on drive time, routes, parking and cost. Call (877) 609-1919 to book.',
+      'A Northern Virginia travel decision guide comparing Dulles (IAD), Reagan National (DCA) and BWI on drive time, parking and cost. Call (877) 609-1919.',
     datePublished: '2026-10-07',
     readTime: '7 min read',
     excerpt:

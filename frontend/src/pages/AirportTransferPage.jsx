@@ -79,8 +79,8 @@ const AirportTransferPage = () => {
   return (
     <div className="min-h-screen bg-white">
       <Seo
-        title="IAD Airport Car Service | Flat-Rate Dulles Transfers"
-        description="Flat-rate IAD airport car service with flight tracking & meet-and-greet at Dulles. Book online now or call (877) 609-1919 — available 24/7."
+        title="Airport Transfer Service | IAD, DCA & BWI 24/7"
+        description="Chauffeured airport transfers across Dulles (IAD), Reagan National (DCA) and BWI with flight tracking & meet-and-greet. Book now or call (877) 609-1919."
         path="/airport-transfer"
         faqs={airportFaqs}
       />
@@ -97,9 +97,9 @@ const AirportTransferPage = () => {
           <div className="inline-flex items-center justify-center w-20 h-20 bg-[#d4af37]/20 rounded-full mb-6">
             <Plane className="h-10 w-10 text-[#d4af37]" />
           </div>
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">Airport Transfers</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">Airport Transfer Service</h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Reliable Ground Transportation for All Airport Travelers
+            Reliable Ground Transportation Across Dulles (IAD), Reagan National (DCA) &amp; BWI
           </p>
         </div>
       </section>
@@ -223,6 +223,34 @@ const AirportTransferPage = () => {
               </Button>
             </a>
           </div>
+        </div>
+      </section>
+
+      {/* Popular Airport Transfer Routes & Cities */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6">
+          <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Popular Dulles Airport Transfer Routes</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-center mb-6">
+            {[
+              { to: '/iad-to-washington-dc', label: 'IAD to Washington DC' },
+              { to: '/iad-to-tysons', label: 'IAD to Tysons' },
+              { to: '/iad-to-reston', label: 'IAD to Reston' },
+              { to: '/iad-to-bethesda', label: 'IAD to Bethesda' },
+              { to: '/rockville-limo-service', label: 'Rockville' },
+              { to: '/ashburn-limo-service', label: 'Ashburn' },
+              { to: '/arlington-limo-service', label: 'Arlington' },
+              { to: '/alexandria-limo-service', label: 'Alexandria' },
+            ].map((r) => (
+              <Link key={r.to} to={r.to} className="text-gray-700 hover:text-black text-sm py-2 border border-gray-200 hover:border-gray-400 transition-colors rounded">
+                {r.label}
+              </Link>
+            ))}
+          </div>
+          <p className="text-center">
+            <Link to="/service-areas" className="text-[#d4af37] font-semibold hover:underline">
+              See every city, route & venue we serve &rarr;
+            </Link>
+          </p>
         </div>
       </section>
 

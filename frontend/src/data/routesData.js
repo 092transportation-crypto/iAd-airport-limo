@@ -105,7 +105,8 @@ const routes = [
         paragraphs: [
           'Flights into Dulles rarely land exactly on schedule, so we track yours in real time and adjust your pickup automatically. If you are departing Bethesda for IAD, we calculate your pickup time against live Beltway traffic and your airline’s recommended arrival window, then build in margin so a slowdown at the American Legion Bridge never costs you a flight.',
           'Book your IAD to Bethesda transfer online in under two minutes, or call (877) 609-1919 to speak with a reservation specialist. Early-morning departures, late-night arrivals, and same-day requests are all welcome — we operate around the clock.',
-        ],
+        
+          'Rates for Bethesda trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.'],
       },
     ],
     faqs: [
@@ -134,7 +135,12 @@ const routes = [
         answer:
           'We recommend booking at least 24 hours ahead for guaranteed availability, though we accommodate same-day requests whenever possible. Call (877) 609-1919 and we will do our best to arrange a last-minute pickup.',
       },
-    ],
+    
+      {
+        question: 'Is gratuity included in the Bethesda fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Bethesda trips are always welcome to be recognized.',
+      }],
   },
   {
     slug: 'iad-to-arlington',
@@ -239,7 +245,10 @@ const routes = [
         paragraphs: [
           'Heading out of Alexandria for an international departure? We schedule pickups against live traffic and your airline’s check-in guidance, with extra margin for evening Beltway congestion. Landing late? We monitor delays automatically and never charge you for a flight that arrives behind schedule.',
           'Book your Alexandria transfer online or call (877) 609-1919. Our reservation team operates 24/7 and can arrange one-way transfers, round trips, and recurring corporate travel.',
-        ],
+        
+          'Every Alexandria booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Alexandria are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'Our dispatch team tracks regional conditions that affect Alexandria trips directly — stadium events, federal motorcades, and seasonal congestion along Dulles Toll Road, I-495 & the GW Parkway — and builds extra buffer into the schedule when any of them are in play.'],
       },
     ],
     faqs: [
@@ -268,7 +277,27 @@ const routes = [
         answer:
           'Absolutely. Book both legs at once and we will track your return flight and have a chauffeur waiting when you land. Call (877) 609-1919 to arrange round-trip service.',
       },
-    ],
+    
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Alexandria?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Alexandria are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a Alexandria reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Alexandria wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Alexandria?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'How far in advance should I book a Alexandria reservation?',
+        answer:
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Alexandria trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+      }],
   },
   {
     slug: 'iad-to-annapolis',
@@ -335,7 +364,12 @@ const routes = [
         answer:
           'International arrivals get generous complimentary wait time, and we monitor your flight’s actual arrival. Your chauffeur will be at baggage claim whenever you walk out.',
       },
-    ],
+    
+      {
+        question: 'Do you operate on holidays and late at night for Annapolis trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Annapolis are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      }],
   },
   {
     slug: 'iad-to-baltimore',
@@ -373,7 +407,13 @@ const routes = [
         paragraphs: [
           'Cruise passengers know the math: the ship does not wait. We schedule Baltimore cruise-port transfers with conservative buffers against Parkway traffic, and our flight tracking means an early arrival into IAD gets you to the terminal sooner, not left waiting. For departures out of Baltimore to Dulles, we plan around rush-hour patterns in both cities.',
           'Reserve your IAD to Baltimore transfer online or call (877) 609-1919 — the line is answered 24/7, and round trips, hospital stays, and multi-week itineraries are all easy to arrange.',
-        ],
+        
+          'For corridor-specific delays — construction along Dulles Toll Road, I-495 & the Baltimore-Washington Parkway, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Baltimore does not turn into a missed flight or a late arrival.',
+          'Every Baltimore booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'We also coordinate return trips and round-trip bookings for Baltimore travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.',
+          'First-time riders in Baltimore often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.',
+          'Vehicles serving Baltimore are equipped with bottled water, phone chargers and climate control set for your comfort, and chauffeurs confirm pickup details by text roughly 30 minutes before arrival so you always know where the car is.',
+          'Baltimore-bound travelers who land at Dulles after a long international flight also have the option of resting first: our chauffeurs can hold at the airport for a delayed connection or a slow customs line with no change to the quoted flat rate, since every airport pickup already includes complimentary wait time.'],
       },
     ],
     faqs: [
@@ -402,7 +442,42 @@ const routes = [
         answer:
           'We quote flat rates by destination and vehicle class, confirmed in writing before you ride — no surge pricing on this long route, ever. Call (877) 609-1919 or book online for a quote.',
       },
-    ],
+    
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Baltimore?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Baltimore are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a Baltimore reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Baltimore wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Baltimore?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'How far in advance should I book a Baltimore reservation?',
+        answer:
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Baltimore trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring Baltimore travel?',
+        answer:
+          'Yes. Businesses with regular Baltimore travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'What payment methods do you accept for a Baltimore booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Baltimore trip is confirmed.',
+      },
+      {
+        question: 'Do you offer one-way or round-trip service between IAD and Baltimore?',
+        answer:
+          'Both. Book a one-way transfer for a single leg or a round trip if you need pickup again later — round-trip bookings lock in both legs at the time of booking so pricing is settled before you travel.',
+      }],
   },
   {
     slug: 'iad-to-rockville',
@@ -440,7 +515,8 @@ const routes = [
         paragraphs: [
           'We track every arrival into Dulles automatically, so an early landing or a two-hour delay changes nothing about your pickup. Departing Rockville for IAD, we time your pickup against live I-270 and Toll Road conditions with margin for check-in — including the earlier windows international carriers recommend.',
           'Book online in minutes or call (877) 609-1919. Round trips, recurring corporate travel, and same-day requests are all welcome.',
-        ],
+        
+          'Every Rockville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.'],
       },
     ],
     faqs: [
@@ -469,7 +545,17 @@ const routes = [
         answer:
           'Sedans carry up to three passengers, SUVs up to six with luggage, and Mercedes Sprinter vans up to 13 — ideal for delegations or families traveling together.',
       },
-    ],
+    
+      {
+        question: 'Can you provide a car seat for a child riding with us in Rockville?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Rockville fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Rockville trips are always welcome to be recognized.',
+      }],
   },
   {
     slug: 'iad-to-tysons',
@@ -507,7 +593,9 @@ const routes = [
         paragraphs: [
           'Morning departure banks out of Dulles mean 5 a.m. pickups at Tysons hotels; late international arrivals mean midnight meets at baggage claim. We cover both ends of the clock, every day of the year, with automatic flight tracking and complimentary wait time built into every airport pickup.',
           'Book your Tysons transfer online or call (877) 609-1919. For group movements — board meetings, conferences at Capital One Hall, team offsites — our reservation team will coordinate multiple vehicles and staggered arrivals.',
-        ],
+        
+          'Chauffeurs assigned to Tysons trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.',
+          'Rates for Tysons trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.'],
       },
     ],
     faqs: [
@@ -536,7 +624,22 @@ const routes = [
         answer:
           'Yes. McLean, Vienna, the Boro, and all surrounding Fairfax County neighborhoods are within our standard service area for Dulles transfers.',
       },
-    ],
+    
+      {
+        question: 'Is gratuity included in the Tysons fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Tysons trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Do you operate on holidays and late at night for Tysons trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Tysons are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large Tysons group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Tysons group arrives on schedule.',
+      }],
   },
   {
     slug: 'iad-to-columbia',
@@ -574,7 +677,8 @@ const routes = [
         paragraphs: [
           'Arrivals are tracked automatically — early, late, or on time, your chauffeur is at baggage claim when you walk out, with complimentary wait time on every airport pickup. For departures, we plan Columbia pickups against live ICC and Toll Road conditions and your airline’s check-in guidance at Dulles.',
           'Reserve online or call (877) 609-1919 any hour. One-way transfers, round trips, and recurring corporate schedules for Columbia Gateway teams are all straightforward to arrange.',
-        ],
+        
+          'For corridor-specific delays — construction along The ICC (MD-200) & US-29, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Columbia does not turn into a missed flight or a late arrival.'],
       },
     ],
     faqs: [
@@ -608,7 +712,17 @@ const routes = [
         answer:
           'Executive sedans for solo travelers, full-size SUVs seating six with luggage for families, and Mercedes Sprinter vans for groups up to 13 — all detailed before pickup and driven by professional chauffeurs.',
       },
-    ],
+    
+      {
+        question: 'Is gratuity included in the Columbia fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Columbia trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Do you operate on holidays and late at night for Columbia trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Columbia are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      }],
   },
   {
     slug: 'iad-to-silver-spring',
@@ -646,7 +760,10 @@ const routes = [
         paragraphs: [
           'Whether you land at 6 a.m. or midnight, your chauffeur is staged and tracking your flight, with complimentary wait time and meet and greet at baggage claim available on every reservation. For departures, we schedule Silver Spring pickups against live Beltway conditions with a built-in buffer, so an accident near the Mormon Temple curve never costs you a flight.',
           'Book your Silver Spring transfer online in minutes or call (877) 609-1919 — reservations are answered around the clock, and round trips and recurring bookings are always available.',
-        ],
+        
+          'Groups traveling together through Silver Spring are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'Chauffeurs assigned to Silver Spring trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.',
+          'Our dispatch team tracks regional conditions that affect Silver Spring trips directly — stadium events, federal motorcades, and seasonal congestion along Dulles Toll Road, I-495 & Colesville Road — and builds extra buffer into the schedule when any of them are in play.'],
       },
     ],
     faqs: [
@@ -675,7 +792,32 @@ const routes = [
         answer:
           'Call (877) 609-1919 or use our online booking page. Quotes are flat rates based on your exact address and vehicle choice, confirmed in writing with no surge pricing.',
       },
-    ],
+    
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Silver Spring?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Silver Spring are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a Silver Spring reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Silver Spring wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Silver Spring?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring Silver Spring travel?',
+        answer:
+          'Yes. Businesses with regular Silver Spring travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'What payment methods do you accept for a Silver Spring booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Silver Spring trip is confirmed.',
+      }],
   },
   {
     slug: 'iad-to-fairfax',
@@ -713,7 +855,8 @@ const routes = [
         paragraphs: [
           'Airport pickups include automatic flight tracking and complimentary wait time — if your arrival into Dulles slips two hours, your chauffeur adjusts without a phone call or a fee. Heading the other way, we time Fairfax pickups against live Route 28 and Toll Road conditions plus your airline’s check-in guidance, with a buffer built in for security lines.',
           'Book your IAD to Fairfax transfer online through our booking page in a couple of minutes, or call (877) 609-1919 — reservations are answered 24/7, and round trips and recurring bookings are easy to set up.',
-        ],
+        
+          'For corridor-specific delays — construction along Route 28 South & US-50 East, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Fairfax does not turn into a missed flight or a late arrival.'],
       },
     ],
     faqs: [
@@ -742,7 +885,12 @@ const routes = [
         answer:
           'Yes — we operate 24/7 and handle pre-dawn pickups across Fairfax County daily. Call (877) 609-1919 to schedule yours.',
       },
-    ],
+    
+      {
+        question: 'Can you provide a car seat for a child riding with us in Fairfax?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      }],
   },
   {
     slug: 'iad-to-mclean',
@@ -780,7 +928,10 @@ const routes = [
         paragraphs: [
           'International arrivals clearing customs at midnight and first-bank departures at dawn are the rhythm of McLean travel, and we cover both ends without exception. Meet and greet at baggage claim is available on every reservation, and complimentary wait time is built into all airport pickups.',
           'Reserve online through our booking page or call (877) 609-1919. For households and firms with recurring travel, ask about standing arrangements — consistent chauffeurs, saved preferences, and monthly billing.',
-        ],
+        
+          'Every McLean booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through McLean are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'First-time riders in McLean often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.'],
       },
     ],
     faqs: [
@@ -809,7 +960,32 @@ const routes = [
         answer:
           'Rates are flat, quoted on your exact address and vehicle class, and confirmed in writing — no surge pricing at any hour. Call (877) 609-1919 or book online for a quote.',
       },
-    ],
+    
+      {
+        question: 'Can you send more than one vehicle for a large McLean group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your McLean group arrives on schedule.',
+      },
+      {
+        question: 'Do you charge extra for luggage or multiple stops around McLean?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around McLean are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a McLean reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most McLean wedding, prom and group trips.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring McLean travel?',
+        answer:
+          'Yes. Businesses with regular McLean travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'What payment methods do you accept for a McLean booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your McLean trip is confirmed.',
+      }],
   },
   {
     slug: 'iad-to-reston',
@@ -847,7 +1023,13 @@ const routes = [
         paragraphs: [
           'Tech-corridor travel is relentless: Monday-morning departures, Thursday-night returns, and visiting teams cycling through all week. We support it with 24/7 dispatch, automatic flight tracking, corporate accounts with consolidated billing, and the ability to run multiple staggered pickups for group arrivals.',
           'Book your Reston transfer online in minutes or call (877) 609-1919. Same-day requests are frequently workable given how close we operate to the airport.',
-        ],
+        
+          'Chauffeurs assigned to Reston trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.',
+          'Rates for Reston trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.',
+          'We also coordinate return trips and round-trip bookings for Reston travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.',
+          'First-time riders in Reston often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.',
+          'Vehicles serving Reston are equipped with bottled water, phone chargers and climate control set for your comfort, and chauffeurs confirm pickup details by text roughly 30 minutes before arrival so you always know where the car is.',
+          'Reston Town Center\'s restaurants, offices and the Wiehle-Reston East Metro station are all regular pickup and drop-off points, and chauffeurs familiar with the area time trips around Spectrum traffic and Reston Parkway congestion during evening rush hour.'],
       },
     ],
     faqs: [
@@ -876,7 +1058,42 @@ const routes = [
         answer:
           'Frequently, yes — our proximity to Dulles makes short-notice Reston trips easier to accommodate than most. Call (877) 609-1919 to check availability.',
       },
-    ],
+    
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Reston?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Reston are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a Reston reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Reston wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Reston?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring Reston travel?',
+        answer:
+          'Yes. Businesses with regular Reston travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'What payment methods do you accept for a Reston booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Reston trip is confirmed.',
+      },
+      {
+        question: 'Can I make a stop along the way on a Reston trip?',
+        answer:
+          'Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Reston trip is set before you leave.',
+      },
+      {
+        question: 'Can you pick up at a Reston Town Center restaurant or hotel after dinner?',
+        answer:
+          'Yes. We regularly handle evening pickups from Reston Town Center restaurants, the Hyatt Regency Reston and nearby offices, coordinating arrival time by text so your car is waiting when you are ready to leave.',
+      }],
   },
   {
     slug: 'iad-to-herndon',
@@ -981,7 +1198,9 @@ const routes = [
         paragraphs: [
           'For departures out of Fredericksburg, we build pickup times from live corridor data — northbound I-95 in the morning is a different animal than at noon — plus your airline’s check-in window, with buffer to spare. For arrivals, flight tracking is automatic and wait time is complimentary, so a customs delay never strands you.',
           'Reserve your Fredericksburg transfer through our booking page or call (877) 609-1919. Round trips, military family arrangements, and recurring bookings for I-95 corridor commuters are all easy to set up, any hour of the day.',
-        ],
+        
+          'For corridor-specific delays — construction along Fairfax County Parkway & I-95 South, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Fredericksburg does not turn into a missed flight or a late arrival.',
+          'Every Fredericksburg booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.'],
       },
     ],
     faqs: [
@@ -1010,7 +1229,22 @@ const routes = [
         answer:
           'Yes — we operate 24/7 and track your flight, so even a midnight customs clearance is met at baggage claim. Call (877) 609-1919 to book.',
       },
-    ],
+    
+      {
+        question: 'Is gratuity included in the Fredericksburg fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Fredericksburg trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Do you operate on holidays and late at night for Fredericksburg trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Fredericksburg are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large Fredericksburg group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Fredericksburg group arrives on schedule.',
+      }],
   },
   {
     slug: 'iad-to-northern-virginia',
@@ -1048,7 +1282,8 @@ const routes = [
         paragraphs: [
           'Every Northern Virginia trip runs on the same system: automatic flight tracking on airport pickups, meet and greet at baggage claim on request, complimentary wait time, and a flat rate confirmed in writing before you ride. The fleet is the same too — Mercedes-Benz and BMW executive sedans, Cadillac, Lincoln, Chevrolet, and GMC full-size SUVs, and Mercedes Sprinter vans for groups up to 13.',
           'We operate as a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs and 24/7 dispatch. Book online in minutes or call (877) 609-1919 with your address anywhere in the region, and we will quote it on the spot.',
-        ],
+        
+          'Every Northern Virginia booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.'],
       },
     ],
     faqs: [
@@ -1077,7 +1312,17 @@ const routes = [
         answer:
           'Yes — both directions, 24/7, with flight tracking on arrivals and traffic-timed pickups for departures anywhere in Northern Virginia.',
       },
-    ],
+    
+      {
+        question: 'Can you send more than one vehicle for a large Northern Virginia group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Northern Virginia group arrives on schedule.',
+      },
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Northern Virginia?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Northern Virginia are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      }],
   },
   {
     slug: 'iad-to-columbia-md',
@@ -1115,7 +1360,10 @@ const routes = [
         paragraphs: [
           'Cross-state airport runs are where app-based rides fail most — long-fare cancellations, surge multipliers, and drivers unfamiliar with Columbia’s village layout. Our service is the opposite by design: a committed chauffeur, a flat rate confirmed in writing, automatic flight tracking with complimentary wait time, and a licensed and insured Virginia and Maryland carrier behind every mile.',
           'Book your Columbia transfer online through our booking page, or call (877) 609-1919 any hour. Round trips, recurring family bookings, and holiday-week reservations are all easy to arrange — and the earlier you book peak dates, the better.',
-        ],
+        
+          'Every Columbia MD booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Columbia MD are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'First-time riders in Columbia MD often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.'],
       },
     ],
     faqs: [
@@ -1144,7 +1392,32 @@ const routes = [
         answer:
           'Yes. Every Columbia village plus Ellicott City, Clarksville, Fulton, Elkridge, and the rest of Howard County are standard service area.',
       },
-    ],
+    
+      {
+        question: 'Can you send more than one vehicle for a large Columbia MD group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Columbia MD group arrives on schedule.',
+      },
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Columbia MD?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Columbia MD are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a Columbia MD reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Columbia MD wedding, prom and group trips.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring Columbia MD travel?',
+        answer:
+          'Yes. Businesses with regular Columbia MD travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'What payment methods do you accept for a Columbia MD booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Columbia MD trip is confirmed.',
+      }],
   },
   {
     slug: 'iad-to-ocean-city',
@@ -1211,7 +1484,12 @@ const routes = [
         answer:
           'As soon as your dates are set — summer Saturdays and holiday weeks fill weeks ahead. Call (877) 609-1919 to lock in your pickup.',
       },
-    ],
+    
+      {
+        question: 'Can you send more than one vehicle for a large Ocean City group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Ocean City group arrives on schedule.',
+      }],
   },
   {
     slug: 'iad-to-baltimore-downtown',
@@ -1249,7 +1527,8 @@ const routes = [
         paragraphs: [
           'Fifty-five miles across two beltways is exactly the trip rideshare drivers cancel and surge algorithms inflate. We commit a specific chauffeur and vehicle to your booking, quote the rate flat in writing, and track your flight into Dulles automatically — an on-time pickup whether you land early, late, or at 1 a.m.',
           'Every trip is operated by a licensed and insured Virginia and Maryland carrier with background-checked chauffeurs. Book your downtown Baltimore transfer online through our booking page or call (877) 609-1919, any hour, any day.',
-        ],
+        
+          'Chauffeurs assigned to Downtown Baltimore trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.'],
       },
     ],
     faqs: [
@@ -1278,7 +1557,17 @@ const routes = [
         answer:
           'Yes. Your quote is a flat written rate set at booking — traffic on the Parkway or a game-day slowdown never changes the price.',
       },
-    ],
+    
+      {
+        question: 'What is your cancellation policy for a Downtown Baltimore reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Downtown Baltimore wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Downtown Baltimore?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      }],
   },
   {
     slug: 'iad-to-bwi-airport',
@@ -1316,7 +1605,12 @@ const routes = [
         paragraphs: [
           'Because a missed connection costs vastly more than the ride. Rideshare between IAD and BWI means hoping a driver accepts a 50-mile fare, absorbing whatever surge pricing applies, and carrying all the timing risk yourself. Our service inverts every one of those: committed chauffeur, flat written rate, professional timing, and accountability from a licensed and insured Virginia and Maryland carrier.',
           'Sedans suit solo travelers and couples; SUVs and Sprinter vans carry families and groups with full international luggage. Book your IAD–BWI transfer online through our booking page or call (877) 609-1919 — 24/7, including same-day repositioning after cancellations.',
-        ],
+        
+          'Every BWI Airport booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through BWI Airport are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'Our dispatch team tracks regional conditions that affect BWI Airport trips directly — stadium events, federal motorcades, and seasonal congestion along I-495 & the Baltimore-Washington Parkway — and builds extra buffer into the schedule when any of them are in play.',
+          'We also coordinate return trips and round-trip bookings for BWI Airport travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.',
+          'Airport-to-airport transfers between IAD and BWI are more common than most travelers realize — connecting passengers rebooked onto a different carrier, cargo and crew repositioning, and families splitting arrivals and departures across both airports all use this route regularly.'],
       },
     ],
     faqs: [
@@ -1345,7 +1639,42 @@ const routes = [
         answer:
           'Yes. BWI-area hotels, Arundel Mills, Hanover, and Fort Meade are all standard destinations on this corridor, as is the BWI Amtrak station.',
       },
-    ],
+    
+      {
+        question: 'Is gratuity included in the BWI Airport fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for BWI Airport trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Do you operate on holidays and late at night for BWI Airport trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around BWI Airport are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large BWI Airport group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your BWI Airport group arrives on schedule.',
+      },
+      {
+        question: 'How far in advance should I book a BWI Airport reservation?',
+        answer:
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for BWI Airport trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring BWI Airport travel?',
+        answer:
+          'Yes. Businesses with regular BWI Airport travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'What payment methods do you accept for a BWI Airport booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your BWI Airport trip is confirmed.',
+      },
+      {
+        question: 'How do you handle an IAD-to-BWI transfer if my connecting flight time is tight?',
+        answer:
+          'Tell us your connection window when you book. We build the pickup time around security and check-in requirements at BWI and track your inbound IAD flight in real time in case the connection gets tighter.',
+      }],
   },
   {
     slug: 'iad-to-richmond-va',
@@ -1450,7 +1779,9 @@ const routes = [
         paragraphs: [
           'Arrivals into Dulles are tracked automatically, with generous complimentary wait time for international customs clearance — your chauffeur is at baggage claim whenever you actually walk out. For Philadelphia-to-IAD departures, we build pickup times against live I-95 conditions plus your airline’s check-in guidance, with buffers sized honestly for a 150-mile trip.',
           'Reserve your IAD to Philadelphia transfer online or call (877) 609-1919. The line is answered 24/7, and same-day bookings after cancellations or airport reroutes are a specialty — when the airlines scramble your plans, we unscramble the ground leg.',
-        ],
+        
+          'Groups traveling together through Philadelphia are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'We also coordinate return trips and round-trip bookings for Philadelphia travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.'],
       },
     ],
     faqs: [
@@ -1479,7 +1810,22 @@ const routes = [
         answer:
           'Yes — that is the point of the service. Executive sedans offer full-size comfort for one to three passengers, and our SUVs carry up to six with a complete international luggage load. Sprinter vans seat up to 13.',
       },
-    ],
+    
+      {
+        question: 'Do you operate on holidays and late at night for Philadelphia trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Philadelphia are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large Philadelphia group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Philadelphia group arrives on schedule.',
+      },
+      {
+        question: 'Can I make a stop along the way on a Philadelphia trip?',
+        answer:
+          'Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Philadelphia trip is set before you leave.',
+      }],
   },
   {
     slug: 'iad-to-gaithersburg-md',
@@ -1518,7 +1864,10 @@ const routes = [
         paragraphs: [
           'Arrivals are tracked automatically — land early or three hours late and your chauffeur adjusts without a call or a fee. For departures, we time Gaithersburg pickups against live I-270 and Beltway conditions plus your airline’s check-in guidance at Dulles, with honest buffers for security lines and the earlier windows international carriers recommend.',
           'Book your IAD to Gaithersburg transfer online in minutes or call (877) 609-1919. Early-morning departures, late-night arrivals, round trips, and recurring corporate schedules for the I-270 corridor are all routine.',
-        ],
+        
+          'Groups traveling together through Gaithersburg are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'Chauffeurs assigned to Gaithersburg trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.',
+          'We also coordinate return trips and round-trip bookings for Gaithersburg travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.'],
       },
     ],
     faqs: [
@@ -1547,7 +1896,27 @@ const routes = [
         answer:
           'Yes — we operate 24/7 and handle pre-dawn pickups across Montgomery County every day. Your chauffeur arrives a few minutes early, every time.',
       },
-    ],
+    
+      {
+        question: 'Can you provide a car seat for a child riding with us in Gaithersburg?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Gaithersburg fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Gaithersburg trips are always welcome to be recognized.',
+      },
+      {
+        question: 'What payment methods do you accept for a Gaithersburg booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Gaithersburg trip is confirmed.',
+      },
+      {
+        question: 'Can I make a stop along the way on a Gaithersburg trip?',
+        answer:
+          'Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Gaithersburg trip is set before you leave.',
+      }],
   },
   {
     slug: 'iad-to-leesburg-va',
@@ -1586,7 +1955,9 @@ const routes = [
         paragraphs: [
           'Leesburg’s proximity to Dulles makes it a favorite overnight for travelers with morning departures, and pre-dawn pickups from downtown hotels and Lansdowne are among our most common bookings on this route. We operate 24/7, with flight tracking on every arrival and complimentary wait time built in — including the longer customs clearances on international flights.',
           'Book your IAD to Leesburg transfer online in a couple of minutes or call (877) 609-1919. Round trips, winery add-ons, and recurring corporate service throughout Loudoun County are all easy to arrange.',
-        ],
+        
+          'Chauffeurs assigned to Leesburg trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.',
+          'Rates for Leesburg trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.'],
       },
     ],
     faqs: [
@@ -1615,7 +1986,22 @@ const routes = [
         answer:
           'Yes. Early-morning pickups from Leesburg hotels and homes are among our most frequent bookings — we operate 24/7 and chauffeurs arrive a few minutes early. Call (877) 609-1919 to schedule.',
       },
-    ],
+    
+      {
+        question: 'Do you operate on holidays and late at night for Leesburg trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Leesburg are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large Leesburg group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Leesburg group arrives on schedule.',
+      },
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Leesburg?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Leesburg are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      }],
   },
   {
     slug: 'iad-to-winchester-va',
@@ -1654,7 +2040,10 @@ const routes = [
         paragraphs: [
           'For departures out of Winchester, we build pickup times around live Route 7 conditions and your airline’s check-in window at Dulles, with buffers sized for the corridor’s reality — a slow truck on the ridge should cost you patience, not a flight. For arrivals, complimentary wait time covers customs lines, and your chauffeur adjusts automatically to early or delayed landings.',
           'Reserve your IAD to Winchester transfer online or call (877) 609-1919 any hour. One-way trips, round trips, and recurring medical or corporate travel between the valley and Dulles are all straightforward to arrange.',
-        ],
+        
+          'Every Winchester booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Winchester are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'Vehicles serving Winchester are equipped with bottled water, phone chargers and climate control set for your comfort, and chauffeurs confirm pickup details by text roughly 30 minutes before arrival so you always know where the car is.'],
       },
     ],
     faqs: [
@@ -1683,7 +2072,32 @@ const routes = [
         answer:
           'Yes. Every trip is quoted as a flat rate at booking and confirmed in writing. Weather, traffic, and time of day never change the price.',
       },
-    ],
+    
+      {
+        question: 'What is your cancellation policy for a Winchester reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Winchester wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Winchester?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Winchester fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Winchester trips are always welcome to be recognized.',
+      },
+      {
+        question: 'What payment methods do you accept for a Winchester booking?',
+        answer:
+          'All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Winchester trip is confirmed.',
+      },
+      {
+        question: 'Can I make a stop along the way on a Winchester trip?',
+        answer:
+          'Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Winchester trip is set before you leave.',
+      }],
   },
   {
     slug: 'iad-to-charlottesville-va',
@@ -1722,7 +2136,9 @@ const routes = [
         paragraphs: [
           'Arrivals into Dulles are tracked automatically with generous complimentary wait time — international customs lines cost you nothing and require no phone calls. Departing Charlottesville, we schedule pickups against live US-29 conditions and your airline’s check-in window, with honest buffers; graduation weekends and home-football Saturdays get extra margin because we know what Route 29 becomes on those days.',
           'Book your IAD to Charlottesville transfer online or call (877) 609-1919 — the line answers 24/7. UVA event weekends sell out early, so reserve graduation and move-in dates as soon as you have them.',
-        ],
+        
+          'Every Charlottesville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Charlottesville are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.'],
       },
     ],
     faqs: [
@@ -1751,7 +2167,17 @@ const routes = [
         answer:
           'Yes. Medical transfers to UVA Medical Center are handled with patient-appropriate timing and care, door to door, with help with luggage at both ends.',
       },
-    ],
+    
+      {
+        question: 'Do you operate on holidays and late at night for Charlottesville trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Charlottesville are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large Charlottesville group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Charlottesville group arrives on schedule.',
+      }],
   },
   {
     slug: 'iad-to-ashburn-va',
@@ -1790,7 +2216,10 @@ const routes = [
         paragraphs: [
           'Data centers run 24/7 and so do we. Midnight arrivals for an overnight cutover, 4 a.m. pickups in Brambleton for the first departure bank, late international landings clearing customs at 1 a.m. — every one gets a staged chauffeur, automatic flight tracking, and complimentary wait time.',
           'Book your IAD to Ashburn transfer online in under two minutes or call (877) 609-1919. Recurring corporate service, round trips, and multi-passenger site-visit logistics are all easy to set up — and same-day requests are frequently possible on a route this close to the airport, so a schedule change never leaves you stranded.',
-        ],
+        
+          'Every Ashburn booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Ashburn are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'We also coordinate return trips and round-trip bookings for Ashburn travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.'],
       },
     ],
     faqs: [
@@ -1819,7 +2248,22 @@ const routes = [
         answer:
           'Yes — we operate 24/7, and overnight pickups for data center work and early departures are routine on this route. Call (877) 609-1919 to schedule.',
       },
-    ],
+    
+      {
+        question: 'Do you operate on holidays and late at night for Ashburn trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Ashburn are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Can you send more than one vehicle for a large Ashburn group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Ashburn group arrives on schedule.',
+      },
+      {
+        question: 'How far in advance should I book a Ashburn reservation?',
+        answer:
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Ashburn trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+      }],
   },
   {
     slug: 'iad-to-frederick-md',
@@ -1858,7 +2302,10 @@ const routes = [
         paragraphs: [
           'Arrivals into Dulles are tracked automatically — early, delayed, or diverted, your chauffeur adjusts without a call or a fee, and complimentary wait time covers customs. For departures, we build Frederick pickups against live US-15 and I-270 conditions plus your airline’s check-in guidance, with buffers that respect how quickly Point of Rocks can back up behind a single incident.',
           'Book your IAD to Frederick transfer online or call (877) 609-1919 — reservations answer 24/7, and round trips, medical travel, and recurring corporate schedules are all straightforward to arrange.',
-        ],
+        
+          'Every Frederick booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Frederick are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.',
+          'Our dispatch team tracks regional conditions that affect Frederick trips directly — stadium events, federal motorcades, and seasonal congestion along Route 28 & US-15 North — and builds extra buffer into the schedule when any of them are in play.'],
       },
     ],
     faqs: [
@@ -1887,7 +2334,22 @@ const routes = [
         answer:
           'Yes — we operate 24/7 and run pre-dawn pickups from Frederick daily. Your chauffeur arrives a few minutes early with your flight already checked.',
       },
-    ],
+    
+      {
+        question: 'Can you provide a car seat for a child riding with us in Frederick?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Frederick fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Frederick trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Do you offer meet-and-greet service inside the terminal for Frederick trips?',
+        answer:
+          'Yes. Choose meet and greet at booking and your chauffeur waits at baggage claim with a name sign, helps with your luggage, and walks you to the vehicle — curbside pickup remains available if you prefer it.',
+      }],
   },
   {
     slug: 'iad-to-manassas-va',
@@ -1926,7 +2388,13 @@ const routes = [
         paragraphs: [
           'We run this corridor around the clock: 4 a.m. pickups in Gainesville for the first departures out of Dulles, midday business transfers to Innovation Park, and late-night arrivals tracked automatically with complimentary wait time. If your flight moves, your pickup moves with it — no phone calls, no fees.',
           'Book your IAD to Manassas transfer online in minutes or call (877) 609-1919. Round trips, event transportation to Jiffy Lube Live, and recurring corporate service throughout Prince William County are all easy to arrange with a single call.',
-        ],
+        
+          'For corridor-specific delays — construction along Route 28 South, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Manassas does not turn into a missed flight or a late arrival.',
+          'Every Manassas booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'First-time riders in Manassas often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.',
+          'Vehicles serving Manassas are equipped with bottled water, phone chargers and climate control set for your comfort, and chauffeurs confirm pickup details by text roughly 30 minutes before arrival so you always know where the car is.',
+          'Our dispatch team tracks regional conditions that affect Manassas trips directly — stadium events, federal motorcades, and seasonal congestion along Route 28 South — and builds extra buffer into the schedule when any of them are in play.',
+          'Manassas Park, the Manassas Museum district and the Virginia Railway Express station are common drop-off points for this route, and chauffeurs plan around VRE commuter schedules and events at the Prince William County Fairgrounds when timing a pickup.'],
       },
     ],
     faqs: [
@@ -1955,7 +2423,42 @@ const routes = [
         answer:
           'Yes. Every trip is quoted as a flat rate and confirmed in writing at booking — Route 28 traffic never changes the price. Call (877) 609-1919 for a quote.',
       },
-    ],
+    
+      {
+        question: 'Can you provide a car seat for a child riding with us in Manassas?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Manassas fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Manassas trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Do you operate on holidays and late at night for Manassas trips?',
+        answer:
+          'Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Manassas are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.',
+      },
+      {
+        question: 'Do you offer meet-and-greet service inside the terminal for Manassas trips?',
+        answer:
+          'Yes. Choose meet and greet at booking and your chauffeur waits at baggage claim with a name sign, helps with your luggage, and walks you to the vehicle — curbside pickup remains available if you prefer it.',
+      },
+      {
+        question: 'How far in advance should I book a Manassas reservation?',
+        answer:
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Manassas trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+      },
+      {
+        question: 'Do you accept corporate accounts for recurring Manassas travel?',
+        answer:
+          'Yes. Businesses with regular Manassas travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.',
+      },
+      {
+        question: 'Do you serve the VRE station in Manassas for a connecting trip?',
+        answer:
+          'Yes. We regularly coordinate drop-offs and pickups at the Manassas VRE station for travelers connecting to or from the commuter rail line, timed against the published train schedule.',
+      }],
   },
   {
     slug: 'iad-to-national-harbor-md',
@@ -2127,7 +2630,8 @@ const routes = [
         heading: 'Flight Tracking and 24/7 Dispatch',
         paragraphs: [
           'Every arrival is tracked automatically with 45 minutes of complimentary wait time on domestic flights and 60 on international. Book online or call (877) 609-1919 for a Woodbridge transfer any hour of the day.',
-        ],
+        
+          'Every Woodbridge booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.'],
       },
     ],
     faqs: [
@@ -2156,7 +2660,12 @@ const routes = [
         answer:
           'Yes, both are part of our standard Woodbridge service area.',
       },
-    ],
+    
+      {
+        question: 'Can you send more than one vehicle for a large Woodbridge group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Woodbridge group arrives on schedule.',
+      }],
   },
   {
     slug: 'iad-to-springfield-va',
@@ -2192,7 +2701,8 @@ const routes = [
         heading: 'Flight Tracking and 24/7 Dispatch',
         paragraphs: [
           'Every arrival is tracked automatically, with 45 minutes of complimentary wait time on domestic flights and 60 on international. Book online or call (877) 609-1919 for a Springfield transfer any hour of the day.',
-        ],
+        
+          'Every Springfield booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.'],
       },
     ],
     faqs: [
@@ -2221,7 +2731,17 @@ const routes = [
         answer:
           'Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer.',
       },
-    ],
+    
+      {
+        question: 'Can you provide a car seat for a child riding with us in Springfield?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Springfield fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Springfield trips are always welcome to be recognized.',
+      }],
   },
   {
     slug: 'iad-to-dca-airport',
@@ -2258,7 +2778,9 @@ const routes = [
         heading: 'Flat Rate, 24/7 Dispatch',
         paragraphs: [
           'The fare is quoted and confirmed before you travel, regardless of time of day or how tight your connection is. Book online with both flight numbers or call (877) 609-1919 and a dispatcher will confirm the timing with you directly.',
-        ],
+        
+          'For corridor-specific delays — construction along Dulles Toll Road & I-66, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Reagan National (DCA) does not turn into a missed flight or a late arrival.',
+          'Every Reagan National (DCA) booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.'],
       },
     ],
     faqs: [
@@ -2287,7 +2809,22 @@ const routes = [
         answer:
           'Yes. The rate is confirmed before you travel and does not change based on traffic or how close the connection is.',
       },
-    ],
+    
+      {
+        question: 'What is your cancellation policy for a Reagan National (DCA) reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Reagan National (DCA) wedding, prom and group trips.',
+      },
+      {
+        question: 'Can you provide a car seat for a child riding with us in Reagan National (DCA)?',
+        answer:
+          'Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.',
+      },
+      {
+        question: 'Is gratuity included in the Reagan National (DCA) fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Reagan National (DCA) trips are always welcome to be recognized.',
+      }],
   },
   {
     slug: 'iad-to-quantico-va',
@@ -2324,7 +2861,8 @@ const routes = [
         heading: 'Flight Tracking and 24/7 Dispatch',
         paragraphs: [
           'Arrivals into Dulles are tracked automatically, with 45 minutes of complimentary wait time on domestic flights and 60 on international. Book online or call (877) 609-1919, and mention your gate and any base-access requirements when you reserve.',
-        ],
+        
+          'For corridor-specific delays — construction along I-66 & I-95 South, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Quantico does not turn into a missed flight or a late arrival.'],
       },
     ],
     faqs: [
@@ -2353,7 +2891,12 @@ const routes = [
         answer:
           'Yes. Every trip is a written flat rate confirmed before you book, with no surge pricing.',
       },
-    ],
+    
+      {
+        question: 'Can you send more than one vehicle for a large Quantico group?',
+        answer:
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Quantico group arrives on schedule.',
+      }],
   },
   {
     slug: 'iad-to-dumfries-va',
@@ -2389,7 +2932,9 @@ const routes = [
         heading: 'Flight Tracking and 24/7 Dispatch',
         paragraphs: [
           'Every arrival is tracked automatically, with 45 minutes of complimentary wait time on domestic flights and 60 on international. Book online or call (877) 609-1919 for a Dumfries transfer any hour of the day.',
-        ],
+        
+          'Every Dumfries booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.',
+          'Groups traveling together through Dumfries are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.'],
       },
     ],
     faqs: [
@@ -2417,6 +2962,83 @@ const routes = [
         question: 'Do you offer accounts for Quantico-area defense contractors?',
         answer:
           'Yes. Standing accounts cover recurring Dulles transfers with consolidated invoicing.',
+      },
+    
+      {
+        question: 'Do you charge extra for luggage or multiple stops around Dumfries?',
+        answer:
+          'No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Dumfries are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.',
+      },
+      {
+        question: 'What is your cancellation policy for a Dumfries reservation?',
+        answer:
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Dumfries wedding, prom and group trips.',
+      }],
+  },
+  {
+    slug: 'iad-to-vienna-va',
+    city: 'Vienna, VA',
+    shortName: 'Vienna',
+    metaTitle: 'IAD to Vienna VA Car Service | Book 24/7',
+    metaDescription:
+      'Flat-rate car service from Dulles Airport (IAD) to Vienna, VA in 25–35 minutes. Flight tracking & meet and greet included. Call (877) 609-1919.',
+    h1: 'IAD to Vienna, VA Car Service',
+    subtitle: 'Private chauffeured transfers between Dulles International Airport and Vienna, Virginia',
+    distance: '13 miles',
+    duration: '25–35 minutes',
+    corridor: 'Dulles Toll Road & I-66 East',
+    intro: [
+      'Vienna, Virginia sits just inside the Capital Beltway along the Dulles Toll Road and I-66 corridor, making it one of the quicker airport runs in our Northern Virginia service area. Our IAD to Vienna car service tracks your flight, meets you at baggage claim, and delivers you to Vienna\'s Church Street shops, the W&OD Trail neighborhoods, or Wolf Trap National Park without a rideshare queue or a surge fare standing between you and home.',
+      'The trip covers about 13 miles and typically takes 25 to 35 minutes, mostly along the Dulles Toll Road and the Beltway or Route 123. Our chauffeurs drive this stretch daily and know when a Wolf Trap performance or Tysons rush-hour traffic calls for a different route into town.',
+    ],
+    sections: [
+      {
+        heading: 'Door-to-Door Across Vienna',
+        paragraphs: [
+          'We serve every part of Vienna: the historic Church Street business district, the residential streets off Nutley and Beulah, neighborhoods along the Washington & Old Dominion Trail, and the homes bordering Wolf Trap National Park. Commuters heading into Tysons Corner or Reston for work, and families attending a performance at the Filene Center, are both regular bookings on this route.',
+          'Heading to Dulles for a flight instead? We schedule your pickup around your airline\'s check-in guidance and real traffic conditions on the Toll Road, building in a buffer for TSA lines and international check-in.',
+        ],
+      },
+      {
+        heading: 'Why Vienna Travelers Book a Chauffeur Over Rideshare',
+        paragraphs: [
+          'Rideshare pricing between Dulles and Vienna can swing sharply during Wolf Trap performance nights or Tysons rush hour, when demand spikes and surge pricing follows. Our rates are flat and confirmed in writing before you book, so a sold-out show at the Filene Center never changes your fare.',
+          'Every chauffeur is background-checked and professionally trained, driving a late-model Mercedes-Benz, BMW, Cadillac or Chevrolet sedan or SUV that is detailed before every trip. As a licensed and insured Virginia and Maryland carrier, we hold ourselves to commercial safety standards rideshare platforms are not required to meet.',
+        ],
+      },
+      {
+        heading: 'Meet & Greet, Flight Tracking and 24/7 Service',
+        paragraphs: [
+          'Arriving at Dulles, your chauffeur waits inside the terminal at baggage claim with a name sign if you choose meet and greet, or curbside if you prefer. Flight delays are tracked automatically and your pickup adjusts at no extra charge — useful for red-eye arrivals or early-morning Vienna departures ahead of a flight.',
+          'Whether you are commuting to a Tysons office, heading home after a show at Wolf Trap, or catching an early flight out of Dulles, book your IAD to Vienna transfer online or call (877) 609-1919 for a confirmed quote.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How much does a car service from IAD to Vienna, VA cost?',
+        answer:
+          'We quote flat rates based on your exact pickup and drop-off addresses and vehicle choice, confirmed in writing before you ride — with no surge pricing. Call (877) 609-1919 or use our online booking page for an instant quote.',
+      },
+      {
+        question: 'How long is the drive from Dulles Airport to Vienna?',
+        answer:
+          'About 13 miles via the Dulles Toll Road and typically 25 to 35 minutes, depending on traffic near the Beltway and Tysons Corner.',
+      },
+      {
+        question: 'Can you pick me up after a show at Wolf Trap and take me to Dulles?',
+        answer:
+          'Yes. We regularly run Wolf Trap to Dulles transfers timed to a show\'s end, with your chauffeur tracking the performance schedule rather than guessing when you will be ready.',
+      },
+      {
+        question: 'Will my chauffeur meet me inside the terminal at IAD?',
+        answer:
+          'Yes. With meet and greet, your chauffeur waits at baggage claim with a name sign and helps with luggage. Curbside pickup is also available.',
+      },
+      {
+        question: 'Can I book a car from Vienna to IAD for an early morning flight?',
+        answer:
+          'Absolutely. We operate 24/7 and regularly handle 3 and 4 a.m. pickups for early departures out of Dulles, with a comfortable buffer built in for check-in and security.',
       },
     ],
   },

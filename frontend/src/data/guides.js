@@ -740,7 +740,7 @@ export const GUIDES = [
     title: 'Holiday Lights Limo Tours Guide: Northern Virginia, DC & Maryland',
     metaTitle: 'Holiday Lights Limo Tours: NoVA, DC & Maryland Guide',
     metaDescription:
-      'A chauffeured holiday lights tour guide for Northern Virginia, DC and Maryland — real displays, flat rates, the right vehicle, and a vetting checklist before you book.',
+      'A chauffeured holiday lights tour guide for Northern Virginia, DC and Maryland — real displays, flat rates, and the right vehicle to book.',
     datePublished: '2026-09-30',
     readTime: '10 min read',
     image: '/images/blog/landmark-annapolis-1.webp',

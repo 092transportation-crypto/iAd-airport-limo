@@ -102,7 +102,7 @@ export const MARYLAND_BATCH5 = [
     h1: "Woodbridge Limo Service",
     metaTitle: "Woodbridge VA Limo Service | Black Car to Dulles",
     metaDescription:
-      "Chauffeured limo and black car service in Woodbridge, VA. Potomac Mills, Belmont Bay, Lake Ridge, I-95 corridor, Dulles and Reagan transfers. Call (877) 609-1919.",
+      "Chauffeured limo and black car service in Woodbridge, VA. Potomac Mills, Lake Ridge, I-95 corridor, Dulles and Reagan transfers. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "35 mi · 45–55 minutes" },
       { label: "Reagan (DCA)", value: "22 mi · 30–40 minutes" },
@@ -140,7 +140,8 @@ export const MARYLAND_BATCH5 = [
         paragraphs: [
           "Defense and government contractors along the I-95 corridor use standing accounts for recurring Dulles and Reagan transfers, with consolidated monthly invoicing. Families use SUVs and Sprinter vans for reunions, school events and weekend trips, with car seats installed on request.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event bookings.",
-        ],
+        
+          "Chauffeurs assigned to Woodbridge trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."],
       },
     ],
     vehicles: VEHICLES,
@@ -165,7 +166,11 @@ export const MARYLAND_BATCH5 = [
         q: "Do you offer corporate accounts for Prince William County businesses?",
         a: "Yes. Government and defense contractors along the I-95 corridor use standing accounts for recurring airport transfers with consolidated invoicing.",
       },
-    ],
+    
+      {
+        q: "Do you operate on holidays and late at night for Woodbridge trips?",
+        a: "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Woodbridge are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",
+      }],
     related: [
       { label: "IAD to Woodbridge, VA", to: "/iad-to-woodbridge-va" },
       { label: "Dumfries Limo Service", to: "/dumfries-limo-service" },
@@ -184,7 +189,7 @@ export const MARYLAND_BATCH5 = [
     h1: "Springfield Limo Service",
     metaTitle: "Springfield VA Limo Service | Black Car to IAD",
     metaDescription:
-      "Chauffeured limo and black car service in Springfield, VA. NGA campus, Springfield Town Center, Franconia-Springfield Metro, Dulles transfers. Call (877) 609-1919.",
+      "Chauffeured limo and black car service in Springfield, VA. NGA campus, Springfield Town Center, Franconia-Springfield Metro. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "24 mi · 35–45 minutes" },
       { label: "Reagan (DCA)", value: "15 mi · 25–35 minutes" },
@@ -386,7 +391,8 @@ export const MARYLAND_BATCH5 = [
         paragraphs: [
           "Burke residents commonly book recurring early-morning Dulles departures ahead of a work trip and a late Reagan National pickup on the return, scheduled to avoid the worst of Fairfax County Parkway congestion. Families use SUVs with car seats installed on request for vacation departures with a full set of luggage.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event bookings.",
-        ],
+        
+          "Groups traveling together through Burke are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."],
       },
     ],
     vehicles: VEHICLES,
@@ -411,7 +417,15 @@ export const MARYLAND_BATCH5 = [
         q: "Do you serve BWI from Burke as well?",
         a: "Yes, it is about 50 miles and 65 to 80 minutes around the Beltway, quoted as a flat rate confirmed before you book.",
       },
-    ],
+    
+      {
+        q: "What is your cancellation policy for a Burke reservation?",
+        a: "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Burke wedding, prom and group trips.",
+      },
+      {
+        q: "Can you provide a car seat for a child riding with us in Burke?",
+        a: "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
+      }],
     related: [
       { label: "IAD to Springfield, VA", to: "/iad-to-springfield-va" },
       { label: "Springfield Limo Service", to: "/springfield-limo-service" },
@@ -1142,7 +1156,11 @@ export const MARYLAND_BATCH5 = [
         q: "Is this good for a long layover at Dulles?",
         a: "Yes. At 10 to 15 minutes each way, it is a practical way to use a long connection without cutting it too close to your next flight's boarding time.",
       },
-    ],
+    
+      {
+        q: "Can you send more than one vehicle for a large Dulles Town Center group?",
+        a: "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Dulles Town Center group arrives on schedule.",
+      }],
     related: [
       { label: "Ashburn Limo Service", to: "/ashburn-limo-service" },
       { label: "Sterling VA Limo Service", to: "/sterling-limo-service" },

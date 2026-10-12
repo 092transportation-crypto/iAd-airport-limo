@@ -141,7 +141,9 @@ export const MARYLAND_BATCH4 = [
         paragraphs: [
           "Opening an account takes a short conversation with dispatch: company details, the travelers or assistants authorized to book, any reference fields you want on the invoice, and vehicle preferences. Trips are billed monthly with an itemized statement, and individual travelers never handle payment at the curb. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, which covers most schedule changes a travel desk sees in a normal week.",
           "Call (877) 609-1919 or use the corporate page to set up an account before your next visitor lands.",
-        ],
+        
+          "Chauffeurs assigned to Dulles Airport Corporate Car Service trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "We also coordinate return trips and round-trip bookings for Dulles Airport Corporate Car Service travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home."],
       },
     ],
     vehicles: VEHICLES,
@@ -166,7 +168,15 @@ export const MARYLAND_BATCH4 = [
         q: "Is the corporate rate the same at Reagan National and BWI?",
         a: "Rates are flat by vehicle and route for all three airports and are confirmed in writing before each trip. One account and one monthly invoice cover Dulles, Reagan National and BWI.",
       },
-    ],
+    
+      {
+        q: "Do you charge extra for luggage or multiple stops around Dulles Airport Corporate Car Service?",
+        a: "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Dulles Airport Corporate Car Service are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",
+      },
+      {
+        q: "Do you offer meet-and-greet service inside the terminal for Dulles Airport Corporate Car Service trips?",
+        a: "Yes. Choose meet and greet at booking and your chauffeur waits at baggage claim with a name sign, helps with your luggage, and walks you to the vehicle — curbside pickup remains available if you prefer it.",
+      }],
     related: [
       { label: "Corporate Transportation", to: "/corporate" },
       { label: "Corporate Services", to: "/services/corporate" },
@@ -225,7 +235,8 @@ export const MARYLAND_BATCH4 = [
         paragraphs: [
           "Common destinations are downtown Washington, Arlington, Alexandria, Tysons, Reston, Ashburn, Leesburg, Bethesda and connections to Reagan National and BWI. Longer runs to Charlottesville, Richmond, Annapolis and Baltimore are flat-rate as well.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines. Call (877) 609-1919 or book online with the flight number.",
-        ],
+        
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Dulles Airport Black Car Service does not turn into a missed flight or a late arrival."],
       },
     ],
     vehicles: VEHICLES,
@@ -250,7 +261,11 @@ export const MARYLAND_BATCH4 = [
         q: "Can I book a black car for a late-night Dulles arrival?",
         a: "Yes. Dispatch runs 24/7 and late international arrivals are tracked the same way as a midday flight, with 60 minutes of complimentary wait time.",
       },
-    ],
+    
+      {
+        q: "Do you charge extra for luggage or multiple stops around Dulles Airport Black Car Service?",
+        a: "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Dulles Airport Black Car Service are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",
+      }],
     related: [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Dulles Meet and Greet", to: "/dulles-airport-meet-and-greet" },
@@ -971,7 +986,9 @@ export const MARYLAND_BATCH4 = [
         paragraphs: [
           "South Riding executives use sedans for the daily transfer to Westfields, Reston or Tysons and corporate accounts for visiting colleagues. Weekends turn west: hourly, as-directed service covers a day at the vineyards around Aldie and Middleburg with unlimited stops and the chauffeur waiting at each one. Weddings at the wineries and estates along Route 50 use stretch limousines and Sprinter vans, and proms and birthdays follow the same pattern.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
-        ],
+        
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near South Riding does not turn into a missed flight or a late arrival.",
+          "Our dispatch team tracks regional conditions that affect South Riding trips directly — stadium events, federal motorcades, and seasonal congestion along the primary approach roads — and builds extra buffer into the schedule when any of them are in play."],
       },
     ],
     vehicles: VEHICLES,
@@ -996,7 +1013,19 @@ export const MARYLAND_BATCH4 = [
         q: "Is early-morning pickup available in South Riding?",
         a: "Yes. Dispatch runs 24/7 and the chauffeur is assigned the night before, so a pre-dawn departure is handled the same way as a midday trip.",
       },
-    ],
+    
+      {
+        q: "Is gratuity included in the South Riding fare?",
+        a: "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for South Riding trips are always welcome to be recognized.",
+      },
+      {
+        q: "Do you accept corporate accounts for recurring South Riding travel?",
+        a: "Yes. Businesses with regular South Riding travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.",
+      },
+      {
+        q: "What payment methods do you accept for a South Riding booking?",
+        a: "All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your South Riding trip is confirmed.",
+      }],
     related: [
       { label: "IAD to Northern Virginia", to: "/iad-to-northern-virginia" },
       { label: "Chantilly Limo Service", to: "/chantilly-limo-service" },
@@ -1054,7 +1083,8 @@ export const MARYLAND_BATCH4 = [
         paragraphs: [
           "The vineyards west of Aldie are the reason many people move here, and hourly, as-directed service is the way to enjoy them: unlimited stops, cases of wine in the back and nobody counting glasses against the drive home. Weddings at the estates and barns around Aldie and Middleburg use a stretch limousine for the couple, Sprinter vans for guests staying at Salamander or the Route 50 hotels, and sedans to Dulles the next morning. Executives commute to the Ashburn data centers, Reston and Tysons on a corporate account with monthly invoicing.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
-        ],
+        
+          "Chauffeurs assigned to Aldie trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."],
       },
     ],
     vehicles: VEHICLES,
@@ -1079,7 +1109,11 @@ export const MARYLAND_BATCH4 = [
         q: "Is early-morning pickup available in Aldie?",
         a: "Yes. Dispatch runs 24/7 and the chauffeur is assigned the night before, so a pre-dawn Dulles departure is handled like any other trip.",
       },
-    ],
+    
+      {
+        q: "Can you send more than one vehicle for a large Aldie group?",
+        a: "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Aldie group arrives on schedule.",
+      }],
     related: [
       { label: "IAD to Northern Virginia", to: "/iad-to-northern-virginia" },
       { label: "Middleburg Limo Service", to: "/middleburg-limo-service" },
@@ -1162,7 +1196,11 @@ export const MARYLAND_BATCH4 = [
         q: "Is early-morning airport pickup available in western Loudoun?",
         a: "Yes. Dispatch runs 24/7 and the chauffeur is assigned the night before, so a pre-dawn Dulles departure from Purcellville or Round Hill is handled like any other trip.",
       },
-    ],
+    
+      {
+        q: "Is gratuity included in the Purcellville fare?",
+        a: "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Purcellville trips are always welcome to be recognized.",
+      }],
     related: [
       { label: "IAD to Leesburg", to: "/iad-to-leesburg-va" },
       { label: "Leesburg Limo Service", to: "/leesburg-limo-service" },

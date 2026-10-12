@@ -105,7 +105,8 @@ const venues = [
         heading: 'Flat Rates, Licensed Chauffeurs, 24/7 Booking',
         paragraphs: [
           'Every trip is quoted as a flat, written rate with no surge pricing when the show lets out. Vehicles are late-model luxury sedans, SUVs, and Sprinter vans, detailed before every trip, and every chauffeur is background-checked, professionally trained, and fully insured under our Virginia and Maryland carrier authority. Book your Wolf Trap transportation online or call (877) 609-1919 — summer Filene Center dates book up quickly.',
-        ],
+        
+          'For corridor-specific delays — construction along Dulles Toll Road & Trap Road, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Wolf Trap does not turn into a missed flight or a late arrival.'],
       },
     ],
     faqs: [
@@ -134,7 +135,12 @@ const venues = [
         answer:
           'For most Wolf Trap evenings hourly service is the comfortable choice: your chauffeur can handle a dinner stop, waits on-site during the performance, and departure time never matters. Point-to-point transfers work well for straightforward round trips. Call (877) 609-1919 and we will quote both.',
       },
-    ],
+    
+      {
+        question: 'Is gratuity included in the Wolf Trap fare?',
+        answer:
+          'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Wolf Trap trips are always welcome to be recognized.',
+      }],
   },
   {
     slug: 'eaglebank-arena-transportation',

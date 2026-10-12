@@ -93,7 +93,7 @@ const batch4 = [
     title: 'Washington Commanders Game Day: Car Service from Dulles and Northern Virginia',
     metaTitle: 'Commanders Game Day Car Service from Dulles',
     metaDescription:
-      'Flying in for a Commanders game or heading to Northwest Stadium from Northern Virginia? Here is how a chauffeured car handles the crowd, tailgate gear, and drinks.',
+      'Flying in for a Commanders game or heading to Northwest Stadium? Here is how a chauffeured car handles the crowd, tailgate gear, and drinks.',
     datePublished: '2026-09-29',
     readTime: '6 min read',
     excerpt:
@@ -177,7 +177,7 @@ const batch4 = [
     title: 'Northern Virginia Holiday Lights & Christmas Season Transportation Guide',
     metaTitle: 'NoVA Holiday Lights Christmas Transportation Guide',
     metaDescription:
-      'Planning a holiday lights outing, National Harbor visit, or family Christmas season evening in Northern Virginia? A chauffeured night out handles the cold and the parking.',
+      'Planning a holiday lights outing or Christmas season evening in Northern Virginia? A chauffeured night out handles the cold and the parking.',
     datePublished: '2026-09-30',
     readTime: '6 min read',
     excerpt:
@@ -425,7 +425,7 @@ const batch4 = [
     title: 'Prom Limo Service in Northern Virginia: A Parent’s Planning Guide',
     metaTitle: 'Prom Limo Service in Northern Virginia: Parent Guide',
     metaDescription:
-      'A parent’s guide to booking safe, reliable prom limo service in Northern Virginia — vehicle sizing, group coordination, timing, and what to confirm before you book.',
+      'A parent’s guide to booking safe prom limo service in Northern Virginia — vehicle sizing, group coordination, and what to confirm before you book.',
     datePublished: '2026-10-03',
     readTime: '7 min read',
     excerpt:
@@ -946,7 +946,7 @@ const batch4 = [
     title: 'Corporate Holiday Party Transportation: A Planning Guide for Office Managers',
     metaTitle: 'Corporate Holiday Party Transportation Guide',
     metaDescription:
-      'Planning transportation for your company holiday party in DC or Northern Virginia? Here is how office managers coordinate group shuttles and a safe end to the night.',
+      'Planning transportation for your company holiday party? Here is how office managers coordinate group shuttles and a safe end to the night.',
     datePublished: '2026-10-09',
     readTime: '6 min read',
     excerpt:
@@ -1117,7 +1117,7 @@ const batch4 = [
     title: 'Conference & Association Meeting Transportation Near Dulles',
     metaTitle: 'Conference & Association Meeting Transportation IAD',
     metaDescription:
-      'Planning ground transportation for a conference or association meeting near Dulles? Here is how attendee shuttles, speaker pickups and airport transfers fit together.',
+      'Planning transportation for a conference near Dulles? Here is how attendee shuttles, speaker pickups and airport transfers fit together.',
     datePublished: '2026-10-11',
     readTime: '7 min read',
     excerpt:
@@ -1291,7 +1291,7 @@ const batch4 = [
     title: 'IAD’s Terminal Layout in 2026: AeroTrain, Pickup Zones, and What Changed',
     metaTitle: 'IAD Terminal Layout 2026: AeroTrain & Pickup Zones',
     metaDescription:
-      'A current guide to navigating Dulles Airport in 2026 — the AeroTrain and mobile lounges, domestic and international pickup zones, and how a chauffeur handles it.',
+      'A current guide to navigating Dulles Airport in 2026 — the AeroTrain, mobile lounges, pickup zones, and how a chauffeur handles it.',
     datePublished: '2026-10-13',
     readTime: '7 min read',
     excerpt:
@@ -1461,7 +1461,7 @@ const batch4 = [
     title: 'The Winter Weather & Flight Delay Playbook for Dulles Travelers',
     metaTitle: 'Winter Weather & Flight Delay Playbook: Dulles',
     metaDescription:
-      'A practical playbook for Dulles travelers facing winter weather and flight delays — how flight tracking, wait time, and rebooking actually work with a chauffeur.',
+      'A practical playbook for Dulles travelers facing winter weather and flight delays — how flight tracking and wait time work with a chauffeur.',
     datePublished: '2026-10-15',
     readTime: '7 min read',
     excerpt:
@@ -1634,7 +1634,7 @@ const batch4 = [
     title: 'College Graduation Season Transportation Guide for Northern Virginia Families',
     metaTitle: 'College Graduation Season Transportation Guide',
     metaDescription:
-      'Planning transportation for a college graduation weekend? Here is how Northern Virginia families coordinate flights, ceremony logistics, and celebration dinners.',
+      'Planning transportation for a college graduation weekend? Here is how Northern Virginia families coordinate flights and ceremony logistics.',
     datePublished: '2026-10-17',
     readTime: '6 min read',
     excerpt:

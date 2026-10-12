@@ -3,7 +3,7 @@ const batch8 = [
   {
     slug: 'limo-vs-uber-black-lyft-lux-dulles-airport-comparison',
     title: 'Limo & Black Car vs. Uber Black and Lyft Lux at Dulles: The Real Cost & Reliability Comparison',
-    metaTitle: 'Limo vs Uber Black vs Lyft Lux at Dulles (IAD) | Real Cost Compared',
+    metaTitle: 'Limo vs Uber Black vs Lyft Lux at Dulles | Cost',
     metaDescription:
       'A real cost and reliability comparison of limo service vs Uber Black and Lyft Lux for Dulles Airport pickups, covering pricing, wait times and flight tracking.',
     datePublished: '2026-10-04',
@@ -157,7 +157,7 @@ const batch8 = [
   {
     slug: 'corporate-roadshow-multi-stop-transportation-tysons-reston',
     title: 'Planning Multi-Stop Corporate Roadshow Transportation in the Tysons & Reston Tech Corridor',
-    metaTitle: 'Corporate Roadshow Transportation Tysons & Reston | Planning Guide',
+    metaTitle: 'Corporate Roadshow Transportation: Tysons & Reston',
     metaDescription:
       'How to plan multi-stop corporate roadshow transportation across the Tysons and Reston corridor, covering hourly booking, routing, and travel logistics tips.',
     datePublished: '2026-10-04',
@@ -236,7 +236,7 @@ const batch8 = [
   {
     slug: 'northern-virginia-wedding-day-transportation-timeline-planning',
     title: 'Northern Virginia Wedding Day Transportation: Building the Timeline and Picking the Right Vehicle',
-    metaTitle: 'Northern Virginia Wedding Transportation Timeline | Planning Guide',
+    metaTitle: 'NoVA Wedding Transportation Timeline Guide',
     metaDescription:
       'How to build a realistic wedding day transportation timeline in Northern Virginia and choose the right vehicle for your wedding party, venue, and guest list.',
     datePublished: '2026-10-04',
@@ -395,7 +395,7 @@ const batch8 = [
   {
     slug: 'quinceanera-sweet-sixteen-limousine-planning-guide-nova',
     title: 'Quinceañera & Sweet Sixteen Limousine Planning: A Complete Northern Virginia Guide',
-    metaTitle: 'Quinceañera & Sweet Sixteen Limo Planning Guide | Northern Virginia',
+    metaTitle: 'Quinceañera & Sweet 16 Limo Guide | NoVA',
     metaDescription:
       'Planning quinceañera or sweet sixteen limousine service in Northern Virginia, covering vehicle sizing, timeline coordination, and court transportation tips.',
     datePublished: '2026-10-04',
@@ -476,7 +476,7 @@ const batch8 = [
   {
     slug: 'bachelor-bachelorette-party-transportation-planning-dc-nova',
     title: 'Bachelor & Bachelorette Party Transportation: A Planning Guide for DC & Northern Virginia Nights Out',
-    metaTitle: 'Bachelor & Bachelorette Party Transportation Guide | DC & NoVA',
+    metaTitle: 'Bachelor & Bachelorette Night Planning Guide: NoVA',
     metaDescription:
       'Planning bachelor or bachelorette party transportation across DC and Northern Virginia, covering multi-stop booking, group sizing, safety, and timing tips.',
     datePublished: '2026-10-04',
@@ -556,7 +556,7 @@ const batch8 = [
   {
     slug: 'loudoun-county-wine-trail-chauffeur-guide',
     title: 'The Complete Chauffeur Guide to Loudoun County\'s Wine Trail',
-    metaTitle: 'Loudoun County Wine Trail Chauffeur Guide | Routes & Planning',
+    metaTitle: 'Loudoun County Wine Trail Chauffeur Guide',
     metaDescription:
       'A complete guide to touring Loudoun County wine trail with a private chauffeur, covering route planning, group sizing, timing, and winery logistics advice.',
     datePublished: '2026-10-04',
@@ -799,7 +799,7 @@ const batch8 = [
   {
     slug: 'northern-virginia-new-years-eve-limo-booking-guide',
     title: 'New Year\'s Eve Limo Service in Northern Virginia: Pricing, Booking Windows, and Safety',
-    metaTitle: 'New Year\'s Eve Limo Service Northern Virginia | Booking Guide',
+    metaTitle: 'New Year\'s Eve Limo Service NoVA | Booking Guide',
     metaDescription:
       'What to know before booking New Year\'s Eve limo service in Northern Virginia, covering realistic pricing, how early to book, and the safety basics to confirm.',
     datePublished: '2026-10-04',
@@ -880,7 +880,7 @@ const batch8 = [
   {
     slug: 'funeral-memorial-limousine-service-etiquette-guide',
     title: 'Funeral & Memorial Limousine Service: An Etiquette and Planning Guide',
-    metaTitle: 'Funeral & Memorial Limousine Service Guide | Etiquette & Planning',
+    metaTitle: 'Funeral & Memorial Limousine Service Guide',
     metaDescription:
       'A respectful planning guide to funeral and memorial limousine service, covering vehicle options, coordinating with the funeral home, and chauffeur etiquette.',
     datePublished: '2026-10-04',
@@ -962,7 +962,7 @@ const batch8 = [
   {
     slug: 'college-graduation-family-transportation-guide-nova',
     title: 'Graduation Day Family Transportation: A Guide for Northern Virginia Universities',
-    metaTitle: 'Graduation Day Family Transportation Guide | Northern Virginia',
+    metaTitle: 'Graduation Day Family Transportation Guide: NoVA',
     metaDescription:
       'Planning family transportation for a Northern Virginia college graduation, covering parking challenges, multi-generation group sizing, and realistic timing.',
     datePublished: '2026-10-04',
@@ -1044,7 +1044,7 @@ const batch8 = [
   {
     slug: 'iad-meet-and-greet-vs-curbside-pickup-business-travelers',
     title: 'Meet-and-Greet vs. Curbside Pickup at Dulles: What Business Travelers Should Know',
-    metaTitle: 'IAD Meet-and-Greet vs Curbside Pickup | Business Traveler Guide',
+    metaTitle: 'IAD Meet-and-Greet vs Curbside Pickup Guide',
     metaDescription:
       'The real difference between meet-and-greet and curbside pickup at Dulles Airport for business travelers, and which option fits which kind of trip the best.',
     datePublished: '2026-10-04',
