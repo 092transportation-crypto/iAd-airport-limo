@@ -370,7 +370,7 @@ const batch5 = [
       'A lot of people searching "party bus Maryland" are really looking for one thing: a way to move a group together for a night without anyone driving. Here is what that actually looks like.',
     image: '/images/sprinter-shuttle-seats.webp',
     intro: [
-      'A lot of the people searching for an "MD party bus" for prom, a birthday, or a night out are not actually attached to the specific vehicle type — they are looking for a way to move a group of ten or more people together for an evening, with nobody splitting off to drive, and with room for the group to actually enjoy the night. Being straightforward about this up front: our fleet does not include a large converted coach bus with a dance floor and built-in sound system, the vehicle most people picture when they hear the term "party bus." What we do run is a fleet of Mercedes Sprinter vans and limos that cover the same practical need — keeping a group together, comfortably, for the whole night — and this guide explains exactly what that gets you and how it compares.',
+      'A lot of the people searching for an "MD party bus" for prom, a birthday, or a night out are not actually attached to the specific vehicle type — they are looking for a way to move a group of ten or more people together for an evening, with nobody splitting off to drive, and with room for the group to actually enjoy the night. Being straightforward about this up front: our fleet does not include a large converted coach bus with a dance floor and built-in sound system, the vehicle most people picture when they hear the term "party bus." What we do run is a fleet of Mercedes Sprinter vans that cover the same practical need — keeping a group together, comfortably, for the whole night — and this guide explains exactly what that gets you and how it compares.',
     ],
     sections: [
       {
@@ -384,8 +384,8 @@ const batch5 = [
       {
         heading: 'What a Mercedes Sprinter Group Vehicle Actually Offers',
         paragraphs: [
-          'Our Sprinter Shuttle, Sprinter Executive, and Sprinter Limo each seat up to thirteen passengers with matching luggage or gear capacity, which comfortably covers most prom groups, bachelor and bachelorette parties, and milestone birthday celebrations without needing to split into a second vehicle. Every Sprinter comes with a professional, background-checked chauffeur — not a self-service rental, and not a gig driver assigned through an app.',
-          'The Sprinter Limo variant specifically is configured for a more social, celebratory ride than a standard shuttle layout, while the Sprinter Executive and Shuttle configurations suit a group that wants comfortable individual seating for a longer trip. Ask dispatch which configuration is actually available for your date, since layouts and availability can vary by booking.',
+          'Our Sprinter Shuttle and Sprinter Executive each seat up to thirteen passengers with matching luggage or gear capacity, which comfortably covers most prom groups, bachelor and bachelorette parties, and milestone birthday celebrations without needing to split into a second vehicle. Every Sprinter comes with a professional, background-checked chauffeur — not a self-service rental, and not a gig driver assigned through an app.',
+          'The Sprinter Executive is configured for a more social, celebratory ride with a premium interior, while the Shuttle configuration suits a group that wants straightforward individual seating for a longer trip. Ask dispatch which configuration is actually available for your date, since layouts and availability can vary by booking.',
         ],
       },
       {
@@ -418,7 +418,7 @@ const batch5 = [
       {
         heading: 'Pricing and Booking a Group Vehicle',
         paragraphs: [
-          'Sprinter vans and limos are typically booked as hourly, as-directed service for a group event, with a minimum number of hours that tends to run higher on weekend evenings during busy seasons like prom weekends. Get a flat, all-inclusive rate confirmed in writing before your date, and confirm your final group size against the vehicle’s capacity — thirteen passengers is the ceiling for a single Sprinter, and a group larger than that needs a second vehicle rather than overcrowding one.',
+          'Sprinter vans are typically booked as hourly, as-directed service for a group event, with a minimum number of hours that tends to run higher on weekend evenings during busy seasons like prom weekends. Get a flat, all-inclusive rate confirmed in writing before your date, and confirm your final group size against the vehicle’s capacity — thirteen passengers is the ceiling for a single Sprinter, and a group larger than that needs a second vehicle rather than overcrowding one.',
           'Ask about gratuity and any toll charges up front as well, particularly for a night that might cross into Washington or back into Virginia over the course of the evening. A flat quote that clearly states what is included avoids the awkward surprise of a different total showing up at the end of a night that was supposed to be worry-free.',
           'As with any Sprinter or limo booking, our published cancellation policy applies: these larger vehicles and special-event bookings can be cancelled free of charge up to 12 hours before pickup, later than the shorter window for sedans and SUVs, which is worth knowing when you are locking in a date months ahead for something like prom.',
         ],
@@ -426,7 +426,7 @@ const batch5 = [
       {
         heading: 'Booking Timeline and Availability',
         paragraphs: [
-          'Group vehicles are the tightest inventory of any busy season — prom weekends in the spring, and Friday and Saturday nights year-round for bachelor, bachelorette, and birthday groups. Sprinter vans and limos tend to book out several weeks ahead for a popular Saturday, more during peak prom weekends specifically, so reserving as soon as your date and rough group size are settled protects your preferred vehicle configuration rather than leaving you with whatever is left closer to the date.',
+          'Group vehicles are the tightest inventory of any busy season — prom weekends in the spring, and Friday and Saturday nights year-round for bachelor, bachelorette, and birthday groups. Sprinter vans tend to book out several weeks ahead for a popular Saturday, more during peak prom weekends specifically, so reserving as soon as your date and rough group size are settled protects your preferred vehicle configuration rather than leaving you with whatever is left closer to the date.',
           'If your date is flexible, ask dispatch whether a weeknight or an earlier time slot has more availability — sometimes a small shift in timing is the difference between the exact configuration you want and settling for whatever vehicle remains on a fully booked Saturday.',
         ],
       },
@@ -441,7 +441,7 @@ const batch5 = [
       {
         question: 'Do you actually operate a party bus in Maryland?',
         answer:
-          'No — our fleet does not include a converted coach-style party bus with a dance floor and built-in sound system. We run Mercedes Sprinter shuttles, executive vans, and Sprinter limos seating up to thirteen passengers with a professional chauffeur, which covers most group transportation needs the same searches are actually looking for.',
+          'No — our fleet does not include a converted coach-style party bus with a dance floor and built-in sound system. We run Mercedes Sprinter shuttle and executive vans seating up to thirteen passengers with a professional chauffeur, which covers most group transportation needs the same searches are actually looking for.',
       },
       {
         question: 'How many people fit in a Sprinter van?',
@@ -478,7 +478,7 @@ const batch5 = [
       'The party bus vs. limo question usually comes down to group size, how much the ride itself matters versus getting between venues, and budget. Here is an honest breakdown.',
     image: '/images/cadillac-escalade.webp',
     intro: [
-      'The "party bus vs. limo" comparison gets searched constantly around prom season, bachelor and bachelorette weekends, and milestone birthdays, and most of the comparisons online are written by companies that only offer one of the two and quietly tilt the answer accordingly. We will be upfront about where we stand: our fleet includes stretch-style Sprinter limos, SUVs, and sedans, but not a traditional large converted party bus. This guide compares the two vehicle types honestly, based on group size, occasion, and budget, so you can decide what actually fits — even if that means a traditional party bus from another operator is the better call for your specific night.',
+      'The "party bus vs. limo" comparison gets searched constantly around prom season, bachelor and bachelorette weekends, and milestone birthdays, and most of the comparisons online are written by companies that only offer one of the two and quietly tilt the answer accordingly. We will be upfront about where we stand: our fleet includes a stretch-style Sprinter Executive, SUVs, and sedans, but not a traditional large converted party bus. This guide compares the two vehicle types honestly, based on group size, occasion, and budget, so you can decide what actually fits — even if that means a traditional party bus from another operator is the better call for your specific night.',
     ],
     sections: [
       {
@@ -488,16 +488,16 @@ const batch5 = [
         ],
       },
       {
-        heading: 'What a Limousine or Sprinter Limo Actually Is',
+        heading: 'What a Limousine or Sprinter Executive Actually Is',
         paragraphs: [
-          'A stretch limousine, or our Sprinter Limo configuration, is built around seated, more intimate group transportation — typically comfortable for a smaller group than a full party bus, with a more refined interior and a quieter ride. Our Sprinter Limo seats up to thirteen passengers, which fits most prom groups, bachelor and bachelorette parties, and birthday celebrations comfortably without feeling like a large-capacity charter vehicle.',
+          'A stretch limousine, or our Sprinter Executive configuration, is built around seated, more intimate group transportation — typically comfortable for a smaller group than a full party bus, with a more refined interior and a quieter ride. Our Sprinter Executive seats up to thirteen passengers, which fits most prom groups, bachelor and bachelorette parties, and birthday celebrations comfortably without feeling like a large-capacity charter vehicle.',
           'The experience is different by design: a limo prioritizes comfort and a more upscale, intimate atmosphere for a defined group, rather than open floor space and standing room for a larger crowd.',
         ],
       },
       {
         heading: 'Group Size Is Usually the Deciding Factor',
         paragraphs: [
-          'If your group is thirteen people or fewer, a Sprinter limo, Sprinter shuttle, or SUV covers it comfortably without needing a larger-capacity vehicle at all. If your group is meaningfully larger than that — twenty, twenty-five, or more — a traditional party bus’s higher capacity becomes the more practical fit, and splitting a large group across multiple Sprinter vans starts to lose the "everyone together" advantage that made a single larger vehicle appealing in the first place.',
+          'If your group is thirteen people or fewer, a Sprinter Executive, Sprinter Shuttle, or SUV covers it comfortably without needing a larger-capacity vehicle at all. If your group is meaningfully larger than that — twenty, twenty-five, or more — a traditional party bus’s higher capacity becomes the more practical fit, and splitting a large group across multiple Sprinter vans starts to lose the "everyone together" advantage that made a single larger vehicle appealing in the first place.',
           'Count your actual, final guest list before deciding — not an early estimate, since groups for these occasions reliably grow as the date approaches and separate friend circles decide to combine.',
         ],
       },
@@ -519,7 +519,7 @@ const batch5 = [
       {
         heading: 'Other Practical Differences Worth Knowing',
         paragraphs: [
-          'A traditional party bus’s open floor and standing room typically come with a different alcohol and safety policy than a seated limo or Sprinter — confirm directly with any operator, party bus or limo, exactly what is and is not permitted onboard, since policies vary meaningfully between companies and vehicle types. A seated, belted configuration like our Sprinter Limo is generally the more straightforward option for a group that includes younger passengers, such as a prom group, where a standing or open-floor layout may not be appropriate at all.',
+          'A traditional party bus’s open floor and standing room typically come with a different alcohol and safety policy than a seated limo or Sprinter — confirm directly with any operator, party bus or limo, exactly what is and is not permitted onboard, since policies vary meaningfully between companies and vehicle types. A seated, belted configuration like our Sprinter Executive is generally the more straightforward option for a group that includes younger passengers, such as a prom group, where a standing or open-floor layout may not be appropriate at all.',
           'Load-in and load-out logistics also differ. A larger party bus can be a tighter fit for narrow residential streets, some hotel loops, and certain venue entrances than a Sprinter, simply due to its length and turning radius. If your evening includes stops at a specific home, hotel, or venue with a tight approach, ask any operator — again, regardless of vehicle type — whether their vehicle has run that specific address before.',
         ],
       },
@@ -528,7 +528,7 @@ const batch5 = [
         paragraphs: ['Work through these questions in order:'],
         list: [
           'How many people, confirmed with a final headcount, not an early guess?',
-          'Thirteen or fewer — a Sprinter limo, Sprinter shuttle, or SUV covers it comfortably',
+          'Thirteen or fewer — a Sprinter Executive, Sprinter Shuttle, or SUV covers it comfortably',
           'More than thirteen — a traditional party bus’s larger capacity becomes the more practical single-vehicle option',
           'Does the ride itself need to feel like part of the party, or is it primarily transportation between venues where the party happens?',
           'Is this an occasion, like prom, where a seated, chaperoned ride is expected or preferred over an open party-bus layout?',
@@ -544,33 +544,33 @@ const batch5 = [
       {
         heading: 'Mixing Vehicle Types for a Larger Celebration',
         paragraphs: [
-          'Some larger events do not need to choose one vehicle type exclusively. A wedding, for example, might use a Sprinter Limo for the wedding party and a separate luxury SUV for parents, while a milestone birthday with a guest list too large for one Sprinter might split naturally into a main group vehicle plus a smaller sedan for a couple arriving separately. Thinking in terms of "which group needs which vehicle" rather than assuming everyone must ride in one single vehicle often produces a more comfortable and more cost-effective plan than forcing the entire guest list into one oversized booking.',
+          'Some larger events do not need to choose one vehicle type exclusively. A wedding, for example, might use a Sprinter Executive for the wedding party and a separate luxury SUV for parents, while a milestone birthday with a guest list too large for one Sprinter might split naturally into a main group vehicle plus a smaller sedan for a couple arriving separately. Thinking in terms of "which group needs which vehicle" rather than assuming everyone must ride in one single vehicle often produces a more comfortable and more cost-effective plan than forcing the entire guest list into one oversized booking.',
           'This approach also gives a planner more control over arrival choreography — a wedding party arriving together in one vehicle, followed moments later by the couple in a separate car, reads very differently at a venue than everyone stepping out of the same door at once. The same logic applies to a milestone birthday where the guest of honor might want a distinct, separate arrival from the rest of the group.',
         ],
       },
       {
         heading: 'Booking Your Group’s Vehicle',
         paragraphs: [
-          'Share your final group size, occasion, and rough plan with dispatch, and we will confirm honestly whether our fleet fits what you need or whether a different vehicle type would serve your group better. Call (877) 609-1919 or book online — our fleet page shows the full lineup, including the Sprinter Limo configuration built for exactly this kind of group celebration.',
+          'Share your final group size, occasion, and rough plan with dispatch, and we will confirm honestly whether our fleet fits what you need or whether a different vehicle type would serve your group better. Call (877) 609-1919 or book online — our fleet page shows the full lineup, including the Sprinter Executive configuration built for exactly this kind of group celebration.',
           'And if it turns out a true party bus is genuinely the better fit for your specific group and occasion, we would rather have told you that plainly on the phone than have you discover the mismatch on the night itself.',
         ],
       },
     ],
     faqs: [
       {
-        question: 'What is the real difference between a party bus and a Sprinter limo?',
+        question: 'What is the real difference between a party bus and a Sprinter Executive?',
         answer:
-          'A traditional party bus is a converted coach with open floor space, a sound system, and often standing room for twenty or more passengers, functioning as a mobile venue. A Sprinter limo offers seated, more intimate transportation for up to thirteen passengers, prioritizing comfort over open party-bus space.',
+          'A traditional party bus is a converted coach with open floor space, a sound system, and often standing room for twenty or more passengers, functioning as a mobile venue. A Sprinter Executive offers seated, more intimate transportation for up to thirteen passengers, prioritizing comfort over open party-bus space.',
       },
       {
         question: 'How many people fit in your largest group vehicle?',
         answer:
-          'Our Sprinter Shuttle, Sprinter Executive, and Sprinter Limo each seat up to thirteen passengers with a professional chauffeur, which covers most prom, bachelor/bachelorette, and birthday groups in a single vehicle.',
+          'Our Sprinter Shuttle and Sprinter Executive each seat up to thirteen passengers with a professional chauffeur, which covers most prom, bachelor/bachelorette, and birthday groups in a single vehicle.',
       },
       {
-        question: 'Is a Sprinter limo or a party bus better for prom?',
+        question: 'Is a Sprinter Executive or a party bus better for prom?',
         answer:
-          'A Sprinter limo generally fits prom well, since most prom groups are sized within its thirteen-passenger capacity and a seated, chaperoned ride is typically what parents and schools expect.',
+          'A Sprinter Executive generally fits prom well, since most prom groups are sized within its thirteen-passenger capacity and a seated, chaperoned ride is typically what parents and schools expect.',
       },
       {
         question: 'What if my group is larger than thirteen people?',

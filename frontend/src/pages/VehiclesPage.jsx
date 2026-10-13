@@ -128,14 +128,7 @@ const VehiclesPage = () => {
           subtitle: 'Mercedes Sprinter 2023+ or similar',
           pax: 13, luggage: 13,
           image: images.sprinter,
-          features: ['Conference Seating', 'LED Lighting', 'Premium Audio', 'USB Charging', 'Standing Room']
-        },
-        {
-          name: 'Sprinter Limo',
-          subtitle: 'Mercedes Sprinter Limo 2023+ or similar',
-          pax: 13, luggage: 13,
-          image: images.sprinterLimo,
-          features: ['Limo Interior', 'Mood Lighting', 'Premium Sound', 'Mini Bar']
+          features: ['Conference Seating', 'Mood Lighting', 'Premium Audio', 'USB Charging', 'Mini Bar']
         }
       ]
     },
@@ -264,7 +257,7 @@ const VehiclesPage = () => {
     ],
     sprinters: [
       'Once a group reaches five or more travelers, a Sprinter van keeps the whole party together at one flat rate instead of coordinating two or three separate vehicles that inevitably arrive at different times. Each of our three Sprinter configurations seats up to 13 with matching luggage capacity, so a full group and their bags travel in one trip from Dulles.',
-      'Choose the Sprinter Shuttle for straightforward group airport transfers, the Sprinter Executive for corporate roadshows and conference travel where USB charging and conference-style seating matter, or the Sprinter Limo for wedding parties, proms and celebrations that want limousine styling with the capacity a stretch sedan cannot match. All three are driven by the same background-checked, professionally licensed chauffeurs as the rest of our fleet.',
+      'Choose the Sprinter Shuttle for straightforward group airport transfers, or the Sprinter Executive for corporate roadshows and conference travel, wedding parties, proms and celebrations that want limousine styling with the capacity a stretch sedan cannot match. Both are driven by the same background-checked, professionally licensed chauffeurs as the rest of our fleet.',
     ],
     buses: [
       'For groups larger than a Sprinter can comfortably seat — wedding blocks, corporate conferences, school and university trips — a Mini Coach or Party Bus keeps 20 to 24 travelers moving together instead of dispatching multiple vehicles. Both options are booked well in advance for Dulles-area events, since large-vehicle availability is more limited than our sedan and SUV fleet.',

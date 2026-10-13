@@ -38,10 +38,10 @@ const SERVICE_TYPES = [
   'Wine Tour', 'Concert / Event', 'Birthday / Night Out', 'Hourly Charter', 'Other',
 ];
 
-// The 8 fleet categories — kept in sync with the Fleet page and 92limo.com.
+// The 7 fleet categories — kept in sync with the Fleet page and 92limo.com.
 const VEHICLE_TYPES = [
   'Any Vehicle', 'Business Sedan', 'First Class Sedan', 'Midsize SUV',
-  'Luxury SUV', 'Premium SUV', 'Sprinter Shuttle', 'Sprinter Executive', 'Sprinter Limo',
+  'Luxury SUV', 'Premium SUV', 'Sprinter Shuttle', 'Sprinter Executive',
 ];
 
 const CONTACT_OPTIONS = [

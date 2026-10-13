@@ -53,7 +53,6 @@ const FleetPage = () => {
     { id: 5, name: 'Premium SUV', subtitle: 'Cadillac Escalade 2023+ or similar', category: 'suv', pax: 6, luggage: 5, image: fleetImages.escalade },
     { id: 6, name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
     { id: 7, name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
-    { id: 8, name: 'Sprinter Limo', subtitle: 'Mercedes Sprinter Limo 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterLimo },
   ];
 
   const filteredVehicles = activeCategory === 'all' ? vehicles : vehicles.filter(v => v.category === activeCategory);

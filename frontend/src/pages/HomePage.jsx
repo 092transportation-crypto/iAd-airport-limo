@@ -90,7 +90,6 @@ const HomePage = () => {
     { name: 'Premium SUV', subtitle: 'Cadillac Escalade 2023+ or similar', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.escalade },
     { name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
     { name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
-    { name: 'Sprinter Limo', subtitle: 'Mercedes Sprinter Limo 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterLimo },
   ];
 
   const fleetData = {

@@ -1631,7 +1631,7 @@ const batch6 = [
         paragraphs: [
           'Many Loudoun wineries sit at the end of a long gravel or unpaved driveway, sometimes narrow enough that a full-size vehicle needs to plan its approach and turnaround carefully rather than assuming the kind of open, paved circular drive a hotel or conventional event venue typically offers. A chauffeur who has visited a specific venue before, or who takes the time to confirm the driveway situation in advance, avoids the awkward experience of a large SUV or Sprinter van struggling to navigate a tight gravel turnaround with a wedding party already dressed and waiting.',
           'This is worth discussing directly with your transportation provider well before the wedding day — specifically asking whether they have served your particular venue before, and if not, confirming the driveway width, surface, and any turnaround constraints so the right vehicle size is booked from the start rather than discovered as a problem on the day itself.',
-          'A stretch limo, in particular, needs considerably more turnaround room than an SUV or Sprinter van, which is one of several reasons many winery weddings are better served by a well-appointed SUV or a Sprinter limo than a traditional stretch vehicle.',
+          'A stretch limo, in particular, needs considerably more turnaround room than an SUV or Sprinter van, which is one of several reasons many winery weddings are better served by a well-appointed SUV or a Sprinter Executive than a traditional stretch vehicle.',
           'Rain adds another layer to this same consideration, since a gravel driveway that handles dry weather without issue can develop soft spots or standing water after a heavy storm. A chauffeur who checks conditions ahead of a rainy wedding day plans the approach accordingly, rather than discovering a soft patch of driveway with a loaded vehicle already committed to it.',
           'A working farm property also sometimes shares its driveway with active agricultural equipment or livestock areas that a chauffeur unfamiliar with the site would have no reason to anticipate. Confirming these specifics with the venue directly, rather than assuming a wedding venue functions identically to any other event space, avoids an awkward surprise on the day itself.',
           'Some properties also restrict vehicle access to certain hours to protect the vines themselves during active growing or harvest periods, a detail that has nothing to do with the wedding schedule but everything to do with the working vineyard the venue also happens to be. Confirming this in advance avoids a conflict nobody anticipated.',
@@ -1670,7 +1670,7 @@ const batch6 = [
       {
         heading: 'Booking Winery Wedding Transportation',
         paragraphs: [
-          'Tell dispatch your specific venue, expected guest count, and whether the day includes a golden-hour photo session that might affect timing, and the plan is built around your venue’s actual layout rather than a generic wedding template. An SUV or Sprinter limo typically handles winery driveways more comfortably than a traditional stretch limo, and a Sprinter van covers guest shuttling for a larger wedding.',
+          'Tell dispatch your specific venue, expected guest count, and whether the day includes a golden-hour photo session that might affect timing, and the plan is built around your venue’s actual layout rather than a generic wedding template. An SUV or Sprinter Executive typically handles winery driveways more comfortably than a traditional stretch limo, and a Sprinter van covers guest shuttling for a larger wedding.',
           'Call (877) 609-1919 or book online, and let us help plan transportation around your specific Loudoun County venue well before the wedding day arrives.',
           'If your venue is one we have not yet served, ask us to schedule a quick call with your venue coordinator ahead of the wedding, so any access details specific to that property are confirmed well before the day itself rather than figured out in real time.',
           'A vineyard wedding is a genuinely beautiful choice, and the transportation plan should support that setting rather than fight against it. A little extra planning specific to the venue is a small price for a day that runs as smoothly as the setting itself looks.',
@@ -1701,7 +1701,7 @@ const batch6 = [
       {
         question: 'What vehicle is typically best for a Loudoun County winery wedding?',
         answer:
-          'A well-appointed SUV or Sprinter limo generally handles gravel driveways and tighter turnarounds more comfortably than a traditional stretch limo, while a Sprinter van covers guest shuttling.',
+          'A well-appointed SUV or Sprinter Executive generally handles gravel driveways and tighter turnarounds more comfortably than a traditional stretch limo, while a Sprinter van covers guest shuttling.',
       },
     ],
     relatedLinks: [

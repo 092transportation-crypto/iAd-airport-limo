@@ -19,7 +19,7 @@
 - Midsize SUV: Lincoln Nautilus (3 passengers)
 - Luxury SUV: Chevrolet Suburban (5 passengers)
 - Premium SUV: Cadillac Escalade (6 passengers)
-- Sprinter Shuttle, Sprinter Executive, Sprinter Limo (13 passengers)
+- Sprinter Shuttle, Sprinter Executive (13 passengers)
 - Mini Coach and Party Bus for larger groups
 
 ## Service Areas

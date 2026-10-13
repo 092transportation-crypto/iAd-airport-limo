@@ -783,7 +783,7 @@ export const GUIDES = [
         heading: 'Choosing the Right Vehicle for Your Group',
         paragraphs: [
           'The fleet behind a holiday lights night is the same fleet used for every other trip, which means the choice comes down to how many people are riding and how much gear — strollers, a cooler, extra coats — is coming along. A Business Sedan (Mercedes-Benz E-Class or similar) or First Class Sedan (BMW 7 Series or Mercedes-Benz S-Class) suits a couple or a small family of three with modest cargo, and makes for a quieter, more intimate ride for a date night through Bull Run or a Georgetown stroll.',
-          'A Midsize SUV (Lincoln Nautilus) steps that up slightly with more room for a family of three plus gear, while a Luxury SUV (Chevrolet Suburban, seating five with five bags) or Premium SUV (Cadillac Escalade, seating six with five bags) is the right call for an extended family doing a drive-through together, car seats and all. Once a group grows past that — an office holiday party, several families combining a night out, or a multi-generational outing — the Sprinter lineup (Sprinter Shuttle, Sprinter Executive, or Sprinter Limo, each seating up to 13) keeps everyone together in one vehicle instead of splitting into a caravan that inevitably gets separated at the first red light.',
+          'A Midsize SUV (Lincoln Nautilus) steps that up slightly with more room for a family of three plus gear, while a Luxury SUV (Chevrolet Suburban, seating five with five bags) or Premium SUV (Cadillac Escalade, seating six with five bags) is the right call for an extended family doing a drive-through together, car seats and all. Once a group grows past that — an office holiday party, several families combining a night out, or a multi-generational outing — the Sprinter lineup (Sprinter Shuttle or Sprinter Executive, each seating up to 13) keeps everyone together in one vehicle instead of splitting into a caravan that inevitably gets separated at the first red light.',
         ],
       },
       {
@@ -857,7 +857,7 @@ export const GUIDES = [
       {
         question: 'What vehicle should I book for a family holiday lights night?',
         answer:
-          'A Midsize SUV such as the Lincoln Nautilus fits a small family comfortably, while a Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) suits an extended family with car seats and extra gear. Groups larger than six or seven, such as combined families or an office outing, are better served by a Sprinter Shuttle, Sprinter Executive or Sprinter Limo, each seating up to 13.',
+          'A Midsize SUV such as the Lincoln Nautilus fits a small family comfortably, while a Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) suits an extended family with car seats and extra gear. Groups larger than six or seven, such as combined families or an office outing, are better served by a Sprinter Shuttle or Sprinter Executive, each seating up to 13.',
       },
       {
         question: 'Is a drive-through or a walk-through holiday light display better?',
