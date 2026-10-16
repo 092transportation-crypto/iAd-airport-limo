@@ -1160,6 +1160,11 @@ const routes = [
         answer:
           'Usually, yes — Herndon’s proximity to our Dulles base makes short-notice trips easier to fit in. Call (877) 609-1919 to check availability.',
       },
+      {
+        question: 'Do you serve Herndon’s W&OD Trail area and historic downtown specifically?',
+        answer:
+          'Yes — historic downtown Herndon around the W&OD Trail is a regular pickup and drop-off area for us, along with the Elden Street hotel corridor and the Route 28 business district.',
+      }
     ],
   },
   {
@@ -2593,6 +2598,16 @@ const routes = [
         answer:
           'Yes. Every trip is a written flat rate confirmed before you book, with no surge pricing regardless of traffic or demand.',
       },
+      {
+        question: 'Is Falls Church close enough to Dulles for an easy standing pickup arrangement?',
+        answer:
+          'Yes — at 18 miles and 25 to 35 minutes via Route 7 and the Dulles Toll Road, Falls Church is a straightforward transfer, which is why it is a popular standing-pickup arrangement for frequent business travelers.',
+      },
+      {
+        question: 'Do you serve both the City of Falls Church and the surrounding Fairfax County neighborhoods that share the name?',
+        answer:
+          'Yes. We cover the small independent City of Falls Church as well as the broader Falls Church-area neighborhoods in Fairfax County, all under the same flat-rate Dulles transfer.',
+      }
     ],
   },
   {
@@ -2665,6 +2680,16 @@ const routes = [
         question: 'Can you send more than one vehicle for a large Woodbridge group?',
         answer:
           'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Woodbridge group arrives on schedule.',
+      },
+      {
+        question: 'How long does the IAD to Woodbridge transfer take during rush hour?',
+        answer:
+          'Plan for closer to an hour during the evening commute, since the route runs through the Fairfax County Parkway and I-95 corridor, both of which slow considerably on weekday afternoons. Your flat rate does not change regardless of the extra time.',
+      },
+      {
+        question: 'Do you serve Belmont Bay and the Potomac Mills area of Woodbridge?',
+        answer:
+          'Yes, including Belmont Bay, Potomac Mills and the rest of Woodbridge’s residential and retail areas, for both airport transfers and local trips.',
       }],
   },
   {
@@ -2741,6 +2766,16 @@ const routes = [
         question: 'Is gratuity included in the Springfield fare?',
         answer:
           'Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Springfield trips are always welcome to be recognized.',
+      },
+      {
+        question: 'Does the Springfield Interchange add time to this transfer?',
+        answer:
+          'It can during rush hour — the Springfield Interchange (Mixing Bowl) where I-95, I-395 and I-495 meet is one of the busiest in the region, and chauffeurs build in extra time for it during peak commuting hours.',
+      },
+      {
+        question: 'Can I book a standing pickup arrangement for regular Springfield-to-Dulles travel?',
+        answer:
+          'Yes. Frequent travelers between Springfield and Dulles often set up a standing arrangement so the same vehicle class is reserved without rebooking each trip.',
       }],
   },
   {
@@ -2896,6 +2931,16 @@ const routes = [
         question: 'Can you send more than one vehicle for a large Quantico group?',
         answer:
           'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Quantico group arrives on schedule.',
+      },
+      {
+        question: 'Do you serve Marine Corps Base Quantico for family and official travel?',
+        answer:
+          'Yes — PCS moves, family visits, graduations and official travel to and from Marine Corps Base Quantico are a regular part of our IAD to Quantico service.',
+      },
+      {
+        question: 'How far in advance should I book an IAD to Quantico transfer for a graduation weekend?',
+        answer:
+          'As early as your dates are confirmed. Quantico graduation weekends draw large numbers of visiting families, which tightens vehicle availability across the whole corridor, especially for SUVs and Sprinter vans.',
       }],
   },
   {
@@ -2973,6 +3018,16 @@ const routes = [
         question: 'What is your cancellation policy for a Dumfries reservation?',
         answer:
           'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Dumfries wedding, prom and group trips.',
+      },
+      {
+        question: 'Is Dumfries close to Quantico for military family travel?',
+        answer:
+          'Yes — Dumfries sits just north of Marine Corps Base Quantico, and we regularly combine the two in the same booking for families visiting both areas.',
+      },
+      {
+        question: 'What is the typical drive time from Dulles to Dumfries?',
+        answer:
+          'About 50 to 60 minutes via the Fairfax County Parkway and I-95 South, longer during rush hour. The flat rate is confirmed before you ride regardless of traffic.',
       }],
   },
   {

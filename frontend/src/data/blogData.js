@@ -498,6 +498,11 @@ const posts = [
           'Off-peak, Uber is usually cheaper for solo travelers. During surge periods, rideshare frequently costs as much as or more than a flat-rate sedan. The flat rate never changes after confirmation, which is the real advantage.',
       },
     ],
+    relatedLinks: [
+      { label: 'How Much Does a Limo Cost From IAD to Annapolis?', to: '/how-much-does-a-limo-cost-from-iad-to-annapolis' },
+      { label: 'Best Car Service From Dulles (IAD): A Checklist', to: '/best-car-service-from-dulles-international-airport' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
   },
   {
     slug: 'dulles-airport-meet-and-greet-service',

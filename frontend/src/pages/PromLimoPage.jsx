@@ -214,6 +214,24 @@ const PromLimoPage = () => {
         </div>
       </section>
 
+      {/* Prom limo guide */}
+      <section className="py-16 bg-[#161616]">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-light text-white mb-6">How Prom Limo Booking Works for Parents and Students</h2>
+          <div className="space-y-4">
+            <p className="text-white/70 leading-relaxed">
+              Prom night bookings are priced by the hour with a dedicated chauffeur rather than as a single point-to-point fare, because the evening typically includes several stops — a photo location, dinner, the venue, and sometimes an after-party. Parents and students agree on the itinerary in advance, and the chauffeur follows that confirmed schedule rather than waiting for instructions mid-evening.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              Splitting a larger vehicle across a group of friends is usually the most economical way to book: a Stretch Limo or Party Sprinter divided among six to twelve students typically costs less per person than several smaller cars, and it keeps the whole friend group together for photos and the ride to the venue rather than arriving in staggered waves.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              We work directly with the designated parent or guardian on pickup and drop-off confirmation, not just the student booking the trip, and GPS tracking is available to that parent throughout the night. April and May Saturdays across DC, Maryland and Virginia high schools sell out the fastest, particularly for Stretch Limos and Party Sprinters, so we recommend locking in your school's prom date as soon as it is announced rather than waiting until a few weeks out.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="py-16 bg-[#c9a227]">
         <div className="max-w-4xl mx-auto px-4 text-center">

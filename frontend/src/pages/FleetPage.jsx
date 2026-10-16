@@ -111,6 +111,12 @@ const FleetPage = () => {
             <p className="text-white/70 leading-relaxed">
               For a closer look at any single class — Sedans, SUVs or Sprinters — the <Link to="/vehicles/sedans" className="text-[#c9a227] hover:text-white transition-colors">vehicles</Link> pages break down which model fits which trip, from a solo executive pickup at Dulles to a full wedding party moving between venues.
             </p>
+            <p className="text-white/70 leading-relaxed">
+              Every model in the fleet is detailed between trips and follows a scheduled inspection program covering brakes, tires and safety systems rather than a reactive one, and every vehicle operates under our commercial Virginia and Maryland carrier authority — DOT-mandated inspections and commercial liability coverage well above a personal auto policy, the same standard regardless of whether you book a Business Sedan or a Sprinter Executive.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              Reserving a specific model is simple: request it by name when you book online or call <a href="tel:+18776091919" className="text-[#c9a227] hover:text-white transition-colors">(877) 609-1919</a>, and dispatch confirms availability and the vehicle class in writing before your travel date. Specific models — particularly the Mercedes S-Class and our Sprinter vans — are the most limited inventory on the fleet, so book those a few days ahead whenever the date matters, such as a wedding, a VIP arrival or a holiday travel week.
+            </p>
           </div>
         </div>
       </section>

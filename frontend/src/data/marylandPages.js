@@ -5,6 +5,7 @@ import { MARYLAND_BATCH3 } from './marylandPagesBatch3';
 import { MARYLAND_BATCH4 } from './marylandPagesBatch4';
 import { MARYLAND_BATCH5 } from './marylandPagesBatch5';
 import { MARYLAND_BATCH6 } from './marylandPagesBatch6';
+import { MARYLAND_BATCH7 } from './marylandPagesBatch7';
 
 export const MARYLAND_PAGES = [
   {
@@ -61,7 +62,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Rockville bookings run the full range: corporate travel for I-270 biotech firms, court and county-government appointments, Montgomery College events, weddings at Glenview Mansion and nights out at Rockville Town Square. Corporate clients from the Nuclear Regulatory Commission, Westat, the Montgomery County government complex and the biotech and health-science firms clustered along Shady Grove Road and the I-270 corridor use standing accounts; wedding parties at Glenview Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
-          "Rates for Rockville trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most."]
+          "Rates for Rockville trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
       }
     ],
     "vehicles": [
@@ -123,11 +125,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Rockville?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "What is your cancellation policy for a Rockville reservation?",
-        "a": "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Rockville wedding, prom and group trips."
-      }],
+    ],
     "related": [
       {
         "label": "BWI to Rockville",
@@ -224,7 +222,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Bethesda bookings run the full range: NIH and Walter Reed visits, Marriott and Lockheed executive travel, Strathmore concerts, Congressional Country Club events and dinners on Bethesda Row. Corporate clients from NIH, Walter Reed, Marriott International, Lockheed Martin's Rockledge Drive headquarters and the law, consulting and medical practices around the Bethesda Metro use standing accounts; wedding parties at the Music Center at Strathmore take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
-          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Bethesda does not turn into a missed flight or a late arrival."]
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Bethesda does not turn into a missed flight or a late arrival.",
+          "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Bethesda are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",]
       }
     ],
     "vehicles": [
@@ -286,11 +285,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Bethesda?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Do you charge extra for luggage or multiple stops around Bethesda?",
-        "a": "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Bethesda are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride."
-      }],
+    ],
     "related": [
       {
         "label": "BWI to Bethesda",
@@ -392,7 +387,8 @@ export const MARYLAND_PAGES = [
           "Gaithersburg bookings run the full range: I-270 biotech and NIST business travel, the Montgomery County Agricultural Fair, Kentlands weddings and family airport runs from Montgomery Village. Corporate clients from NIST, AstraZeneca, Emergent BioSolutions, Novavax and the technology and life-science companies along I-270 use standing accounts; wedding parties at Kentlands Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
           "Chauffeurs assigned to Gaithersburg trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
-          "We also coordinate return trips and round-trip bookings for Gaithersburg travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home."]
+          "We also coordinate return trips and round-trip bookings for Gaithersburg travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours Yes. Businesses with regular Gaithersburg travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.",]
       }
     ],
     "vehicles": [
@@ -454,15 +450,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Gaithersburg?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "What is your cancellation policy for a Gaithersburg reservation?",
-        "a": "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Gaithersburg wedding, prom and group trips."
-      },
-      {
-        "q": "Do you accept corporate accounts for recurring Gaithersburg travel?",
-        "a": "Yes. Businesses with regular Gaithersburg travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -559,7 +547,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Silver Spring bookings run the full range: FDA and NOAA business travel, Fillmore concerts, AFI film festival weeks, Holy Cross medical visits and Takoma Park and Four Corners family airport runs. Corporate clients from NOAA, the FDA at White Oak, Holy Cross Hospital, the Montgomery County government offices and the media and nonprofit employers downtown use standing accounts; wedding parties at The Fillmore Silver Spring take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
-          "Rates for Silver Spring trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most."]
+          "Rates for Silver Spring trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Silver Spring group arrives on schedule.",]
       }
     ],
     "vehicles": [
@@ -621,11 +610,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Silver Spring?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you send more than one vehicle for a large Silver Spring group?",
-        "a": "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Silver Spring group arrives on schedule."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -723,7 +708,8 @@ export const MARYLAND_PAGES = [
           "Bowie bookings run the full range: Bowie State commencement weekends, Baysox games, Comfort Inn ballroom weddings and receptions, Six Flags America outings and airport runs from Fairwood and Mitchellville. Corporate clients from Bowie State University, Inovalon, the Bowie Town Center retail district and the federal workforce commuting to Andrews, NASA Goddard and downtown Washington use standing accounts; wedding parties at the Comfort Inn Conference Center Bowie take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's County."
         ,
           "Every Bowie booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
-          "First-time riders in Bowie often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact."]
+          "First-time riders in Bowie often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.",
+          "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Bowie are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride. All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Bowie trip is confirmed.",]
       }
     ],
     "vehicles": [
@@ -785,15 +771,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Bowie?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Do you charge extra for luggage or multiple stops around Bowie?",
-        "a": "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Bowie are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride."
-      },
-      {
-        "q": "What payment methods do you accept for a Bowie booking?",
-        "a": "All major credit cards are accepted online or by phone, and corporate accounts can be invoiced directly. Your card is only charged once the flat rate for your Bowie trip is confirmed."
-      }],
+    ],
     "related": [
       {
         "label": "Laurel Limo Service",
@@ -890,7 +868,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Laurel bookings run the full range: APL and Fort Meade business travel, Laurel Park race days, Montpelier Mansion weddings, Main Street nights out and quick BW Parkway airport runs. Corporate clients from Johns Hopkins APL, Fort Meade and the NSA just up MD-32, Laurel Park and the government contractors clustered around Konterra and Maryland City use standing accounts; wedding parties at Montpelier Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's, Howard and Anne Arundel counties."
         ,
-          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Laurel does not turn into a missed flight or a late arrival."]
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Laurel does not turn into a missed flight or a late arrival.",
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Laurel group arrives on schedule.",]
       }
     ],
     "vehicles": [
@@ -952,11 +931,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Laurel?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you send more than one vehicle for a large Laurel group?",
-        "a": "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Laurel group arrives on schedule."
-      }],
+    ],
     "related": [
       {
         "label": "Columbia MD Limo Service",
@@ -1057,7 +1032,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Greenbelt bookings run the full range: Goddard contractor travel, University of Maryland graduation and game weekends, Roosevelt Center events and BW Parkway airport runs. Corporate clients from NASA Goddard, the aerospace contractors on Greenbelt Road, the University of Maryland next door in College Park and the federal agencies reachable on the Green Line use standing accounts; wedding parties at the Greenbelt Marriott take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's County."
         ,
-          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Greenbelt does not turn into a missed flight or a late arrival."]
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Greenbelt does not turn into a missed flight or a late arrival.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
       }
     ],
     "vehicles": [
@@ -1119,11 +1095,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Greenbelt?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Greenbelt?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Bowie Limo Service",
@@ -1220,7 +1192,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Waldorf bookings run the full range: Blue Crabs games, Southern Maryland weddings, Indian Head and Andrews-related travel, Branch Avenue commuters flying out of DCA and family trips to BWI. Corporate clients from the Charles County government in La Plata, Naval Support Facility Indian Head, the College of Southern Maryland and the federal workforce commuting up Branch Avenue use standing accounts; wedding parties at the Capital Clubhouse take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Charles County."
         ,
-          "Groups traveling together through Waldorf are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."]
+          "Groups traveling together through Waldorf are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
       }
     ],
     "vehicles": [
@@ -1282,11 +1255,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Waldorf?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "What is your cancellation policy for a Waldorf reservation?",
-        "a": "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Waldorf wedding, prom and group trips."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -1383,7 +1352,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Frederick bookings run the full range: Fort Detrick and Riverside Research Park business travel, Ceresville Mansion and downtown weddings, Frederick Keys games, wine-country outings to Linganore and Black Ankle and Hood College weekends. Corporate clients from Fort Detrick, Frederick Health, Hood College, the biotech firms of the Riverside Research Park and the county government downtown use standing accounts; wedding parties at Ceresville Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Frederick County."
         ,
-          "Chauffeurs assigned to Frederick trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."]
+          "Chauffeurs assigned to Frederick trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
       }
     ],
     "vehicles": [
@@ -1445,11 +1415,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Frederick?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "What is your cancellation policy for a Frederick reservation?",
-        "a": "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Frederick wedding, prom and group trips."
-      }],
+    ],
     "related": [
       {
         "label": "BWI to Frederick",
@@ -1546,7 +1512,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Odenton bookings run the full range: Fort Meade TDY and contractor travel, Piney Orchard family airport runs, Waugh Chapel nights out and Live! Casino evenings. Corporate clients from the NSA, U.S. Cyber Command, DISA and the defense contractors ringing Fort Meade along MD-175 and MD-32 use standing accounts; wedding parties at the Odenton Town Center pavilion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
         ,
-          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Odenton does not turn into a missed flight or a late arrival."]
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Odenton does not turn into a missed flight or a late arrival.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Odenton trips are always welcome to be recognized.",]
       }
     ],
     "vehicles": [
@@ -1608,11 +1575,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Odenton?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Is gratuity included in the Odenton fare?",
-        "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Odenton trips are always welcome to be recognized."
-      }],
+    ],
     "related": [
       {
         "label": "Severna Park Limo Service",
@@ -1709,7 +1672,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Severna Park bookings run the full range: Naval Academy Commissioning Week and football weekends, Chartwell weddings, Boat Show weeks in Annapolis, Round Bay boating season and BWI family departures. Corporate clients from Anne Arundel Medical Center, the Naval Academy and state government in Annapolis, Fort Meade and the Baltimore firms that Ritchie Highway commuters serve use standing accounts; wedding parties at Chartwell Golf & Country Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
         ,
-          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Severna Park does not turn into a missed flight or a late arrival."]
+          "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Severna Park does not turn into a missed flight or a late arrival.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Severna Park trips are always welcome to be recognized.",]
       }
     ],
     "vehicles": [
@@ -1771,11 +1735,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Severna Park?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Is gratuity included in the Severna Park fare?",
-        "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Severna Park trips are always welcome to be recognized."
-      }],
+    ],
     "related": [
       {
         "label": "Annapolis Limo Service",
@@ -1877,7 +1837,8 @@ export const MARYLAND_PAGES = [
           "Crofton bookings run the full range: Crofton Country Club weddings and golf outings, Naval Academy weekends, Fort Meade business travel and Waugh Chapel evenings out. Corporate clients from Fort Meade and the NSA to the north, the Annapolis state-government and Naval Academy community to the east and the federal workforce commuting to Washington on US-50 use standing accounts; wedding parties at Crofton Country Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Crofton does not turn into a missed flight or a late arrival.",
-          "We also coordinate return trips and round-trip bookings for Crofton travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home."]
+          "We also coordinate return trips and round-trip bookings for Crofton travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Crofton trips are always welcome to be recognized. Yes. Choose meet and greet at booking and your chauffeur waits at baggage claim with a name sign, helps with your luggage, and walks you to the vehicle — curbside pickup remains available if you prefer it.",]
       }
     ],
     "vehicles": [
@@ -1939,15 +1900,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Crofton?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Is gratuity included in the Crofton fare?",
-        "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Crofton trips are always welcome to be recognized."
-      },
-      {
-        "q": "Do you offer meet-and-greet service inside the terminal for Crofton trips?",
-        "a": "Yes. Choose meet and greet at booking and your chauffeur waits at baggage claim with a name sign, helps with your luggage, and walks you to the vehicle — curbside pickup remains available if you prefer it."
-      }],
+    ],
     "related": [
       {
         "label": "Odenton Limo Service",
@@ -2044,7 +1997,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Hyattsville bookings run the full range: University of Maryland commencement and Terps game days, Arts District openings, Route 1 dinners and quick DCA runs down Kenilworth Avenue. Corporate clients from the University of Maryland, Prince George's County agencies, the federal workforce on the Green Line and the arts and restaurant businesses of the Gateway Arts District use standing accounts; wedding parties at the Pyramid Atlantic Art Center take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's County."
         ,
-          "Chauffeurs assigned to Hyattsville trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."]
+          "Chauffeurs assigned to Hyattsville trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
       }
     ],
     "vehicles": [
@@ -2106,11 +2060,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Hyattsville?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "What is your cancellation policy for a Hyattsville reservation?",
-        "a": "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Hyattsville wedding, prom and group trips."
-      }],
+    ],
     "related": [
       {
         "label": "Bowie Limo Service",
@@ -2207,7 +2157,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Germantown bookings run the full range: SoccerPlex tournament weekends, BlackRock performances, DOE and Hughes business travel, Butler's Orchard and Clarksburg outlet trips and I-270 airport runs. Corporate clients from Hughes Network Systems, the Department of Energy's Germantown complex, Qiagen, Holy Cross Germantown Hospital and the upper I-270 technology corridor use standing accounts; wedding parties at the BlackRock Center for the Arts take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
-          "Rates for Germantown trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most."]
+          "Rates for Germantown trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
       }
     ],
     "vehicles": [
@@ -2269,11 +2220,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Germantown?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Germantown?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -2370,7 +2317,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Glen Burnie bookings run the full range: pre-dawn BWI departures, hospital visits at BWMC, Live! Casino nights, Marley Station shopping runs and Ravens and Orioles game days in Baltimore. Corporate clients from UM Baltimore Washington Medical Center, the Maryland MVA, Northrop Grumman in Linthicum, BWI Airport itself and the Arundel Mills retail district use standing accounts; wedding parties at the Kurtz's Beach waterfront pavilion in Pasadena take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
         ,
-          "Groups traveling together through Glen Burnie are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."]
+          "Groups traveling together through Glen Burnie are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
+          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Glen Burnie are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",]
       }
     ],
     "vehicles": [
@@ -2432,11 +2380,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Glen Burnie?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Do you operate on holidays and late at night for Glen Burnie trips?",
-        "a": "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Glen Burnie are all covered by the same dispatch team, with no holiday surcharge added to your flat rate."
-      }],
+    ],
     "related": [
       {
         "label": "Odenton Limo Service",
@@ -2533,7 +2477,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Arnold bookings run the full range: Naval Academy weekends and Commissioning Week, AACC commencement, Magothy River boating season, Bay Hills weddings and BWI family departures. Corporate clients from Anne Arundel Community College, the Naval Academy and state government in Annapolis, Anne Arundel Medical Center and the Fort Meade commute up MD-2 use standing accounts; wedding parties at Bay Hills Golf Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
         ,
-          "Groups traveling together through Arnold are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."]
+          "Groups traveling together through Arnold are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
       }
     ],
     "vehicles": [
@@ -2595,11 +2540,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Arnold?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Arnold?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Odenton Limo Service",
@@ -2696,7 +2637,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Riva bookings run the full range: South River waterfront weddings, county-government meetings, Annapolis session days, Heritage Harbour airport runs and Boat Show week. Corporate clients from Anne Arundel County government on Riva Road, Anne Arundel Medical Center, the Parole business district and state agencies in Annapolis use standing accounts; wedding parties at the South River Colony clubhouse take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
         ,
-          "Rates for Riva trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most."]
+          "Rates for Riva trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
+          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Riva are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",]
       }
     ],
     "vehicles": [
@@ -2758,11 +2700,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Riva?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Do you operate on holidays and late at night for Riva trips?",
-        "a": "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Riva are all covered by the same dispatch team, with no holiday surcharge added to your flat rate."
-      }],
+    ],
     "related": [
       {
         "label": "Odenton Limo Service",
@@ -2857,7 +2795,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Cape St. Claire",
         "paragraphs": [
-          "Cape St. Claire bookings run the full range: Magothy River beach weddings, Naval Academy weekends, Sandy Point outings, Bay Bridge Run mornings and BWI family departures. Corporate clients from the Naval Academy and state government in Annapolis, Anne Arundel Medical Center, Fort Meade and the Bay Bridge commute to Kent Island use standing accounts; wedding parties at Cape St. Claire Beach take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Cape St. Claire bookings run the full range: Magothy River beach weddings, Naval Academy weekends, Sandy Point outings, Bay Bridge Run mornings and BWI family departures. Corporate clients from the Naval Academy and state government in Annapolis, Anne Arundel Medical Center, Fort Meade and the Bay Bridge commute to Kent Island use standing accounts; wedding parties at Cape St. Claire Beach take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County.",
+          "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Cape St. Claire are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",
         ]
       }
     ],
@@ -2920,11 +2859,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Cape St. Claire?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Do you charge extra for luggage or multiple stops around Cape St. Claire?",
-        "a": "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Cape St. Claire are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride."
-      }],
+    ],
     "related": [
       {
         "label": "Odenton Limo Service",
@@ -3022,7 +2957,8 @@ export const MARYLAND_PAGES = [
           "Clarksville bookings run the full range: Cattail Creek and Glenwood weddings, River Hill High School proms, Larriland Farm weekends, Merriweather concerts and I-95 corridor airport runs. Corporate clients from Johns Hopkins APL in Laurel, the Columbia office parks, Fort Meade and the Washington commute down US-29 use standing accounts; wedding parties at Cattail Creek Country Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Howard County."
         ,
           "Rates for Clarksville trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
-          "We also coordinate return trips and round-trip bookings for Clarksville travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home."]
+          "We also coordinate return trips and round-trip bookings for Clarksville travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives. Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Clarksville trip is set before you leave.",]
       }
     ],
     "vehicles": [
@@ -3084,15 +3020,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Clarksville?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Clarksville?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      },
-      {
-        "q": "Can I make a stop along the way on a Clarksville trip?",
-        "a": "Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Clarksville trip is set before you leave."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -3190,7 +3118,8 @@ export const MARYLAND_PAGES = [
           "Towson bookings run the full range: Towson University commencement and move-in, Goucher events, courthouse appointments, Hampton Mansion weddings and Loch Raven wedding photos on the way to receptions. Corporate clients from Baltimore County government, Towson University, GBMC, St. Joseph Medical Center and the law and finance offices around the courthouse use standing accounts; wedding parties at the Hampton National Historic Site take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
         ,
           "Rates for Towson trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
-          "Our dispatch team tracks regional conditions that affect Towson trips directly — stadium events, federal motorcades, and seasonal congestion along the primary approach roads — and builds extra buffer into the schedule when any of them are in play."]
+          "Our dispatch team tracks regional conditions that affect Towson trips directly — stadium events, federal motorcades, and seasonal congestion along the primary approach roads — and builds extra buffer into the schedule when any of them are in play.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives. Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Towson trip is set before you leave.",]
       }
     ],
     "vehicles": [
@@ -3252,15 +3181,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Towson?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Towson?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      },
-      {
-        "q": "Can I make a stop along the way on a Towson trip?",
-        "a": "Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Towson trip is set before you leave."
-      }],
+    ],
     "related": [
       {
         "label": "Timonium Limo Service",
@@ -3357,7 +3278,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Timonium bookings run the full range: Maryland State Fair days, Hunt Valley corporate travel, Oregon Ridge weddings, Timonium fairgrounds shows and pre-dawn BWI runs down I-83. Corporate clients from the corporate campuses of Timonium Business Park and Hunt Valley, GBMC in Towson and the I-83 commute into Baltimore use standing accounts; wedding parties at Oregon Ridge Park take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
         ,
-          "Groups traveling together through Timonium are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."]
+          "Groups traveling together through Timonium are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
+          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Timonium are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",]
       }
     ],
     "vehicles": [
@@ -3419,11 +3341,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Timonium?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Do you operate on holidays and late at night for Timonium trips?",
-        "a": "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Timonium are all covered by the same dispatch team, with no holiday surcharge added to your flat rate."
-      }],
+    ],
     "related": [
       {
         "label": "Towson Limo Service",
@@ -3521,7 +3439,8 @@ export const MARYLAND_PAGES = [
           "Lutherville bookings run the full range: Greenspring Station medical appointments, St. Paul's and Notre Dame Prep events, Ruxton weddings, State Fair week next door and BWI departures. Corporate clients from the medical practices at Greenspring Station, GBMC, the Hunt Valley corporate corridor and the I-83 commute into Baltimore use standing accounts; wedding parties at the Historic Lutherville Colonial Hall take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
         ,
           "Every Lutherville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
-          "First-time riders in Lutherville often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact."]
+          "First-time riders in Lutherville often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives. Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Lutherville trip is set before you leave.",]
       }
     ],
     "vehicles": [
@@ -3583,15 +3502,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Lutherville?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Lutherville?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      },
-      {
-        "q": "Can I make a stop along the way on a Lutherville trip?",
-        "a": "Yes. Tell us about any additional stop when you book and we will quote it as part of your flat rate, so the price for your Lutherville trip is set before you leave."
-      }],
+    ],
     "related": [
       {
         "label": "Towson Limo Service",
@@ -3688,7 +3599,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Phoenix bookings run the full range: Ladew Gardens and estate weddings, Boordy Vineyards wine tours, Hunt Valley business travel, My Lady's Manor race day and BWI departures from the horse country. Corporate clients from the Hunt Valley corporate corridor, GBMC and the Towson medical campuses and the horse-country farms and estates of the Dulaney Valley use standing accounts; wedding parties at Ladew Topiary Gardens take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
         ,
-          "Every Phoenix booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue."]
+          "Every Phoenix booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Phoenix trips are always welcome to be recognized.",]
       }
     ],
     "vehicles": [
@@ -3750,11 +3662,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Phoenix?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Is gratuity included in the Phoenix fare?",
-        "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Phoenix trips are always welcome to be recognized."
-      }],
+    ],
     "related": [
       {
         "label": "Towson Limo Service",
@@ -3851,7 +3759,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "North Bethesda bookings run the full range: Strathmore concerts, Bethesda North Marriott conferences and weddings, Georgetown Prep events, Pike & Rose dinners and NIH visits. Corporate clients from the Nuclear Regulatory Commission, the Pike & Rose office towers, Georgetown Prep and the NIH and Walter Reed campuses two miles south use standing accounts; wedding parties at the Bethesda North Marriott Hotel & Conference Center take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
-          "Every North Bethesda booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue."]
+          "Every North Bethesda booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
       }
     ],
     "vehicles": [
@@ -3913,11 +3822,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in North Bethesda?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in North Bethesda?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -4014,7 +3919,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "North Potomac bookings run the full range: Wootton and Quince Orchard proms, Potomac estate weddings, I-270 executive travel, Falls Road golf outings and Dulles international departures. Corporate clients from the I-270 biotech corridor, NIST and AstraZeneca in Gaithersburg, and the NIH and downtown Washington commute use standing accounts; wedding parties at the Potomac estate venues along Travilah Road take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
         ,
-          "Groups traveling together through North Potomac are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."]
+          "Groups traveling together through North Potomac are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your North Potomac group arrives on schedule.",]
       }
     ],
     "vehicles": [
@@ -4076,11 +3982,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in North Potomac?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you send more than one vehicle for a large North Potomac group?",
-        "a": "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your North Potomac group arrives on schedule."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -4175,7 +4077,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Gibson Island",
         "paragraphs": [
-          "Gibson Island bookings run the full range: Gibson Island Club weddings and regattas, holiday house-party arrivals, international departures from BWI and Dulles and Baltimore and Washington business days. Corporate clients from the Baltimore and Annapolis firms whose principals live on the island, plus Fort Meade and BWI-corridor executives use standing accounts; wedding parties at the Gibson Island Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Gibson Island bookings run the full range: Gibson Island Club weddings and regattas, holiday house-party arrivals, international departures from BWI and Dulles and Baltimore and Washington business days. Corporate clients from the Baltimore and Annapolis firms whose principals live on the island, plus Fort Meade and BWI-corridor executives use standing accounts; wedding parties at the Gibson Island Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
         ]
       }
     ],
@@ -4238,11 +4141,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Gibson Island?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Gibson Island?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Odenton Limo Service",
@@ -4339,7 +4238,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Stevensville bookings run the full range: Chesapeake Bay Beach Club weddings, Kent Narrows dinners, the Bay Bridge Boat Show in April, Terrapin Park outings and BWI departures across the bridge. Corporate clients from the Queen Anne's County government in Centreville, the Kent Narrows hospitality trade and the Bay Bridge commute to Annapolis and Washington use standing accounts; wedding parties at the Chesapeake Bay Beach Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Queen Anne's County."
         ,
-          "Every Stevensville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue."]
+          "Every Stevensville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
       }
     ],
     "vehicles": [
@@ -4401,11 +4301,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Stevensville?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Stevensville?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -4500,7 +4396,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Chevy Chase",
         "paragraphs": [
-          "Chevy Chase bookings run the full range: Chevy Chase Club and Columbia Country Club weddings, embassy dinners, Friendship Heights shopping days, Rock Creek Park photo stops and Dulles international departures. Corporate clients from GEICO, the Friendship Heights law and finance offices, NIH and Walter Reed to the north and the embassies and agencies of Northwest Washington use standing accounts; wedding parties at the Chevy Chase Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "Chevy Chase bookings run the full range: Chevy Chase Club and Columbia Country Club weddings, embassy dinners, Friendship Heights shopping days, Rock Creek Park photo stops and Dulles international departures. Corporate clients from GEICO, the Friendship Heights law and finance offices, NIH and Walter Reed to the north and the embassies and agencies of Northwest Washington use standing accounts; wedding parties at the Chevy Chase Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
         ]
       }
     ],
@@ -4563,11 +4460,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Chevy Chase?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "Can you provide a car seat for a child riding with us in Chevy Chase?",
-        "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -4664,7 +4557,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Sykesville bookings run the full range: Main Street weddings and Patapsco Valley receptions, Old Westminster wine tours, Freedom District proms, Liberty Road commuters flying BWI and Baltimore nights out. Corporate clients from the Springfield Hospital Center, the Eldersburg retail corridor, Northrop Grumman and BWI-corridor employers down MD-32 and Carroll County government in Westminster use standing accounts; wedding parties at the Sykesville Main Street event spaces take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Carroll County."
         ,
-          "Groups traveling together through Sykesville are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule."]
+          "Groups traveling together through Sykesville are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
       }
     ],
     "vehicles": [
@@ -4726,11 +4620,7 @@ export const MARYLAND_PAGES = [
         "q": "What vehicles are available in Sykesville?",
         "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
-    ,
-      {
-        "q": "What is your cancellation policy for a Sykesville reservation?",
-        "a": "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Sykesville wedding, prom and group trips."
-      }],
+    ],
     "related": [
       {
         "label": "Rockville Limo Service",
@@ -4823,7 +4713,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
-          "Arrivals at BWI's lower-level arrivals curb and the Concourse E international hall are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Washington DC are scheduled against your flight and the airline's check-in guidance, with a buffer for motorcades and security closures around the Capitol and the White House."
+          "Arrivals at BWI's lower-level arrivals curb and the Concourse E international hall are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Washington DC are scheduled against your flight and the airline's check-in guidance, with a buffer for motorcades and security closures around the Capitol and the White House.",
+          "Amtrak and MARC both require a transfer to Metro once you reach Union Station, plus the cost and time of checking bags through two systems. A direct car service from BWI to Washington, DC door to door is usually comparable once parking, transfers and time are factored in, and it is the only option that takes you straight to your hotel or office with your luggage in the trunk the whole way. Yes. Round trips lock in the same flat rate in both directions and put your return pickup on flight tracking automatically, so you are not rebooking or risking a rate change for the trip home.",
         ]
       }
     ],
@@ -4975,7 +4866,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
-          "Arrivals at BWI's lower-level arrivals area and the Concourse E international hall are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Annapolis are scheduled against your flight and the airline's check-in guidance, with a buffer for Commissioning Week in May."
+          "Arrivals at BWI's lower-level arrivals area and the Concourse E international hall are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Annapolis are scheduled against your flight and the airline's check-in guidance, with a buffer for Commissioning Week in May.",
+          "Yes — at about 25 miles, BWI is the nearest major airport to Annapolis, closer than Reagan National or Dulles. It is the default airport for most Annapolis-bound travelers and cruise passengers heading to the City Dock. Yes. Cruise passengers flying into BWI ahead of a sailing from the Annapolis cruise terminal are a regular booking for us — tell us your cruise line and departure time and we will build in time for luggage and embarkation lines.",
         ]
       }
     ],
@@ -5279,7 +5171,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
-          "Arrivals at BWI's lower-level arrivals curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Rockville are scheduled against your flight and the airline's check-in guidance, with a buffer for the I-270 spur merge and the Rockville Pike crawl at White Flint."
+          "Arrivals at BWI's lower-level arrivals curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Rockville are scheduled against your flight and the airline's check-in guidance, with a buffer for the I-270 spur merge and the Rockville Pike crawl at White Flint.",
+          "Chauffeurs typically take I-195 to I-95 and then the Capital Beltway (I-495) to I-270 North into Rockville, adjusting for the time of day since the Beltway Yes. Tell dispatch both flight numbers when you book and we will track each one and coordinate a single pickup, or run two trips back to back if your arrival times are far apart.",
         ]
       }
     ],
@@ -5591,7 +5484,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
-          "Arrivals at BWI's lower-level arrivals curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Frederick are scheduled against your flight and the airline's check-in guidance, with a buffer for I-70 construction zones near Mount Airy and the I-270 interchange."
+          "Arrivals at BWI's lower-level arrivals curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Frederick are scheduled against your flight and the airline's check-in guidance, with a buffer for I-70 construction zones near Mount Airy and the I-270 interchange.",
+          "At about 55 miles it is one of the longer airport transfers we run, typically 60 to 75 minutes depending on I-95 and I-70 traffic. Because it is quoted as a flat rate, the distance does not create any pricing surprise the way a metered taxi would. Yes, including the Historic District, the Golden Mile hotel corridor and homes throughout Frederick County, with pickups timed to your flight",
         ]
       }
     ],
@@ -5743,7 +5637,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
-          "Arrivals at DCA's Terminal 2 baggage claim and the Terminal 1 curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Bethesda are scheduled against your flight and the airline's check-in guidance, with a buffer for the GW Parkway merge at the 14th Street Bridge."
+          "Arrivals at DCA's Terminal 2 baggage claim and the Terminal 1 curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Bethesda are scheduled against your flight and the airline's check-in guidance, with a buffer for the GW Parkway merge at the 14th Street Bridge.",
+          "Door to door it is usually 25 to 40 minutes depending on the time of day, since the route crosses the Potomac and runs through upper Georgetown or the Beltway depending on traffic. Rush hour can add 15 to 20 minutes, which your chauffeur plans for. Yes — because the trip is short and we track your flight, a same-day or changed-flight booking is easier to accommodate than on a longer route. Call (877) 609-1919 for the fastest answer.",
         ]
       }
     ],
@@ -5895,7 +5790,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
-          "Arrivals at DCA's Terminal 2 baggage claim and the Terminal 1 curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Rockville are scheduled against your flight and the airline's check-in guidance, with a buffer for the I-270 spur and Montrose Road backups at rush hour."
+          "Arrivals at DCA's Terminal 2 baggage claim and the Terminal 1 curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Rockville are scheduled against your flight and the airline's check-in guidance, with a buffer for the I-270 spur and Montrose Road backups at rush hour.",
+          "They are roughly comparable in drive time to Rockville, though DCA is often a few miles shorter. Which airport you fly into usually comes down to your airline and route rather than the ground transfer, since we serve both at the same flat-rate structure. Yes. If your Rockville visit includes more than one stop — an office, then a hotel, then a dinner — hourly as-directed service keeps the same vehicle and chauffeur with you for the whole day.",
         ]
       }
     ],
@@ -6047,7 +5943,9 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Timing and scheduling",
         "paragraphs": [
-          "Tell us your meeting, train or event time and we back-time the pickup from downtown Baltimore with a realistic buffer for BW Parkway backups at MD-197 and the New York Avenue crawl. Dispatch monitors the trip from start to finish."
+          "Tell us your meeting, train or event time and we back-time the pickup from downtown Baltimore with a realistic buffer for BW Parkway backups at MD-197 and the New York Avenue crawl. Dispatch monitors the trip from start to finish.",
+          "This is a point-to-point trip between Baltimore and Washington, DC — not an airport transfer — so pickup is scheduled for the time you choose rather than tracked against a flight. It is popular for business meetings, event days and visitors staying in one city and working in the other. Either works. Many clients book one-way for a single meeting or event and arrange their own return, while others book round trip to lock in the same flat rate and chauffeur for both legs.",
+          "Both cities are also connected by MARC train and Amtrak service, but a door-to-door chauffeured transfer remains the simplest option for travelers with luggage or a tight schedule.",
         ]
       }
     ],
@@ -6199,7 +6097,9 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Timing and scheduling",
         "paragraphs": [
-          "Tell us your meeting, train or event time and we back-time the pickup from downtown Baltimore with a realistic buffer for I-97 and MD-100 merges at rush hour and Rowe Boulevard on session days. Dispatch monitors the trip from start to finish."
+          "Tell us your meeting, train or event time and we back-time the pickup from downtown Baltimore with a realistic buffer for I-97 and MD-100 merges at rush hour and Rowe Boulevard on session days. Dispatch monitors the trip from start to finish.",
+          "Yes — it is one of our most requested point-to-point routes, used for Naval Academy visits, Annapolis City Dock dinners, and Baltimore-based travelers heading to Chesapeake Bay weekends. Yes. Book it as hourly as-directed service and the vehicle and chauffeur stay with you for the full evening, including the wait in Annapolis, rather than booking two separate one-way trips. Yes. Families flying or driving in for Naval Academy commissioning week, parents",
+          "Many clients also combine a Baltimore-to-Annapolis trip with a stop at BWI Airport on the same itinerary, since all three points sit within a short drive of one another. Tell dispatch your full plan when you book and we will quote the complete route as one coordinated trip.",
         ]
       }
     ],
@@ -6351,7 +6251,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Timing and scheduling",
         "paragraphs": [
-          "Tell us your meeting, train or event time and we back-time the pickup from downtown Baltimore with a realistic buffer for the I-95 to Beltway merge at College Park and the inner loop toward the I-270 spur. Dispatch monitors the trip from start to finish."
+          "Tell us your meeting, train or event time and we back-time the pickup from downtown Baltimore with a realistic buffer for the I-95 to Beltway merge at College Park and the inner loop toward the I-270 spur. Dispatch monitors the trip from start to finish.",
+          "Plan for 50 to 70 minutes depending on I-95, the Baltimore-Washington Parkway and Beltway traffic, longer during the evening rush. Your flat rate does not change regardless of how long the drive actually takes. Yes. Companies with offices or clients in both cities often set up a standing arrangement or a corporate account with monthly invoicing rather than booking each trip individually.",
         ]
       }
     ],
@@ -6505,7 +6406,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
-          "Chauffeurs assigned to Maryland Wedding Limo trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."]
+          "Chauffeurs assigned to Maryland Wedding Limo trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Maryland Wedding Limo are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride. As soon as your date and venue are set — Saturdays during spring and fall wedding season are the first dates to fill, especially for Sprinter vans and stretch limousines serving larger wedding parties. Yes. Many Maryland weddings book a Sprinter van for the wedding party and a separate sedan or limousine reserved for the couple, so the newlyweds are never waiting on group logistics.",]
       }
     ],
     "vehicles": [
@@ -6567,10 +6469,6 @@ export const MARYLAND_PAGES = [
       {
         "q": "Can you send more than one vehicle for a large Maryland Wedding Limo group?",
         "a": "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Maryland Wedding Limo group arrives on schedule."
-      },
-      {
-        "q": "Do you charge extra for luggage or multiple stops around Maryland Wedding Limo?",
-        "a": "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Maryland Wedding Limo are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride."
       }],
     "related": [
       {
@@ -6673,7 +6571,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
-          "Rates for Maryland Corporate Car Service trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most."]
+          "Rates for Maryland Corporate Car Service trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
+          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Corporate Car Service are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. Yes. Companies with regular travel between Maryland offices, BWI, Reagan National or Dulles can set up a corporate account with consolidated monthly invoicing instead of expensing individual trips. Yes, as hourly as-directed service — the same vehicle and chauffeur stay with you between meetings in Rockville, Bethesda, Annapolis, Baltimore or anywhere else on your itinerary.",]
       }
     ],
     "vehicles": [
@@ -6735,10 +6634,6 @@ export const MARYLAND_PAGES = [
       {
         "q": "Is gratuity included in the Maryland Corporate Car Service fare?",
         "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Corporate Car Service trips are always welcome to be recognized."
-      },
-      {
-        "q": "Do you operate on holidays and late at night for Maryland Corporate Car Service trips?",
-        "a": "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Corporate Car Service are all covered by the same dispatch team, with no holiday surcharge added to your flat rate."
       }],
     "related": [
       {
@@ -6833,7 +6728,9 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
-          "Every Maryland Prom Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue."]
+          "Every Maryland Prom Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
+          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Prom Limo are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. A stretch limousine or Sprinter van are the most requested for prom groups, since both keep a larger group of friends together for photos, dinner and the dance rather than splitting into separate cars. Chauffeurs are licensed and background-checked, and parents are welcome to confirm pickup and drop-off times directly with dispatch. Many families prefer a professional chauffeur over teens driving themselves on prom night.",
+          "Groups are welcome to split the cost across several families booking one shared vehicle for the night.",]
       }
     ],
     "vehicles": [
@@ -6895,10 +6792,6 @@ export const MARYLAND_PAGES = [
       {
         "q": "Is gratuity included in the Maryland Prom Limo fare?",
         "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Prom Limo trips are always welcome to be recognized."
-      },
-      {
-        "q": "Do you operate on holidays and late at night for Maryland Prom Limo trips?",
-        "a": "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Prom Limo are all covered by the same dispatch team, with no holiday surcharge added to your flat rate."
       }],
     "related": [
       {
@@ -6997,7 +6890,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
-          "Chauffeurs assigned to Maryland Concert Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."]
+          "Chauffeurs assigned to Maryland Concert Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Concert Transportation trips are always welcome to be recognized. Merriweather Post Pavilion, CFG Bank Arena, and other Maryland amphitheaters and arenas are regular bookings, with chauffeurs familiar with each venue Often yes, once you add up several individual rideshare fares during post-show surge pricing. A Sprinter van or SUV booked as a flat rate for the group avoids that surge entirely.",]
       }
     ],
     "vehicles": [
@@ -7059,10 +6953,6 @@ export const MARYLAND_PAGES = [
       {
         "q": "Can you provide a car seat for a child riding with us in Maryland Concert Transportation?",
         "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      },
-      {
-        "q": "Is gratuity included in the Maryland Concert Transportation fare?",
-        "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Concert Transportation trips are always welcome to be recognized."
       }],
     "related": [
       {
@@ -7157,7 +7047,8 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
-          "Chauffeurs assigned to Maryland Wine Tour Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."]
+          "Chauffeurs assigned to Maryland Wine Tour Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Wine Tour Transportation trips are always welcome to be recognized. Both. We run chauffeured wine tours to Maryland wineries in Howard, Carroll and Frederick counties as well as across the river into Loudoun County, Virginia, depending on where your group wants to go. Most groups plan two to four stops, since tastings run longer than expected. Tell dispatch your preferred wineries and we will build a realistic schedule with buffer time between stops.",]
       }
     ],
     "vehicles": [
@@ -7219,10 +7110,6 @@ export const MARYLAND_PAGES = [
       {
         "q": "Can you provide a car seat for a child riding with us in Maryland Wine Tour Transportation?",
         "a": "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives."
-      },
-      {
-        "q": "Is gratuity included in the Maryland Wine Tour Transportation fare?",
-        "a": "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Wine Tour Transportation trips are always welcome to be recognized."
       }],
     "related": [
       {
@@ -7315,7 +7202,9 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation.",
+          "Some international routes, specific airlines or fare prices make PHL the better option even for Maryland and DC-area travelers. We run this route regularly for Marylanders whose flight, schedule or price pointed them to Philadelphia instead of a closer airport. It depends on your Maryland destination, but plan for roughly 90 minutes to Baltimore and two hours or more to the DC suburbs, mostly via I-95 South. Your flat rate is confirmed before you ride regardless of traffic. Yes. An SUV or Sprinter van is matched to your group and luggage before the flight lands, so there is no gamble about whether the vehicle that arrives can actually fit everyone and their bags.",
+          "Corporate accounts are also available for Maryland businesses with recurring travel through Philadelphia, including consolidated monthly invoicing and priority scheduling for employees flying this route regularly for conferences or client visits.",
         ]
       }
     ],
@@ -7482,7 +7371,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Why hire a chauffeur",
         "paragraphs": [
-          "Merriweather sits in a residential planned community, so the roads in and out are the same two-lane parkways every night — the garage exit is the slowest part of the evening. A chauffeur drops you at the gate, waits through the encore and meets you at a quiet corner while everyone else idles in the garage."
+          "Merriweather sits in a residential planned community, so the roads in and out are the same two-lane parkways every night — the garage exit is the slowest part of the evening. A chauffeur drops you at the gate, waits through the encore and meets you at a quiet corner while everyone else idles in the garage.",
+          "We coordinate a specific pickup point away from the main lot exit crush, confirmed with you before the show, so you are not standing in the general parking lot traffic jam once the encore ends. Yes — an SUV or Sprinter van booked as a flat rate for the group is usually more economical and far less stressful than several cars trying to exit the Merriweather lots at the same time.",
         ]
       }
     ],
@@ -7648,7 +7538,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Why hire a chauffeur",
         "paragraphs": [
-          "Downtown Baltimore's one-way streets, garage queues and post-show pedestrian closures turn the last block into the longest part of the night. A chauffeur handles the grid, the parking cost disappears and the ride home starts the moment the lights come up."
+          "Downtown Baltimore's one-way streets, garage queues and post-show pedestrian closures turn the last block into the longest part of the night. A chauffeur handles the grid, the parking cost disappears and the ride home starts the moment the lights come up.",
+          "A pre-arranged pickup point away from the garage exit queue, confirmed with your chauffeur before the event ends, is typically faster than waiting in the vehicle line inside the garage itself. Yes — concerts, Baltimore-area sporting events and other arena bookings all use the same flat-rate, event-timed pickup approach.",
         ]
       }
     ],
@@ -7814,7 +7705,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Why hire a chauffeur",
         "paragraphs": [
-          "Driving from Maryland into Penn Quarter means New York Avenue traffic, a $50 garage and a slow exit through a police-managed grid. A chauffeur drops you at the door, parks nothing and picks you up where the crowd is not."
+          "Driving from Maryland into Penn Quarter means New York Avenue traffic, a $50 garage and a slow exit through a police-managed grid. A chauffeur drops you at the door, parks nothing and picks you up where the crowd is not.",
+          "We confirm a specific curb or nearby street pickup point with you before the event ends, away from the heaviest exit congestion around the arena Yes — many groups book the vehicle for the full evening, from a pre-event dinner through the final drop-off, rather than booking two separate one-way trips.",
         ]
       }
     ],
@@ -8316,7 +8208,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Why hire a chauffeur",
         "paragraphs": [
-          "Fair parking means a long walk, a per-car fee and a slow crawl back onto York Road with tired kids and armfuls of prizes. A chauffeur drops the family at the gate, keeps the car seats installed and picks everyone up where the crowd is not."
+          "Fair parking means a long walk, a per-car fee and a slow crawl back onto York Road with tired kids and armfuls of prizes. A chauffeur drops the family at the gate, keeps the car seats installed and picks everyone up where the crowd is not.",
+          "At a confirmed point near the fairgrounds entrance, away from the general parking lot traffic that builds up on weekend fair days, with pickup timed to when your group is ready to leave. Yes — an SUV or Sprinter van keeps a larger family or group together for the day, which is especially useful with kids, strollers and whatever you bring home from the midway.",
         ]
       }
     ],
@@ -8648,7 +8541,8 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Why hire a chauffeur",
         "paragraphs": [
-          "Commencement and game days put thousands of cars on a campus built for a fraction of them. A chauffeur drops grandparents at the door instead of a distant lot, keeps the SUV loaded for move-in and turns a Route 1 crawl into a relaxed ride."
+          "Commencement and game days put thousands of cars on a campus built for a fraction of them. A chauffeur drops grandparents at the door instead of a distant lot, keeps the SUV loaded for move-in and turns a Route 1 crawl into a relaxed ride.",
+          "Yes — move-in and move-out weekends in College Park are some of our busiest University of Maryland bookings, and an SUV or Sprinter van easily handles a dorm room Yes. Game days and graduation weekends both see heavy traffic and limited parking around campus, and a chauffeured vehicle drops you close and handles the wait while you attend the event.",
         ]
       }
     ],
@@ -10482,6 +10376,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH5,
   // Batch 6 (2026-10-12, SEO gap-fill pages) lives in its own file.
   ...MARYLAND_BATCH6,
+  // Batch 7 (2026-10-16, 15 new NoVA/DC-metro city pages) lives in its own file.
+  ...MARYLAND_BATCH7,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).

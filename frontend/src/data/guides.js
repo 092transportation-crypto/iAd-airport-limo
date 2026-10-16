@@ -73,6 +73,7 @@ export const GUIDES = [
       { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
       { label: 'Corporate Car Service vs Rideshare', to: '/corporate-car-service-vs-rideshare' },
       { label: 'Washington Region Airport Transportation Guide', to: '/airport-transportation-guide' },
+      { label: 'Best Car Service From Dulles (IAD): A Checklist', to: '/best-car-service-from-dulles-international-airport' },
       { label: 'Loudoun Wine Tours', to: '/wine-tours' },
       { label: 'IAD to Richmond', to: '/iad-to-richmond-va' },
       { label: 'IAD to Charlottesville', to: '/iad-to-charlottesville-va' },
@@ -894,6 +895,441 @@ export const GUIDES = [
         answer:
           'Confirm the rate is truly flat and will not change for traffic or demand, that the company is licensed and insured to carry passengers in the states you will travel through, that chauffeurs are background-checked, and what the cancellation and overtime terms are in writing. A company that cannot answer these clearly is worth a second look before you book.',
       },
+    ],
+  },
+  {
+    slug: 'how-much-does-a-limo-cost-from-iad-to-annapolis',
+    title: 'How Much Does a Limo Cost From IAD to Annapolis?',
+    metaTitle: 'IAD to Annapolis Limo Cost: 2026 Price Guide',
+    metaDescription:
+      'What a chauffeured car costs from Dulles to Annapolis in 2026 — pricing by vehicle, flat-rate terms. Call (877) 609-1919 for an exact quote.',
+    datePublished: '2026-10-16',
+    readTime: '6 min read',
+    excerpt:
+      'Dulles to Annapolis is one of the longer, less obvious airport runs in our service area. Here is what actually drives the price and how to budget for it.',
+    intro: [
+      'Annapolis is not the first destination people associate with a Dulles arrival — most travelers heading to Maryland\'s state capital fly into BWI, which sits 25 miles closer. But a meaningful number of trips still run the other way: a Naval Academy family flying in on a specific Dulles-served route, a visitor whose cheapest fare landed at IAD, or someone combining a Northern Virginia business trip with an Annapolis weekend. For all of them, the question is the same: what does this ride actually cost?',
+      'The honest answer is that it depends on vehicle class, time of day and whether you book a one-way transfer or a round trip, but the structure behind the number is simple and worth understanding before you book.',
+    ],
+    sections: [
+      {
+        heading: 'The Distance and Drive Time Behind the Price',
+        paragraphs: [
+          'Dulles to Annapolis is about 55 miles, typically 65 to 85 minutes depending on traffic on the Beltway and US-50. It is one of the longer point-to-point routes we run, closer in length to a Richmond or Charlottesville transfer than to the short hops into Tysons or Reston, and the fare reflects that distance the same way any longer trip does — more miles and more chauffeur time, priced into one flat number before you ride.',
+          'Unlike a metered taxi, the rate does not climb if the Beltway backs up or an accident adds twenty minutes to the drive. You are quoted a number before you book, and that number holds regardless of how the actual drive unfolds.',
+        ],
+      },
+      {
+        heading: 'What Changes the Rate',
+        paragraphs: [
+          'Four things move the price on this route: vehicle class, time of day, one-way versus round trip, and whether the pickup is tied to a flight. A Business Sedan is the lowest-cost option for one to three travelers with modest luggage; a Luxury or Premium SUV costs more but fits a family with full bags; a Sprinter van prices higher still but keeps a larger group together for one flat rate instead of splitting into two vehicles.',
+          'Time of day matters less here than it does on shorter in-town trips, since the Beltway and US-50 corridor has fairly predictable congestion windows rather than true surge pricing — but an early-morning or late-night pickup timed to an unusual flight can still affect driver availability on short notice, which is a separate consideration from the fare itself.',
+        ],
+      },
+      {
+        heading: 'One-Way vs. Round Trip',
+        paragraphs: [
+          'If you know you are flying home through Dulles again, booking the round trip at the time you book the outbound leg locks in the same flat rate for both directions and puts your return pickup on flight tracking automatically. It also removes the risk of forgetting to arrange the return leg until you are already in Annapolis, with less lead time to work with than you had before you left.',
+          'A one-way booking is perfectly normal too — many travelers arrange their own return separately, or are only making the trip in one direction. Either way, the rate for each leg is quoted and confirmed the same way.',
+        ],
+      },
+      {
+        heading: 'Comparing It to Driving Yourself',
+        paragraphs: [
+          'Renting a car for an Annapolis trip adds rental fees, insurance, parking at your hotel or the City Dock area, and the stress of driving an unfamiliar route after a flight — plus the same drive time you would spend in a chauffeured vehicle, except you are the one navigating it. A chauffeured transfer trades that rental cost and hassle for a fixed, known price and a chauffeur who already knows the route, the Severn River Bridge traffic pattern, and where to actually stop near the Naval Academy or City Dock.',
+          'For a short Annapolis visit — a weekend, a commissioning week event, a single meeting — the math usually favors a car service once you add up rental costs, parking and the simple value of arriving relaxed rather than having driven yourself after a flight.',
+        ],
+      },
+      {
+        heading: 'Getting an Exact Quote',
+        paragraphs: [
+          'Because the rate depends on your specific vehicle choice, pickup address and whether you need a round trip, the only way to get an exact number is to ask. Call (877) 609-1919 or use the online booking form with your flight number and Annapolis address, and the quoted rate is confirmed in writing before you are charged anything — never an estimate that changes once you are in the car.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How far is Dulles from Annapolis?',
+        answer:
+          'About 55 miles, typically 65 to 85 minutes depending on traffic via US-50, the Beltway and the Dulles Toll Road.',
+      },
+      {
+        question: 'Is BWI cheaper than Dulles for an Annapolis trip?',
+        answer:
+          'BWI is 25 miles closer to Annapolis, so a transfer from BWI typically costs less than one from Dulles. The right airport usually comes down to your flight options and fare, not just the ground transfer cost.',
+      },
+      {
+        question: 'Does the price change if my flight is delayed?',
+        answer:
+          'No. Your flat rate is confirmed before you book and does not change for a delayed arrival. We track your flight and adjust pickup timing automatically at no extra charge.',
+      },
+      {
+        question: 'What vehicle should I book for a family trip to Annapolis?',
+        answer:
+          'A Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) fits most families with checked luggage; a Sprinter van is the better choice for a larger group or a Naval Academy event with extended family.',
+      },
+      {
+        question: 'Should I book a round trip if I am flying back through Dulles?',
+        answer:
+          'Yes, if your return flight is confirmed. Booking both legs together locks the same flat rate for the return trip and puts it on flight tracking automatically.',
+      },
+      {
+        question: 'Is this route busier during Naval Academy events?',
+        answer:
+          'Yes. Commissioning week, Parents\' Weekend and graduation draw heavy demand for Annapolis-area transportation, so we recommend booking as soon as your dates are confirmed rather than waiting.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'IAD to Annapolis', to: '/iad-to-annapolis' },
+      { label: 'Annapolis Limo Service', to: '/annapolis-limo-service' },
+      { label: 'BWI to Annapolis', to: '/bwi-to-annapolis' },
+      { label: 'Baltimore to Annapolis', to: '/baltimore-to-annapolis' },
+      { label: 'Annapolis Boat Show Transportation', to: '/annapolis-boat-show-transportation' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'best-car-service-from-dulles-international-airport',
+    title: "Best Car Service From Dulles International Airport (IAD): A Traveler's Checklist",
+    metaTitle: 'Best Car Service at Dulles (IAD): A Checklist',
+    metaDescription:
+      'A practical checklist for choosing car service at Dulles International Airport — licensing, pricing, meet-and-greet. Call (877) 609-1919 to book.',
+    datePublished: '2026-10-16',
+    readTime: '6 min read',
+    excerpt:
+      'Instead of another list of "top providers," here is the checklist to actually run before you book any car service at Dulles — what to verify, what to ask, and what a real answer sounds like.',
+    intro: [
+      'Searching for the "best" car service at Dulles usually turns up marketing pages that all say the same four things: professional, reliable, luxury, 24/7. None of that tells you how to tell a good provider from a mediocre one before you have already ridden with them. This is a different kind of guide — a checklist you can actually run against any company, including us, before you hand over a credit card number.',
+      'Treat it the way you would vet any service provider you are trusting with an airport pickup: a handful of specific questions, with specific answers that are either satisfying or a red flag.',
+    ],
+    sections: [
+      {
+        heading: '1. Is the Company Actually Licensed and Insured?',
+        paragraphs: [
+          'Ask directly whether the company operates under a commercial carrier authority in Virginia (and Maryland, if you will cross into it) and whether vehicles carry commercial liability insurance — not a personal auto policy extended to cover occasional paid trips. A legitimate operator answers this without hesitation and can describe their authority in specific terms. A vague or evasive answer is the clearest red flag on this entire list.',
+        ],
+      },
+      {
+        heading: '2. Is the Rate a Flat Quote or an Estimate?',
+        paragraphs: [
+          'A flat rate is confirmed in writing before you ride and does not change for traffic, extra wait time within the included allowance, or demand at the time of your trip. An "estimate" is a different product entirely — it can move once the trip is underway. Ask explicitly: "Is this rate final, or can it change?" and get the answer in writing, not just verbally on the phone.',
+        ],
+      },
+      {
+        heading: '3. How Is Your Flight Actually Tracked?',
+        paragraphs: [
+          'Any provider can claim to "track your flight." The real question is what that means operationally: does the wait-time allowance start from the scheduled arrival or the actual touchdown? A provider using actual touchdown time is giving you a meaningfully better deal on a delayed flight than one quoting from the printed schedule, even if both describe the service the same way in their marketing.',
+        ],
+      },
+      {
+        heading: '4. What Happens If You Need to Cancel or Change the Trip?',
+        paragraphs: [
+          'Get the cancellation window in writing — hours before pickup, not a vague "as soon as possible." Also ask what happens if your flight changes after you book: is rebooking automatic once you give the new flight number, or do you have to cancel and rebook from scratch, possibly at a different rate? A company with clear, generous policies here is usually confident in the rest of its operation too.',
+        ],
+      },
+      {
+        heading: '5. What Vehicle Will Actually Show Up?',
+        paragraphs: [
+          'Ask for the specific vehicle class, not just a category like "luxury sedan." A real answer names a make and model range — Mercedes-Benz E-Class, Cadillac Escalade, Mercedes Sprinter — rather than leaving it to whatever is available that day. If you have a specific need (a car seat, a Sprinter van for a group, extra luggage space), confirm it is reserved in writing, not just requested.',
+        ],
+      },
+      {
+        heading: '6. Are the Chauffeurs Vetted, and How?',
+        paragraphs: [
+          'Background checks and professional licensing should be standard, but it is worth asking how a company trains chauffeurs specifically for Dulles — terminal layout, meet-and-greet procedure, the difference between domestic and international arrivals. A chauffeur who has only driven rideshare and a chauffeur trained specifically for airport work are not the same experience, even in an identical car.',
+        ],
+      },
+      {
+        heading: 'Putting the Checklist to Use',
+        paragraphs: [
+          'Run these six questions against any company you are considering, including us: call (877) 609-1919 and ask them directly. We are licensed and insured as a Virginia and Maryland carrier, quote every trip as a flat rate confirmed before you book, track flights from actual touchdown, offer free cancellation up to 3 hours before pickup on sedans and SUVs, confirm vehicle class in writing, and run chauffeurs who handle Dulles pickups daily. For the specific cost breakdown by vehicle and route, see our 2026 pricing guide; for what a trained chauffeur actually does differently, read why hire a chauffeur.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'What is the single most important thing to verify before booking?',
+        answer:
+          'Licensing and insurance. A company that cannot clearly describe its commercial carrier authority and insurance coverage is the biggest red flag on this checklist, regardless of how polished its marketing looks.',
+      },
+      {
+        question: 'Is a flat rate always better than a metered or estimated fare?',
+        answer:
+          'For predictability, yes — a flat rate is confirmed before you ride and does not move. Whether it is cheaper than a metered fare on any specific trip depends on traffic and demand that day, but you only find that out after the fact with a metered fare.',
+      },
+      {
+        question: 'How does flight tracking actually work at Dulles?',
+        answer:
+          'A chauffeur service tracks your flight from departure and adjusts the pickup time against the actual landing time, not the printed schedule, so complimentary wait time is not quietly consumed by a delay before you even reach baggage claim.',
+      },
+      {
+        question: 'Should I ask about the vehicle model before booking?',
+        answer:
+          'Yes. A specific make and model range (not just "luxury sedan") confirmed in writing is a sign the company is actually reserving a vehicle for you rather than assigning whatever is free that day.',
+      },
+      {
+        question: 'What cancellation policy should I expect?',
+        answer:
+          'A clear, written window — commonly a few hours before pickup for sedans and SUVs, longer for Sprinter vans and special events — rather than a vague "contact us" policy.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'IAD Airport Limo Cost 2026 Guide', to: '/blog/how-much-does-dulles-airport-car-service-cost-2026' },
+      { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
+      { label: 'Uber vs Limo Service', to: '/uber-vs-limo-service' },
+      { label: 'Dulles Airport Meet and Greet', to: '/dulles-airport-meet-and-greet' },
+      { label: 'Fleet', to: '/fleet' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'how-early-should-i-book-iad-airport-transportation',
+    title: 'How Early Should I Book IAD Airport Transportation?',
+    metaTitle: 'How Early to Book IAD Airport Transportation',
+    metaDescription:
+      'How far ahead to book Dulles airport transportation, by vehicle and scenario, plus when same-day works. Call (877) 609-1919 to book now.',
+    datePublished: '2026-10-16',
+    readTime: '5 min read',
+    excerpt:
+      'If you want the short, direct answer to how early to book a Dulles transfer, start here — then see our full booking-window guide for the complete breakdown by scenario.',
+    intro: [
+      'This is the quick-answer version of a question we get constantly: how early do I actually need to book ground transportation for Dulles? If you want the fast version so you can book and move on, this is it. If you want the complete breakdown — holidays, weather, Sprinter van availability, departures versus arrivals — our full booking-window guide covers that in more depth and the two pages are meant to be read together, not as duplicates of each other.',
+    ],
+    sections: [
+      {
+        heading: 'The Direct Answer, by Scenario',
+        paragraphs: [
+          'Here is the lead time to aim for, matched to the kind of trip you are booking:',
+        ],
+        list: [
+          'Standard sedan or SUV, ordinary weekday or weekend: 24 hours ahead is enough for almost every trip.',
+          'International arrival or departure: same 24-hour minimum, but book a specific vehicle if you have a preference, since international travelers often want extra luggage room.',
+          'Sprinter van or stretch limousine, any day: book as early as your date is known — these are the tightest inventory in any fleet, including ours.',
+          'Holiday week (Thanksgiving through New Year, spring break) or a major regional event weekend: 5 to 7 days ahead.',
+          'Wedding season Saturday (roughly April through October) needing a larger vehicle: as early as possible — these dates compete with event bookings for the same vehicles.',
+          'Genuine same-day need: call rather than book online — a live dispatcher can confirm real-time availability faster than a web form.',
+        ],
+      },
+      {
+        heading: 'Why 24 Hours Is the Right Floor, Not Just a Guess',
+        paragraphs: [
+          'Twenty-four hours gives dispatch enough time to fold your trip into the day\'s schedule properly — assigning a chauffeur and vehicle in advance rather than pulling from whatever reserve capacity is left once the day is already underway. It is not a hard rule you cannot beat; it is simply the point at which booking stops being a scramble for both you and us.',
+        ],
+      },
+      {
+        heading: 'What If You Are Already Inside That Window?',
+        paragraphs: [
+          'Same-day and next-day requests are genuinely possible more often than people assume, particularly for sedans on weekdays. The move is to call (877) 609-1919 instead of using the online form — a dispatcher can tell you immediately what is available and how fast a chauffeur can be positioned, which a web form cannot do in real time. If your first-choice vehicle is not available, ask about a different class; a sedan request often has more flexibility than a specific SUV on short notice.',
+        ],
+      },
+      {
+        heading: 'One Thing Worth Doing Regardless of Timing',
+        paragraphs: [
+          'If you already know your return date, book both legs at once. It costs nothing extra, locks the same flat rate for the trip home, and puts your return pickup on flight tracking automatically — removing the specific failure mode of forgetting to arrange the return leg until you are already at your destination with less lead time to work with.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'What is the minimum lead time for a standard Dulles airport transfer?',
+        answer:
+          '24 hours covers almost every ordinary sedan or SUV trip. Book further ahead only if your date falls in a holiday week, a major event weekend, or you need a Sprinter van or stretch limousine.',
+      },
+      {
+        question: 'Can I still book the same day I am flying?',
+        answer:
+          'Often yes, especially for sedans on weekdays. Call (877) 609-1919 rather than booking online — a live dispatcher can confirm real-time availability faster than a web form.',
+      },
+      {
+        question: 'Does booking early get me a lower rate?',
+        answer:
+          'No. Our flat rates are set by route and vehicle, not by how far ahead you book. What early booking secures is your preferred vehicle and pickup window during busy periods, not a price discount.',
+      },
+      {
+        question: 'Why do Sprinter vans need more lead time than sedans?',
+        answer:
+          'Any fleet, including ours, carries fewer large vehicles than sedans simply because fewer trips need them. That makes Sprinter vans and stretch limousines the first vehicles to book out during busy weeks, so reserving one early matters more than it does for a standard sedan.',
+      },
+      {
+        question: 'Where can I find the full breakdown by holiday, weather and trip type?',
+        answer:
+          'See our complete booking-window guide, "The Best Time to Book Airport Car Service for Dulles (IAD)," which covers peak periods, weather, and departures versus arrivals in more detail than this quick-reference page.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Best Time to Book Airport Car Service at IAD', to: '/blog/best-time-to-book-airport-car-service-dulles' },
+      { label: 'Can You Book IAD Car Service Last-Minute?', to: '/last-minute-iad-airport-car-service' },
+      { label: 'Dulles Airport Meet and Greet', to: '/dulles-airport-meet-and-greet' },
+      { label: 'IAD Dulles Airport Car Service', to: '/iad-dulles-airport-car-service' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'last-minute-iad-airport-car-service',
+    title: 'Can You Book IAD Airport Car Service Last-Minute or Same-Day?',
+    metaTitle: 'Last-Minute IAD Airport Car Service: Same-Day?',
+    metaDescription:
+      'Can you book a car at Dulles the same day you need it? What is realistic, and how to get the fastest answer. Call (877) 609-1919 now.',
+    datePublished: '2026-10-16',
+    readTime: '6 min read',
+    excerpt:
+      'A meeting got moved up. A flight got rebooked. Here is a straight answer on whether same-day car service at Dulles is actually realistic, and how to get it if it is.',
+    intro: [
+      'Plans change — a client meeting moves to today, a flight gets rebooked eight hours before departure, or someone simply forgot to book ground transportation until the morning of the trip. The question that follows is always the same: is it too late? The honest answer is usually no, but it depends on specifics worth understanding before you panic or assume nothing is available.',
+    ],
+    sections: [
+      {
+        heading: 'What Actually Determines Same-Day Availability',
+        paragraphs: [
+          'Three things decide whether a last-minute request works: vehicle class, time of day, and whether your date falls during a peak period. A sedan request on an ordinary Tuesday afternoon has a very different likelihood than a Sprinter van request on a Saturday in June during wedding season. The more flexible you can be on vehicle class, the better your odds.',
+          'Dulles also runs on predictable arrival and departure banks — clusters of flights landing or leaving close together. A same-day request that falls right in the middle of a busy bank competes with everyone else who also decided that morning they needed a ride; a request outside those windows has an easier path to a quick yes.',
+        ],
+      },
+      {
+        heading: 'Call, Do Not Just Fill Out a Form',
+        paragraphs: [
+          'This is the single most useful piece of advice for a genuine last-minute need: call (877) 609-1919 instead of submitting an online booking request. A live dispatcher can check real-time availability immediately and tell you within minutes whether a chauffeur can be positioned for your pickup time, where an online form has to be reviewed and confirmed on its own timeline. If you are working against a deadline, the phone call is faster every time.',
+        ],
+      },
+      {
+        heading: 'What to Have Ready When You Call',
+        paragraphs: [
+          'Have your exact pickup address or flight number, destination, passenger and luggage count, and the time you need pickup, ready before you call. A dispatcher can move faster with complete information up front than with a conversation that circles back for missing details. If your vehicle preference is flexible, say so — it widens what dispatch can offer you on short notice.',
+        ],
+      },
+      {
+        heading: 'When Same-Day Is Genuinely Difficult',
+        paragraphs: [
+          'Be realistic about two situations: a Sprinter van or stretch limousine request on short notice during a known peak period (a holiday week, a Saturday in wedding season), and a request that falls in the thick of a major arrival or departure bank with no flexibility on vehicle class. Neither is impossible, but both are the hardest same-day requests to accommodate, and it is worth knowing that going in rather than being surprised.',
+        ],
+      },
+      {
+        heading: 'If Your Exact Request Cannot Be Filled',
+        paragraphs: [
+          'Ask about a slightly adjusted pickup time — shifting a request by even 20 to 30 minutes can open up a chauffeur finishing a nearby trip. Also ask about a different vehicle class; a sedan is almost always the most available option on short notice, even if you originally wanted an SUV. Dispatch would rather solve the problem with you on the phone than simply say no.',
+        ],
+      },
+      {
+        heading: 'Planning Ahead Still Wins',
+        paragraphs: [
+          'None of this is an argument for always booking last-minute — a reservation made even a day ahead gets folded cleanly into the day\'s schedule rather than competing for whatever reserve capacity is left once the day is underway. But if you are reading this because something changed today, the short version is: call, be flexible, and you will very likely get a car.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Is same-day booking actually possible at Dulles?',
+        answer:
+          'Often yes, especially for sedans on weekdays outside the busiest arrival and departure banks. Call (877) 609-1919 for the fastest, most accurate answer on your specific timing.',
+      },
+      {
+        question: 'Should I book online or call for a last-minute request?',
+        answer:
+          'Call. A live dispatcher checks real-time availability immediately, where an online form has to be reviewed and confirmed on its own schedule — the phone is faster every time for a genuine same-day need.',
+      },
+      {
+        question: 'What information should I have ready when I call?',
+        answer:
+          'Your pickup address or flight number, destination, passenger and luggage count, and your needed pickup time. Flexibility on vehicle class also helps dispatch find you a faster yes.',
+      },
+      {
+        question: 'Is a Sprinter van harder to book last-minute than a sedan?',
+        answer:
+          'Yes. Larger vehicles are the tightest inventory in any fleet, so a same-day Sprinter van or stretch limousine request — especially during a peak period — is the hardest type of last-minute booking to fill.',
+      },
+      {
+        question: 'What if dispatch cannot fill my exact request?',
+        answer:
+          'Ask about a slightly different pickup time or a different vehicle class. Shifting either by a small amount often opens up availability that a completely rigid request would miss.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'How Early Should I Book IAD Transportation?', to: '/how-early-should-i-book-iad-airport-transportation' },
+      { label: 'Best Time to Book Airport Car Service at IAD', to: '/blog/best-time-to-book-airport-car-service-dulles' },
+      { label: 'Dulles Airport Meet and Greet', to: '/dulles-airport-meet-and-greet' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'flying-with-pets-through-dulles-car-service',
+    title: 'Traveling With Pets Through Dulles? What to Know About Car Service and Airline Policies',
+    metaTitle: 'Flying With Pets at Dulles: Car Service Guide',
+    metaDescription:
+      'What to know about bringing a pet through Dulles Airport — airline rules and car service policies. Call (877) 609-1919 to book your chauffeur.',
+    datePublished: '2026-10-16',
+    readTime: '6 min read',
+    excerpt:
+      'Flying with a pet through Dulles adds a layer of planning most travelers only think about once. Here is what changes for the airline and for your ground transportation.',
+    intro: [
+      'Traveling with a pet through Dulles involves two separate sets of rules that people often conflate: what your airline requires for the flight itself, and what a ground transportation provider can accommodate for the ride to or from the terminal. Getting both right in advance makes the day far less stressful than discovering a problem at the curb.',
+    ],
+    sections: [
+      {
+        heading: 'Airline Pet Policies Come First',
+        paragraphs: [
+          'Every airline sets its own rules for traveling with a pet, covering whether the animal rides in the cabin or as checked or cargo transport, carrier size limits, required health documentation, and advance notice for booking a pet reservation — most airlines cap the number of pets allowed per flight, so this is not something to leave until the day of travel. Confirm your specific airline\'s current policy directly with them well before your flight, since requirements and fees vary and change.',
+          'International travel adds another layer: many destinations require specific vaccination records, a health certificate issued within a set window before departure, and sometimes a quarantine period on arrival. If your trip through Dulles is international, start this research weeks ahead, not days.',
+        ],
+      },
+      {
+        heading: 'What to Expect From Ground Transportation',
+        paragraphs: [
+          'A chauffeured car service is a different consideration from the airline. Tell dispatch when you book that you are traveling with a pet, including the animal\'s size and whether it will be in a carrier, so the chauffeur and vehicle are prepared rather than surprised at pickup. A pet in an appropriately sized carrier generally travels without issue in a sedan or SUV; a larger dog may be more comfortable in an SUV with more interior space than a standard sedan.',
+          'Being upfront about a pet when you book also lets the chauffeur plan for a slightly longer loading process at pickup and drop-off, rather than treating it as an unexpected delay. There is no extra charge simply for having a pet with you, but let us know in advance all the same.',
+        ],
+      },
+      {
+        heading: 'Timing the Trip Around Pet-Specific Airport Steps',
+        paragraphs: [
+          'If your pet is flying in the cabin, build extra time into your pre-flight schedule for the airline\'s check-in process, which often includes a review of carrier dimensions and documentation at the counter rather than at a kiosk. If your pet is checked or traveling as cargo, confirm the airline\'s specific drop-off window, since it is often earlier than the deadline for a standard checked bag.',
+          'On arrival, factor in extra time to retrieve a pet from cargo or a special handling area if applicable, which can take longer than standard baggage claim. Mention this to your chauffeur when you book an arrival pickup so the complimentary wait-time allowance is used with that in mind.',
+        ],
+      },
+      {
+        heading: 'Service Animals Are Handled Differently',
+        paragraphs: [
+          'A documented service animal is treated differently from a pet under both airline and transportation rules, generally traveling with the passenger without a carrier requirement and without the restrictions that apply to pets. If you are traveling with a service animal, it is still worth mentioning when you book ground transportation simply so the chauffeur knows what to expect, though no special accommodation beyond normal courtesy is typically needed.',
+        ],
+      },
+      {
+        heading: 'The Short Version',
+        paragraphs: [
+          'Confirm your airline\'s specific pet policy directly with them well ahead of your flight, tell your car service about the pet when you book so the chauffeur and vehicle are prepared, and build extra time into both ends of the trip for pet-specific check-in or retrieval steps. None of it is complicated, but all of it goes more smoothly when it is planned rather than discovered at the curb.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Does your car service charge extra for a pet in the vehicle?',
+        answer:
+          'No. There is no extra charge simply for traveling with a pet — just tell dispatch when you book so the chauffeur and vehicle are prepared, particularly for a larger dog that may be more comfortable in an SUV.',
+      },
+      {
+        question: 'Do I need to tell the airline I am traveling with a pet?',
+        answer:
+          'Yes. Most airlines require advance notice and limit the number of pets per flight, so confirm your airline\'s specific policy, fees and documentation requirements well before your travel date.',
+      },
+      {
+        question: 'Should I request an SUV instead of a sedan for a larger pet?',
+        answer:
+          'It is worth considering. An SUV generally offers more interior room for a larger dog and its carrier than a standard sedan, though a properly sized carrier fits in either vehicle for most pets.',
+      },
+      {
+        question: 'How does this differ for a service animal?',
+        answer:
+          'A documented service animal is generally not subject to the same carrier or restriction rules as a pet, both on the airline and in ground transportation, though it is still worth mentioning when you book so the chauffeur knows what to expect.',
+      },
+      {
+        question: 'Should I build in extra time if my pet is flying as checked or cargo?',
+        answer:
+          'Yes. Airlines often set an earlier drop-off deadline for a pet traveling as checked or cargo than for a standard bag, and retrieval on arrival can also take longer than normal baggage claim — mention this when booking your pickup.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Dulles International Arrivals, Step by Step', to: '/blog/dulles-international-arrivals-step-by-step' },
+      { label: 'Dulles Airport Meet and Greet', to: '/dulles-airport-meet-and-greet' },
+      { label: 'Airport Transfer Service', to: '/airport-transfer' },
+      { label: 'Book Now', to: '/book-now' },
     ],
   },
 ];

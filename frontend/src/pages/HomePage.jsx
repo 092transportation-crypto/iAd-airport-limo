@@ -127,7 +127,7 @@ const HomePage = () => {
       {/* Hero */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-28 md:pt-0">
         <div className="absolute inset-0">
-          <img src={images.hero} alt="Luxury Transportation" className="w-full h-full object-cover opacity-30" />
+          <img src={images.hero} alt="Chauffeured luxury sedan used for IAD Airport Limo's Dulles airport car service" className="w-full h-full object-cover opacity-30" />
           <div className="absolute inset-0 bg-gradient-to-b from-black via-black/70 to-black" />
         </div>
         <div className="relative z-10 text-center px-4 sm:px-6 py-8 w-full">
@@ -358,7 +358,7 @@ const HomePage = () => {
       </section>
 
       <section className="relative py-20 md:py-32 overflow-hidden">
-        <div className="absolute inset-0"><img src={images.nightCity} alt="City" className="w-full h-full object-cover opacity-30" /><div className="absolute inset-0 bg-black/80" /></div>
+        <div className="absolute inset-0"><img src={images.nightCity} alt="Washington DC metro skyline at night, served by IAD Airport Limo's 24/7 chauffeur service" className="w-full h-full object-cover opacity-30" /><div className="absolute inset-0 bg-black/80" /></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <img src={logo} alt="IAD Airport Limo" className="w-32 sm:w-40 mx-auto mb-6" style={{background:'transparent'}} />
           <h2 className="font-display text-3xl sm:text-4xl text-white mb-6">Start Your Journey</h2>

@@ -192,13 +192,21 @@ const AirportTransferPage = () => {
             airport car service for a red-eye landing, or washington dulles airport limo service for a visiting
             executive, the answer is the same vehicle-and-chauffeur standard.
           </p>
-          <p className="text-white/70 leading-relaxed">
+          <p className="text-white/70 leading-relaxed mb-4">
             We also run IAD Tysons Corner car service and Germantown MD car service to Dulles daily, alongside
             chauffeur service at Dulles airport for VIP arrivals. One flat quote covers tolls, taxes, and gratuity —
             see arrival details at the official{" "}
             <a href="https://www.flydulles.com" target="_blank" rel="noopener noreferrer" className="underline text-white hover:text-white/80">
               Dulles International Airport site
             </a>, then let us handle the rest.
+          </p>
+          <p className="text-white/70 leading-relaxed">
+            Reagan National and BWI transfers follow the same standard as our Dulles service — flight tracking from
+            the moment you take off, a chauffeur dispatched against the actual arrival time rather than the printed
+            schedule, and the same 45-minute domestic and 60-minute international complimentary wait allowance. For
+            travelers routing through more than one DC-area airport on the same trip, an airport-to-airport transfer
+            is booked the same way as any point-to-point run, with both legs confirmed at a flat rate before you
+            travel so a tight connection never turns into a pricing surprise on top of a scheduling one.
           </p>
         </div>
       </section>

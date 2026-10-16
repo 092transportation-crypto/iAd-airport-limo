@@ -204,11 +204,26 @@ const CorporatePage = () => {
             Wi-Fi-ready cabins, professionally attired drivers, and billing that finance actually likes — corporate
             accounts, consolidated invoicing, and priority scheduling.
           </p>
-          <p className="text-white/70 leading-relaxed">
+          <p className="text-white/70 leading-relaxed mb-4">
             We cover the whole corridor: limo service in McLean VA for headquarters visits, chauffeur service in
             Tysons Corner VA for client dinners, Reston car service for tech campuses, and Ashburn car service for
             data-center teams working odd hours. From a single airport pickup to a week-long executive roadshow, one
             call moves everyone — on time, every time.
+          </p>
+          <p className="text-white/70 leading-relaxed mb-4">
+            Opening a corporate account is a short process by design — call and tell us your typical travel patterns:
+            how often employees or clients fly through Dulles, whether Reagan National or BWI coverage matters too,
+            and whether trips are mostly airport transfers or include multi-stop days across Tysons, Reston and the
+            rest of the corridor. From there we configure a rate card and monthly consolidated invoicing, usually
+            active the same week, so individual trips stop requiring a personal expense report.
+          </p>
+          <p className="text-white/70 leading-relaxed">
+            Duty of care is built into every trip regardless of account size: every chauffeur is licensed and
+            background-checked, every vehicle is commercially insured, and airport pickups are flight-tracked so a
+            delayed arrival never turns into a stranded traveler. For companies with recurring executive travel, a
+            standing pickup arrangement reserves the right vehicle class without rebooking each trip, and a single
+            authorized booker — an executive assistant or office manager — keeps the account controlled while still
+            giving every traveler priority dispatch.
           </p>
         </div>
       </section>

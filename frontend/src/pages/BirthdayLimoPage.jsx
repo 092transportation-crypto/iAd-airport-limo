@@ -218,6 +218,12 @@ const BirthdayLimoPage = () => {
             <p className="text-white/70 leading-relaxed">
               Groups of six or fewer typically book a sedan or SUV; larger celebrations move into a Sprinter van or limo for the extra room and the occasion itself. Milestone birthdays — 21st, 30th, 40th and up — are our most common birthday bookings across DC, Maryland and Virginia, and weekend nights fill up first, so we recommend booking at least a week ahead for a Friday or Saturday.
             </p>
+            <p className="text-white/70 leading-relaxed">
+              Sweet sixteen celebrations are booked the same way as any birthday night but with a few differences worth planning for: no alcohol in the vehicle, an adult or designated chaperone on the itinerary if parents request it, and a schedule confirmed in advance with pickup and drop-off times parents can rely on. Many families use the Party SUV for a sweet sixteen group photo stop before dinner, then extend the booking into the evening for a movie or bowling outing with friends.
+            </p>
+            <p className="text-white/70 leading-relaxed">
+              Surprise pickups are one of our most requested birthday bookings — the chauffeur arrives at a predetermined time and location, often coordinated with a friend or family member who is in on the plan, and the celebration starts the moment the door opens rather than waiting until everyone arrives somewhere by car. Tell dispatch the surprise element when you book and we will confirm timing precisely, since the whole idea depends on the vehicle showing up exactly when expected.
+            </p>
           </div>
         </div>
       </section>

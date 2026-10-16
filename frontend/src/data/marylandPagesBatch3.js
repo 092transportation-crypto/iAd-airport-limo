@@ -227,6 +227,7 @@ export const MARYLAND_BATCH3 = [
         paragraphs: [
           "Loudoun's wineries and farm breweries are spread across narrow rural roads, and a designated chauffeur is the sensible way to visit them. Hourly bookings let you set the route: Stone Tower Winery on Hogback Mountain, Bluemont Vineyard on the ridge, Breaux Vineyards near Hillsboro, Sunset Hills in Purcellville or Fabbioli Cellars north of town. Sprinter vans carry up to 14 for group tastings.",
           "For weddings at Lansdowne, Morven Park, Oatlands or a private farm, we run the getting-ready pickups, the ceremony-to-reception move and the getaway car under one reservation. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",
         ],
       },
     ],
@@ -251,11 +252,6 @@ export const MARYLAND_BATCH3 = [
       {
         q: "Do you serve Purcellville, Middleburg and western Loudoun from Leesburg?",
         a: "Yes. Leesburg is our staging point for western Loudoun, and we regularly run to Middleburg, Purcellville, Hillsboro, Waterford and Harpers Ferry.",
-      },
-    
-      {
-        q: "What is your cancellation policy for a Leesburg reservation?",
-        a: "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Leesburg wedding, prom and group trips.",
       }],
     related: [
       { label: "IAD to Leesburg Car Service", to: "/iad-to-leesburg-va" },
@@ -266,6 +262,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Wedding Limo", to: "/wedding-limo" },
       { label: "IAD to Winchester", to: "/iad-to-winchester-va" },
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
+      { label: "Lansdowne Limo Service", to: "/lansdowne-limo-service" },
     ],
     schema: { areaServed: ["Leesburg, VA", "Loudoun County"], serviceType: "Limousine and car service" },
   },
@@ -517,6 +514,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Wolf Trap Transportation", to: "/wolf-trap-transportation" },
       { label: "Corporate Transportation", to: "/corporate" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
+      { label: "Merrifield Limo Service", to: "/merrifield-limo-service" },
     ],
     schema: { areaServed: ["Tysons, VA", "Fairfax County"], serviceType: "Limousine and car service" },
   },
@@ -649,6 +647,7 @@ export const MARYLAND_BATCH3 = [
         paragraphs: [
           "Fairfax bookings run from wedding parties at the historic downtown venues and area country clubs to prom night at Fairfax, Woodson, Robinson and Oakton high schools, dinner in the Mosaic District, and corporate travel for the technology and government-services firms along Route 50 and Fair Lakes. Stretch limousines and Sprinter vans handle the celebrations; sedans and SUVs handle the workdays.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",
         ],
       },
     ],
@@ -673,11 +672,6 @@ export const MARYLAND_BATCH3 = [
       {
         q: "Do you serve Fair Oaks, Fair Lakes and the Mosaic District as part of Fairfax?",
         a: "Yes. We cover the City of Fairfax and all Fairfax-addressed communities in the surrounding county, including Fair Oaks, Fair Lakes, Greenbriar, Mantua and Merrifield.",
-      },
-    
-      {
-        q: "What is your cancellation policy for a Fairfax reservation?",
-        a: "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Fairfax wedding, prom and group trips.",
       }],
     related: [
       { label: "IAD to Fairfax Car Service", to: "/iad-to-fairfax" },
@@ -688,6 +682,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Prom Limo", to: "/prom-limo" },
       { label: "Wedding Limo", to: "/wedding-limo" },
       { label: "IAD to Manassas", to: "/iad-to-manassas-va" },
+      { label: "Fair Oaks Limo Service", to: "/fair-oaks-limo-service" },
     ],
     schema: { areaServed: ["Fairfax, VA", "Fairfax County"], serviceType: "Limousine and car service" },
   },
@@ -772,6 +767,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "IAD to Washington DC", to: "/iad-to-washington-dc" },
       { label: "Corporate Transportation", to: "/corporate" },
+      { label: "Bailey's Crossroads Limo Service", to: "/baileys-crossroads-limo-service" },
     ],
     schema: { areaServed: ["Arlington, VA", "Arlington County"], serviceType: "Limousine and car service" },
   },
@@ -857,6 +853,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Wedding Limo", to: "/wedding-limo" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "IAD to Fredericksburg", to: "/iad-to-fredericksburg" },
+      { label: "Kingstowne Limo Service", to: "/kingstowne-limo-service" },
     ],
     schema: { areaServed: ["Alexandria, VA", "Fairfax County"], serviceType: "Limousine and car service" },
   },
@@ -1323,7 +1320,8 @@ export const MARYLAND_BATCH3 = [
           "When parents or in-laws fly into Dulles, an hourly booking lets you show them the region without a parking strategy: the Lincoln Memorial and the Mall, the changing of the guard at Arlington National Cemetery, George Washington's Mount Vernon, Great Falls Park, lunch in Old Town Alexandria and back to Ashburn or McLean by dinner. Evenings work the same way, with dinner in Georgetown followed by the Kennedy Center or Capital One Hall and the car waiting at the door.",
           "SUVs carry six with room for strollers and car seats, which we install on request, and Sprinter vans carry up to 14 for a full family outing. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines.",
         
-          "Chauffeurs assigned to Northern Virginia Hourly Chauffeur Service trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party."],
+          "Chauffeurs assigned to Northern Virginia Hourly Chauffeur Service trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives. Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Northern Virginia Hourly Chauffeur Service trips are always welcome to be recognized.",],
       },
     ],
     vehicles: VEHICLES,
@@ -1347,15 +1345,6 @@ export const MARYLAND_BATCH3 = [
       {
         q: "Can I combine an airport pickup with hourly service?",
         a: "Yes. The booking can begin at Dulles, Reagan National or BWI with flight tracking on the arrival, then continue as directed for the rest of the day.",
-      },
-    
-      {
-        q: "Can you provide a car seat for a child riding with us in Northern Virginia Hourly Chauffeur Service?",
-        a: "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
-      },
-      {
-        q: "Is gratuity included in the Northern Virginia Hourly Chauffeur Service fare?",
-        a: "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Northern Virginia Hourly Chauffeur Service trips are always welcome to be recognized.",
       }],
     related: [
       { label: "Tysons Limo Service", to: "/tysons-limo-service" },
@@ -1415,7 +1404,8 @@ export const MARYLAND_BATCH3 = [
           "Tenth, twenty-fifth and fiftieth anniversaries often involve family: a vow renewal at the original church, a dinner for twenty at a Tysons or Alexandria restaurant, or a surprise arrival in a stretch limousine. We coordinate multiple vehicles under one reservation so parents, children and grandchildren arrive together, and the chauffeur is briefed on the surprise if there is one. Flowers, a chilled bottle or a specific route past a meaningful address can be arranged when you book.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
         
-          "Every Northern Virginia Anniversary Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue."],
+          "Every Northern Virginia Anniversary Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",],
       },
     ],
     vehicles: VEHICLES,
@@ -1439,15 +1429,6 @@ export const MARYLAND_BATCH3 = [
       {
         q: "How far ahead should I book for an anniversary?",
         a: "As early as you can for Saturday evenings and for stretch limousines and Sprinter vans; sedans and SUVs are often available on shorter notice. Cancellation remains free within the standard windows.",
-      },
-    
-      {
-        q: "What is your cancellation policy for a Northern Virginia Anniversary Limo reservation?",
-        a: "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours' notice for a free cancellation, which covers most Northern Virginia Anniversary Limo wedding, prom and group trips.",
-      },
-      {
-        q: "Can you provide a car seat for a child riding with us in Northern Virginia Anniversary Limo?",
-        a: "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
       }],
     related: [
       { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },

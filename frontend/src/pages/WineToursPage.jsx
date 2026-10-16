@@ -82,7 +82,7 @@ const WineToursPage = () => {
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-6">Wine Tours</h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-            Sip, Savor, and Relax with King Limo Inc
+            Sip, Savor, and Relax with IAD Airport Limo
           </p>
         </div>
       </section>
@@ -94,7 +94,7 @@ const WineToursPage = () => {
             Wine Tour & Chauffeur Services
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed">
-            Let King Limo Inc handle the driving while you indulge in the rich flavors and aromas of premier wineries. Whether you're exploring rolling vineyards or nearby wine trails, our professional chauffeur services deliver a relaxing, luxurious experience — with total peace of mind.
+            Let IAD Airport Limo handle the driving while you indulge in the rich flavors and aromas of premier wineries. Whether you're exploring rolling vineyards or nearby wine trails, our professional chauffeur services deliver a relaxing, luxurious experience — with total peace of mind.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed mt-4">
             We proudly offer custom wine and sightseeing tours throughout the region — perfect for couples, friends, or large group celebrations.
@@ -190,6 +190,24 @@ const WineToursPage = () => {
               <h3 className="text-xl font-semibold mb-2 text-gray-900">Relax & Enjoy</h3>
               <p className="text-gray-600">Sit back, sip, and let our professional chauffeur handle everything</p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Wine tour guide */}
+      <section className="py-20 bg-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-gray-900 mb-6">Planning a Virginia Wine Country Day</h2>
+          <div className="space-y-4">
+            <p className="text-gray-700 leading-relaxed">
+              Loudoun and Fauquier County make up one of the densest wine regions on the East Coast, with wineries spread along Route 7 in the north and Route 50 further south, connected by smaller rural roads. Most groups plan two to four tasting stops in a day, since tastings run longer than expected and rushing between wineries defeats the purpose of the trip. We recommend reserving tastings directly with each winery ahead of time, especially for weekend visits, then sharing your confirmed schedule with your chauffeur.
+            </p>
+            <p className="text-gray-700 leading-relaxed">
+              Because Dulles International Airport sits at the eastern edge of Loudoun's wine country, a wine tour pairs naturally with a flight — arrive, head straight to the first winery, and return to the airport at the end of the day, or start and end the trip at a Northern Virginia home or hotel. Your chauffeur tracks the schedule the same way for either option, building buffer time between stops so a tasting that runs long at the first winery does not collapse the rest of the itinerary.
+            </p>
+            <p className="text-gray-700 leading-relaxed">
+              A sedan or luxury SUV suits a couple or small group of friends, while a Mercedes Sprinter van keeps a larger party — a bachelorette weekend, a birthday celebration, an office outing — together for the entire day between tasting rooms. Whichever vehicle you choose, the rate is confirmed before the day starts as hourly, as-directed service, so the chauffeur and vehicle stay with your group for the reserved block of time rather than treating each winery as a separate trip.
+            </p>
           </div>
         </div>
       </section>

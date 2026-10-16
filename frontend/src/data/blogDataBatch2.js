@@ -47,6 +47,20 @@ const batch2 = [
           'From Dulles, the Dulles Access Road connects directly to I-66 toward Washington DC, while the Dulles Toll Road serves Tysons, Reston and the rest of the corridor. Which route your chauffeur takes depends on your destination and the time of day.',
         ],
       },
+      {
+        heading: 'Mobile Passport Control and Global Entry, Compared',
+        paragraphs: [
+          'Two programs can shorten the immigration line at Dulles, and they are not the same thing. Global Entry, run by CBP, requires an application, an interview and a membership fee, but it also covers TSA PreCheck and works at kiosks in dozens of airports worldwide, not just Dulles. Mobile Passport Control is a free app that lets eligible US and Canadian citizens submit their customs declaration before reaching the immigration hall, which can save a few minutes without any pre-approval process.',
+          'Neither program skips baggage claim or customs entirely, and neither guarantees a specific wait time — they simply move you through the first checkpoint faster. If you travel internationally several times a year, Global Entry is usually worth the application; if this is an occasional trip, Mobile Passport Control is a free way to shave a little time off the process the night before you fly.',
+        ],
+      },
+      {
+        heading: 'If You Are Connecting to a Domestic Flight',
+        paragraphs: [
+          'Travelers connecting from an international arrival to a domestic flight at Dulles go through a similar sequence — immigration, baggage claim, customs, and then re-check bags before heading back through security to a domestic gate. This connection can take longer than the printed layover suggests, especially during a busy evening arrival bank, so build in extra time if your connection is under two hours.',
+          'If your itinerary ends at Dulles rather than connecting onward, none of this affects your pickup: your chauffeur is tracking the inbound flight and the wait-time allowance starts at actual touchdown regardless of how long the walk from the gate to the curb takes.',
+        ],
+      },
     ],
     faqs: [
       { question: 'How much longer does an international arrival take compared to domestic?', answer: 'It varies by flight volume and time of day, but plan for meaningfully longer than a domestic arrival due to immigration and customs. Global Entry can shorten the immigration portion for enrolled travelers.' },
@@ -54,6 +68,7 @@ const batch2 = [
       { question: 'Should I add meet and greet for an international arrival?', answer: 'Many travelers find it worthwhile after a long international flight, since your chauffeur is positioned inside near where you exit customs with a name sign and can help with luggage.' },
       { question: 'What if my connecting bags are delayed in customs?', answer: 'Because we track your flight and the wait window is generous for international arrivals, a normal customs delay is already accounted for — call dispatch if it runs unusually long.' },
       { question: 'Which road does my chauffeur use leaving the airport?', answer: 'Typically the Dulles Access Road to I-66 for Washington DC, or the Dulles Toll Road for Tysons, Reston and the rest of the corridor, depending on your destination.' },
+      { question: 'Is Global Entry worth it just for Dulles arrivals?', answer: 'If you fly internationally more than once or twice a year, yes — it also includes TSA PreCheck and works at airports worldwide, not just Dulles. For occasional travel, the free Mobile Passport Control app is a reasonable substitute.' },
     ],
     relatedLinks: [
       { label: 'Dulles International Arrivals Car Service', to: '/dulles-international-arrivals-car-service' },
@@ -109,6 +124,19 @@ const batch2 = [
           'Tell dispatch your planned wineries (or ask for general routing suggestions), your group size, and the hours you want to reserve. The rate is confirmed before the day starts, and the chauffeur handles the driving and the route while your group focuses on the tastings.',
         ],
       },
+      {
+        heading: 'A Sample Loudoun Itinerary',
+        paragraphs: [
+          'A typical day starts around 11 a.m., once tasting rooms open, with a first stop somewhere along the Route 7 cluster — Bluemont Vineyard or Doukenie Winery, both known for hilltop views of the Blue Ridge. From there, groups often move south toward Route 50 for a second tasting at a winery like Breaux Vineyards or 50 West Vineyards before a late lunch, then finish with one more stop closer to Leesburg before the drive back.',
+          'That rhythm — two or three tastings with a meal in between, done by late afternoon — tends to work better than packing in five stops back to back, since palates and patience both fade by winery number four. Your chauffeur builds in buffer time between stops automatically, so a tasting that runs long at the first winery does not collapse the rest of the day.',
+        ],
+      },
+      {
+        heading: 'Pairing the Day With a Venue Stop',
+        paragraphs: [
+          'Some groups extend the day into the evening with a stop at a working event venue in the same part of the county, such as The Barns at Hamilton Station, rather than heading straight back to Dulles or home. If your day includes a rehearsal dinner, shower or private event alongside the wine tasting, mention it when you book so the chauffeur can plan the full route rather than treating it as a separate trip.',
+        ],
+      },
     ],
     faqs: [
       { question: 'How many wineries can we visit in a day?', answer: 'Most groups comfortably manage two to four stops, since tastings take longer than expected and an unhurried pace makes for a better day.' },
@@ -116,6 +144,7 @@ const batch2 = [
       { question: 'Can we start the trip from Dulles Airport?', answer: 'Yes, a wine country day pairs naturally with a flight — head straight from arrivals to the first winery, or plan the return trip to end at the airport.' },
       { question: 'What vehicle is best for a group of eight?', answer: 'A Mercedes Sprinter van keeps a larger group together for the whole day between winery stops.' },
       { question: 'How is a wine country day priced?', answer: 'As hourly, as-directed service — the vehicle and chauffeur stay with your group for the reserved block of time, confirmed before the day starts.' },
+      { question: 'Can the day include a stop at an event venue, not just wineries?', answer: 'Yes — tell dispatch when you book and the chauffeur will route the full day, including a stop at a venue like The Barns at Hamilton Station, around your group\'s schedule.' },
     ],
     relatedLinks: [
       { label: 'Loudoun County Transportation Guide', to: '/loudoun-county-transportation-guide' },
@@ -171,6 +200,19 @@ const batch2 = [
           'Monthly consolidated invoicing gives an itemized record by traveler and trip, which simplifies reconciling against expense policy and gives visibility into travel volume that scattered rideshare receipts never provide.',
         ],
       },
+      {
+        heading: 'Airport-Only vs. Full-Corridor Coverage',
+        paragraphs: [
+          'Some Tysons programs only need Dulles airport transfers — a predictable, high-volume need given how many employees and visiting clients route through IAD rather than the more distance-limited Reagan National. Others need full-corridor coverage: client pickups from a hotel near Tysons Corner Center, a shuttle between a headquarters building off Route 123 and a satellite office, or transportation for an all-day offsite that starts and ends away from any airport.',
+          'It is worth deciding which category your company falls into before setting up the account, since it changes how dispatch plans for you. An airport-only program is mostly reactive — book the flight, we track it. A full-corridor program benefits from a short standing list of frequent addresses (the office, the preferred downtown hotel, a regular client site) so a new trip can be booked with a one-line request instead of re-explaining logistics every time.',
+        ],
+      },
+      {
+        heading: 'Planning Around Peak Corporate Travel Weeks',
+        paragraphs: [
+          'Certain weeks predictably strain ground transportation capacity across the Tysons corridor — major industry conferences, earnings season travel for public companies, and the weeks bracketing Thanksgiving and the December holidays when executives compress a quarter\'s worth of in-person meetings into a few days. A travel manager who flags these windows to dispatch in advance, even informally, tends to get smoother service than one who treats every week the same and is surprised when a specific vehicle class is tight on a Tuesday in early November.',
+        ],
+      },
     ],
     faqs: [
       { question: 'How long does it take to set up a corporate account?', answer: 'Usually a short conversation about your travel patterns is enough to get started, with monthly invoicing active from the first trip.' },
@@ -178,6 +220,7 @@ const batch2 = [
       { question: 'Do you offer standing pickups for an executive who flies weekly?', answer: 'Yes, recurring travel can be set up as a standing arrangement so the trip does not need to be rebooked each time.' },
       { question: 'What does duty of care look like?', answer: 'Licensed, background-checked chauffeurs, commercially insured vehicles, and flight tracking on every airport pickup, with 24/7 dispatch for changes.' },
       { question: 'Is the invoice itemized by traveler?', answer: 'Yes, monthly consolidated invoicing breaks down travel by traveler and trip for straightforward expense reconciliation.' },
+      { question: 'Should we set up the account for airport transfers only, or for full-corridor travel?', answer: 'That depends on your company\'s travel pattern. Airport-only accounts are simpler and reactive; full-corridor accounts benefit from a short standing list of frequent addresses so new trips book faster.' },
     ],
     relatedLinks: [
       { label: 'Dulles Airport Corporate Car Service', to: '/dulles-airport-corporate-car-service' },
@@ -233,6 +276,18 @@ const batch2 = [
           'For an international arrival with an uncertain customs wait, a corporate travel day with meetings on a schedule, or any trip where a cancelled pickup would actually hurt, a confirmed reservation with a professional chauffeur removes the uncertainty rideshare and taxis cannot promise.',
         ],
       },
+      {
+        heading: 'Groups and Luggage Change the Math',
+        paragraphs: [
+          'A rideshare request for four or more passengers with checked bags often gets matched to a standard sedan that cannot actually fit the group, leading to a cancelled match or a cramped, unsafe ride. Taxis at the Dulles stand are typically sedans as well, so a family or a group of colleagues arriving with golf clubs, musical instruments or several suitcases faces the same problem. A reserved SUV, such as a Cadillac Escalade or Chevrolet Suburban, or a Sprinter van for a larger party, is matched to the group size before the flight ever lands — there is no gamble about whether the vehicle that shows up can actually hold everyone and everything.',
+        ],
+      },
+      {
+        heading: 'What Happens When Plans Change',
+        paragraphs: [
+          'Rideshare and taxi pricing both assume the trip you request is the trip you take. A reserved black car accommodates a changed flight, a different drop-off address, or an extra passenger added the morning of travel, because a dispatcher — not an algorithm — is adjusting the booking. That flexibility, along with free cancellation up to 3 hours before pickup on sedans and SUVs, is part of what you are actually paying for when you choose a confirmed reservation over an on-demand request.',
+        ],
+      },
     ],
     faqs: [
       { question: 'Is black car service always more expensive than rideshare at Dulles?', answer: 'Not necessarily — rideshare pricing moves with demand, so during surge periods a confirmed flat rate can cost the same or less. The real difference is that the black car rate is known in advance either way.' },
@@ -240,6 +295,7 @@ const batch2 = [
       { question: 'Does an international arrival change which option makes more sense?', answer: 'Often yes — the variable customs and immigration wait time makes a flight-tracked, reserved pickup more reliable than requesting a ride only once you clear customs.' },
       { question: 'What vehicle will I actually get with a black car service?', answer: 'The class you reserve — sedan, SUV or Sprinter — driven by a licensed, background-checked chauffeur, not a variable personal vehicle.' },
       { question: 'When is rideshare the better choice at Dulles?', answer: 'For short, flexible, domestic-arrival trips where a slight variation in pickup timing would not matter much.' },
+      { question: 'What happens with rideshare or a taxi when a group has a lot of luggage?', answer: 'Both are usually standard sedans, which can struggle to fit a larger group with bags. A reserved SUV or Sprinter van is matched to your group size in advance.' },
     ],
     relatedLinks: [
       { label: 'Dulles Airport Black Car Service', to: '/dulles-airport-black-car-service' },

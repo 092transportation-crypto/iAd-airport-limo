@@ -253,6 +253,8 @@ const batch3 = [
       { label: 'IAD Dulles Airport Car Service', to: '/iad-dulles-airport-car-service' },
       { label: 'Book Now', to: '/book-now' },
       { label: 'Dulles Airport Transportation Guide', to: '/blog/dulles-airport-transportation-guide' },
+      { label: 'How Early Should I Book IAD Transportation? (Quick Answer)', to: '/how-early-should-i-book-iad-airport-transportation' },
+      { label: 'Can You Book IAD Car Service Last-Minute?', to: '/last-minute-iad-airport-car-service' },
     ],
   },
   {

@@ -58,6 +58,7 @@ export const MARYLAND_BATCH6 = [
         paragraphs: [
           "Potomac bookings range from daily executive commutes into DC and Bethesda to weekend events at Avenel and Congressional, wedding transportation for estate properties along River Road, and multi-car service for embassy and diplomatic households. Discretion matters here as much as punctuality, and our chauffeurs are trained accordingly — no idle chatter, no unnecessary stops, and a vehicle that is cleaned and ready before every pickup.",
           "Gratuity is built into every quoted flat rate, so there is no additional tip expected or required, and a dedicated dispatcher is reachable by phone or text for the length of any Potomac booking in case a meeting runs long or a flight shifts.",
+          "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
         ],
       },
     ],
@@ -68,7 +69,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Do you serve Reagan National and BWI from Potomac as well?", a: "Yes. Reagan National is 16 miles (25–40 minutes) and BWI is 40 miles (50–65 minutes). Every airport trip includes flight tracking and complimentary wait time." },
       { q: "Can you handle a multi-stop day in Potomac and Bethesda?", a: "Yes. Tell us the full itinerary when you book — office, school, country club, airport — and we quote the entire day as a single flat rate or hourly booking." },
       { q: "Is the service discreet for high-profile or embassy clients?", a: "Yes. Our chauffeurs are trained for discretion as well as punctuality, and vehicles arrive detailed and ready without unnecessary stops along the route." },
-      { q: "Can you provide a car seat for a child riding with us in Potomac?", a: "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives." },
+      
     ],
     related: [
       { label: "Bethesda Limo Service", to: "/bethesda-limo-service" },
@@ -198,6 +199,7 @@ export const MARYLAND_BATCH6 = [
         paragraphs: [
           "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup, while Sprinter vans and special-event bookings require 12 hours' notice — a policy that covers most Columbia wedding, concert and corporate group trips. Rates are the same whether you book a week ahead or the same day, subject to availability, with no late-booking surcharge.",
           "Every chauffeur assigned to a Columbia trip carries current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation.",
+          "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required.",
         ],
       },
     ],
@@ -208,7 +210,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Do you provide transportation to Merriweather Post Pavilion?", a: "Yes. We regularly run concert transportation to Merriweather, with a coordinated pickup point after the show to skip the parking lot backup. See our Merriweather page for details." },
       { q: "Can my company set up a standing account for the Columbia business parks?", a: "Yes. Corporate accounts with monthly invoicing are available for businesses along Columbia Gateway Drive and throughout Howard County." },
       { q: "Do you serve all of Columbia's villages, not just Town Center?", a: "Yes. We cover every village — Wilde Lake, Harper's Choice, Oakland Mills, Long Reach, Owen Brown, River Hill and King's Contrivance — with the same flat-rate pricing." },
-      { q: "Is gratuity included in the Columbia fare?", a: "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required." },
+      
     ],
     related: [
       { label: "Merriweather Post Pavilion Transportation", to: "/merriweather-post-pavilion-transportation" },
@@ -260,6 +262,7 @@ export const MARYLAND_BATCH6 = [
           "Dulles is nine miles away — 15 to 25 minutes depending on traffic — making Brambleton one of the closest communities in our entire service area to IAD. Reagan National is 32 miles, about 45 to 60 minutes via the Greenway and the Dulles Toll Road. Both airport runs are quoted as flat rates and include real-time flight tracking.",
           "Corporate accounts are common here given the concentration of data-center and technology employers nearby; a single standing account covers recurring employee transfers, vendor pickups and multi-site days across the Loudoun corridor with one confirmed rate.",
           "Rates for Brambleton trips are the same whether you book a week ahead or the same day, subject to availability, with no premium for early-morning or late-night pickups — often where rideshare pricing near Dulles moves the most.",
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles dispatched together so everyone arrives on schedule.",
         ],
       },
     ],
@@ -270,7 +273,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Can the chauffeur meet me inside the terminal at Dulles?", a: "Yes. Optional meet and greet places your chauffeur at baggage claim with a name sign. Complimentary wait time is 45 minutes on domestic arrivals and 60 minutes on international arrivals." },
       { q: "Do you handle transportation for data-center visits near Brambleton?", a: "Yes. Corporate accounts cover recurring visits, multi-site days and team transfers in Sprinter vans, with one confirmed rate for the full itinerary." },
       { q: "Is Brambleton service available overnight?", a: "Dispatch runs 24/7, so late arrivals, early departures and overnight pickups are booked and monitored the same way as a midday trip." },
-      { q: "Can you send more than one vehicle for a large Brambleton group?", a: "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles dispatched together so everyone arrives on schedule." },
+      
     ],
     related: [
       { label: "IAD to Ashburn Car Service", to: "/iad-to-ashburn-va" },
@@ -322,6 +325,7 @@ export const MARYLAND_BATCH6 = [
           "Every chauffeur is licensed, background-checked and trained specifically for teen group bookings, with a strict no-alcohol policy enforced throughout the night. Parents receive the chauffeur's direct number and a confirmed itinerary before the event, and can call dispatch at any point in the evening for a status update — a level of visibility a rideshare booking simply cannot offer.",
           "Vehicles are inspected and detailed before every homecoming booking, and our dispatch team tracks the group's schedule in real time, adjusting for a dinner reservation that runs long or a dance that lets out earlier than planned.",
           "Payment is settled in advance by the organizing parent, so there is no awkward splitting of a fare among teenagers at the end of the night, and gratuity is already built into the quoted flat rate.",
+          "Sprinter vans and stretch limousines require 12 hours",
         ],
       },
     ],
@@ -332,7 +336,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Is there a no-alcohol policy?", a: "Yes, strictly enforced. Chauffeurs are trained to handle teen group bookings appropriately and will not transport a group that violates the policy." },
       { q: "Can parents track the group or reach the chauffeur during the night?", a: "Yes. Parents receive the chauffeur's direct contact number and a confirmed itinerary in advance, and can call dispatch at any point for a status update." },
       { q: "What vehicles work best for a homecoming group?", a: "A luxury SUV fits a smaller group of up to six; a Sprinter van or stretch limousine fits larger groups of eight to fourteen comfortably with room for everyone to ride together." },
-      { q: "What is your cancellation policy for a homecoming booking?", a: "Sprinter vans and stretch limousines require 12 hours' notice for a free cancellation, which covers the vast majority of homecoming group bookings." },
+      
     ],
     related: [
       { label: "Maryland Prom Limo", to: "/maryland-prom-limo" },
@@ -389,6 +393,7 @@ export const MARYLAND_BATCH6 = [
         paragraphs: [
           "Gratuity is built into every quoted flat rate, so there is no additional tip expected or required, and a dedicated dispatcher is reachable by phone or text for the length of the weekend in case the service schedule shifts or a flight is delayed.",
           "Sedan and SUV bookings cancel free of charge up to 3 hours before pickup, while Sprinter van and multi-vehicle weekend packages require 12 hours' notice — a policy that comfortably covers a typical two-day mitzvah schedule planned weeks in advance.",
+          "Yes. We regularly coordinate a sedan for immediate family alongside a Sprinter van for extended family and guests, dispatched together on the same schedule. Yes. Every chauffeur operates under our Virginia and Maryland commercial carrier license with full insurance, the same standard applied to every booking we run.",
         ],
       },
     ],
@@ -399,8 +404,8 @@ export const MARYLAND_BATCH6 = [
       { q: "Do chauffeurs understand synagogue drop-off logistics?", a: "Yes. Our chauffeurs are experienced with synagogue timing and parking restrictions and plan drop-offs to leave the family time to spare before the service begins." },
       { q: "Can you also handle airport pickups for out-of-town family?", a: "Yes. We regularly coordinate Dulles, Reagan National and BWI pickups for guests flying in ahead of a mitzvah weekend, as part of the same booking." },
       { q: "How far in advance should we book?", a: "We recommend booking as soon as your date and venue are confirmed, especially for spring and fall weekends when mitzvah celebrations cluster heavily across the region." },
-      { q: "Can you send more than one vehicle if our family is large?", a: "Yes. We regularly coordinate a sedan for immediate family alongside a Sprinter van for extended family and guests, dispatched together on the same schedule." },
-      { q: "Are your chauffeurs licensed and insured for this type of booking?", a: "Yes. Every chauffeur operates under our Virginia and Maryland commercial carrier license with full insurance, the same standard applied to every booking we run." },
+      
+      
     ],
     related: [
       { label: "Maryland Wedding Limo", to: "/maryland-wedding-limo" },
@@ -506,6 +511,7 @@ export const MARYLAND_BATCH6 = [
         h2: "Corporate, tour and school group service",
         paragraphs: [
           "Mount Vernon is a popular stop for corporate groups entertaining visiting clients, embassy and diplomatic parties, and school and educational tour groups. Sprinter vans handle larger groups comfortably, and we coordinate timing with a planned Old Town Alexandria stop — lunch, shopping, or a walk along the waterfront — so the day reads as one seamless itinerary rather than two separate bookings.",
+          "Yes — many international and out-of-town visitors pair a Mount Vernon tour with their Dulles arrival or departure, since it is one of the most visited historic sites in the DC area. Yes, when booked as hourly as-directed service — the vehicle and chauffeur wait during your visit and continue to your next destination, whether that is downtown DC, Alexandria or back to the airport.",
         ],
       },
     ],
@@ -515,7 +521,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Can the chauffeur wait while we tour the estate?", a: "Yes. Hourly bookings include wait time while you tour Mount Vernon, so your vehicle and chauffeur are ready whenever you are finished, with no separate return trip to schedule." },
       { q: "Can we combine a Mount Vernon trip with Old Town Alexandria?", a: "Yes, this is one of our most common itineraries. Tell us when you book and we will build in time for lunch, shopping or a waterfront walk in Old Town on the way there or back." },
       { q: "Do you handle school or tour groups at Mount Vernon?", a: "Yes. Sprinter vans comfortably handle school groups, tour groups and corporate outings, quoted as a flat rate for the full itinerary." },
-      { q: "Is parking included in the price?", a: "Yes. Your flat rate covers the full trip including any estate parking fees for the vehicle — you are not billed separately." },
+      { q: "Is parking included in the price?", a: "Yes. Your flat rate covers the full trip including any estate parking fees for the vehicle — you are not billed separately." }
     ],
     related: [
       { label: "IAD to Alexandria", to: "/iad-to-alexandria" },
@@ -564,6 +570,8 @@ export const MARYLAND_BATCH6 = [
         h2: "Guest shuttles and reception transportation",
         paragraphs: [
           "For services followed by a reception at a separate location, we run a guest shuttle between the two so attendees — particularly older relatives — are not left arranging their own transportation on a difficult day. Vehicles are quoted as a flat rate for the full day's schedule, confirmed with the family in advance so there are no surprises.",
+          "Yes. Many families book a lead sedan along with one or more SUVs or a Sprinter van for extended family, coordinated to arrive and depart together rather than in separate cars. Yes. Chauffeurs wear formal attire and are trained to handle funeral and memorial bookings with quiet professionalism, without the commentary or curiosity that can feel intrusive on a difficult day.",
+          "We are available on evenings and weekends with the same calm, punctual standard.",
         ],
       },
     ],
@@ -573,7 +581,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Can you pick up out-of-town family from the airport?", a: "Yes. We track flights individually for Dulles, Reagan National and BWI arrivals in the days before a service, so each relative is met regardless of delays." },
       { q: "Do you provide a shuttle between the service and a reception?", a: "Yes. We run a guest shuttle between the two locations so attendees are not left arranging their own rides on a difficult day." },
       { q: "Is pricing a flat rate for the full day?", a: "Yes. We confirm a flat rate for the full day's schedule with the family in advance, with one point of contact for any changes." },
-      { q: "Are chauffeurs appropriately dressed and discreet?", a: "Yes. Chauffeurs are trained to be calm, punctual and quietly professional, dressed appropriately for the occasion." },
+      { q: "Are chauffeurs appropriately dressed and discreet?", a: "Yes. Chauffeurs are trained to be calm, punctual and quietly professional, dressed appropriately for the occasion." }
     ],
     related: [
       { label: "Maryland Wedding Limo", to: "/maryland-wedding-limo" },
