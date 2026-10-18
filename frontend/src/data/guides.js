@@ -1332,4 +1332,384 @@ export const GUIDES = [
       { label: 'Book Now', to: '/book-now' },
     ],
   },
+  {
+    slug: 'wheelchair-accessible-car-service-dulles-airport',
+    title: 'Wheelchair-Accessible Car Service at Dulles: What to Ask Before You Book',
+    metaTitle: 'Wheelchair-Accessible Car Service at Dulles Airport',
+    metaDescription:
+      'What to know about booking a wheelchair-accessible or mobility-friendly car service to and from Dulles Airport. Call (877) 609-1919 to arrange your ride.',
+    datePublished: '2026-10-17',
+    readTime: '6 min read',
+    excerpt:
+      'Mobility needs vary widely, and "wheelchair accessible" means different things to different providers. Here is what to ask before you book ground transportation to or from Dulles.',
+    intro: [
+      'Not every car labeled "accessible" is accessible in the way a specific passenger needs. A folding manual wheelchair that collapses into a trunk is a very different booking than a power chair that requires a ramp or a lift, and the vehicles that handle one often cannot handle the other. Getting specific when you book is the single most useful thing you can do to avoid a mismatch at the curb.',
+    ],
+    sections: [
+      {
+        heading: 'Start With the Equipment, Not the Word "Accessible"',
+        paragraphs: [
+          'When you call to book, describe the actual mobility equipment rather than relying on a general term: a folding manual wheelchair, a power wheelchair, a scooter, a walker, or a passenger who can transfer independently into a standard vehicle seat with the equipment folded and stowed separately. Each of these has a different best-fit vehicle, and a dispatcher who knows the equipment in advance can confirm the right car rather than guessing.',
+          'A folding manual wheelchair generally stows in the trunk or cargo area of a standard SUV once the passenger has transferred to the seat, which is the most common accommodation we arrange. A non-folding power wheelchair or scooter is a different situation entirely and may require a specific vehicle type or advance coordination — ask directly rather than assuming any SUV will work.',
+        ],
+      },
+      {
+        heading: 'Ask About the Vehicle, the Chauffeur and the Timing',
+        paragraphs: [
+          'Ask whether the chauffeur is able to assist with a transfer or with loading equipment, and be specific about what kind of assistance is needed — a hand to steady someone, or physical lifting, are very different requests with different safety considerations. A good dispatcher will tell you plainly what the chauffeur can and cannot do rather than overpromising to close the booking.',
+          'Also ask about timing. A pickup involving a transfer and equipment loading reasonably takes longer than a standard curb pickup, and a chauffeur who knows this in advance builds it into the schedule rather than treating it as an unexpected delay once they arrive.',
+        ],
+      },
+      {
+        heading: 'Airport-Specific Considerations at Dulles',
+        paragraphs: [
+          'Dulles has its own accessibility services for the terminal itself — wheelchair assistance between the gate and baggage claim, and accessible restrooms and elevators throughout the terminal — which are separate from your ground transportation booking. Confirm in-terminal wheelchair assistance directly with your airline in advance of the flight; it is not something a car service provider arranges for you inside the airport.',
+          'Where ground transportation comes in is the curb: tell your chauffeur which pickup zone you will be using and whether you will already be in a terminal-provided wheelchair at curbside, since that changes how the pickup proceeds compared with someone walking out independently.',
+        ],
+      },
+      {
+        heading: 'Booking in Advance Makes the Difference',
+        paragraphs: [
+          'Same-day accessible bookings are sometimes possible, but booking a day or more ahead gives dispatch time to confirm the right vehicle and brief the assigned chauffeur, rather than scrambling to match equipment to a car at the last minute. If your trip is recurring — a regular medical appointment or a standing travel schedule — ask about setting up the same details on file so you do not have to repeat them every time.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Can your vehicles accommodate a folding wheelchair?',
+        answer:
+          'Yes, in most cases. A folding manual wheelchair typically stows in the trunk or cargo area of a standard SUV once the passenger has transferred to the seat. Tell dispatch the specific equipment when you book so the right vehicle is assigned.',
+      },
+      {
+        question: 'Can you transport a power wheelchair or mobility scooter?',
+        answer:
+          'This depends on the specific equipment and may require advance coordination or a particular vehicle. Call (877) 609-1919 and describe the equipment so dispatch can confirm what is possible for your trip.',
+      },
+      {
+        question: 'Will the chauffeur help with a transfer into the vehicle?',
+        answer:
+          'Chauffeurs can assist in some situations, but the level of assistance varies and should be discussed specifically when you book — be clear about what kind of help is needed so expectations match on pickup day.',
+      },
+      {
+        question: 'Does Dulles provide wheelchair assistance inside the terminal?',
+        answer:
+          'Yes, but that is an airline and airport service, separate from ground transportation. Confirm in-terminal wheelchair assistance directly with your airline before your flight.',
+      },
+      {
+        question: 'Is there an extra charge for an accessible pickup?',
+        answer:
+          'No. There is no extra charge for accommodating mobility equipment, though we do ask for advance notice so the right vehicle and enough time are scheduled for the pickup.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Dulles Airport Meet and Greet', to: '/dulles-airport-meet-and-greet' },
+      { label: 'Dulles International Arrivals, Step by Step', to: '/blog/dulles-international-arrivals-step-by-step' },
+      { label: 'Airport Transfer Service', to: '/airport-transfer' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'senior-medical-appointment-car-service-nova',
+    title: 'Non-Emergency Medical Appointment Car Service for Seniors in Northern Virginia',
+    metaTitle: 'Senior Medical Appointment Car Service | NoVA',
+    metaDescription:
+      'A chauffeured alternative to rideshare for seniors in Northern Virginia getting to medical appointments. Reliable, on-time, door-to-door. Call (877) 609-1919.',
+    datePublished: '2026-10-17',
+    readTime: '5 min read',
+    excerpt:
+      'A missed or late ride to a medical appointment is more than an inconvenience for an older passenger. Here is how scheduled chauffeured service compares with rideshare for this specific trip.',
+    intro: [
+      'Getting an aging parent or relative to a cardiology follow-up, a dialysis session or a specialist appointment reliably is a different problem than booking a ride for yourself. The passenger may move more slowly, may need a hand at the curb, and almost never benefits from an app that assigns an unfamiliar driver fifteen minutes before pickup. A scheduled car service built around dependability solves a real, recurring need for families managing a loved one\'s care.',
+    ],
+    sections: [
+      {
+        heading: 'Why Rideshare Is a Weak Fit for This Trip',
+        paragraphs: [
+          'Rideshare apps are built for speed and price, not for consistency with a specific passenger. The driver changes every time, pickup windows can slip without warning, and there is no dispatcher to call if the assigned car is running late and an appointment is about to start. For a passenger who needs a few extra minutes to get to the curb, or who gets anxious about an unfamiliar car pulling up, this unpredictability is a genuine problem rather than a minor annoyance.',
+          'A scheduled car service removes most of that uncertainty. The pickup time is confirmed in advance, a dispatcher is reachable if anything changes, and the chauffeur knows to allow extra time at both ends of the trip rather than treating a slower-moving passenger as a delay.',
+        ],
+      },
+      {
+        heading: 'What to Tell Dispatch When You Book',
+        paragraphs: [
+          'Mention any mobility equipment, whether the passenger needs a hand getting in and out of the vehicle, and the exact address and entrance of the medical office or facility, since many medical campuses have multiple buildings and a confusing layout for a first-time pickup. The more specific the booking, the less that is left to figure out on the day.',
+          'If the appointment is recurring — weekly dialysis, regular physical therapy, standing specialist visits — ask about keeping these details on file so you are not repeating them with every booking, and consider setting a standing pickup time if the schedule is consistent week to week.',
+        ],
+      },
+      {
+        heading: 'Door-to-Door, Not Curb-to-Curb',
+        paragraphs: [
+          'The difference between a chauffeur who waits at the car and one who walks a passenger to the door matters enormously for an older or less mobile rider, particularly in bad weather or on an unfamiliar medical campus. Ask specifically what level of assistance is included so you know what to expect, and be clear in advance if a passenger will need an arm to lean on rather than just a car to ride in.',
+          'The same applies on the return trip: appointments run long or finish early more often than they run on schedule, and a chauffeur who is told to expect some flexibility handles that far better than a rideshare pickup window that assumes the appointment ends exactly on time.',
+        ],
+      },
+      {
+        heading: 'Planning for the Whole Family',
+        paragraphs: [
+          'Many families set up recurring transportation for a parent precisely because it takes one logistics problem off everyone\'s plate permanently rather than solving it appointment by appointment. A single phone call to set up the service, with the details on file, means every future booking is simpler than the last.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Can the chauffeur walk my family member to the door of the medical office?',
+        answer:
+          'In most cases, yes — tell dispatch when you book that door-to-door assistance is needed so the chauffeur plans for it rather than treating it as an unexpected request on pickup day.',
+      },
+      {
+        question: 'What if the appointment runs long or finishes early?',
+        answer:
+          'Tell us the appointment may run flexible when you book, and we build that into the pickup plan. A dispatcher is reachable to adjust timing if the appointment finishes earlier or later than expected.',
+      },
+      {
+        question: 'Can I set up recurring transportation for a parent\'s weekly appointments?',
+        answer:
+          'Yes. Many families set up a standing arrangement for recurring appointments such as dialysis or physical therapy, with the details kept on file so each booking is simpler.',
+      },
+      {
+        question: 'Do you accommodate a passenger with a walker or wheelchair?',
+        answer:
+          'Yes in most cases — describe the specific mobility equipment when you book so the right vehicle and any needed assistance are arranged in advance.',
+      },
+      {
+        question: 'What does this kind of medical appointment transportation cost?',
+        answer:
+          'Every trip is a flat rate confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote on a one-time or recurring booking.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Wheelchair-Accessible Car Service at Dulles', to: '/wheelchair-accessible-car-service-dulles-airport' },
+      { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
+      { label: 'Corporate Car Service vs. Rideshare', to: '/corporate-car-service-vs-rideshare' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'newborn-hospital-to-home-car-service-guide',
+    title: 'Bringing Baby Home: A Car Service Guide for New Parents in Northern Virginia',
+    metaTitle: 'Newborn Hospital-to-Home Car Service | NoVA',
+    metaDescription:
+      'Planning the ride home from the hospital with a newborn? What to know about booking a calm, unhurried car service in Northern Virginia. Call (877) 609-1919.',
+    datePublished: '2026-10-17',
+    readTime: '5 min read',
+    excerpt:
+      'The ride home from the hospital with a newborn is a small thing that feels enormous in the moment. Here is how to plan it so it is one less thing to worry about.',
+    intro: [
+      'New parents spend months planning a nursery and picking a pediatrician, and then the ride home from the hospital — the first time the baby is ever in a moving vehicle — often gets planned the day before, or not at all. It deserves more thought than that, mostly because the day itself tends to be slower, more emotional and less predictable than anyone expects going in.',
+    ],
+    sections: [
+      {
+        heading: 'Why This Ride Is Different',
+        paragraphs: [
+          'A hospital discharge rarely happens exactly on schedule. Paperwork takes longer than expected, a pediatrician\'s final check can run late, and a parent recovering from delivery may move more slowly than usual. A car service built around a fixed-fee rideshare pickup window does not handle that flexibility gracefully; a scheduled chauffeur who knows the discharge time is approximate, not exact, does.',
+          'There is also the car seat. Most hospitals will not discharge a newborn without one properly installed, and many first-time parents install it incorrectly or for the first time in the hospital parking lot under pressure. Handling this before the discharge day removes one more variable from an already overwhelming morning.',
+        ],
+      },
+      {
+        heading: 'The Car Seat Question',
+        paragraphs: [
+          'You can bring your own infant car seat and have it installed in advance, or ask about a provided seat if you would rather not manage installation yourself on a tight timeline. Either way, settle this before the day of discharge — many local fire and police stations also offer free car seat installation checks, which is worth doing regardless of which car service you use.',
+          'If you are bringing your own seat, tell dispatch the exact model when you book so the chauffeur knows what to expect and can confirm compatibility with the vehicle in advance rather than discovering an issue at pickup.',
+        ],
+      },
+      {
+        heading: 'Plan for a Slower, Calmer Drive',
+        paragraphs: [
+          'Ask your chauffeur to drive gently — no hard stops, no quick lane changes, nothing that would have been fine on an ordinary trip but feels different with a days-old infant and a recovering parent in the back seat. A good chauffeur will already default to this once told, but it is worth saying explicitly rather than assuming.',
+          'Build in extra time on both ends. Loading a car seat, settling a parent who may still be sore from delivery, and making sure everyone is buckled correctly all take longer than a typical pickup, and a chauffeur who expects this handles it far better than one rushing to the next booking.',
+        ],
+      },
+      {
+        heading: 'Beyond the Hospital Discharge',
+        paragraphs: [
+          'The same planning applies to the first pediatrician visits in the following weeks, when a newborn is similarly fragile and a parent is similarly exhausted. Many families keep using a scheduled car service for these early appointments simply because it removes one source of stress during a genuinely difficult stretch.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Do I need to bring my own car seat, or can you provide one?',
+        answer:
+          'Either works. You can bring your own infant car seat and have it installed in advance, or ask about a provided seat — tell dispatch your preference when you book so it is ready on discharge day.',
+      },
+      {
+        question: 'What if the hospital discharge runs later than expected?',
+        answer:
+          'That is common, and a scheduled chauffeur plans for it. Tell us the estimated window when you book and we treat the exact pickup time as flexible rather than fixed.',
+      },
+      {
+        question: 'Can the chauffeur drive more gently than usual with a newborn aboard?',
+        answer:
+          'Yes — ask explicitly and your chauffeur will avoid hard stops and quick lane changes, driving at a calmer pace appropriate for a days-old infant and a recovering parent.',
+      },
+      {
+        question: 'Can I book this same car service for early pediatrician visits?',
+        answer:
+          'Yes. Many families continue using scheduled car service for the first few weeks of pediatrician appointments, when a newborn is still fragile and a parent is often exhausted.',
+      },
+      {
+        question: 'What does hospital-to-home transportation cost?',
+        answer:
+          'Every trip is a flat rate confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Senior Medical Appointment Car Service', to: '/senior-medical-appointment-car-service-nova' },
+      { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
+      { label: 'Flying With Pets Through Dulles', to: '/flying-with-pets-through-dulles-car-service' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'pentagon-fort-belvoir-visitor-transportation-guide',
+    title: 'Visitor and PCS-Move Transportation Guide: Pentagon and Fort Belvoir',
+    metaTitle: 'Pentagon & Fort Belvoir Visitor Car Service Guide',
+    metaDescription:
+      'Chauffeured transportation for visitors, PCS moves and official travel to the Pentagon and Fort Belvoir. Security gate pickups explained. Call (877) 609-1919.',
+    datePublished: '2026-10-17',
+    readTime: '6 min read',
+    excerpt:
+      'Visiting the Pentagon or Fort Belvoir, or moving a military family into the area on a PCS order, involves logistics that a standard rideshare trip does not handle well. Here is what to expect.',
+    intro: [
+      'The Pentagon in Arlington and Fort Belvoir in Fairfax County are two of the largest employment sites in the region, and both involve a level of access control, gate procedure and security awareness that most ground transportation trips do not. Visitors, official travelers and military families moving into the area on a Permanent Change of Station order all run into the same basic question: how does a car actually get you onto, or near, a secured installation?',
+    ],
+    sections: [
+      {
+        heading: 'What a Chauffeur Can and Cannot Do at a Secured Gate',
+        paragraphs: [
+          'Neither the Pentagon nor Fort Belvoir allows a commercial vehicle to simply drive through a checkpoint without the proper credentials for the driver and the vehicle. For most visitor trips, that means a chauffeur drops you at a designated visitor entrance or a point just outside the gate where you proceed in on foot or are met by your host, rather than being driven directly to an interior building. We confirm the correct drop-off point for your specific destination before the day of the trip, since it varies by building and by installation.',
+          'If your trip requires an escort onto base, or if your host is able to provide gate clearance for a vehicle in advance, tell us when you book so we can plan around whatever arrangement your point of contact sets up. We cannot obtain base access credentials ourselves, so any clearance beyond a standard visitor drop-off needs to be arranged on your end with the installation.',
+        ],
+      },
+      {
+        heading: 'Pentagon Visits: What to Expect',
+        paragraphs: [
+          'The Pentagon\'s visitor processes require advance coordination through your host or sponsor, and a chauffeur\'s role is to get you to the correct visitor entrance on time, not to navigate base access on your behalf. We know the approach roads — Route 27, I-395 and the Pentagon\'s surrounding interchanges — and build in time for the area\'s notoriously heavy, security-conscious traffic pattern, especially during peak commute hours.',
+          'For official and diplomatic visitors, we also coordinate pickups from Reagan National, which sits just minutes from the Pentagon, making it a common combination for same-day meetings.',
+        ],
+      },
+      {
+        heading: 'Fort Belvoir and PCS-Move Logistics',
+        paragraphs: [
+          'Fort Belvoir in Fairfax County is both a major workplace and a residential post, and we regularly serve two very different kinds of trips there: daily commuters and visitors needing a drop-off near a specific building, and military families arriving in the area on PCS orders who need transportation from Dulles or Reagan National to temporary lodging while they handle household goods delivery, housing paperwork and school enrollment.',
+          'A PCS move is rarely a single clean trip — it is often an airport pickup, a stop at temporary lodging, and errands across Fairfax County and Fort Belvoir over the following days while a family gets settled. We can quote this as a short series of bookings or as hourly service for the heaviest days, whichever fits the family\'s actual schedule better.',
+        ],
+      },
+      {
+        heading: 'Booking Ahead for Official and Family Travel',
+        paragraphs: [
+          'Whether the trip is an official visitor meeting, a conference at one of these installations, or a family\'s first week in a new assignment area, booking a day or more ahead lets us confirm the correct drop-off logistics and brief the assigned chauffeur, rather than sorting out gate procedures in real time on the day of travel.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'Can a chauffeur drive directly onto the Pentagon or Fort Belvoir?',
+        answer:
+          'Generally no. Commercial vehicles without proper credentials are dropped at a designated visitor entrance or a point outside the gate. We confirm the correct drop-off point for your specific destination in advance.',
+      },
+      {
+        question: 'Can you get base access or a gate pass for my driver?',
+        answer:
+          'No. We cannot obtain base access credentials ourselves — any clearance beyond a standard visitor drop-off needs to be arranged on your end with your host or sponsor at the installation.',
+      },
+      {
+        question: 'Do you help families moving to the area on PCS orders?',
+        answer:
+          'Yes. We regularly run airport pickups, temporary lodging transfers and multi-day errand trips for military families settling into Fort Belvoir and the surrounding area, quoted per trip or as hourly service.',
+      },
+      {
+        question: 'How far is the Pentagon from Reagan National Airport?',
+        answer:
+          'Just a few miles — typically a short ride, which makes same-day Pentagon meetings and Reagan National arrivals a common combination for official and diplomatic visitors.',
+      },
+      {
+        question: 'What does Pentagon or Fort Belvoir visitor transportation cost?',
+        answer:
+          'Every trip is a flat rate confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote on a one-time or multi-day booking.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Corporate Car Service vs. Rideshare', to: '/corporate-car-service-vs-rideshare' },
+      { label: 'Arlington Limo Service', to: '/arlington-limo-service' },
+      { label: 'Fairfax County Car Service', to: '/fairfax-county-car-service' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
+  {
+    slug: 'national-cherry-blossom-festival-dc-chauffeur-guide',
+    title: 'National Cherry Blossom Festival: A Chauffeur Guide to DC in Bloom',
+    metaTitle: 'Cherry Blossom Festival DC Chauffeur Guide',
+    metaDescription:
+      'Planning a trip to the National Cherry Blossom Festival in DC? A chauffeur guide to timing, parking and crowds. Call (877) 609-1919 to book.',
+    datePublished: '2026-10-17',
+    readTime: '6 min read',
+    excerpt:
+      'Peak bloom lasts about a week, the crowds are enormous, and parking near the Tidal Basin disappears early. Here is how to see the cherry blossoms without the logistics ruining the morning.',
+    intro: [
+      'The National Cherry Blossom Festival draws over a million visitors to Washington DC across several weeks every spring, nearly all of them converging on the same few blocks around the Tidal Basin during the narrow window of peak bloom. It is one of the most beautiful times to be in the city and one of the worst times to be looking for parking there.',
+    ],
+    sections: [
+      {
+        heading: 'Peak Bloom Is a Moving Target',
+        paragraphs: [
+          'The National Park Service issues a peak bloom prediction months in advance and refines it as the date approaches, but the actual window — typically just four to seven days when the blossoms are at their fullest — depends on the weather and can shift by a week or more in either direction. If seeing peak bloom specifically matters to your trip, check the current prediction before you travel rather than relying on last year\'s dates, and build flexibility into your schedule if you can.',
+          'Flying into Dulles for the festival adds another layer of timing: track the peak bloom window and your flight dates together, since a trip booked around a specific calendar week rather than the actual bloom can miss it in either direction.',
+        ],
+      },
+      {
+        heading: 'Why Driving Yourself Is the Hard Way to Do This',
+        paragraphs: [
+          'Parking near the Tidal Basin is scarce on an ordinary day and effectively gone by mid-morning during peak bloom weekends. Streets close for festival events, pedestrian volume slows traffic to a crawl around the Basin, and a self-driven visit often means parking well away from the monuments and walking a significant distance before the trip even starts.',
+          'A chauffeured visit removes all of that. You are dropped as close to the Basin as road closures allow, and your chauffeur can circle, wait, or reposition to a new pickup point rather than you hunting for a parking spot that does not exist.',
+        ],
+      },
+      {
+        heading: 'Planning the Day Around the Crowds',
+        paragraphs: [
+          'Early morning, before most visitors arrive, is consistently the calmest time to see the blossoms and get photos without a crowd in every frame. A chauffeur can get you there for sunrise and then handle a second trip later for festival events — the kite festival, the parade, evening illumination — without you managing parking twice in one day.',
+          'If your group includes young children or anyone who tires from a lot of walking, having a vehicle on call to retreat to for a break, a snack or simply a sit-down between walking stretches makes a long festival day considerably more manageable than committing to a single long walk from a distant parking spot.',
+        ],
+      },
+      {
+        heading: 'Combining the Festival With a Dulles Arrival',
+        paragraphs: [
+          'Many visitors fly into Dulles specifically for the festival, and we regularly combine an airport pickup with a direct trip to the Tidal Basin or a hotel, timed around the bloom and the day\'s festival schedule. Call (877) 609-1919 or book online to plan the full visit as one itinerary.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How do I know when peak bloom will happen?',
+        answer:
+          'The National Park Service issues and refines a peak bloom prediction as the date approaches, but the actual window is weather-dependent and can shift by a week or more — check the current prediction close to your travel dates rather than relying on a prior year.',
+      },
+      {
+        question: 'Is parking near the Tidal Basin realistic during the festival?',
+        answer:
+          'Not during peak bloom. Parking near the Basin is scarce on an ordinary day and is typically gone by mid-morning during festival weekends, with street closures adding further complication.',
+      },
+      {
+        question: 'What is the best time of day to see the blossoms with fewer crowds?',
+        answer:
+          'Early morning, before most visitors arrive, is consistently the calmest time for photos and a quieter walk around the Basin.',
+      },
+      {
+        question: 'Can you combine a Dulles arrival with a trip straight to the festival?',
+        answer:
+          'Yes. We regularly combine an airport pickup with a direct trip to the Tidal Basin or a hotel, timed around the bloom window and the day\'s festival events.',
+      },
+      {
+        question: 'What does cherry blossom festival transportation cost?',
+        answer:
+          'Every trip is a flat rate confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote.',
+      },
+    ],
+    relatedLinks: [
+      { label: 'Washington DC From Dulles Transportation Guide', to: '/washington-dc-from-dulles-transportation-guide' },
+      { label: 'Holiday Lights Limo Tours Guide', to: '/holiday-lights-limo-tours-guide' },
+      { label: 'Georgetown Limo Service', to: '/georgetown-limo-service' },
+      { label: 'Book Now', to: '/book-now' },
+    ],
+  },
 ];

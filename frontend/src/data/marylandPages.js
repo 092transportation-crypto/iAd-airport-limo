@@ -6,6 +6,7 @@ import { MARYLAND_BATCH4 } from './marylandPagesBatch4';
 import { MARYLAND_BATCH5 } from './marylandPagesBatch5';
 import { MARYLAND_BATCH6 } from './marylandPagesBatch6';
 import { MARYLAND_BATCH7 } from './marylandPagesBatch7';
+import { MARYLAND_BATCH8 } from './marylandPagesBatch8';
 
 export const MARYLAND_PAGES = [
   {
@@ -619,6 +620,14 @@ export const MARYLAND_PAGES = [
       {
         "label": "Bethesda Limo Service",
         "to": "/bethesda-limo-service"
+      },
+      {
+        "label": "Wheaton, MD Limo Service",
+        "to": "/wheaton-md-limo-service"
+      },
+      {
+        "label": "Takoma Park Limo Service",
+        "to": "/takoma-park-limo-service"
       },
       {
         "label": "Gaithersburg Limo Service",
@@ -10378,6 +10387,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH6,
   // Batch 7 (2026-10-16, 15 new NoVA/DC-metro city pages) lives in its own file.
   ...MARYLAND_BATCH7,
+  // Batch 8 (2026-10-17, 15 new DC neighborhood/VA horse-country/MD city pages) lives in its own file.
+  ...MARYLAND_BATCH8,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).

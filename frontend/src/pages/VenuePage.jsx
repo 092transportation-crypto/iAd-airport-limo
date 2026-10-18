@@ -108,6 +108,22 @@ const VenuePage = ({ slug }) => {
         </div>
       </section>
 
+      {/* Nearby Service Areas */}
+      {venue.related && venue.related.length > 0 && (
+        <section className="py-12 bg-[#0a0a0a] border-t border-white/10">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6">
+            <h2 className="font-display text-xl sm:text-2xl text-white text-center mb-8">Nearby Service Areas</h2>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-3 text-center">
+              {venue.related.map((r) => (
+                <Link key={r.to} to={r.to} className="text-white/60 hover:text-white text-sm py-2 border border-white/10 hover:border-white/40 transition-colors">
+                  {r.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Other Venues */}
       <section className="py-12 bg-black border-t border-white/10">
         <div className="max-w-5xl mx-auto px-4 sm:px-6">

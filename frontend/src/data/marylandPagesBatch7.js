@@ -58,7 +58,7 @@ export const MARYLAND_BATCH7 = [
         paragraphs: [
           "Lansdowne bookings range from Lansdowne Resort and Spa wedding and conference guests to daily executive commutes into DC and Tysons, and River Creek Club members heading to and from the airport for golf trips. Our chauffeurs know the resort's sprawling layout well enough to confirm an exact pickup point rather than leaving guests guessing which entrance to wait at.",
           "Gratuity is built into every quoted flat rate, and a dedicated dispatcher is reachable by phone or text for the length of any Lansdowne booking in case a conference session runs long or a flight shifts.",
-          "Usually, yes, especially for sedans and SUVs. Call (877) 609-1919 for the fastest answer on same-day availability.",
+          "Same-day bookings are usually available, especially for sedans and SUVs — call (877) 609-1919 to confirm.",
         ],
       },
     ],
@@ -127,7 +127,7 @@ export const MARYLAND_BATCH7 = [
         paragraphs: [
           "Stone Ridge bookings range from daily executive commutes into Tysons and DC to family airport transfers with car seats, school-event transportation for John Champe families, and corporate service for the growing business parks along Loudoun County Parkway. Our chauffeurs are used to a community built around schools and youth sports, and plan pickups with that traffic pattern in mind.",
           "Gratuity is built into every quoted flat rate, so there is no additional tip expected, and a dedicated dispatcher is reachable by phone or text for the length of any Stone Ridge booking.",
-          "Usually, yes, especially for sedans and SUVs outside peak arrival banks. Call (877) 609-1919 for the fastest answer.",
+          "Same-day bookings are usually available, especially for sedans and SUVs outside peak arrival banks — call (877) 609-1919 to confirm.",
         ],
       },
     ],
@@ -333,7 +333,7 @@ export const MARYLAND_BATCH7 = [
         paragraphs: [
           "Kingstowne bookings range from family airport transfers with car seats to daily executive commutes into DC and Tysons, and corporate accounts for the office parks near the interchange. Our chauffeurs are familiar with the community's village layout and plan pickups accordingly rather than guessing at a building number.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event bookings.",
-          "Usually, yes — call (877) 609-1919 for the fastest answer on same-day availability. Yes. We coordinate multiple vehicles dispatched together so each flight is tracked individually and everyone reaches home or the hotel on schedule.",
+          "Same-day bookings are usually available — call (877) 609-1919 to confirm. For families or groups flying on separate itineraries, we coordinate multiple vehicles dispatched together so each flight is tracked individually and everyone reaches home or the hotel on schedule.",
         ],
       },
     ],
@@ -402,7 +402,7 @@ export const MARYLAND_BATCH7 = [
         paragraphs: [
           "Fair Oaks bookings range from mall shopping trips and family airport transfers to corporate service for the office parks along Route 50. Our chauffeurs know the area's retail-heavy layout and plan pickups at a specific mall entrance or office address rather than a general parking lot.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings.",
-          "Usually, yes — call (877) 609-1919 for the fastest answer on same-day availability. Yes. Corporate accounts with monthly consolidated invoicing are available for companies with recurring travel to and from the Route 50 office corridor.",
+          "Same-day bookings are usually available — call (877) 609-1919 to confirm. Corporate accounts with monthly consolidated invoicing are available for companies with recurring travel to and from the Route 50 office corridor.",
           "Weekend mall traffic and hospital visitor parking are both factors our chauffeurs plan around when timing a Fair Oaks pickup.",
         ],
       },
@@ -471,7 +471,7 @@ export const MARYLAND_BATCH7 = [
         h2: "Airport transfers and shopping-center trips",
         paragraphs: [
           "Reagan National is about 20 miles, 28 to 38 minutes via I-66 and the Beltway, and BWI runs about 46 miles. Every arrival is flight-tracked, with 45 minutes of complimentary wait on domestic flights and 60 on international. Fair Lakes Shopping Center trips are booked the same way as any local pickup, often combined with a nearby office meeting on the same itinerary.",
-          "Usually, yes — call (877) 609-1919 for the fastest answer on same-day availability. Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required at drop-off.",
+          "Same-day bookings are usually available — call (877) 609-1919 to confirm. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required at drop-off.",
           "Lunch and dinner reservations at the shopping center are easy to combine with a nearby office meeting on the same itinerary, confirmed as one flat rate.",
         ],
       },
@@ -541,7 +541,7 @@ export const MARYLAND_BATCH7 = [
         paragraphs: [
           "Seven Corners bookings commonly include trips into DC, Arlington and Falls Church for work, shopping and dining, alongside the airport transfers that make up the bulk of our business here. Because the interchange itself can add unpredictable time to any trip, our chauffeurs build in a buffer rather than quoting an optimistic drive time that falls apart in real traffic.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings.",
-          "Usually, yes — call (877) 609-1919 for the fastest answer on same-day availability.",
+          "Same-day bookings are usually available — call (877) 609-1919 to confirm.",
         ],
       },
     ],
@@ -608,7 +608,7 @@ export const MARYLAND_BATCH7 = [
         h2: "Serving a dense, diverse community",
         paragraphs: [
           "Bailey's Crossroads is one of the most densely populated and internationally diverse communities in Northern Virginia, and our chauffeurs are used to multi-stop pickups across apartment complexes, office towers and the Leesburg Pike retail strip in a single booking. Whether the trip is a family's first airport pickup after arriving in the US or a daily commute into DC, the service standard — flat rate, flight tracking, professional chauffeur — stays the same.",
-          "Usually, yes, especially given the short distance to Reagan National. Call (877) 609-1919 for the fastest answer.",
+          "Same-day bookings are usually available, especially given the short distance to Reagan National — call (877) 609-1919 to confirm.",
           "International grocery and restaurant trips along Leesburg Pike are also a regular local booking for residents without a car.",
         ],
       },
@@ -678,7 +678,7 @@ export const MARYLAND_BATCH7 = [
         paragraphs: [
           "Franconia bookings commonly include VRE and Metro commuter transfers, corporate travel for the office parks along Telegraph Road, and family airport transfers. Our chauffeurs are familiar with the area's mix of established residential streets and newer office development, and plan pickups accordingly.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings.",
-          "Usually, yes — call (877) 609-1919 for the fastest answer on same-day availability. Yes. Infant, convertible and booster seats are available on request at no extra charge — note the ages of any children when you book.",
+          "Same-day bookings are usually available — call (877) 609-1919 to confirm. Infant, convertible and booster seats are available on request at no extra charge — note the ages of any children when you book.",
         ],
       },
     ],
@@ -747,7 +747,7 @@ export const MARYLAND_BATCH7 = [
         h2: "Airport transfers and corporate travel from Bristow",
         paragraphs: [
           "Dulles is about 25 miles — 30 to 40 minutes via I-66 — and remains the most practical airport for most Bristow trips, with Reagan National at 35 miles and BWI at 60 miles also available at the same flat-rate structure. Corporate accounts cover the growing Innovation Park biotech and technology employers with recurring transfers and consolidated monthly invoicing.",
-          "Usually, yes, outside concert nights and major events. Call (877) 609-1919 for the fastest answer.",
+          "Same-day bookings are usually available outside concert nights and major events at Jiffy Lube Live — call (877) 609-1919 to confirm.",
         ],
       },
     ],
@@ -761,11 +761,11 @@ export const MARYLAND_BATCH7 = [
       
     ],
     related: [
+      { label: "Jiffy Lube Live Transportation", to: "/jiffy-lube-live-transportation" },
       { label: "Manassas Limo Service", to: "/manassas-limo-service" },
       { label: "Gainesville, VA Limo Service", to: "/gainesville-va-limo-service" },
       { label: "Haymarket Limo Service", to: "/haymarket-limo-service" },
       { label: "Nokesville Limo Service", to: "/nokesville-limo-service" },
-      { label: "Concert Transportation", to: "/concert-transportation" },
       { label: "Prince William County Car Service", to: "/prince-william-county-car-service" },
     ],
     schema: { areaServed: ["Bristow, VA", "Prince William County"], serviceType: "Limousine and car service" },

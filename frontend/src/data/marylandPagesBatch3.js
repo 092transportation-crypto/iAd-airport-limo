@@ -762,6 +762,8 @@ export const MARYLAND_BATCH3 = [
       { label: "IAD to Arlington Car Service", to: "/iad-to-arlington" },
       { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },
       { label: "McLean Limo Service", to: "/mclean-limo-service" },
+      { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
+      { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
       { label: "Kennedy Center Transportation", to: "/kennedy-center-transportation" },
       { label: "Audi Field Transportation", to: "/audi-field-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
