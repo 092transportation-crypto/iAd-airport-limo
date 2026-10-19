@@ -1074,7 +1074,7 @@ export const GUIDES = [
       },
     ],
     relatedLinks: [
-      { label: 'IAD Airport Limo Cost 2026 Guide', to: '/blog/how-much-does-dulles-airport-car-service-cost-2026' },
+      { label: 'IAD Airport Limo Cost 2026 Guide', to: '/blog/how-much-does-dulles-airport-limo-cost' },
       { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
       { label: 'Uber vs Limo Service', to: '/uber-vs-limo-service' },
       { label: 'Dulles Airport Meet and Greet', to: '/dulles-airport-meet-and-greet' },
