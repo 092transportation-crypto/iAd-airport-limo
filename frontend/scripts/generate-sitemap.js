@@ -58,6 +58,16 @@ add("/fleet", { priority: "0.9" });
 add("/airport-transfer", { priority: "0.9" });
 add("/service-areas", { priority: "0.8" });
 add("/corporate", { priority: "0.8" });
+// Vehicle & service category routes (/vehicles/:category, /services/:type) are
+// client-side-param routes with their own real content per category/type —
+// list every known value explicitly so prerender renders and sitemaps them.
+add("/vehicles/sedans", { priority: "0.8" });
+add("/vehicles/suv", { priority: "0.8" });
+add("/vehicles/sprinters", { priority: "0.8" });
+add("/vehicles/buses", { priority: "0.8" });
+add("/services/personal", { priority: "0.8" });
+add("/services/corporate", { priority: "0.8" });
+add("/services/events", { priority: "0.8" });
 add("/wedding-limo", { priority: "0.7" });
 add("/wine-tours", { priority: "0.7" });
 add("/birthday-limo", { priority: "0.6" });
