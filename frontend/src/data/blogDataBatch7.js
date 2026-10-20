@@ -39,6 +39,15 @@ const batch7 = [
           'Potomac and Bethesda estate venues along the American Legion Bridge corridor are a frequent booking for DC-area couples, along with the country club circuit in that same stretch of Montgomery County. Frederick County draws couples toward its barns and vineyards along I-270 and Route 15, including Ceresville Mansion — a longer drive from DC that benefits from a chauffeur who plans around Route 15 traffic patterns rather than a straight GPS estimate.',
           'On the Eastern Shore, Chesapeake Bay Beach Club is a common Bay Bridge wedding destination; the two-hour-plus drive from Northern Virginia in summer traffic is exactly the kind of trip where a flat, confirmed rate beats an unpredictable rideshare fare that climbs with distance and demand. In Loudoun County, the wine-country venues along the Route 15 and Route 50 corridors host a steady run of vineyard weddings, where gravel drives and limited turnaround space call for a chauffeur experienced with those specific properties. And inside DC itself, hotel ballroom weddings remain common, where curbside coordination with hotel staff and valet is its own small skill a chauffeur builds only by doing it repeatedly.',
         ],
+        subsections: [
+          {
+            heading: 'Northern Virginia Wedding Markets, City by City',
+            paragraphs: [
+              'Leesburg and the surrounding Loudoun estates — Morven Park, Lansdowne Resort and Belmont Country Club among them — make up one of our busiest wedding markets, and we cover the full day as a single hourly reservation from getting-ready through the reception exit; see our Leesburg wedding limo page for how that schedule is typically built.',
+              'Closer to Dulles, Reston, Alexandria\'s Old Town, Vienna, Ashburn and the Fauquier County horse country around Warrenton each have their own wedding-day logistics worth planning around separately — narrow Old Town streets, Meadowlark Botanical Gardens\' limited parking, and rural gravel entrances at Fauquier estate venues all call for a slightly different vehicle plan, which our city-specific wedding transportation pages cover in more detail.',
+            ],
+          },
+        ],
       },
       {
         heading: 'Building the Timeline With Your Planner or Venue',
@@ -143,6 +152,8 @@ const batch7 = [
       { label: 'Wedding Limo Service', to: '/wedding-limo' },
       { label: 'Wedding Limo Service in Northern Virginia: The Complete Planning Guide', to: '/blog/wedding-limo-service-northern-virginia' },
       { label: 'How Many Cars Do You Actually Need for Your Wedding Party?', to: '/blog/how-many-cars-wedding-party-transportation' },
+      { label: 'Leesburg Limo Service for Weddings', to: '/leesburg-wedding-limo-service' },
+      { label: 'Reston Limo Service for Weddings', to: '/reston-wedding-limo-service' },
       { label: 'Our Fleet', to: '/fleet' },
       { label: 'Contact Us', to: '/contact' },
       { label: 'Book Now', to: '/book-now' },

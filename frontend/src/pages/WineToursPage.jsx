@@ -7,6 +7,8 @@ import { Wine, Map, Users, DollarSign, Calendar, CheckCircle2 } from 'lucide-rea
 import { Link } from 'react-router-dom';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import RelatedLinksSection from '../components/RelatedLinksSection';
+import { CORE_SERVICE_LINKS } from '../lib/coreServiceLinks';
 
 const wineFaqs = [
   {
@@ -236,6 +238,19 @@ const WineToursPage = () => {
           </div>
         </div>
       </section>
+
+      {/* Related Services + Nearby Areas */}
+      <RelatedLinksSection
+        services={CORE_SERVICE_LINKS}
+        areas={[
+          { label: 'Leesburg Limo Service', to: '/leesburg-limo-service' },
+          { label: 'Middleburg Limo Service', to: '/middleburg-limo-service' },
+          { label: 'Purcellville Limo Service', to: '/purcellville-limo-service' },
+          { label: 'Loudoun County Car Service', to: '/loudoun-county-car-service' },
+          { label: 'Loudoun Wine Country Day Trip Guide', to: '/blog/loudoun-wine-country-day-trip-by-chauffeur' },
+          { label: 'Ashburn Limo Service', to: '/ashburn-limo-service' },
+        ]}
+      />
 
       <FaqSection faqs={wineFaqs} />
 

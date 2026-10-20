@@ -9,6 +9,8 @@ import { GUIDES } from '../data/guides';
 // Blog posts live at /blog/<slug>; guides (data/guides.js) share this template at /<slug>.
 const postPath = (p) => (GUIDES.includes(p) ? `/${p.slug}` : `/blog/${p.slug}`);
 import { Phone, ArrowRight, Calendar, Clock, ChevronRight } from 'lucide-react';
+import RelatedLinksSection from '../components/RelatedLinksSection';
+import { CORE_SERVICE_LINKS } from '../lib/coreServiceLinks';
 
 const formatDate = (iso) =>
   new Date(`${iso}T12:00:00`).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -116,6 +118,9 @@ const BlogPostPage = ({ slug, guideSlug }) => {
           </div>
         </div>
       </article>
+
+      {/* Related Services */}
+      <RelatedLinksSection services={CORE_SERVICE_LINKS} />
 
       {/* CTA */}
       <section className="py-14 bg-[#0a0a0a] border-y border-white/10">

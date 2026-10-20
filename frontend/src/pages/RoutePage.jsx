@@ -6,6 +6,8 @@ import Seo from '../components/Seo';
 import routes from '../data/routesData';
 import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Plane, ChevronRight } from 'lucide-react';
 import KeywordSection from '../components/KeywordSection';
+import RelatedLinksSection from '../components/RelatedLinksSection';
+import { CORE_SERVICE_LINKS } from '../lib/coreServiceLinks';
 
 const RoutePage = ({ slug }) => {
   const route = routes.find((r) => r.slug === slug);
@@ -111,19 +113,11 @@ const RoutePage = ({ slug }) => {
         </div>
       </section>
 
-      {/* Other Routes */}
-      <section className="py-12 bg-black border-t border-white/10">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6">
-          <h2 className="font-display text-xl sm:text-2xl text-white text-center mb-8">Also Serving These Dulles Routes</h2>
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-3 text-center">
-            {otherRoutes.map((r) => (
-              <Link key={r.slug} to={`/${r.slug}`} className="text-white/60 hover:text-white text-sm py-2 border border-white/10 hover:border-white/40 transition-colors">
-                IAD to {r.shortName}
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
+      {/* Related Services + Nearby Areas */}
+      <RelatedLinksSection
+        services={CORE_SERVICE_LINKS}
+        areas={otherRoutes.slice(0, 9).map((r) => ({ to: `/${r.slug}`, label: `IAD to ${r.shortName}` }))}
+      />
 
       {/* CTA */}
       <section className="py-16 md:py-24 bg-[#0a0a0a] border-t border-white/10">

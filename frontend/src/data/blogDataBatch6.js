@@ -56,6 +56,15 @@ const batch6 = [
           'This same pattern comes up often for professionals relocating to the area and using a visit to Reston as part of evaluating the neighborhood — a dinner and a walk through the district gives a much better sense of daily life there than a rental car and an unfamiliar drive ever could, and a chauffeur familiar with the area can answer basic questions about the district along the way.',
           'For a business traveler with only a single evening free between meetings, this kind of coordinated pickup also protects the rest of a tight schedule — a delayed flight or a meeting that runs long does not derail the dinner reservation, since the same flight-tracking system used for airport transfers applies just as well to a trip that starts at an office and ends at a restaurant.',
         ],
+        subsections: [
+          {
+            heading: 'Beyond Dinner: Reston Weddings and Corporate Accounts',
+            paragraphs: [
+              'The Hyatt Regency Reston and the Sheraton Reston, both a short walk from the Town Center plaza, are the two hotels that host the majority of Reston wedding blocks, and we run the full wedding day as one hourly reservation — see our Reston wedding limo page for how that schedule is typically built around the Town Center and nearby ceremony venues.',
+              'The same office density that drives Reston Town Center\'s happy-hour crowd also supports a steady base of corporate accounts for the Dulles Toll Road corridor\'s technology and government-contracting employers — our Reston corporate car service page covers account setup and recurring executive travel in more detail.',
+            ],
+          },
+        ],
       },
       {
         heading: 'Booking Your Reston Town Center Evening',
@@ -98,6 +107,8 @@ const batch6 = [
       { label: 'IAD to Reston', to: '/iad-to-reston' },
       { label: 'Tysons, Reston & Herndon Transportation Guide', to: '/tysons-reston-herndon-transportation-guide' },
       { label: 'Wolf Trap Transportation', to: '/wolf-trap-transportation' },
+      { label: 'Reston Limo Service for Weddings', to: '/reston-wedding-limo-service' },
+      { label: 'Reston Corporate Car Service', to: '/reston-corporate-car-service' },
       { label: 'Book Now', to: '/book-now' },
     ],
   },
@@ -157,6 +168,15 @@ const batch6 = [
           'For a household hosting a private event on the property itself — a garden party, a fundraiser, or a milestone celebration — coordinating guest transportation to and from an estate address is its own logistical undertaking, and a transportation provider familiar with staging several vehicles at once on a private driveway handles that considerably more smoothly than arranging it piecemeal through several different services.',
           'For a household with staff who also need occasional transportation arranged — running an errand, meeting a delivery, or handling a household matter off-property — the same account and the same standard of vetted, background-checked chauffeurs extends to those trips as well, rather than treating staff transportation as a lesser priority than the household’s own.',
         ],
+        subsections: [
+          {
+            heading: 'Milestone Events for McLean and Great Falls Families',
+            paragraphs: [
+              'Families in this part of Fairfax County also book us for milestone events that bring extended family back to the area — a Langley High School prom send-off from a McLean driveway, a graduation weekend with out-of-town relatives flying into Dulles, or an anniversary dinner in Tysons. Our McLean prom limo page covers how a prom-night booking is structured specifically, including the no-alcohol policy every vehicle enforces.',
+              'Great Falls itself has no high school of its own — most families send students to Langley High School in McLean — and we coordinate pickups from either community for the same event, often combining a Great Falls address with a McLean drop-off on one reservation.',
+            ],
+          },
+        ],
       },
       {
         heading: 'Booking Estate-Area Service',
@@ -199,6 +219,7 @@ const batch6 = [
       { label: 'IAD to McLean', to: '/iad-to-mclean' },
       { label: 'Why Hire a Chauffeur', to: '/why-hire-a-chauffeur' },
       { label: 'Setting Up a Corporate Travel Program in Tysons', to: '/blog/tysons-corporate-travel-program-guide' },
+      { label: 'McLean Prom Limo Service', to: '/mclean-prom-limo-service' },
       { label: 'Fleet', to: '/fleet' },
     ],
   },
