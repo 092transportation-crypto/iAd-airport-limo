@@ -49,6 +49,31 @@ async function osrmDistance(origin, destination) {
   return route.distance / METERS_PER_MILE;
 }
 
+// Shared core: driving distance in miles between two free-text addresses,
+// via Google (if configured) falling back to Photon+OSRM. Exported so other
+// serverless functions (e.g. api/chat.js's get_instant_quote tool) can reuse
+// the exact same lookup without going through an HTTP round-trip to this
+// endpoint. Throws on failure — callers decide how to present that.
+async function getDistanceMiles(origin, destination) {
+  const key = process.env.GOOGLE_MAPS_API_KEY || process.env.GOOGLE_API_KEY;
+  let miles;
+  let source;
+  if (key) {
+    try {
+      miles = await googleDistance(origin, destination, key);
+      source = 'google';
+    } catch (err) {
+      console.error('Google Distance Matrix failed, falling back:', err.message);
+      miles = await osrmDistance(origin, destination);
+      source = 'osrm';
+    }
+  } else {
+    miles = await osrmDistance(origin, destination);
+    source = 'osrm';
+  }
+  return { miles: Math.round(miles * 100) / 100, source };
+}
+
 module.exports = async (req, res) => {
   if (req.method !== 'POST') {
     res.setHeader('Allow', 'POST');
@@ -64,27 +89,11 @@ module.exports = async (req, res) => {
       .json({ success: false, message: 'Both addresses are required.' });
   }
 
-  const key = process.env.GOOGLE_MAPS_API_KEY || process.env.GOOGLE_API_KEY;
-
   try {
-    let miles;
-    let source;
-    if (key) {
-      try {
-        miles = await googleDistance(origin, destination, key);
-        source = 'google';
-      } catch (err) {
-        console.error('Google Distance Matrix failed, falling back:', err.message);
-        miles = await osrmDistance(origin, destination);
-        source = 'osrm';
-      }
-    } else {
-      miles = await osrmDistance(origin, destination);
-      source = 'osrm';
-    }
+    const { miles, source } = await getDistanceMiles(origin, destination);
     return res.status(200).json({
       success: true,
-      miles: Math.round(miles * 100) / 100,
+      miles,
       source,
     });
   } catch (err) {
@@ -95,3 +104,5 @@ module.exports = async (req, res) => {
     });
   }
 };
+
+module.exports.getDistanceMiles = getDistanceMiles;

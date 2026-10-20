@@ -2,6 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Environment Variables
+
+Set these in the Vercel project settings ("i-ad-airport-limo"). None are required for the site to build or run — each serverless function degrades gracefully (friendly fallback, or a skipped no-op) when its vars are missing, and never crashes or hangs.
+
+### Booking inquiry email (`api/quote-requests.js`)
+| Variable | Purpose |
+|---|---|
+| `SMTP_USER` | Gmail address used to send booking-inquiry notification emails |
+| `SMTP_PASSWORD` | 16-character Gmail app password for `SMTP_USER` |
+| `NOTIFICATION_EMAIL` | Where booking notifications are delivered (defaults to `SMTP_USER`) |
+
+### Distance lookup (`api/distance.js`, also used by the chat widget's instant-quote tool)
+| Variable | Purpose |
+|---|---|
+| `GOOGLE_MAPS_API_KEY` / `GOOGLE_API_KEY` | Google Distance Matrix API key. Falls back to free Photon geocoding + OSRM routing if unset or if Google fails. |
+
+### Stripe payments (`api/create-payment-intent.js`)
+| Variable | Purpose |
+|---|---|
+| `STRIPE_SECRET_KEY` | Stripe secret key used to create payment intents for paid instant-quote bookings |
+| `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` / `STRIPE_PUBLISHABLE_KEY` | Stripe publishable key returned to the client |
+
+### Chat widget (`api/chat.js`)
+| Variable | Purpose |
+|---|---|
+| `ANTHROPIC_API_KEY` | Anthropic API key. Without it, `/api/chat` still responds 200 with a friendly fallback reply (phone number + booking form) — it never errors. |
+| `ANTHROPIC_CHAT_MODEL` | Optional. Defaults to `claude-haiku-5-5`. |
+
+### Lead alerts (`api/lead-capture.js` and the chat widget's `submit_booking_lead` tool — `lib/sms.js` / `lib/leadWebhook.js`)
+| Variable | Purpose |
+|---|---|
+| `TWILIO_ACCOUNT_SID` | Twilio account SID |
+| `TWILIO_AUTH_TOKEN` | Twilio auth token |
+| `TWILIO_FROM_NUMBER` | Twilio phone number the SMS alert is sent from |
+| `ALERT_PHONE_NUMBER` | Phone number the SMS lead alert is sent to |
+| `LEAD_WEBHOOK_URL` | Optional. If set, every captured lead is also POSTed as JSON to this URL (e.g. a CRM or Zapier/Make inbound webhook). |
+
 ## Available Scripts
 
 In the project directory, you can run:
