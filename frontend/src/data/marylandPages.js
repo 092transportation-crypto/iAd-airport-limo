@@ -8,6 +8,7 @@ import { MARYLAND_BATCH6 } from './marylandPagesBatch6';
 import { MARYLAND_BATCH7 } from './marylandPagesBatch7';
 import { MARYLAND_BATCH8 } from './marylandPagesBatch8';
 import { MARYLAND_BATCH9 } from './marylandPagesBatch9';
+import { MARYLAND_BATCH10 } from './marylandPagesBatch10';
 
 export const MARYLAND_PAGES = [
   {
@@ -10392,6 +10393,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH8,
   // Batch 9 (2026-10-19, 30 new wedding/corporate/prom/route/landmark pages) lives in its own file.
   ...MARYLAND_BATCH9,
+  // Batch 10 (2026-10-21, round 5: corporate-by-industry pages, city gap-fills, Capital One Arena) lives in its own file.
+  ...MARYLAND_BATCH10,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).

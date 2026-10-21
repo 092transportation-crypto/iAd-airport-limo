@@ -1806,7 +1806,7 @@ export const GUIDES = [
     title: 'Best Time to Book Airport Transportation in Reston',
     metaTitle: 'Best Time to Book Airport Car Service in Reston',
     metaDescription:
-      'When to book Dulles airport transportation from Reston, VA — lead time, peak travel windows, and how far ahead to reserve for weddings, proms and business trips.',
+      'When to book Dulles airport transportation from Reston, VA — lead time, peak travel windows, and how far ahead to reserve for weddings and business trips.',
     datePublished: '2026-10-19',
     readTime: '6 min read',
     excerpt:

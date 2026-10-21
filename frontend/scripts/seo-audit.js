@@ -43,6 +43,8 @@ const multiH1 = [];
 const invalidSchema = [];
 const allInternalLinks = new Map(); // route -> [hrefs]
 const allInternalImages = new Map(); // route -> [srcs]
+const missingAlt = [];
+const thinContent = [];
 
 for (const file of pages) {
   const html = fs.readFileSync(file, "utf8");
@@ -150,6 +152,21 @@ for (const file of pages) {
   const srcs = [...html.matchAll(/<img\s[^>]*src=["']([^"']+)["']/gi)].map((m) => m[1]);
   const internalSrcs = srcs.filter((s) => s.startsWith("/") && !s.startsWith("//"));
   allInternalImages.set(route, internalSrcs);
+
+  // missing alt text
+  const imgTags = [...html.matchAll(/<img\b[^>]*>/gi)].map((m) => m[0]);
+  for (const tag of imgTags) {
+    if (!/\salt=/.test(tag)) {
+      const srcMatch = tag.match(/\ssrc=["']([^"']*)["']/i);
+      missingAlt.push({ route, src: srcMatch ? srcMatch[1] : "(no src)" });
+    }
+  }
+
+  // thin content (<600 rendered words, full page incl. nav/footer boilerplate —
+  // a page below this is almost certainly missing real body copy, not just
+  // carrying a smaller shared chrome)
+  const wordCount = normalized.length ? normalized.split(/\s+/).filter(Boolean).length : 0;
+  if (wordCount > 0 && wordCount < 600) thinContent.push({ route, words: wordCount });
 }
 
 // Build set of valid routes (directories with index.html) for link-checking
@@ -218,6 +235,8 @@ const report = {
   brokenLinks,
   brokenImages,
   badSitemapEntries,
+  missingAlt,
+  thinContent,
 };
 
 fs.writeFileSync(path.join(ROOT, "seo-audit-report.json"), JSON.stringify(report, null, 2));
@@ -236,4 +255,6 @@ console.log("Invalid schema issues:", invalidSchema.length);
 console.log("Broken internal links:", brokenLinks.length);
 console.log("Broken internal images:", brokenImages.length);
 console.log("Bad sitemap entries:", badSitemapEntries.length);
+console.log("Images missing alt text:", missingAlt.length);
+console.log("Thin content pages (<600 rendered words):", thinContent.length);
 console.log("Full report: seo-audit-report.json");

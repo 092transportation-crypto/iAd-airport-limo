@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import posts from '../data/blogData';
 import { GUIDES } from '../data/guides';
+import { ensureFiveFaqs } from '../lib/faqExtras';
 
 // Blog posts live at /blog/<slug>; guides (data/guides.js) share this template at /<slug>.
 const postPath = (p) => (GUIDES.includes(p) ? `/${p.slug}` : `/blog/${p.slug}`);
@@ -18,6 +19,10 @@ const formatDate = (iso) =>
 const BlogPostPage = ({ slug, guideSlug }) => {
   const post = guideSlug ? GUIDES.find((g) => g.slug === guideSlug) : posts.find((p) => p.slug === slug);
   const otherPosts = [...(guideSlug ? GUIDES : []), ...posts].filter((p) => p.slug !== post.slug).slice(0, 3);
+  // Every post shows (and schemas) five Q&As — short posts top up from the
+  // same shared policy pool Seo.jsx uses for FAQPage schema, so the visible
+  // FAQ section always matches the structured data exactly.
+  const faqs = ensureFiveFaqs(post.faqs, { slug: postPath(post), keys: ['question', 'answer'] });
 
   return (
     <div className="min-h-screen bg-black">
@@ -25,7 +30,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
         title={post.metaTitle}
         description={post.metaDescription}
         path={postPath(post)}
-        faqs={post.faqs}
+        faqs={faqs}
         article={{ headline: post.title, datePublished: post.datePublished, image: post.image }}
       />
       <Navbar />
@@ -105,7 +110,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
           <div className="mt-14 border-t border-white/10 pt-10">
             <h2 className="font-display text-2xl sm:text-3xl text-white mb-6">Frequently Asked Questions</h2>
             <div className="space-y-4">
-              {post.faqs.map((faq, idx) => (
+              {faqs.map((faq, idx) => (
                 <details key={idx} className="border border-white/10 group">
                   <summary className="cursor-pointer list-none p-5 flex justify-between items-center gap-4 text-white font-semibold text-sm sm:text-base hover:bg-white/5">
                     {faq.question}
