@@ -8,6 +8,7 @@ import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Users, Ch
 import KeywordSection from '../components/KeywordSection';
 import RelatedLinksSection from '../components/RelatedLinksSection';
 import { CORE_SERVICE_LINKS } from '../lib/coreServiceLinks';
+import { ensureFiveFaqs } from '../lib/faqExtras';
 
 const SITE_URL = 'https://www.iadairportlimo.com';
 const SCHEMA_ID = 'maryland-page-schema';
@@ -68,11 +69,15 @@ const MarylandPage = ({ slug, page: pageProp }) => {
 
   if (!page) return null;
 
-  const faqs = page.faqs.map((f) => ({ question: f.q, answer: f.a }));
+  // Visible FAQ list and the FAQPage schema must match exactly — top up to
+  // five here (same shared policy pool Seo.jsx uses) rather than letting Seo
+  // top up only the schema while the page still renders the shorter raw list.
+  const faqs = ensureFiveFaqs(page.faqs, { slug: page.slug });
+  const faqSchema = faqs.map((f) => ({ question: f.q, answer: f.a }));
 
   return (
     <div className="min-h-screen bg-black" data-testid={`maryland-page-${page.slug}`}>
-      <Seo title={page.metaTitle} description={page.metaDescription} path={`/${page.slug}`} faqs={faqs} />
+      <Seo title={page.metaTitle} description={page.metaDescription} path={`/${page.slug}`} faqs={faqSchema} />
       <Navbar />
 
       {/* Hero */}
@@ -173,7 +178,7 @@ const MarylandPage = ({ slug, page: pageProp }) => {
             <h2 className="font-display text-3xl sm:text-4xl text-white">Frequently Asked Questions</h2>
           </div>
           <div className="space-y-4">
-            {page.faqs.map((faq, idx) => (
+            {faqs.map((faq, idx) => (
               <details key={idx} className="border border-white/10 group">
                 <summary className="cursor-pointer list-none p-5 flex justify-between items-center gap-4 text-white font-semibold text-sm sm:text-base hover:bg-white/5">
                   {faq.q}

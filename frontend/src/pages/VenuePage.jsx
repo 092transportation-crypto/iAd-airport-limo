@@ -6,10 +6,15 @@ import Seo from '../components/Seo';
 import venues from '../data/venuesData';
 import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Music, ChevronRight } from 'lucide-react';
 import KeywordSection from '../components/KeywordSection';
+import { ensureFiveFaqs } from '../lib/faqExtras';
 
 const VenuePage = ({ slug }) => {
   const venue = venues.find((v) => v.slug === slug);
   const otherVenues = venues.filter((v) => v.slug !== slug);
+  // Visible FAQ list and the FAQPage schema must match exactly — top up here
+  // rather than letting Seo top up only the schema while the page renders
+  // the shorter raw list.
+  const faqs = ensureFiveFaqs(venue.faqs, { slug: venue.slug, keys: ['question', 'answer'] });
 
   return (
     <div className="min-h-screen bg-black">
@@ -17,7 +22,7 @@ const VenuePage = ({ slug }) => {
         title={venue.metaTitle}
         description={venue.metaDescription}
         path={`/${venue.slug}`}
-        faqs={venue.faqs}
+        faqs={faqs}
       />
       <Navbar />
 
@@ -95,7 +100,7 @@ const VenuePage = ({ slug }) => {
             <h2 className="font-display text-3xl sm:text-4xl text-white">Frequently Asked Questions</h2>
           </div>
           <div className="space-y-4">
-            {venue.faqs.map((faq, idx) => (
+            {faqs.map((faq, idx) => (
               <details key={idx} className="border border-white/10 group">
                 <summary className="cursor-pointer list-none p-5 flex justify-between items-center gap-4 text-white font-semibold text-sm sm:text-base hover:bg-white/5">
                   {faq.question}

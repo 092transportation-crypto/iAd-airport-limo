@@ -11,6 +11,7 @@ import batch7 from './blogDataBatch7';
 import batch8 from './blogDataBatch8';
 import batch9 from './blogDataBatch9';
 import batch10 from './blogDataBatch10';
+import batch11 from './blogDataBatch11';
 
 const posts = [
   {
@@ -2595,6 +2596,7 @@ const posts = [
   ...batch8,
   ...batch9,
   ...batch10,
+  ...batch11,
 ];
 
 export default posts;

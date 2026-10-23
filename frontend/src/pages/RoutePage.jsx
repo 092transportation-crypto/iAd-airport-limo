@@ -8,10 +8,15 @@ import { Phone, ArrowRight, MapPin, Clock, Route as RouteIcon, Shield, Plane, Ch
 import KeywordSection from '../components/KeywordSection';
 import RelatedLinksSection from '../components/RelatedLinksSection';
 import { CORE_SERVICE_LINKS } from '../lib/coreServiceLinks';
+import { ensureFiveFaqs } from '../lib/faqExtras';
 
 const RoutePage = ({ slug }) => {
   const route = routes.find((r) => r.slug === slug);
   const otherRoutes = routes.filter((r) => r.slug !== slug);
+  // Visible FAQ list and the FAQPage schema must match exactly — top up here
+  // rather than letting Seo top up only the schema while the page renders
+  // the shorter raw list.
+  const faqs = ensureFiveFaqs(route.faqs, { slug: route.slug, keys: ['question', 'answer'] });
 
   return (
     <div className="min-h-screen bg-black">
@@ -19,7 +24,7 @@ const RoutePage = ({ slug }) => {
         title={route.metaTitle}
         description={route.metaDescription}
         path={`/${route.slug}`}
-        faqs={route.faqs}
+        faqs={faqs}
       />
       <Navbar />
 
@@ -100,7 +105,7 @@ const RoutePage = ({ slug }) => {
             <h2 className="font-display text-3xl sm:text-4xl text-white">Frequently Asked Questions</h2>
           </div>
           <div className="space-y-4">
-            {route.faqs.map((faq, idx) => (
+            {faqs.map((faq, idx) => (
               <details key={idx} className="border border-white/10 group">
                 <summary className="cursor-pointer list-none p-5 flex justify-between items-center gap-4 text-white font-semibold text-sm sm:text-base hover:bg-white/5">
                   {faq.question}

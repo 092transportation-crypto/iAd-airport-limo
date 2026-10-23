@@ -79,6 +79,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Rockville Limo Service", to: "/rockville-limo-service" },
       { label: "IAD to Bethesda", to: "/iad-to-bethesda" },
       { label: "Maryland Corporate Car Service", to: "/maryland-corporate-car-service" },
+      { label: "Potomac Wedding Limo Service", to: "/potomac-wedding-limo-service" },
     ],
     schema: { areaServed: ["Potomac, MD", "Montgomery County"], serviceType: "Limousine and car service" },
   },

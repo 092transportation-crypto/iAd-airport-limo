@@ -9,6 +9,7 @@ import { MARYLAND_BATCH7 } from './marylandPagesBatch7';
 import { MARYLAND_BATCH8 } from './marylandPagesBatch8';
 import { MARYLAND_BATCH9 } from './marylandPagesBatch9';
 import { MARYLAND_BATCH10 } from './marylandPagesBatch10';
+import { MARYLAND_BATCH11 } from './marylandPagesBatch11';
 
 export const MARYLAND_PAGES = [
   {
@@ -325,6 +326,10 @@ export const MARYLAND_PAGES = [
       {
         "label": "Germantown Limo Service",
         "to": "/germantown-limo-service"
+      },
+      {
+        "label": "Bethesda Wedding Limo Service",
+        "to": "/bethesda-wedding-limo-service"
       }
     ],
     "schema": {
@@ -654,6 +659,10 @@ export const MARYLAND_PAGES = [
       {
         "label": "Maryland Wedding Limo",
         "to": "/maryland-wedding-limo"
+      },
+      {
+        "label": "Silver Spring Corporate Car Service",
+        "to": "/silver-spring-corporate-car-service"
       }
     ],
     "schema": {
@@ -8649,6 +8658,10 @@ export const MARYLAND_PAGES = [
       {
         "label": "Laurel Limo Service",
         "to": "/laurel-limo-service"
+      },
+      {
+        "label": "College Park, MD Limo Service",
+        "to": "/college-park-md-limo-service"
       }
     ],
     "schema": {
@@ -8981,6 +8994,10 @@ export const MARYLAND_PAGES = [
       {
         "label": "Laurel Limo Service",
         "to": "/laurel-limo-service"
+      },
+      {
+        "label": "National Harbor Corporate Car Service",
+        "to": "/national-harbor-corporate-car-service"
       }
     ],
     "schema": {
@@ -10395,6 +10412,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH9,
   // Batch 10 (2026-10-21, round 5: corporate-by-industry pages, city gap-fills, Capital One Arena) lives in its own file.
   ...MARYLAND_BATCH10,
+  // Batch 11 (2026-10-23, round 6: wedding gap-fills, College Park, National Harbor/Silver Spring corporate, healthcare/biotech, embassy/diplomatic, Northwest Stadium) lives in its own file.
+  ...MARYLAND_BATCH11,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).
