@@ -29,6 +29,16 @@ const airportFaqs = [
     answer:
       'Yes. Every transfer is quoted as a written flat rate based on your address and vehicle — no surge pricing. Call (877) 609-1919 for a quote.',
   },
+  {
+    question: 'Can you transfer me directly between two airports, like IAD to DCA?',
+    answer:
+      'Yes. Airport-to-airport transfers are booked the same way as any point-to-point trip, with both legs confirmed at a flat rate before you travel — useful for split itineraries landing at one DC-area airport and departing from another.',
+  },
+  {
+    question: 'Do you handle private jet and FBO transportation at Dulles?',
+    answer:
+      'Yes. For private and charter flights, we meet you ramp-side or at the FBO lobby rather than routing through commercial baggage claim, coordinated with your flight department or broker in advance — see our private jet and FBO transportation page for details.',
+  },
 ];
 
 const AirportTransferPage = () => {
@@ -79,8 +89,8 @@ const AirportTransferPage = () => {
   return (
     <div className="min-h-screen bg-white">
       <Seo
-        title="Airport Transfer Service | IAD, DCA & BWI 24/7"
-        description="Chauffeured airport transfers across Dulles (IAD), Reagan National (DCA) and BWI with flight tracking & meet-and-greet. Book now or call (877) 609-1919."
+        title="Airport Transfer Service | No Surge, IAD/DCA/BWI 24/7"
+        description="Skip rideshare surge at IAD, DCA & BWI. Chauffeured airport transfers with live flight tracking & terminal meet-and-greet. Call (877) 609-1919."
         path="/airport-transfer"
         faqs={airportFaqs}
       />
@@ -248,6 +258,10 @@ const AirportTransferPage = () => {
               { to: '/ashburn-limo-service', label: 'Ashburn' },
               { to: '/arlington-limo-service', label: 'Arlington' },
               { to: '/alexandria-limo-service', label: 'Alexandria' },
+              { to: '/dca-to-tysons', label: 'DCA to Tysons' },
+              { to: '/dca-to-national-harbor', label: 'DCA to National Harbor' },
+              { to: '/private-jet-fbo-transportation-dulles', label: 'Private Jet & FBO' },
+              { to: '/pet-friendly-limo-service-dulles', label: 'Pet-Friendly Transport' },
             ].map((r) => (
               <Link key={r.to} to={r.to} className="text-gray-700 hover:text-black text-sm py-2 border border-gray-200 hover:border-gray-400 transition-colors rounded">
                 {r.label}

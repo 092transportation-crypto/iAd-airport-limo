@@ -27,6 +27,16 @@ const corporateFaqs = [
     answer:
       'Call (877) 609-1919 and ask for corporate accounts. We will review your travel patterns, set your rate card, and configure billing — usually the same week.',
   },
+  {
+    question: 'Can you provide receipts that work for our expense-reporting system?',
+    answer:
+      'Yes. Every receipt lists the date, pickup and drop-off, vehicle and fare, with gratuity itemized separately on request — see our guide to expensing a car service for what to ask for.',
+  },
+  {
+    question: 'Do you handle ground transportation for private jet or FBO arrivals at Dulles?',
+    answer:
+      'Yes. For flight departments and charter travelers, we meet you ramp-side or at the FBO lobby rather than commercial baggage claim, coordinated in advance with your broker or flight crew.',
+  },
 ];
 
 const CorporatePage = () => {
@@ -78,8 +88,8 @@ const CorporatePage = () => {
   return (
     <div className="min-h-screen bg-[#111]">
       <Seo
-        title="Corporate Car Service Dulles | IAD Airport Limo"
-        description="Corporate car service in Dulles, VA — executive sedans, corporate accounts & priority scheduling. Call (877) 609-1919 to set up your account today."
+        title="Corporate Car Service Dulles | Accounts Set Up in Days"
+        description="Executive sedans, consolidated billing & priority scheduling — corporate car service for Dulles-area business travel. Call (877) 609-1919 to get started."
         path="/corporate"
         faqs={corporateFaqs}
       />
@@ -96,7 +106,7 @@ const CorporatePage = () => {
         <div className="relative max-w-7xl mx-auto px-4 text-center">
           <Briefcase className="w-16 h-16 text-[#c9a227] mx-auto mb-6" />
           <p className="text-[#c9a227] text-sm tracking-[0.3em] uppercase mb-4">Business Solutions</p>
-          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Corporate Services</h1>
+          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Corporate Car Service</h1>
           <p className="text-gray-300 text-xl max-w-2xl mx-auto mb-8">
             Elevate your corporate image with premium executive transportation
           </p>
@@ -248,6 +258,34 @@ const CorporatePage = () => {
               Call (877) 609-1919
             </a>
           </div>
+        </div>
+      </section>
+
+      {/* Corporate-by-industry and route links */}
+      <section className="py-14 bg-[#0d0d0d] border-t border-[#333]">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6">
+          <h2 className="text-2xl md:text-3xl font-light text-white text-center mb-8">Corporate Car Service by Industry & Location</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-center">
+            {[
+              { to: '/tysons-corporate-car-service', label: 'Tysons' },
+              { to: '/reston-corporate-car-service', label: 'Reston' },
+              { to: '/arlington-corporate-car-service', label: 'Arlington' },
+              { to: '/government-contractor-car-service', label: 'Government Contractors' },
+              { to: '/healthcare-biotech-corporate-car-service', label: 'Healthcare & Biotech' },
+              { to: '/professional-services-corporate-car-service', label: 'Professional Services' },
+              { to: '/tech-company-corporate-car-service', label: 'Tech Companies' },
+              { to: '/private-jet-fbo-transportation-dulles', label: 'Private Jet & FBO' },
+            ].map((r) => (
+              <Link key={r.to} to={r.to} className="text-gray-300 hover:text-[#c9a227] text-sm py-2 border border-[#333] hover:border-[#c9a227] transition-colors">
+                {r.label}
+              </Link>
+            ))}
+          </div>
+          <p className="text-center mt-6">
+            <Link to="/blog/corporate-car-service-expense-reports-receipts-guide" className="text-[#c9a227] hover:text-white transition-colors">
+              Can you expense a car service? A receipts &amp; reporting guide &rarr;
+            </Link>
+          </p>
         </div>
       </section>
 

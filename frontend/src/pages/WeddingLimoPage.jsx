@@ -27,6 +27,16 @@ const weddingFaqs = [
     answer:
       'All of Washington DC, Maryland, and Virginia — venues from DC hotels to Loudoun County vineyards and Annapolis waterfronts.',
   },
+  {
+    question: 'Do you have dedicated wedding transportation pages for specific cities?',
+    answer:
+      'Yes. We publish city-specific wedding transportation pages — Tysons, Bethesda, Arlington, Potomac, Herndon, Leesburg, Reston, Vienna, Warrenton and Ashburn among them — each covering local venues and hotel-to-ceremony logistics.',
+  },
+  {
+    question: 'How many vehicles does a typical wedding party need?',
+    answer:
+      'It depends on your guest count and venues — see our guide on how many cars a wedding party needs for a breakdown by party size, or call (877) 609-1919 and we will size it for your specific day.',
+  },
 ];
 
 const WeddingLimoPage = () => {
@@ -88,8 +98,8 @@ const WeddingLimoPage = () => {
   return (
     <div className="min-h-screen bg-[#111]">
       <Seo
-        title="Wedding Limo Service | DC, Maryland & Virginia"
-        description="Elegant wedding limo & chauffeur service across DC, MD & VA. Decorated vehicles, red carpet & guest shuttles. Call (877) 609-1919 to check your date."
+        title="Wedding Limo Service | Decorated Fleet, DC/MD/VA"
+        description="Decorated vehicles, red carpet service and coordinated guest shuttles for your wedding day across DC, Maryland & Virginia. Call (877) 609-1919."
         path="/wedding-limo"
         faqs={weddingFaqs}
       />
@@ -106,7 +116,7 @@ const WeddingLimoPage = () => {
         <div className="relative max-w-7xl mx-auto px-4 text-center">
           <Heart className="w-16 h-16 text-[#c9a227] mx-auto mb-6" />
           <p className="text-[#c9a227] text-sm tracking-[0.3em] uppercase mb-4">Special Occasions</p>
-          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Wedding Limousine</h1>
+          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Wedding Limo Service</h1>
           <p className="text-gray-300 text-xl max-w-2xl mx-auto mb-8">
             Make your special day unforgettable with our elegant wedding transportation services
           </p>
@@ -255,6 +265,34 @@ const WeddingLimoPage = () => {
             <p className="text-white/70 leading-relaxed">
               Popular spring and fall Saturdays across Loudoun County vineyards, DC hotels and Annapolis waterfront venues book out furthest in advance, especially for Sprinter vans and stretch limousines — the same fleet used for airport group transfers and other event bookings. If your date is set, we recommend confirming your wedding transportation within two to six months of the ceremony rather than waiting until closer to the day, when your preferred vehicle class may already be booked for another wedding the same weekend.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* City wedding pages and related celebrations */}
+      <section className="py-14 bg-[#111] border-t border-[#333]">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6">
+          <h2 className="text-2xl md:text-3xl font-light text-white text-center mb-8">Wedding Transportation by City</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-center">
+            {[
+              { to: '/tysons-wedding-limo-service', label: 'Tysons' },
+              { to: '/bethesda-wedding-limo-service', label: 'Bethesda' },
+              { to: '/arlington-wedding-limo-service', label: 'Arlington' },
+              { to: '/potomac-wedding-limo-service', label: 'Potomac' },
+              { to: '/herndon-wedding-limo-service', label: 'Herndon' },
+              { to: '/leesburg-wedding-limo-service', label: 'Leesburg' },
+              { to: '/reston-wedding-limo-service', label: 'Reston' },
+              { to: '/vienna-wedding-limo-service', label: 'Vienna' },
+            ].map((r) => (
+              <Link key={r.to} to={r.to} className="text-gray-300 hover:text-[#c9a227] text-sm py-2 border border-[#333] hover:border-[#c9a227] transition-colors">
+                {r.label}
+              </Link>
+            ))}
+          </div>
+          <div className="flex flex-col sm:flex-row gap-6 justify-center mt-8 text-center">
+            <Link to="/top-10-wedding-venues-near-dulles-nova" className="text-[#c9a227] hover:text-white transition-colors">Top 10 Wedding Venues Near Dulles &amp; NoVA &rarr;</Link>
+            <Link to="/quinceanera-sweet-sixteen-limo-service" className="text-[#c9a227] hover:text-white transition-colors">Quinceañera &amp; Sweet Sixteen Service &rarr;</Link>
+            <Link to="/wine-tours" className="text-[#c9a227] hover:text-white transition-colors">Loudoun Wine Tours &rarr;</Link>
           </div>
         </div>
       </section>

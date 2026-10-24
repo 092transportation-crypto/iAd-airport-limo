@@ -6,9 +6,9 @@ const routes = [
     slug: 'iad-to-washington-dc',
     city: 'Washington, DC',
     shortName: 'Washington DC',
-    metaTitle: 'IAD to Washington DC Car Service | Book 24/7',
+    metaTitle: 'IAD to Washington DC Car Service | No Surge, 24/7',
     metaDescription:
-      'Flat-rate car service from Dulles Airport (IAD) to Washington DC in 35–55 minutes. Flight tracking & meet and greet included. Book now: (877) 609-1919.',
+      'Skip the surge pricing: flat-rate car service from Dulles (IAD) to Washington DC in 35–55 minutes, flight-tracked with terminal meet & greet. (877) 609-1919.',
     h1: 'IAD to Washington, DC Car Service',
     subtitle: 'Private chauffeured transfers between Dulles International Airport and the District',
     distance: '27 miles',
@@ -40,6 +40,13 @@ const routes = [
           'Whether you are a consultant heading to a client site on Pennsylvania Avenue, a family visiting the Smithsonian museums, or a diplomat with a full itinerary, book your IAD to Washington DC transfer online or call (877) 609-1919 and a reservation specialist will confirm your trip in minutes.',
         ],
       },
+      {
+        heading: 'By DC Neighborhood',
+        paragraphs: [
+          'Beyond downtown, Capitol Hill and Georgetown, we publish dedicated pages for specific DC neighborhoods with their own pickup quirks: Navy Yard for Nationals Park and Audi Field game days, Foggy Bottom for GWU and the State Department, Logan Circle and Adams Morgan for the 14th Street and 18th Street nightlife corridors, plus Dupont Circle, NoMa and The Wharf. If your trip is headed to one of those specifically, that page covers the local streets and timing in more detail.',
+          'Flying private rather than commercial? Our dedicated private jet and FBO transportation page covers ramp-side pickup for Dulles\' fixed-base operators, coordinated directly with your flight department or broker.',
+        ],
+      },
     ],
     faqs: [
       {
@@ -66,6 +73,16 @@ const routes = [
         question: 'Can I book a car from Washington DC to IAD for an early morning flight?',
         answer:
           'Absolutely. We operate 24/7 and regularly handle 3 and 4 a.m. pickups for early departures out of Dulles. Reserve online or call (877) 609-1919 and we will schedule your pickup with a comfortable buffer for check-in and security.',
+      },
+      {
+        question: 'What time of day should I avoid for the fastest IAD-to-DC trip?',
+        answer:
+          'Weekday mornings (roughly 6:30–9:30 a.m.) and evenings (4–7 p.m.) are the slowest on the Dulles Toll Road and I-66. See our Dulles-area traffic patterns guide for the full breakdown — we schedule your pickup against live conditions regardless of the hour.',
+      },
+      {
+        question: 'Do you serve specific DC neighborhoods like Navy Yard or Adams Morgan directly?',
+        answer:
+          'Yes. We publish dedicated pages for Navy Yard, Foggy Bottom, Logan Circle and Adams Morgan, each covering that neighborhood\'s specific pickup pattern, in addition to this general IAD-to-DC route page.',
       },
     ],
   },
@@ -3094,6 +3111,73 @@ const routes = [
         question: 'Can I book a car from Vienna to IAD for an early morning flight?',
         answer:
           'Absolutely. We operate 24/7 and regularly handle 3 and 4 a.m. pickups for early departures out of Dulles, with a comfortable buffer built in for check-in and security.',
+      },
+    ],
+  },
+  {
+    slug: 'iad-to-middleburg-va',
+    city: 'Middleburg, VA',
+    shortName: 'Middleburg',
+    metaTitle: 'IAD to Middleburg, VA Car Service | Wine Country',
+    metaDescription:
+      'Flat-rate car service from Dulles Airport (IAD) to Middleburg, VA in 40–50 minutes — the gateway to Virginia wine country. Book now: (877) 609-1919.',
+    h1: 'IAD to Middleburg, VA Car Service',
+    subtitle: 'Private chauffeured transfers between Dulles International Airport and Virginia\'s horse-and-wine country',
+    distance: '32 miles',
+    duration: '40–50 minutes',
+    corridor: 'Route 28 & US-50 West',
+    intro: [
+      'Flying into Dulles for a weekend in Middleburg? Our IAD to Middleburg car service covers the last leg for travelers heading to Virginia\'s horse-and-wine country without renting a car they will barely use once they arrive. Your chauffeur tracks your flight, meets you at baggage claim, and drives you straight out Route 50 past the horse farms and vineyards that make this one of the prettiest airport transfers in our coverage area.',
+      'The drive covers about 32 miles via Route 28 and US-50 West, typically 40 to 50 minutes. It is a popular pairing with a winery day trip — many guests book the airport transfer and a few hours of wine-country touring as one reservation rather than two separate trips.',
+    ],
+    sections: [
+      {
+        heading: 'Door-to-Door Service Across Middleburg and Horse Country',
+        paragraphs: [
+          'We deliver travelers to inns, bed-and-breakfasts and private estates throughout Middleburg and the surrounding horse-and-wine country — the Red Fox Inn & Tavern, Salamander Resort & Spa, and the vineyards and farms along Route 50 and the back roads toward Upperville and The Plains. If your trip includes a wedding at a local estate or a day of tastings, we build the stops into one itinerary.',
+          'Heading back to Dulles for a departure? We schedule your pickup against real traffic conditions and your airline\'s check-in recommendations, with extra buffer built in for the two-lane stretches of Route 50 before it widens near the airport.',
+        ],
+      },
+      {
+        heading: 'Why Travelers Choose Us Over a Rental Car for Middleburg',
+        paragraphs: [
+          'Middleburg\'s country roads and tasting-room parking are not where most visitors want to be navigating after a few wine pours, and rideshare coverage thins out fast once you are off Route 50. A reservation with IAD Airport Limo commits a specific vehicle and chauffeur at a flat rate confirmed in writing, so getting back to the airport is never a question mark.',
+          'Every chauffeur is professionally trained, background-checked and dressed for business, driving late-model Mercedes-Benz, BMW, Cadillac and Chevrolet sedans and SUVs, with Sprinter vans available for wedding parties and larger wine-touring groups.',
+        ],
+      },
+      {
+        heading: 'Pairing Your Transfer With a Wine Country Day',
+        paragraphs: [
+          'Many guests extend the IAD to Middleburg transfer into a full day of wine-country touring — ask about combining your airport pickup with hourly chauffeured service through the vineyards along Route 50 on the same reservation. See our Loudoun wine tours page for how these days are typically structured.',
+          'Whether you are visiting for a Salamander Resort weekend, a horse-country wedding, or simply a quiet few days away from the city, book your IAD to Middleburg transfer online or call (877) 609-1919 for a confirmed quote.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: 'How much does a car service from IAD to Middleburg cost?',
+        answer:
+          'We quote flat rates based on your exact pickup and drop-off addresses and vehicle choice, confirmed in writing before you ride — with no surge pricing. Call (877) 609-1919 or use our online booking page for an instant quote.',
+      },
+      {
+        question: 'How long is the drive from Dulles Airport to Middleburg?',
+        answer:
+          'About 32 miles via Route 28 and US-50 West, typically 40 to 50 minutes depending on traffic.',
+      },
+      {
+        question: 'Can you combine the airport transfer with a wine-country day trip?',
+        answer:
+          'Yes. Many guests book the IAD to Middleburg transfer together with hourly chauffeured touring through the Route 50 wineries as one reservation.',
+      },
+      {
+        question: 'Will my chauffeur meet me inside the terminal at IAD?',
+        answer:
+          'Yes. With meet and greet, your chauffeur waits at baggage claim with a name sign and helps with luggage. Curbside pickup is also available.',
+      },
+      {
+        question: 'Do you provide transportation for weddings at Middleburg-area estates?',
+        answer:
+          'Yes. Sprinter vans and sedans regularly serve weddings at Middleburg and Upperville-area venues, including guest shuttles and airport pickups for out-of-town guests.',
       },
     ],
   },

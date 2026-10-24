@@ -117,8 +117,8 @@ const HomePage = () => {
   return (
     <div className="min-h-screen bg-black">
       <Seo
-        title="Dulles Airport Limo & Car Service | Flat Rates 24/7"
-        description="IAD airport limo service with flat rates, flight tracking & meet-and-greet pickup. Mercedes & BMW fleet. Book online now or call (877) 609-1919 — 24/7."
+        title="Dulles Airport Limo & Car Service | No Surge, 24/7"
+        description="Skip the surge pricing at Dulles: flat-rate car service with flight tracking & terminal meet-and-greet. Mercedes & BMW fleet. Call (877) 609-1919 — 24/7."
         path="/"
         faqs={homeFaqs}
       />
@@ -319,6 +319,36 @@ const HomePage = () => {
         </div>
       </section>
 
+      {/* More cities & neighborhoods */}
+      <section className="py-14 bg-black border-t border-white/10">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6">
+          <h2 className="font-display text-xl sm:text-2xl text-white text-center mb-8">More Cities & Neighborhoods We Serve</h2>
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-3 text-center">
+            {[
+              { name: 'Crystal City, VA', slug: 'crystal-city-limo-service' },
+              { name: 'Rosslyn, VA', slug: 'rosslyn-limo-service' },
+              { name: 'Navy Yard, DC', slug: 'navy-yard-dc-limo-service' },
+              { name: 'Foggy Bottom, DC', slug: 'foggy-bottom-limo-service' },
+              { name: 'Charlottesville, VA', slug: 'charlottesville-va-limo-service' },
+              { name: 'Richmond, VA', slug: 'richmond-va-limo-service' },
+              { name: 'Fredericksburg, VA', slug: 'fredericksburg-va-limo-service' },
+              { name: 'Ellicott City, MD', slug: 'ellicott-city-limo-service' },
+              { name: 'Upper Marlboro, MD', slug: 'upper-marlboro-limo-service' },
+              { name: 'National Harbor, MD', slug: 'national-harbor-transportation' },
+            ].map((r) => (
+              <Link key={r.slug} to={`/${r.slug}`} className="text-white/60 hover:text-white text-sm py-2 border border-white/10 hover:border-white/40 transition-colors">
+                {r.name}
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-8">
+            <Link to="/service-areas" className="text-white font-semibold uppercase tracking-wider text-sm hover:text-white/70 transition-colors">
+              See every city, route & venue we serve &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
+
       <FaqSection faqs={homeFaqs} />
 
       {/* Internal Links Section */}
@@ -333,6 +363,10 @@ const HomePage = () => {
             <Link to="/about" className="text-white hover:text-white/70 transition-colors">About Us</Link>
             <Link to="/contact" className="text-white hover:text-white/70 transition-colors">Contact</Link>
             <Link to="/reviews" className="text-white hover:text-white/70 transition-colors">Reviews</Link>
+            <Link to="/service-areas" className="text-white hover:text-white/70 transition-colors">Service Areas</Link>
+            <Link to="/private-jet-fbo-transportation-dulles" className="text-white hover:text-white/70 transition-colors">Private Jet &amp; FBO</Link>
+            <Link to="/blog" className="text-white hover:text-white/70 transition-colors">Blog</Link>
+            <Link to="/prom-limo" className="text-white hover:text-white/70 transition-colors">Prom Limo</Link>
           </div>
         </div>
       </section>

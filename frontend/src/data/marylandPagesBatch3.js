@@ -272,7 +272,7 @@ export const MARYLAND_BATCH3 = [
     name: "Reston",
     badge: "Fairfax County Limo Service",
     h1: "Reston Limo Service",
-    metaTitle: "Reston Limo Service | Black Car 15 Min From Dulles",
+    metaTitle: "Reston Limo Service | Black Car, 15 Min to Dulles",
     metaDescription:
       "Executive limo and black car service in Reston, VA — Reston Town Center, Toll Road offices and Dulles transfers in 15–25 minutes. Book now: (877) 609-1919.",
     stats: [
@@ -334,8 +334,8 @@ export const MARYLAND_BATCH3 = [
         a: "Yes. As-directed hourly service keeps the chauffeur with you across Reston, Herndon, Tysons and Washington, with unlimited stops during the booking.",
       },
       {
-        q: "Will the chauffeur meet me at the Reston hotel lobby?",
-        a: "Yes. The chauffeur can wait in the lobby of any Reston Town Center or Toll Road hotel, and non-airport pickups include 15 minutes of complimentary wait time.",
+        q: "What's the best time of day to book a Reston pickup to avoid Toll Road traffic?",
+        a: "Weekday trips before 6:30 a.m., between roughly 10 a.m. and 3 p.m., or after 7:30 p.m. generally run closest to the posted drive time. See our Dulles-area traffic patterns guide for the full breakdown — we schedule every pickup against live conditions regardless.",
       },
     ],
     related: [
@@ -347,6 +347,8 @@ export const MARYLAND_BATCH3 = [
       { label: "Corporate Transportation", to: "/corporate" },
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Fleet", to: "/fleet" },
+      { label: "Dulles-Area Traffic Patterns: Best Times to Travel", to: "/blog/dulles-area-traffic-patterns-best-times-to-travel-guide" },
+      { label: "Herndon-Dulles Tech Corridor Transportation", to: "/blog/herndon-dulles-tech-corridor-transportation" },
     ],
     schema: { areaServed: ["Reston, VA", "Fairfax County"], serviceType: "Limousine and car service" },
   },
@@ -439,9 +441,9 @@ export const MARYLAND_BATCH3 = [
     name: "Tysons",
     badge: "Fairfax County Limo Service",
     h1: "Tysons Limo Service",
-    metaTitle: "Tysons Limo Service | Executive Black Car 24/7",
+    metaTitle: "Tysons Limo Service | Flat-Rate Black Car, No Surge",
     metaDescription:
-      "Executive limo and black car service in Tysons, VA for corporate HQs, Tysons Corner Center, the Galleria and airport transfers. Book 24/7: (877) 609-1919.",
+      "Skip the surge in the region's busiest business district. Flat-rate executive limo service in Tysons for corporate HQs, the Galleria & every airport. 24/7.",
     stats: [
       { label: "Dulles (IAD)", value: "20–35 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "25–45 minutes, depending on traffic" },
@@ -493,10 +495,6 @@ export const MARYLAND_BATCH3 = [
         a: "Airport and point-to-point trips are flat rates by vehicle and address; multi-meeting days are hourly with a minimum. Both are confirmed in writing before you book. Call (877) 609-1919 for a quote.",
       },
       {
-        q: "Is Reagan National or Dulles closer to Tysons?",
-        a: "Drive times are similar and depend on the time of day. Reagan National is usually 25 to 45 minutes via the Beltway and GW Parkway, and Dulles 20 to 35 minutes via the Toll Road. We serve both, and BWI, with the same flight tracking and wait time.",
-      },
-      {
         q: "Do you provide hourly chauffeur service for meetings in Tysons?",
         a: "Yes. As-directed hourly service keeps the chauffeur with you across Tysons, Reston, Arlington and Washington, with unlimited stops during the booking.",
       },
@@ -504,9 +502,14 @@ export const MARYLAND_BATCH3 = [
         q: "Can you move a conference group between Tysons hotels and an office campus?",
         a: "Yes. Sprinter vans carry up to 14, and multiple vehicles can run under one reservation for larger delegations, with dispatch coordinating timing.",
       },
+      {
+        q: "Can you pick me up at Reagan National and take me straight to a Tysons meeting?",
+        a: "Yes. The DCA to Tysons run is about 16 miles and 25 to 40 minutes via the GW Parkway and the Beltway, flight-tracked and quoted as a flat rate.",
+      },
     ],
     related: [
       { label: "IAD to Tysons Car Service", to: "/iad-to-tysons" },
+      { label: "DCA to Tysons", to: "/dca-to-tysons" },
       { label: "Capital One Hall Transportation", to: "/capital-one-hall-transportation" },
       { label: "McLean Limo Service", to: "/mclean-limo-service" },
       { label: "Reston Limo Service", to: "/reston-limo-service" },
@@ -516,6 +519,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "Merrifield Limo Service", to: "/merrifield-limo-service" },
       { label: "Tysons Wedding Limo Service", to: "/tysons-wedding-limo-service" },
+      { label: "Limo Service Near Tysons Corner Center", to: "/limo-service-near-tysons-corner-center" },
     ],
     schema: { areaServed: ["Tysons, VA", "Fairfax County"], serviceType: "Limousine and car service" },
   },
@@ -693,9 +697,9 @@ export const MARYLAND_BATCH3 = [
     name: "Arlington",
     badge: "Arlington County Limo Service",
     h1: "Arlington Limo Service",
-    metaTitle: "Arlington VA Limo Service | Black Car to IAD & DCA",
+    metaTitle: "Arlington VA Limo Service | Flat Rate, No Surge 24/7",
     metaDescription:
-      "Chauffeured limo and black car service in Arlington, VA — Rosslyn, Ballston, Crystal City and the Pentagon, with Dulles and Reagan transfers. (877) 609-1919.",
+      "DCA is 10 minutes away. Chauffeured limo & black car service across Arlington — Rosslyn, Ballston, Crystal City and the Pentagon. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "35–55 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "10–20 minutes, depending on traffic" },
@@ -747,10 +751,6 @@ export const MARYLAND_BATCH3 = [
         a: "Every airport trip is a flat rate by vehicle and address, confirmed before you book, with no surge pricing and no change for the route the chauffeur chooses. Call (877) 609-1919 for a quote.",
       },
       {
-        q: "Do you serve hotels in Crystal City and Rosslyn?",
-        a: "Yes. We pick up at every hotel in Crystal City, Pentagon City, Rosslyn, Courthouse, Clarendon and Ballston, and the chauffeur can meet you in the lobby.",
-      },
-      {
         q: "Can you provide transportation for a service at Arlington National Cemetery?",
         a: "Yes. Sedans, SUVs and Sprinter vans are available for family groups attending services and ceremonies, with a chauffeur who understands the cemetery's entry procedures and timing.",
       },
@@ -758,9 +758,17 @@ export const MARYLAND_BATCH3 = [
         q: "Do you offer hourly service for a day in Washington from Arlington?",
         a: "Yes. As-directed hourly service keeps the chauffeur with you across Arlington and the District for meetings, sightseeing or a family visit, with unlimited stops during the booking.",
       },
+      {
+        q: "Do you serve Crystal City, Pentagon City and the Clarendon-Ballston corridor as separate pickup points?",
+        a: "Yes. Each of those National Landing and Rosslyn-Ballston corridor neighborhoods has its own dedicated page with local pickup detail — Crystal City, Pentagon City, Rosslyn, and Clarendon & Ballston — in addition to this county-wide Arlington page.",
+      },
     ],
     related: [
       { label: "IAD to Arlington Car Service", to: "/iad-to-arlington" },
+      { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
+      { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
+      { label: "Rosslyn Limo Service", to: "/rosslyn-limo-service" },
+      { label: "Clarendon & Ballston Limo Service", to: "/clarendon-ballston-limo-service" },
       { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },
       { label: "McLean Limo Service", to: "/mclean-limo-service" },
       { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },

@@ -10,6 +10,7 @@ import { MARYLAND_BATCH8 } from './marylandPagesBatch8';
 import { MARYLAND_BATCH9 } from './marylandPagesBatch9';
 import { MARYLAND_BATCH10 } from './marylandPagesBatch10';
 import { MARYLAND_BATCH11 } from './marylandPagesBatch11';
+import { MARYLAND_BATCH12 } from './marylandPagesBatch12';
 
 export const MARYLAND_PAGES = [
   {
@@ -9969,8 +9970,8 @@ export const MARYLAND_PAGES = [
     "name": "Washington DC Airport Transfers",
     "badge": "Airport Transfer",
     "h1": "Washington DC Airport Transfers: Dulles, Reagan and BWI Car Service",
-    "metaTitle": "DC Airport Transfers | Dulles, Reagan & BWI 24/7",
-    "metaDescription": "Door-to-door DC airport transfers from Dulles, Reagan National and BWI to downtown hotels and embassies. Flat rates, meet and greet. Call (877) 609-1919.",
+    "metaTitle": "DC Airport Transfers | IAD, DCA & BWI, No Surge 24/7",
+    "metaDescription": "One flat rate, three DC airports. Door-to-door transfers from Dulles, Reagan National & BWI to any DC hotel, embassy or neighborhood. (877) 609-1919.",
     "stats": [
       {
         "label": "Dulles to downtown",
@@ -10017,6 +10018,12 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "Downtown drop-offs have rules. Embassy Row addresses on Massachusetts Avenue have limited curb space and security staff who expect a specific vehicle. Hotels around Lafayette Square and the White House perimeter close streets without notice. Capitol Hill offices require a chauffeur who knows which side of the building to approach. Our drivers run these addresses weekly and confirm the drop point with you before the pickup.",
           "For DC visitors continuing to Maryland, our IAD to Bethesda and IAD to National Harbor routes cover the northern and southern suburbs, and our general airport transfer page describes the service at all three airports."
+        ]
+      },
+      {
+        "h2": "By DC neighborhood",
+        "paragraphs": [
+          "Beyond the general downtown and embassy drop-offs above, we also publish dedicated pages for specific neighborhoods with their own pickup quirks: Navy Yard for Nationals Park and Audi Field game days, Foggy Bottom for GWU and the State Department, Logan Circle and Adams Morgan for the 14th Street and 18th Street nightlife corridors, Georgetown, Dupont Circle, Capitol Hill, NoMa and The Wharf. Each one covers the local streets, security perimeters or event-night patterns specific to that part of the District."
         ]
       }
     ],
@@ -10074,6 +10081,10 @@ export const MARYLAND_PAGES = [
       {
         "q": "Can you drop off at an embassy or a Capitol Hill office?",
         "a": "Yes. Our chauffeurs know the curb and security procedures on Embassy Row and around the Capitol complex and confirm the drop point with you before pickup."
+      },
+      {
+        "q": "Do you serve specific DC neighborhoods like Navy Yard or Adams Morgan directly?",
+        "a": "Yes. We publish dedicated pages for Navy Yard, Foggy Bottom, Logan Circle, Adams Morgan, Georgetown, Dupont Circle, Capitol Hill, NoMa and The Wharf, each covering that neighborhood's specific pickup pattern."
       }
     ],
     "related": [
@@ -10092,6 +10103,22 @@ export const MARYLAND_PAGES = [
       {
         "label": "Dulles or Reagan? Why You Need a Car Service",
         "to": "/blog/flying-into-dulles-or-reagan-professional-car-service"
+      },
+      {
+        "label": "Navy Yard, DC Limo Service",
+        "to": "/navy-yard-dc-limo-service"
+      },
+      {
+        "label": "Foggy Bottom Limo Service",
+        "to": "/foggy-bottom-limo-service"
+      },
+      {
+        "label": "DCA to Tysons",
+        "to": "/dca-to-tysons"
+      },
+      {
+        "label": "DCA to National Harbor",
+        "to": "/dca-to-national-harbor"
       }
     ],
     "schema": {
@@ -10257,8 +10284,8 @@ export const MARYLAND_PAGES = [
     "name": "Dulles Airport Car Service",
     "badge": "Dulles International Airport",
     "h1": "IAD Airport Flat-Rate Car Service",
-    "metaTitle": "IAD Airport Flat-Rate Car Service | Book 24/7",
-    "metaDescription": "Flat-rate IAD car service with meet and greet at baggage claim, flight tracking and set pricing to DC, MD and VA. Call (877) 609-1919.",
+    "metaTitle": "Dulles Airport Car Service | No Surge, Flat Rate 24/7",
+    "metaDescription": "Skip the surge and the curb chaos at Dulles. Flat-rate chauffeured car service with terminal meet & greet, live flight tracking and set pricing. (877) 609-1919.",
     "stats": [
       {
         "label": "Meet and greet",
@@ -10298,6 +10325,12 @@ export const MARYLAND_PAGES = [
         "paragraphs": [
           "International passengers deplane at the mid-field concourses, ride the AeroTrain or a mobile lounge to the International Arrivals Building, clear immigration, collect bags and pass customs before exiting into the public hall. Global Entry shortens the queue to minutes; without it, an evening bank of European and Asian arrivals can take 30 to 90 minutes. Our chauffeur stands just outside the customs exit doors with a name sign, and 60 minutes of free wait time absorbs the variance.",
           "Dispatch tracks the flight, not the schedule. If the aircraft lands early or diverts, the chauffeur adjusts without a call from you. Our Dulles international arrivals guide and meet and greet guide describe the walk door by door for first-time visitors."
+        ]
+      },
+      {
+        "h2": "Flying private or chartering out of Dulles",
+        "paragraphs": [
+          "Dulles is also one of the busier general-aviation hubs on the East Coast, with private and charter traffic handled through fixed-base operators away from the commercial concourses. For passengers flying private, we meet you ramp-side or at the FBO lobby rather than routing through commercial baggage claim, coordinated directly with your flight department or broker before the flight. See our dedicated private jet and FBO transportation page for how pickup and timing work on that side of the airport."
         ]
       },
       {
@@ -10360,12 +10393,12 @@ export const MARYLAND_PAGES = [
         "a": "45 minutes on domestic arrivals and 60 minutes on international arrivals, measured from the actual landing time, since we track the flight."
       },
       {
-        "q": "How early should I be picked up for a Dulles departure?",
-        "a": "We schedule against your airline's check-in guidance: typically a pickup three hours before an international departure and two to two and a half before a domestic one from Loudoun or Fairfax, more from DC or Maryland."
+        "q": "Do you provide transportation for private jet or FBO passengers at Dulles?",
+        "a": "Yes. We meet private and charter passengers ramp-side or at the FBO lobby, coordinated with your flight department or broker in advance. See our private jet and FBO transportation page for details."
       },
       {
-        "q": "What is the cancellation policy?",
-        "a": "Sedans and SUVs cancel free up to 3 hours before pickup. Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before."
+        "q": "Can I book a full corporate travel day from Dulles with multiple stops?",
+        "a": "Yes. Hourly as-directed service keeps one vehicle and chauffeur with you for a multi-stop day across Tysons, DC or Northern Virginia, billed hourly with a confirmed rate rather than per trip."
       }
     ],
     "related": [
@@ -10384,6 +10417,18 @@ export const MARYLAND_PAGES = [
       {
         "label": "Dulles International Arrivals Guide",
         "to": "/blog/dulles-airport-international-arrivals-guide"
+      },
+      {
+        "label": "Private Jet & FBO Transportation",
+        "to": "/private-jet-fbo-transportation-dulles"
+      },
+      {
+        "label": "Tysons Corporate Car Service",
+        "to": "/tysons-corporate-car-service"
+      },
+      {
+        "label": "Dulles-Area Traffic Patterns: Best Times to Travel",
+        "to": "/blog/dulles-area-traffic-patterns-best-times-to-travel-guide"
       }
     ],
     "schema": {
@@ -10414,6 +10459,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH10,
   // Batch 11 (2026-10-23, round 6: wedding gap-fills, College Park, National Harbor/Silver Spring corporate, healthcare/biotech, embassy/diplomatic, Northwest Stadium) lives in its own file.
   ...MARYLAND_BATCH11,
+  // Batch 12 (2026-10-24, round 7: Arlington/National Landing sub-neighborhoods, 5 farther-out VA cities, 3 Baltimore-corridor MD cities, 4 DC neighborhoods, 5 new BWI/DCA route pairs, 8 occasion/industry verticals) lives in its own file.
+  ...MARYLAND_BATCH12,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).
