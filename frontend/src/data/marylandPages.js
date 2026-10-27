@@ -11,6 +11,7 @@ import { MARYLAND_BATCH9 } from './marylandPagesBatch9';
 import { MARYLAND_BATCH10 } from './marylandPagesBatch10';
 import { MARYLAND_BATCH11 } from './marylandPagesBatch11';
 import { MARYLAND_BATCH12 } from './marylandPagesBatch12';
+import { MARYLAND_BATCH13 } from './marylandPagesBatch13';
 
 export const MARYLAND_PAGES = [
   {
@@ -10461,6 +10462,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH11,
   // Batch 12 (2026-10-24, round 7: Arlington/National Landing sub-neighborhoods, 5 farther-out VA cities, 3 Baltimore-corridor MD cities, 4 DC neighborhoods, 5 new BWI/DCA route pairs, 8 occasion/industry verticals) lives in its own file.
   ...MARYLAND_BATCH12,
+  // Batch 13 (2026-10-27, round 8: Middleburg wedding, 4 corporate-car-service gap-fills (McLean, Sterling, Leesburg, Alexandria), Loudoun Data Center Alley corporate transportation, 2 prom gap-fills (Tysons, Ashburn), Quantico military-family transportation) lives in its own file.
+  ...MARYLAND_BATCH13,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).
