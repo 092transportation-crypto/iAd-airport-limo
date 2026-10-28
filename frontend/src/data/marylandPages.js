@@ -12,6 +12,7 @@ import { MARYLAND_BATCH10 } from './marylandPagesBatch10';
 import { MARYLAND_BATCH11 } from './marylandPagesBatch11';
 import { MARYLAND_BATCH12 } from './marylandPagesBatch12';
 import { MARYLAND_BATCH13 } from './marylandPagesBatch13';
+import { MARYLAND_BATCH14 } from './marylandPagesBatch14';
 
 export const MARYLAND_PAGES = [
   {
@@ -10464,6 +10465,8 @@ export const MARYLAND_PAGES = [
   ...MARYLAND_BATCH12,
   // Batch 13 (2026-10-27, round 8: Middleburg wedding, 4 corporate-car-service gap-fills (McLean, Sterling, Leesburg, Alexandria), Loudoun Data Center Alley corporate transportation, 2 prom gap-fills (Tysons, Ashburn), Quantico military-family transportation) lives in its own file.
   ...MARYLAND_BATCH13,
+  // Batch 14 (2026-10-28, round 9: 8 wedding gap-fills (Charlottesville, Winchester, Annapolis, National Harbor, Purcellville, Fredericksburg, McLean, Sterling), 8 corporate gap-fills (Crystal City, Pentagon City, Richmond, Annapolis, Georgetown, Columbia MD, Great Falls, Capitol Hill), 4 prom gap-fills (Bethesda, Arlington, Alexandria, Vienna)) lives in its own file.
+  ...MARYLAND_BATCH14,
 ];
 
 // Every page carries five FAQs (visible block + FAQPage schema).

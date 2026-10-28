@@ -168,9 +168,9 @@ export const MARYLAND_BATCH11 = [
     name: "Arlington",
     badge: "Arlington, VA · Wedding Transportation",
     h1: "Arlington Wedding Limo Service",
-    metaTitle: "Arlington Wedding Limo Service | Arlington, VA",
+    metaTitle: "Arlington Wedding Limo Service | Crystal City & DC",
     metaDescription:
-      "Chauffeured wedding transportation in Arlington, VA — Crystal City, Rosslyn and Ballston venues, guest shuttles and DC coordination. Call (877) 609-1919.",
+      "Arlington, VA wedding limo service — Crystal City, Rosslyn & Ballston venues, DC-crossing itineraries, guest shuttles. Call (877) 609-1919.",
     stats: [
       { label: "Reagan (DCA)", value: "10–20 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
@@ -178,13 +178,15 @@ export const MARYLAND_BATCH11 = [
     ],
     intro: [
       "Arlington wedding days frequently cross into Washington, DC for part of the itinerary — a ceremony at an Arlington venue, photos near the Potomac, and a reception downtown, or the reverse. We build that kind of cross-jurisdiction day as one hourly reservation, so a chauffeur familiar with both Arlington's streets and the District's bridges and traffic patterns handles the whole route.",
+      "Arlington is also one of the densest wedding markets we serve for sheer neighborhood variety — Crystal City high-rises, Rosslyn rooftop venues, Ballston hotels and Clarendon restaurants all host weddings within a few miles of each other, each with its own parking and loading-dock quirks that a chauffeur who runs this corridor daily already knows.",
+      "We work directly with the wedding planners who book these venues regularly, which means the transportation plan is usually built alongside the rest of the day's logistics rather than bolted on afterward — the chauffeur knows the photographer's timeline, the officiant's start time and the reception's loading-in schedule before the day begins.",
     ],
     highlights: [
       "Hourly wedding-day packages spanning Arlington and DC venues on one reservation",
       "Reagan National pickups 10 to 20 minutes from most Arlington venues for out-of-town guests",
       "Guest shuttle coordination with Sprinter vans for venues with limited parking",
       "Decoration-ready stretch limousines for the bridal party",
-      "Chauffeurs familiar with Crystal City, Rosslyn, Ballston and the DC bridges",
+      "Chauffeurs familiar with Crystal City, Rosslyn, Ballston, Clarendon and the DC bridges",
       "Licensed and insured Virginia carrier with a dedicated day-of coordinator",
     ],
     sections: [
@@ -201,9 +203,23 @@ export const MARYLAND_BATCH11 = [
         ],
       },
       {
-        h2: "Serving Crystal City, Rosslyn and Ballston venues",
+        h2: "Serving Crystal City, Rosslyn, Ballston and Clarendon venues",
         paragraphs: [
           "Each of Arlington's corridors has slightly different venue access and parking patterns, and a chauffeur who runs these neighborhoods daily knows where a wedding-day vehicle can actually stage without circling the block looking for a drop point.",
+          "Rooftop and high-rise venues in particular often route guests through a building's loading dock or a separate event entrance rather than the main lobby — we confirm the specific entrance with the venue ahead of time so the bridal party is never redirected mid-arrival.",
+          "Arlington's hotel-and-event-space density also means a growing number of weddings are booked at a single property for both ceremony and reception, which simplifies the day-of routing but still benefits from a chauffeur who knows that specific building's valet and loading procedures.",
+        ],
+      },
+      {
+        h2: "Guest shuttles for hotel-heavy Arlington weddings",
+        paragraphs: [
+          "With Arlington's dense concentration of hotels, many out-of-town guests stay within a short drive of the venue, which makes a Mercedes Sprinter van guest shuttle an efficient way to move a large group without everyone arranging their own rideshare on the night.",
+        ],
+      },
+      {
+        h2: "Photo locations along the Potomac and in Arlington National Cemetery's shadow",
+        paragraphs: [
+          "Many Arlington wedding parties build in a photo stop along the Potomac waterfront or at a location with a view toward the Memorial Bridge and the DC skyline, and we plan these stops as part of the hourly reservation rather than a separate errand — the chauffeur knows the realistic parking and walk time at each popular photo spot so the schedule holds.",
         ],
       },
       {
@@ -215,17 +231,19 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Can our wedding day cross between Arlington and DC venues?", a: "Yes, this is a common pattern for Arlington weddings — we build the full cross-river route into one hourly reservation." },
+      { q: "Can our wedding day cross between Arlington and DC venues?", a: "Yes, this is a common pattern for Arlington weddings — we build the full cross-river route into one hourly reservation, including bridge timing during rush hour." },
       { q: "How far is Arlington from Reagan National Airport?", a: "About 10 to 20 minutes depending on traffic, making it one of the fastest airport connections for out-of-town wedding guests." },
-      { q: "Can you shuttle guests between a hotel and the ceremony venue?", a: "Yes. A Mercedes Sprinter van is the most common choice for an Arlington guest shuttle, especially for venues with limited parking." },
-      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book." },
+      { q: "Do you know the loading-dock and event-entrance procedures for Arlington's high-rise venues?", a: "Yes, we confirm the specific guest entrance with rooftop and high-rise venues in Crystal City, Rosslyn and Ballston ahead of time so the bridal party is never redirected." },
+      { q: "Can you shuttle guests between a hotel and the ceremony venue?", a: "Yes. A Mercedes Sprinter van is the most common choice for an Arlington guest shuttle, especially for venues with limited parking or a large hotel-based guest list." },
       { q: "How far in advance should we book an Arlington wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season." },
     ],
     related: [
       { label: "Arlington Limo Service", to: "/arlington-limo-service" },
       { label: "Arlington Corporate Car Service", to: "/arlington-corporate-car-service" },
+      { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
+      { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
+      { label: "Rosslyn Limo Service", to: "/rosslyn-limo-service" },
       { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
-      { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
       { label: "Top 10 Wedding Venues Near Dulles & NoVA", to: "/top-10-wedding-venues-near-dulles-nova" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
@@ -447,9 +465,9 @@ export const MARYLAND_BATCH11 = [
     name: "Silver Spring",
     badge: "Silver Spring, MD · Corporate Transportation",
     h1: "Silver Spring Corporate Car Service",
-    metaTitle: "Silver Spring Corporate Car Service | MD",
+    metaTitle: "Silver Spring Corporate Car Service | Flat Rate 24/7",
     metaDescription:
-      "Corporate car service in Silver Spring, MD — executive sedans, FDA-area transfers, Dulles and Reagan airport runs. Call (877) 609-1919.",
+      "Silver Spring, MD corporate car service — flat rates, flight-tracked Dulles & Reagan transfers, direct billing. FDA-area firms trust us. (877) 609-1919.",
     stats: [
       { label: "Reagan (DCA)", value: "20–30 minutes, depending on traffic" },
       { label: "Dulles (IAD)", value: "40–55 minutes, depending on traffic" },
@@ -457,6 +475,8 @@ export const MARYLAND_BATCH11 = [
     ],
     intro: [
       "Silver Spring's downtown office core and its proximity to the FDA's White Oak campus and federal offices along Colesville Road make it a steady source of corporate and government-adjacent travel in Montgomery County. We run executive sedans for individual travelers, SUVs for small teams, and Sprinter vans for larger visiting groups, with Reagan National 20 to 30 minutes away for most Silver Spring addresses.",
+      "Many of the companies that book us here are regulatory-affairs firms, federal contractors and downtown media and tech offices with recurring travel needs rather than a single one-off trip, which is why direct corporate billing and a preferred-vehicle profile on file are built into how we run this market rather than an afterthought.",
+      "We also work with administrative assistants and travel coordinators who book on behalf of an executive rather than the traveler themselves, confirming pickup details and any last-minute itinerary changes directly with whoever is managing the trip so nothing gets lost between the person who booked it and the person riding in the car.",
     ],
     highlights: [
       "Flight-tracked airport pickups for clients and executives at Reagan or Dulles",
@@ -471,34 +491,51 @@ export const MARYLAND_BATCH11 = [
         h2: "Downtown Silver Spring and the Colesville Road corridor",
         paragraphs: [
           "Silver Spring's downtown office and media sector sits close enough to the Beltway and the Metro Red Line that a flight-tracked Reagan National pickup is typically the fastest airport connection for domestic executive travel in this part of Montgomery County.",
+          "We also run frequent point-to-point trips along Colesville Road and into downtown Silver Spring's office towers for executives moving between a meeting and the next stop on their schedule, rather than booking a fresh ride for every leg of the day.",
         ],
       },
       {
         h2: "Visitor transportation near the FDA White Oak campus",
         paragraphs: [
-          "A portion of our Silver Spring corporate traffic involves visitors to the FDA's White Oak campus and nearby federal and contractor offices, some of which have their own badging or visitor-log requirements. We coordinate arrival timing with facility front desks on request.",
+          "A portion of our Silver Spring corporate traffic involves visitors to the FDA's White Oak campus and nearby federal and contractor offices, some of which have their own badging or visitor-log requirements. We coordinate arrival timing with facility front desks on request, so a visiting regulatory-affairs team or scientific collaborator is not the one explaining an unscheduled arrival at a security checkpoint.",
+        ],
+      },
+      {
+        h2: "No surge pricing on a tight meeting schedule",
+        paragraphs: [
+          "A confirmed flat rate, booked in advance, means a Silver Spring executive never finds out the price of a ride changed because a meeting ran long or the weather turned. We quote the rate before you book and hold it regardless of traffic or demand.",
+        ],
+      },
+      {
+        h2: "Serving the Discovery District and downtown media sector",
+        paragraphs: [
+          "Silver Spring's Discovery District and the broader downtown office core house a mix of media companies, nonprofits and professional-services firms alongside the federal and contractor presence closer to White Oak. We run the same flat-rate, flight-tracked process for this part of the market — a visiting board member, out-of-town client or executive flying in for a single meeting books the same way a standing federal-vendor account does.",
+          "Because downtown Silver Spring sits directly on the Metro Red Line, we also see travelers combining a Metro leg with a car-service pickup for the final stretch to an office or hotel, and we coordinate that handoff point in advance so there is no confusion about where the vehicle is staged.",
+          "Evening and weekend corporate bookings are common here too — a client dinner near the Fillmore or downtown's restaurant row after a full day of meetings, booked on the same flat-rate terms as the morning's airport transfer.",
         ],
       },
       {
         h2: "Setting up a Silver Spring corporate account",
         paragraphs: [
-          "Companies booking this corridor regularly can set up direct billing, saved pickup addresses and a preferred vehicle class. Call (877) 609-1919 or book online for a single reservation or a standing account.",
+          "Companies booking this corridor regularly can set up direct billing, saved pickup addresses and a preferred vehicle class. Call (877) 609-1919 or book online for a single reservation or a standing account with consolidated monthly invoicing.",
         ],
       },
     ],
     vehicles: VEHICLES,
     faqs: [
       { q: "How far is Silver Spring from Reagan National Airport?", a: "About 20 to 30 minutes depending on traffic — one of the faster airport connections in Montgomery County." },
-      { q: "Do you serve the FDA White Oak campus?", a: "Yes, we regularly coordinate visitor transportation to the FDA White Oak campus and nearby federal and contractor offices." },
-      { q: "Can you coordinate with a facility's security desk for a visitor pickup?", a: "Yes, we confirm arrival windows directly with front-desk and security teams at Silver Spring-area facilities with visitor requirements." },
-      { q: "Do you offer direct corporate billing?", a: "Yes. We offer direct billing and monthly invoicing for corporate accounts that book Silver Spring transportation regularly." },
-      { q: "Can our company set up a standing arrangement?", a: "Yes, companies that book this corridor regularly can set up saved pickup addresses and a preferred vehicle class on file." },
+      { q: "Do you serve the FDA White Oak campus and its visitor badging process?", a: "Yes, we regularly coordinate visitor transportation to the FDA White Oak campus and nearby federal and contractor offices, confirming arrival timing with front-desk and security teams in advance." },
+      { q: "Does the rate change if a Silver Spring meeting runs long?", a: "No. We quote a flat rate before you book and hold it regardless of traffic, demand or how long the meeting runs." },
+      { q: "Do you serve the Discovery District and downtown media companies, not just White Oak?", a: "Yes, we run the same flat-rate corporate process for downtown Silver Spring's media and professional-services firms, including single-meeting bookings for visiting executives and board members." },
+      { q: "Can our company set up a standing arrangement with saved addresses?", a: "Yes, companies that book this corridor regularly can set up saved pickup addresses and a preferred vehicle class on file." },
     ],
     related: [
       { label: "Silver Spring Limo Service", to: "/silver-spring-limo-service" },
       { label: "Takoma Park Limo Service", to: "/takoma-park-limo-service" },
       { label: "Rockville Corporate Car Service", to: "/rockville-corporate-car-service" },
+      { label: "Bethesda Corporate Car Service", to: "/bethesda-corporate-car-service" },
       { label: "Maryland Corporate Transportation", to: "/maryland-corporate-transportation" },
+      { label: "Healthcare & Biotech Corporate Car Service", to: "/healthcare-biotech-corporate-car-service" },
       { label: "DCA to Bethesda", to: "/dca-to-bethesda" },
       { label: "Government Contractor Car Service", to: "/government-contractor-car-service" },
     ],
@@ -583,9 +620,9 @@ export const MARYLAND_BATCH11 = [
     name: "Embassy & Diplomatic",
     badge: "Washington, DC · Diplomatic Transportation",
     h1: "Embassy & Diplomatic Transportation Service",
-    metaTitle: "Embassy & Diplomatic Car Service | Washington, DC",
+    metaTitle: "Embassy & Diplomatic Car Service | Discreet DC",
     metaDescription:
-      "Chauffeured transportation for embassies, diplomatic missions and visiting delegations in Washington, DC. Discreet, flight-tracked service. Call (877) 609-1919.",
+      "Discreet, flight-tracked chauffeur service for embassies, missions and visiting delegations in Washington, DC. Standing accounts. (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "15–25 minutes, depending on traffic" },
@@ -593,6 +630,9 @@ export const MARYLAND_BATCH11 = [
     ],
     intro: [
       "Embassy Row and the diplomatic missions scattered across Massachusetts Avenue, Kalorama and the rest of the District generate a steady need for discreet, reliable chauffeured transportation — ambassadorial travel, visiting delegations, and staff moving between a mission, the State Department and the airport. We provide that service with the same flight tracking, written rates and licensed chauffeurs we run for every corporate client, with the added discretion this kind of travel calls for.",
+      "Diplomatic travel also tends to involve more scheduling complexity than a standard corporate trip — a visit, protocol event or state function with a fixed start time that cannot slip, often with more than one vehicle moving together. We plan those details in advance rather than treating diplomatic travel as a standard point-to-point booking.",
+      "We work with mission protocol officers and administrative staff the same way we work with any corporate travel coordinator — confirming details directly with whoever is managing the visit, rather than requiring every detail to come from the traveling official.",
+      "Advance notice is always appreciated for this kind of booking, but we also maintain the flexibility to handle a short-notice diplomatic request when the schedule calls for it.",
     ],
     highlights: [
       "Discreet, flight-tracked pickups at Dulles and Reagan National for diplomatic staff and delegations",
@@ -622,6 +662,20 @@ export const MARYLAND_BATCH11 = [
         ],
       },
       {
+        h2: "Protocol events and fixed-start-time functions",
+        paragraphs: [
+          "A state dinner, protocol visit or official function runs on a start time that does not move, which makes buffer time and a confirmed route more important than for a typical corporate pickup. We build that margin into the schedule when we know the event in advance.",
+        ],
+      },
+      {
+        h2: "International arrivals for ambassadorial and delegation travel",
+        paragraphs: [
+          "A newly posted ambassador, a visiting minister or a delegation member arriving on an international flight is tracked the same way we track any international arrival — flight number, customs-clearance buffer and a chauffeur staged with a discreet sign rather than a loud placard. We coordinate directly with mission staff on the specific pickup point, since some delegations prefer a curbside handoff and others a terminal meet.",
+          "Baggage volume is also typically higher for this kind of travel than a standard business trip, so we confirm vehicle size — an SUV or Sprinter van rather than a sedan — in advance rather than discovering a mismatch at the curb.",
+          "When a delegation's schedule includes both Dulles and Reagan National legs — arriving at one and departing from the other, or splitting a group across two flights — we plan the full itinerary as one engagement rather than two unrelated bookings, so nothing falls through a scheduling gap.",
+        ],
+      },
+      {
         h2: "Setting up a standing diplomatic account",
         paragraphs: [
           "Missions and consulates that book regularly can set up direct billing and a standing account with saved pickup addresses and preferred vehicle classes. Call (877) 609-1919 to discuss a specific delegation's needs.",
@@ -632,14 +686,16 @@ export const MARYLAND_BATCH11 = [
     faqs: [
       { q: "Do you provide transportation for embassy staff and delegations?", a: "Yes. We regularly serve embassies, missions and visiting delegations across Washington, DC with discreet, flight-tracked transportation." },
       { q: "Can you coordinate multiple vehicles for a visiting delegation?", a: "Yes. We plan a delegation's full vehicle group as one coordinated booking, confirmed against the schedule in advance." },
+      { q: "Can you handle a protocol event or official function with a fixed start time?", a: "Yes, we build extra buffer time and confirm the route in advance for a state dinner, protocol visit or official function that cannot slip." },
       { q: "Can a mission set up a standing account?", a: "Yes, missions and consulates that book regularly can set up direct billing with saved pickup addresses and preferred vehicle classes." },
-      { q: "How far is Embassy Row from Reagan National Airport?", a: "About 15 to 25 minutes depending on traffic — one of the faster airport connections in DC." },
       { q: "Is the service discreet near sensitive mission addresses?", a: "Yes, our chauffeurs who regularly serve this area plan pickup and drop-off to avoid unnecessary attention near chancery and mission buildings." },
     ],
     related: [
       { label: "Embassy & Diplomatic Visitor Transportation at Dulles", to: "/blog/embassy-diplomatic-visitor-transportation-dulles" },
+      { label: "Georgetown Corporate Car Service", to: "/georgetown-corporate-car-service" },
       { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
       { label: "Capitol Hill Limo Service", to: "/capitol-hill-limo-service" },
+      { label: "Capitol Hill Corporate Car Service", to: "/capitol-hill-corporate-car-service" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "Pentagon & Fort Belvoir Visitor Transportation Guide", to: "/pentagon-fort-belvoir-visitor-transportation-guide" },
       { label: "Government Contractor Car Service", to: "/government-contractor-car-service" },

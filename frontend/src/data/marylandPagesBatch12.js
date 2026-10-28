@@ -499,9 +499,9 @@ export const MARYLAND_BATCH12 = [
     name: "Richmond",
     badge: "Richmond, VA",
     h1: "Richmond, VA Limo Service",
-    metaTitle: "Richmond VA Limo Service | Black Car & Limo Service",
+    metaTitle: "Richmond VA Limo Service | Flat-Rate Black Car",
     metaDescription:
-      "Private limo & black car service in Richmond, VA — Dulles & Reagan airport transfers, corporate travel, weddings. Chauffeurs 24/7. (877) 609-1919.",
+      "Richmond, VA limo & black car service — flat-rate Dulles & Reagan transfers, corporate travel, weddings, VCU events. Chauffeurs 24/7. (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "105 mi · 1 hour 45 minutes – 2 hours" },
       { label: "Reagan National (DCA)", value: "100 mi · 1 hour 45 minutes" },
@@ -510,6 +510,9 @@ export const MARYLAND_BATCH12 = [
     intro: [
       "IAD Airport Limo provides private chauffeured transportation in Richmond, Virginia — airport transfers, corporate travel and wedding transportation across downtown, the Virginia Commonwealth University campus, Short Pump and the state government district.",
       "Richmond is about 105 miles from Dulles, roughly 1 hour 45 minutes to 2 hours via I-66 and I-95 — a longer-distance trip we handle as a pre-booked flat-rate reservation with the same flight tracking and chauffeur standard as any shorter run.",
+      "Because Richmond sits far enough from the DC metro that a same-day, on-demand request is rarely practical, most of our Richmond business is pre-scheduled: a confirmed flat rate, a chauffeur assigned ahead of time, and a plan for the drive rather than a reactive dispatch.",
+      "We also work with Richmond-area assistants and event planners who coordinate transportation on behalf of a traveling executive or a wedding party, confirming every detail of the trip in writing well before the pickup date rather than leaving logistics to a day-of phone call.",
+      "Given the distance involved, we also recommend booking a few days ahead whenever possible rather than the day before, which gives dispatch the most flexibility to match the right vehicle and chauffeur to a long-distance trip.",
     ],
     highlights: [
       "Written flat rates for the Dulles–Richmond run — no surge, no hidden fees",
@@ -539,18 +542,33 @@ export const MARYLAND_BATCH12 = [
           "Richmond's state government offices, financial-sector firms and Fortune 500 corporate campuses run standing accounts for executive travel between Richmond and the DC metro area. Wedding parties book Sprinter vans and sedans for downtown and James River estate venues, and VCU families book us for graduation and move-in weekends.",
         ],
       },
+      {
+        h2: "Why pre-booking matters for a trip this length",
+        paragraphs: [
+          "A 105-mile transfer is not the kind of trip where an app-based ride makes sense as a backup plan — pricing is unpredictable at that distance and availability is not guaranteed. Booking in advance with a confirmed flat rate removes both risks and gives you a specific chauffeur and vehicle assigned to the date.",
+        ],
+      },
+      {
+        h2: "Richmond International Raceway, The Diamond and group events",
+        paragraphs: [
+          "Race weekends at Richmond International Raceway and game days at The Diamond bring a predictable spike in group transportation requests — multiple vehicles, staggered pickup times across a hotel block, and a return trip that needs to beat the post-event parking-lot gridlock rather than sit in it. We plan these as a coordinated group booking rather than a set of unrelated individual rides.",
+          "Short Pump's retail and hotel corridor is a common staging point for both event types, since it sits conveniently between the interstate and downtown without the parking pressure of a venue-adjacent lot.",
+          "The Fan and Church Hill, Richmond's dense historic neighborhoods, present some of the same narrow-street and limited-parking challenges we navigate daily in Old Town Alexandria and Georgetown, and chauffeurs familiar with the Richmond market plan drop-off points accordingly rather than guessing on arrival.",
+        ],
+      },
     ],
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from Dulles to Richmond cost?", a: "We quote a flat rate by vehicle for the full trip, confirmed in writing before you book — see our full IAD-to-Richmond cost breakdown. Call (877) 609-1919 for exact pricing." },
       { q: "How long is the drive from Dulles to Richmond?", a: "About 105 miles, typically 1 hour 45 minutes to 2 hours via I-66 and I-95, depending on traffic." },
-      { q: "Do you serve Richmond's corporate and state government offices?", a: "Yes. We run standing accounts for executive travel between Richmond and the DC metro area." },
+      { q: "Do you serve Richmond's corporate and state government offices?", a: "Yes. We run standing accounts for executive travel between Richmond and the DC metro area — see our dedicated Richmond corporate car service page for account setup." },
       { q: "Do you provide transportation for VCU graduation and move-in?", a: "Yes — campus event, graduation and parents' weekend transportation are regular Richmond bookings." },
       { q: "Do you provide wedding transportation in Richmond?", a: "Yes, including downtown and James River estate venues — Sprinter vans and sedans for wedding parties and guests." },
     ],
     related: [
       { label: "IAD to Richmond, VA", to: "/iad-to-richmond-va" },
       { label: "How Much Does a Limo Cost from IAD to Richmond", to: "/how-much-does-a-limo-cost-from-iad-to-richmond" },
+      { label: "Richmond Corporate Car Service", to: "/richmond-va-corporate-car-service" },
       { label: "Charlottesville, VA Limo Service", to: "/charlottesville-va-limo-service" },
       { label: "Fredericksburg, VA Limo Service", to: "/fredericksburg-va-limo-service" },
       { label: "Corporate Car Service", to: "/corporate" },
@@ -964,9 +982,9 @@ export const MARYLAND_BATCH12 = [
     name: "Logan Circle",
     badge: "Washington, DC",
     h1: "Logan Circle, DC Limo Service",
-    metaTitle: "Logan Circle DC Limo Service | 14th Street Car Service",
+    metaTitle: "Logan Circle DC Limo Service | 14th St Car Service",
     metaDescription:
-      "Chauffeured car service in Logan Circle, Washington DC — the 14th Street restaurant corridor minutes away. Flat rates 24/7. Call (877) 609-1919.",
+      "Logan Circle, DC chauffeured car service — 14th Street dinner & nightlife, flat-rate airport transfers 24/7. Book in minutes. Call (877) 609-1919.",
     stats: [
       { label: "Reagan National (DCA)", value: "5 mi · 12–18 minutes" },
       { label: "Dulles (IAD)", value: "27 mi · 38–50 minutes" },
@@ -975,6 +993,9 @@ export const MARYLAND_BATCH12 = [
     intro: [
       "IAD Airport Limo provides private chauffeured transportation in Logan Circle, Washington DC — airport transfers, corporate travel and dinner-and-event transportation along the 14th Street restaurant and nightlife corridor.",
       "Logan Circle is 5 miles from Reagan National, about 12 to 18 minutes, while Dulles is 27 miles and BWI is 37 miles — every trip covered with flight tracking, meet and greet and a flat rate confirmed in writing.",
+      "The neighborhood's mix of historic rowhouses, a dense restaurant row and very little available street parking makes it one of the easier cases for choosing a pre-booked car over a rideshare app — you are not competing with everyone else on 14th Street for the same handful of cars during a Friday dinner rush.",
+      "We also coordinate directly with event hosts and administrative assistants who book on behalf of a group, confirming the exact meeting point and timing by text before the night rather than leaving it to a last-minute phone call once everyone is already downtown.",
+      "Weekend evenings along 14th Street book up quickly, so we recommend reserving a vehicle as soon as a dinner time is confirmed rather than waiting until the week of the event.",
     ],
     highlights: [
       "Group transportation for the 14th Street restaurant and nightlife corridor",
@@ -1004,13 +1025,26 @@ export const MARYLAND_BATCH12 = [
           "Reagan National is 5 miles (12–18 minutes), Dulles is 27 miles (38–50 minutes) and BWI is 37 miles (45–60 minutes). Logan Circle's proximity to downtown DC also makes it a common hotel-adjacent pickup point for business travelers with evening dinner plans after a day of meetings.",
         ],
       },
+      {
+        h2: "A reliable return trip after a late dinner",
+        paragraphs: [
+          "Booking the return leg in advance for a Logan Circle dinner reservation means not standing on a crowded 14th Street corner at 10 p.m. trying to find a car during the exact window everyone else in the neighborhood is doing the same thing. We confirm the pickup window around your reservation rather than a fixed time.",
+        ],
+      },
+      {
+        h2: "Corporate and hotel-adjacent travel in Logan Circle",
+        paragraphs: [
+          "Beyond dinner and nightlife bookings, Logan Circle's boutique hotels and nearby office space generate a steady amount of business travel — a visiting consultant staying near 14th Street, or a small office running client meetings downtown. We run the same flat-rate, written-quote process for these trips as for a weekend group night out.",
+          "A number of Logan Circle hotel guests also book us for a Reagan National or Dulles transfer at the end of their stay, which keeps the whole trip — hotel pickup, dinners out, and the eventual airport run — with a consistent, flight-tracked level of service.",
+        ],
+      },
     ],
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you handle a group dinner reservation along 14th Street?", a: "Yes. We coordinate the pickup and return around your reservation time rather than a fixed clock window, and can run multiple stops for a group bar crawl or progressive dinner." },
       { q: "How far is Logan Circle from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic." },
       { q: "Is parking difficult in Logan Circle — does that affect pickup?", a: "Street parking is limited, which is exactly why a pre-booked pickup point works better here than trying to flag a car at the curb during busy dinner hours." },
-      { q: "How far is Logan Circle from Dulles?", a: "About 27 miles, typically 38 to 50 minutes depending on traffic." },
+      { q: "Can you book a reliable return ride after a late dinner on 14th Street?", a: "Yes, we confirm the return pickup around your reservation time so you are not competing for a rideshare car with the rest of the corridor at closing time." },
       { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Cadillac Escalade or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
@@ -1018,7 +1052,8 @@ export const MARYLAND_BATCH12 = [
       { label: "Adams Morgan Limo Service", to: "/adams-morgan-limo-service" },
       { label: "Bachelor & Bachelorette Party Limo Service", to: "/bachelor-bachelorette-party-limo-northern-virginia" },
       { label: "NoMa, DC Limo Service", to: "/noma-dc-limo-service" },
-      { label: "Capitol One Arena DC Transportation", to: "/capital-one-arena-dc-transportation" },
+      { label: "Capital One Arena DC Transportation", to: "/capital-one-arena-dc-transportation" },
+      { label: "Navy Yard, DC Limo Service", to: "/navy-yard-dc-limo-service" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
     schema: { areaServed: ["Logan Circle, Washington, DC"], serviceType: "Limousine and car service" },
@@ -1083,7 +1118,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
       { label: "Bachelor & Bachelorette Party Limo Service", to: "/bachelor-bachelorette-party-limo-northern-virginia" },
       { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
-      { label: "Capitol One Arena DC Transportation", to: "/capital-one-arena-dc-transportation" },
+      { label: "Capital One Arena DC Transportation", to: "/capital-one-arena-dc-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
     schema: { areaServed: ["Adams Morgan, Washington, DC"], serviceType: "Limousine and car service" },
