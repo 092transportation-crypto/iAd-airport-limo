@@ -15,7 +15,7 @@ const vehicleSeo = {
   suv: {
     title: 'Luxury SUVs | Dulles Airport Limo Fleet',
     description:
-      'Premium SUVs for IAD transfers — Lincoln Nautilus, Chevrolet Suburban & Cadillac Escalade seating up to 6 with full luggage. Book online or call (877) 609-1919.',
+      'Premium SUVs for IAD transfers — Lincoln Nautilus, Chevrolet Suburban & Lincoln Navigator seating up to 6 with full luggage. Book online or call (877) 609-1919.',
   },
   sprinters: {
     title: 'Sprinter Vans | IAD Group Airport Transportation',
@@ -105,7 +105,7 @@ const VehiclesPage = () => {
         },
         {
           name: 'Premium SUV',
-          subtitle: 'Cadillac Escalade 2023+ or similar',
+          subtitle: '2026 Lincoln Navigator or similar',
           pax: 6, luggage: 5,
           image: images.suv,
           features: ['Third Row Seating', 'Premium Sound', 'Climate Zones', 'Leather Interior']
@@ -191,16 +191,16 @@ const VehiclesPage = () => {
       }
     },
     'cadillac-escalade': {
-      title: 'Cadillac Escalade',
+      title: 'Lincoln Navigator',
       subtitle: 'Bold luxury for any occasion',
       single: true,
       vehicle: {
-        name: 'Cadillac Escalade',
+        name: 'Lincoln Navigator',
         subtitle: 'Premium SUV',
         pax: 5, luggage: 5,
         image: images.suv,
         features: ['Third Row Seating', 'Premium Bose Audio', 'Tri-Zone Climate', 'Night Vision', 'Magnetic Ride Control', 'Heads-Up Display'],
-        description: 'The Cadillac Escalade makes a statement wherever it goes. With room for up to 5 passengers and generous luggage space, it\'s the perfect choice for airport runs and special occasions.'
+        description: 'The Lincoln Navigator makes a statement wherever it goes. With room for up to 5 passengers and generous luggage space, it\'s the perfect choice for airport runs and special occasions.'
       }
     },
     'chevy-suburban': {
@@ -253,8 +253,8 @@ const VehiclesPage = () => {
       'Both sedan classes are booked the same way: specify your preference when you reserve, and dispatch confirms the vehicle class in writing along with your flat rate before travel day. If your plans change — an extra passenger, more luggage than expected — call dispatch before your trip and we will confirm whether an SUV is a better fit rather than letting you find out at the curb.',
     ],
     suv: [
-      'SUVs solve the two problems sedans cannot: more passengers and more luggage. The Midsize SUV (Lincoln Nautilus) fits three riders comfortably with room for four bags, which covers most families flying into Dulles with standard checked luggage. Once a group passes four people or the bag count climbs — golf clubs, a stroller, a week of ski gear — the Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) keeps everyone and everything in one vehicle instead of splitting into two cars.',
-      'The Escalade\'s third row makes it the pick for six passengers with full luggage, and it is our most-requested vehicle for corporate groups and wedding-party transport where a Sprinter feels like overkill but a single sedan will not fit everyone. All three SUV classes include the same flight tracking and complimentary wait time as our sedans.',
+      'SUVs solve the two problems sedans cannot: more passengers and more luggage. The Midsize SUV (Lincoln Nautilus) fits three riders comfortably with room for four bags, which covers most families flying into Dulles with standard checked luggage. Once a group passes four people or the bag count climbs — golf clubs, a stroller, a week of ski gear — the Luxury SUV (Chevrolet Suburban) or Premium SUV (Lincoln Navigator) keeps everyone and everything in one vehicle instead of splitting into two cars.',
+      'The Navigator\'s third row makes it the pick for six passengers with full luggage, and it is our most-requested vehicle for corporate groups and wedding-party transport where a Sprinter feels like overkill but a single sedan will not fit everyone. All three SUV classes include the same flight tracking and complimentary wait time as our sedans.',
       'If you are unsure which SUV fits your group, tell dispatch your passenger and luggage count when you book — most mismatches happen when a family underestimates how much space strollers, golf bags or ski equipment actually take, and it is easier to confirm the right vehicle before the day than to discover it does not fit at the curb.',
     ],
     sprinters: [
@@ -283,9 +283,9 @@ const VehiclesPage = () => {
       'Availability on the 7 Series is more limited than our standard Business Sedan, so for an important date — a board visit, a VIP client arrival — request it specifically and book a few days ahead rather than assuming it will be available same-day.',
     ],
     'cadillac-escalade': [
-      'The Cadillac Escalade is our boldest SUV, built for groups of up to five passengers who want the capacity of a full-size SUV without sacrificing a genuinely luxury interior — third-row seating, Bose premium audio, tri-zone climate control and features like night vision and a heads-up display that go well beyond a standard rental-class SUV.',
-      'Families flying into Dulles with substantial luggage, wedding parties needing a statement vehicle for the couple, and corporate clients hosting a small group all request the Escalade specifically for the combination of space and presence it brings — it reads as a premium vehicle from the outside while comfortably seating five with full luggage inside. Magnetic ride control keeps the cabin smooth even on longer highway transfers to Baltimore, Richmond or the Eastern Shore.',
-      'Every Escalade booking includes the same flight tracking, 45-to-60-minute wait allowance and background-checked chauffeur standard as the rest of our fleet — the upgrade is entirely in the vehicle, not the service model underneath it.',
+      'The Lincoln Navigator is our boldest SUV, built for groups of up to five passengers who want the capacity of a full-size SUV without sacrificing a genuinely luxury interior — third-row seating, Bose premium audio, tri-zone climate control and features like night vision and a heads-up display that go well beyond a standard rental-class SUV.',
+      'Families flying into Dulles with substantial luggage, wedding parties needing a statement vehicle for the couple, and corporate clients hosting a small group all request the Navigator specifically for the combination of space and presence it brings — it reads as a premium vehicle from the outside while comfortably seating five with full luggage inside. Magnetic ride control keeps the cabin smooth even on longer highway transfers to Baltimore, Richmond or the Eastern Shore.',
+      'Every Navigator booking includes the same flight tracking, 45-to-60-minute wait allowance and background-checked chauffeur standard as the rest of our fleet — the upgrade is entirely in the vehicle, not the service model underneath it.',
     ],
     'chevy-suburban': [
       'The Chevrolet Suburban is our most practical full-size SUV, built around maximizing usable space for families and groups rather than maximizing styling — fold-flat seats, generous cargo room and a famously smooth ride make it the vehicle we recommend most often for a family of six traveling with a full set of checked luggage, golf clubs or ski gear.',

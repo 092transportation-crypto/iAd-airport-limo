@@ -147,7 +147,7 @@ const batch12 = [
       {
         question: 'What vehicles does IAD Airport Limo offer?',
         answer:
-          'Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup.',
+          'Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup.',
       },
       {
         question: 'Does it matter which term I use when I book?',
@@ -188,7 +188,7 @@ const batch12 = [
       {
         heading: 'Vehicle Choice Changes the Total',
         paragraphs: [
-          'A business sedan is the lowest-cost option for one or two passengers with reasonable luggage. A premium SUV like a Cadillac Escalade or Chevrolet Suburban costs more but fits a family with move-in luggage or golf clubs comfortably. A Mercedes Sprinter van, priced higher still, makes sense for multiple students or a larger family group traveling together rather than booking two separate vehicles.',
+          'A business sedan is the lowest-cost option for one or two passengers with reasonable luggage. A premium SUV like a Lincoln Navigator or Chevrolet Suburban costs more but fits a family with move-in luggage or golf clubs comfortably. A Mercedes Sprinter van, priced higher still, makes sense for multiple students or a larger family group traveling together rather than booking two separate vehicles.',
         ],
       },
       {
@@ -228,7 +228,7 @@ const batch12 = [
       {
         question: 'What vehicle should I book for a family move-in trip?',
         answer:
-          'A Cadillac Escalade or Chevrolet Suburban handles a typical move-in load for one student; a Sprinter van is available if multiple students or a larger family group are traveling together.',
+          'A Lincoln Navigator or Chevrolet Suburban handles a typical move-in load for one student; a Sprinter van is available if multiple students or a larger family group are traveling together.',
       },
     ],
     relatedLinks: [

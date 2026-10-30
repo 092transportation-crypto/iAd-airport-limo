@@ -10,12 +10,12 @@ const fleetFaqs = [
   {
     question: 'What vehicles can I book for a Dulles airport transfer?',
     answer:
-      'Business and First Class sedans (Mercedes-Benz E-Class, BMW 7 Series, Mercedes S-Class), luxury SUVs (Lincoln Nautilus, Chevrolet Suburban, Cadillac Escalade), and Mercedes Sprinter shuttles, executive vans and limos for up to 13 passengers.',
+      'Business and First Class sedans (Mercedes-Benz E-Class, BMW 7 Series, Mercedes S-Class), luxury SUVs (Lincoln Nautilus, Chevrolet Suburban, Lincoln Navigator), and Mercedes Sprinter shuttles, executive vans and limos for up to 13 passengers.',
   },
   {
     question: 'Which vehicle fits a family of five with checked luggage?',
     answer:
-      'A full-size SUV — the Chevrolet Suburban seats five passengers with five bags, and the Cadillac Escalade seats six with five bags. For more people or luggage, choose a Sprinter van.',
+      'A full-size SUV — the Chevrolet Suburban seats five passengers with five bags, and the Lincoln Navigator seats six with five bags. For more people or luggage, choose a Sprinter van.',
   },
   {
     question: 'Are the vehicles cleaned between trips?',
@@ -50,7 +50,7 @@ const FleetPage = () => {
     { id: 2, name: 'First Class Sedan', subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.bmw7 },
     { id: 3, name: 'Midsize SUV', subtitle: 'Lincoln Nautilus 2023+ or similar', category: 'suv', pax: 3, luggage: 4, image: fleetImages.nautilus },
     { id: 4, name: 'Luxury SUV', subtitle: 'Chevrolet Suburban 2023+ or similar', category: 'suv', pax: 5, luggage: 5, image: fleetImages.suburban },
-    { id: 5, name: 'Premium SUV', subtitle: 'Cadillac Escalade 2023+ or similar', category: 'suv', pax: 6, luggage: 5, image: fleetImages.escalade },
+    { id: 5, name: 'Premium SUV', subtitle: '2026 Lincoln Navigator or similar', category: 'suv', pax: 6, luggage: 5, image: fleetImages.escalade },
     { id: 6, name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
     { id: 7, name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
   ];
@@ -61,7 +61,7 @@ const FleetPage = () => {
     <div className="min-h-screen bg-black">
       <Seo
         title="Luxury Fleet | Dulles Airport Limo Sedans & SUVs"
-        description="Explore the IAD Airport Limo fleet — Mercedes S-Class, BMW 7 Series, Escalade, Suburban & Sprinter vans. Reserve your vehicle now or call (877) 609-1919."
+        description="Explore the IAD Airport Limo fleet — Mercedes S-Class, BMW 7 Series, Navigator, Suburban & Sprinter vans. Reserve your vehicle now or call (877) 609-1919."
         path="/fleet"
         faqs={fleetFaqs}
       />

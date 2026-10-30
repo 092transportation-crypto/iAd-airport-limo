@@ -26,7 +26,7 @@ const homeFaqs = [
   {
     question: 'What vehicles are in your fleet?',
     answer:
-      'Executive sedans including the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs like the Lincoln Nautilus, Chevrolet Suburban, and Cadillac Escalade, and Mercedes Sprinter vans for up to 13 passengers.',
+      'Executive sedans including the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs like the Lincoln Nautilus, Chevrolet Suburban, and Lincoln Navigator, and Mercedes Sprinter vans for up to 13 passengers.',
   },
   {
     question: 'Is your car service licensed and insured?',
@@ -87,7 +87,7 @@ const HomePage = () => {
     { name: 'First Class Sedan', subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.bmw7 },
     { name: 'Midsize SUV', subtitle: 'Lincoln Nautilus 2023+ or similar', category: 'SUV', pax: 3, luggage: 4, image: fleetImages.nautilus },
     { name: 'Luxury SUV', subtitle: 'Chevrolet Suburban 2023+ or similar', category: 'SUV', pax: 5, luggage: 5, image: fleetImages.suburban },
-    { name: 'Premium SUV', subtitle: 'Cadillac Escalade 2023+ or similar', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.escalade },
+    { name: 'Premium SUV', subtitle: '2026 Lincoln Navigator or similar', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.escalade },
     { name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
     { name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
   ];

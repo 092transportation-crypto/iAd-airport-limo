@@ -631,7 +631,7 @@ const batch4 = [
       {
         heading: 'Parents and Immediate Family',
         paragraphs: [
-          'Parents of the couple are often forgotten in the vehicle count because they are assumed to be driving themselves or riding with other family. If you want them included in the day’s transportation — which many couples do, especially for a parent who will be emotional or simply wants to enjoy the day without driving — a Cadillac Escalade or Chevrolet Suburban comfortably covers both sets of parents in one vehicle.',
+          'Parents of the couple are often forgotten in the vehicle count because they are assumed to be driving themselves or riding with other family. If you want them included in the day’s transportation — which many couples do, especially for a parent who will be emotional or simply wants to enjoy the day without driving — a Lincoln Navigator or Chevrolet Suburban comfortably covers both sets of parents in one vehicle.',
         ],
       },
       {
@@ -1056,7 +1056,7 @@ const batch4 = [
       {
         heading: 'The Full-Size SUV',
         paragraphs: [
-          'A Cadillac Escalade or Chevrolet Suburban seats up to six passengers with a full luggage load, making it the right choice for a family of four or five with a realistic amount of luggage, or a small group of colleagues traveling together with laptop bags and roller boards. It is also the practical choice for anyone who simply wants more room than a sedan offers, even with fewer passengers.',
+          'A Lincoln Navigator or Chevrolet Suburban seats up to six passengers with a full luggage load, making it the right choice for a family of four or five with a realistic amount of luggage, or a small group of colleagues traveling together with laptop bags and roller boards. It is also the practical choice for anyone who simply wants more room than a sedan offers, even with fewer passengers.',
         ],
       },
       {
@@ -1094,7 +1094,7 @@ const batch4 = [
       {
         question: 'What is the passenger limit for an SUV?',
         answer:
-          'Up to six passengers with a full luggage load in a Cadillac Escalade or Chevrolet Suburban.',
+          'Up to six passengers with a full luggage load in a Lincoln Navigator or Chevrolet Suburban.',
       },
       {
         question: 'When should I book a Sprinter van instead of an SUV?',

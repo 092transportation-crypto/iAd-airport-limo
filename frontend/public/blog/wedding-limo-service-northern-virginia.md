@@ -21,7 +21,7 @@ Beyond the couple and wedding party, a limo or Sprinter is frequently booked for
 
 A stretch limousine or a Lincoln Nautilus suits the couple alone or a small immediate-family group, with the classic look most couples picture for ceremony and reception arrivals. For a full wedding party — bridesmaids, groomsmen, and the couple together — a Mercedes Sprinter van comfortably seats up to thirteen, which covers most parties without splitting into two vehicles.
 
-For guest shuttles between a hotel and venue, Sprinter vans again do the heavy lifting, often running multiple loops through the evening. Cadillac Escalades and Chevrolet Suburbans are a strong middle option for parents, officiants, or a smaller party that still wants an SUV’s presence rather than a van’s footprint.
+For guest shuttles between a hotel and venue, Sprinter vans again do the heavy lifting, often running multiple loops through the evening. Cadillac Navigators and Chevrolet Suburbans are a strong middle option for parents, officiants, or a smaller party that still wants an SUV’s presence rather than a van’s footprint.
 
 ## Building the Timeline: Ceremony, Photos, Reception
 

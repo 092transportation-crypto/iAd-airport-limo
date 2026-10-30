@@ -19,7 +19,7 @@
 const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
-  { name: "Cadillac Escalade", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
+  { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
@@ -83,7 +83,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Crystal City from Dulles Airport?", a: "About 24 miles and 35–45 minutes via the Dulles Toll Road and I-66, depending on traffic." },
       { q: "Do you serve Amazon HQ2 and the Crystal Drive office corridor?", a: "Yes. We run daily corporate pickups and roadshow transportation for National Landing's offices, including Amazon's HQ2 campus and the Crystal Drive corridor." },
       { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. Curbside pickup is also available." },
-      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
     ],
     related: [
       { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
@@ -149,7 +149,7 @@ export const MARYLAND_BATCH12 = [
       { q: "Do you pick up at the Ritz-Carlton and Fashion Centre hotels?", a: "Yes, we run regular pickups at all of Pentagon City's hotel towers and can coordinate directly with the concierge desk." },
       { q: "How long does Pentagon visitor screening typically add to a pickup?", a: "It varies by appointment type; tell us your host's instructions when you book and we'll build the buffer into your schedule." },
       { q: "How far is Pentagon City from Dulles?", a: "About 23 miles, typically 35 to 45 minutes via the Dulles Toll Road and I-66." },
-      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
     ],
     related: [
       { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
@@ -215,7 +215,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Rosslyn from Reagan National?", a: "About 6 miles, typically 15 to 20 minutes depending on traffic." },
       { q: "Can you take us from Rosslyn to Georgetown for dinner or an event?", a: "Yes, it's one of our most common short runs — a two-minute crossing over Key Bridge, timed around rush-hour backups." },
       { q: "Do you serve Rosslyn's law firms and association offices?", a: "Yes. We run standing corporate accounts for client travel, depositions and multi-stop roadshows from Rosslyn's office towers." },
-      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
     ],
     related: [
       { label: "Clarendon & Ballston Limo Service", to: "/clarendon-ballston-limo-service" },
@@ -281,7 +281,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Clarendon/Ballston from Reagan National?", a: "About 7 miles, typically 18 to 25 minutes depending on traffic." },
       { q: "Do you serve the office towers around Ballston Quarter?", a: "Yes. We run standing corporate accounts for Ballston-area offices, including client visits and multi-stop roadshows." },
       { q: "How far is the corridor from Dulles?", a: "About 21 miles, typically 30 to 40 minutes via I-66 and the Dulles Toll Road." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Cadillac Escalade or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Rosslyn Limo Service", to: "/rosslyn-limo-service" },
@@ -899,7 +899,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is the Navy Yard from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic and event-day closures." },
       { q: "Do you serve Navy Yard corporate offices?", a: "Yes. We run standing accounts for the Capitol Riverfront's office towers and nearby federal agencies." },
       { q: "How far is the Navy Yard from Dulles?", a: "About 28 miles, typically 40 to 50 minutes via I-295 and the Southeast-Southwest Freeway to the Dulles Toll Road." },
-      { q: "What vehicles work best for a group heading to a game?", a: "A Cadillac Escalade or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a group heading to a game?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Nationals Park Transportation", to: "/nationals-park-transportation" },
@@ -1045,7 +1045,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Logan Circle from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic." },
       { q: "Is parking difficult in Logan Circle — does that affect pickup?", a: "Street parking is limited, which is exactly why a pre-booked pickup point works better here than trying to flag a car at the curb during busy dinner hours." },
       { q: "Can you book a reliable return ride after a late dinner on 14th Street?", a: "Yes, we confirm the return pickup around your reservation time so you are not competing for a rideshare car with the rest of the corridor at closing time." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Cadillac Escalade or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
@@ -1111,7 +1111,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Adams Morgan from Reagan National?", a: "About 6 miles, typically 15 to 22 minutes depending on traffic." },
       { q: "Why not just flag a car on 18th Street?", a: "Weekend pedestrian crowds and limited curb space make 18th Street itself a poor pickup point — we arrange a nearby meeting spot that's easier for both you and the chauffeur." },
       { q: "How far is Adams Morgan from Dulles?", a: "About 28 miles, typically 40 to 50 minutes depending on traffic." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Cadillac Escalade or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Logan Circle Limo Service", to: "/logan-circle-limo-service" },
@@ -1591,7 +1591,7 @@ export const MARYLAND_BATCH12 = [
     ],
     highlights: [
       "One hourly reservation covers every stop — no splitting the group into separate rides",
-      "A Cadillac Escalade or Chevrolet Suburban for groups up to six; a 14-passenger Sprinter van for larger parties",
+      "A Lincoln Navigator or Chevrolet Suburban for groups up to six; a 14-passenger Sprinter van for larger parties",
       "Coordinated pickup for guests flying into Dulles, Reagan or BWI for the weekend",
       "Flexible, as-directed routing — the chauffeur follows your itinerary, not a fixed schedule",
       "A safe, sober ride home at the end of the night — no one drives after the last stop",
@@ -1751,7 +1751,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How much does transportation from Dulles to UVA for graduation cost?", a: "We quote a flat round-trip or one-way rate by vehicle, confirmed in writing before you book. Call (877) 609-1919 for exact pricing." },
       { q: "How far ahead should we book for Finals Weekend?", a: "As early as possible — ideally as soon as your travel dates are confirmed, since Finals Weekend is our highest-demand Charlottesville booking of the year." },
       { q: "How long is the drive from Dulles to Charlottesville?", a: "About 110 miles, typically 2 hours to 2 hours 15 minutes via I-66 and US-29." },
-      { q: "Can you provide transportation for move-in day with lots of luggage?", a: "Yes, a Cadillac Escalade or Chevrolet Suburban handles a typical move-in load, and a Sprinter van is available for larger families or multiple students." },
+      { q: "Can you provide transportation for move-in day with lots of luggage?", a: "Yes, a Lincoln Navigator or Chevrolet Suburban handles a typical move-in load, and a Sprinter van is available for larger families or multiple students." },
       { q: "Do you serve regular family weekend visits, not just graduation?", a: "Yes. We run UVA family-weekend and football-game-day transportation throughout the school year, not just Finals Weekend and move-in." },
     ],
     related: [

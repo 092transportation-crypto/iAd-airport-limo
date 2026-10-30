@@ -87,7 +87,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -130,7 +130,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Rockville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -247,7 +247,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -290,7 +290,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Bethesda?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -416,7 +416,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -459,7 +459,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Gaithersburg?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -576,7 +576,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -619,7 +619,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Silver Spring?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -749,7 +749,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -792,7 +792,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Bowie?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -909,7 +909,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -952,7 +952,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Laurel?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -1073,7 +1073,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -1116,7 +1116,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Greenbelt?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -1233,7 +1233,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -1276,7 +1276,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Waldorf?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -1393,7 +1393,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -1436,7 +1436,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Frederick?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -1553,7 +1553,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -1596,7 +1596,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Odenton?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -1713,7 +1713,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -1756,7 +1756,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Severna Park?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -1878,7 +1878,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -1921,7 +1921,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Crofton?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2038,7 +2038,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -2081,7 +2081,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Hyattsville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2198,7 +2198,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -2241,7 +2241,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Germantown?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2358,7 +2358,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -2401,7 +2401,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Glen Burnie?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2518,7 +2518,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -2561,7 +2561,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Arnold?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2678,7 +2678,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -2721,7 +2721,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Riva?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2837,7 +2837,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -2880,7 +2880,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Cape St. Claire?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -2998,7 +2998,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -3041,7 +3041,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Clarksville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -3159,7 +3159,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -3202,7 +3202,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Towson?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -3319,7 +3319,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -3362,7 +3362,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Timonium?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -3480,7 +3480,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -3523,7 +3523,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Lutherville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -3640,7 +3640,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -3683,7 +3683,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Phoenix?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -3800,7 +3800,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -3843,7 +3843,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in North Bethesda?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -3960,7 +3960,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -4003,7 +4003,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in North Potomac?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -4119,7 +4119,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -4162,7 +4162,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Gibson Island?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -4279,7 +4279,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -4322,7 +4322,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Stevensville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -4438,7 +4438,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -4481,7 +4481,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Chevy Chase?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -4598,7 +4598,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -4641,7 +4641,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Sykesville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines."
       }
     ],
     "related": [
@@ -4755,7 +4755,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -4908,7 +4908,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5060,7 +5060,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5213,7 +5213,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5369,7 +5369,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5526,7 +5526,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5679,7 +5679,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5832,7 +5832,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -5986,7 +5986,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -6140,7 +6140,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -6293,7 +6293,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -6427,7 +6427,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Chauffeurs assigned to Maryland Wedding Limo trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Maryland Wedding Limo are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride. As soon as your date and venue are set — Saturdays during spring and fall wedding season are the first dates to fill, especially for Sprinter vans and stretch limousines serving larger wedding parties. Yes. Many Maryland weddings book a Sprinter van for the wedding party and a separate sedan or limousine reserved for the couple, so the newlyweds are never waiting on group logistics.",]
@@ -6447,7 +6447,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -6592,7 +6592,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Rates for Maryland Corporate Car Service trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
           "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Corporate Car Service are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. Yes. Companies with regular travel between Maryland offices, BWI, Reagan National or Dulles can set up a corporate account with consolidated monthly invoicing instead of expensing individual trips. Yes, as hourly as-directed service — the same vehicle and chauffeur stay with you between meetings in Rockville, Bethesda, Annapolis, Baltimore or anywhere else on your itinerary.",]
@@ -6612,7 +6612,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -6749,7 +6749,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Every Maryland Prom Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
           "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Prom Limo are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. A stretch limousine or Sprinter van are the most requested for prom groups, since both keep a larger group of friends together for photos, dinner and the dance rather than splitting into separate cars. Chauffeurs are licensed and background-checked, and parents are welcome to confirm pickup and drop-off times directly with dispatch. Many families prefer a professional chauffeur over teens driving themselves on prom night.",
@@ -6770,7 +6770,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -6911,7 +6911,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Chauffeurs assigned to Maryland Concert Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Concert Transportation trips are always welcome to be recognized. Merriweather Post Pavilion, CFG Bank Arena, and other Maryland amphitheaters and arenas are regular bookings, with chauffeurs familiar with each venue Often yes, once you add up several individual rideshare fares during post-show surge pricing. A Sprinter van or SUV booked as a flat rate for the group avoids that surge entirely.",]
@@ -6931,7 +6931,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7068,7 +7068,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Chauffeurs assigned to Maryland Wine Tour Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Wine Tour Transportation trips are always welcome to be recognized. Both. We run chauffeured wine tours to Maryland wineries in Howard, Carroll and Frederick counties as well as across the river into Loudoun County, Virginia, depending on where your group wants to go. Most groups plan two to four stops, since tastings run longer than expected. Tell dispatch your preferred wineries and we will build a realistic schedule with buffer time between stops.",]
@@ -7088,7 +7088,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7225,7 +7225,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Cadillac Escalade and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation.",
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator and Chevrolet Suburban SUVs for six with luggage; Mercedes Sprinter vans for 14; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation.",
           "Some international routes, specific airlines or fare prices make PHL the better option even for Maryland and DC-area travelers. We run this route regularly for Marylanders whose flight, schedule or price pointed them to Philadelphia instead of a closer airport. It depends on your Maryland destination, but plan for roughly 90 minutes to Baltimore and two hours or more to the DC suburbs, mostly via I-95 South. Your flat rate is confirmed before you ride regardless of traffic. Yes. An SUV or Sprinter van is matched to your group and luggage before the flight lands, so there is no gamble about whether the vehicle that arrives can actually fit everyone and their bags.",
           "Corporate accounts are also available for Maryland businesses with recurring travel through Philadelphia, including consolidated monthly invoicing and priority scheduling for employees flying this route regularly for conferences or client visits.",
         ]
@@ -7245,7 +7245,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7413,7 +7413,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7452,7 +7452,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Merriweather Post Pavilion?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Merriweather Post Pavilion?",
@@ -7580,7 +7580,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7619,7 +7619,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to CFG Bank Arena?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at CFG Bank Arena?",
@@ -7747,7 +7747,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7786,7 +7786,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Capital One Arena?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Capital One Arena?",
@@ -7917,7 +7917,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -7956,7 +7956,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to M&T Bank Stadium?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at M&T Bank Stadium?",
@@ -8083,7 +8083,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -8122,7 +8122,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Pimlico Race Course?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Pimlico Race Course?",
@@ -8250,7 +8250,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -8289,7 +8289,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Maryland State Fair?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Maryland State Fair?",
@@ -8416,7 +8416,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -8455,7 +8455,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Oriole Park at Camden Yards?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Oriole Park at Camden Yards?",
@@ -8583,7 +8583,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -8622,7 +8622,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the University of Maryland?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the University of Maryland?",
@@ -8753,7 +8753,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -8792,7 +8792,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Navy-Marine Corps Memorial Stadium?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Navy-Marine Corps Memorial Stadium?",
@@ -8919,7 +8919,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -8958,7 +8958,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to National Harbor?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at National Harbor?",
@@ -9089,7 +9089,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -9128,7 +9128,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Chesapeake Bay Events?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Chesapeake Bay Events?",
@@ -9255,7 +9255,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -9294,7 +9294,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Annapolis Boat Shows?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Annapolis Boat Shows?",
@@ -9421,7 +9421,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -9460,7 +9460,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Maryland Renaissance Festival?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Maryland Renaissance Festival?",
@@ -9587,7 +9587,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -9626,7 +9626,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Preakness Stakes?",
-        "a": "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Preakness Stakes?",
@@ -9705,7 +9705,7 @@ export const MARYLAND_PAGES = [
       "Written flat rates for point-to-point trips and hourly service for multi-stop days, never surge",
       "Airport meets at Dulles, Reagan National and BWI with flight tracking and 45 or 60 minutes of free wait",
       "Background-checked chauffeurs in business attire, assigned by name the day before",
-      "Mercedes-Benz S-Class and BMW 7 Series sedans, Cadillac Escalade SUVs and Sprinter vans for teams",
+      "Mercedes-Benz S-Class and BMW 7 Series sedans, Lincoln Navigator SUVs and Sprinter vans for teams",
       "Licensed and insured Virginia and Maryland carrier, Maryland PSC Carrier No. 6325, 24/7 dispatch"
     ],
     "sections": [
@@ -9745,7 +9745,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -9892,7 +9892,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -10043,7 +10043,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -10204,7 +10204,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"
@@ -10311,7 +10311,7 @@ export const MARYLAND_PAGES = [
       "Meet and greet at baggage claim or the International Arrivals Building customs exit with a name sign",
       "Flight tracking with 45 minutes of free wait on domestic arrivals and 60 minutes on international",
       "Departures timed against the airline's check-in guidance, the Toll Road and Route 28",
-      "Mercedes-Benz E-Class and S-Class, BMW 7 Series, Cadillac Escalade, Suburban and Sprinter vans",
+      "Mercedes-Benz E-Class and S-Class, BMW 7 Series, Lincoln Navigator, Suburban and Sprinter vans",
       "Licensed and insured Virginia and Maryland carrier, Maryland PSC Carrier No. 6325, 24/7 dispatch"
     ],
     "sections": [
@@ -10357,7 +10357,7 @@ export const MARYLAND_PAGES = [
         "best": "VIP and executive travel"
       },
       {
-        "name": "Cadillac Escalade",
+        "name": "Lincoln Navigator",
         "cls": "Premium SUV",
         "seats": 6,
         "best": "families and small groups with luggage"

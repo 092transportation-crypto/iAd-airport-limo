@@ -27,7 +27,7 @@ const batch7 = [
       {
         heading: 'Which Vehicle Actually Fits Your Wedding Party',
         paragraphs: [
-          'The most common sizing mistake is booking a vehicle for the couple alone and forgetting the wedding party needs its own transportation too. A Mercedes-Benz E-Class or BMW 7 Series sedan is right for the couple\'s own exit — quiet, private, and appropriately elegant for the getaway — but a wedding party of four to six bridesmaids or groomsmen needs a Cadillac Escalade or Chevrolet Suburban, and a full party of eight or more is a Sprinter Shuttle or Sprinter Executive van.',
+          'The most common sizing mistake is booking a vehicle for the couple alone and forgetting the wedding party needs its own transportation too. A Mercedes-Benz E-Class or BMW 7 Series sedan is right for the couple\'s own exit — quiet, private, and appropriately elegant for the getaway — but a wedding party of four to six bridesmaids or groomsmen needs a Lincoln Navigator or Chevrolet Suburban, and a full party of eight or more is a Sprinter Shuttle or Sprinter Executive van.',
           'For a wedding party larger than 13, or for guest shuttle service between a hotel block and a venue with limited parking, we coordinate multiple vehicles that arrive and depart together on the same schedule, rather than a mismatched fleet showing up at different times. The Sprinter Executive — a stretch-configured Sprinter — is worth considering specifically when you want limousine styling with more capacity than a traditional stretch sedan provides.',
           'A detail couples often miss: if the ceremony and reception are at different venues, the getting-ready location often needs its own separate vehicle running simultaneously with the ceremony-to-reception vehicle, so the wedding party is not waiting on a single car to make two round trips. Walk through your actual day, location by location, before deciding how many vehicles you need — not just how many you would like to have.',
         ],
@@ -69,7 +69,7 @@ const batch7 = [
         heading: 'Bridal Party Logistics and Extras',
         paragraphs: [
           'Complimentary touches worth confirming in advance: red carpet arrival, "Just Married" signage for the departure vehicle, and bottled water for the wedding party during a long stretch between the ceremony and reception. Ask specifically whether these are included in your quoted rate or billed as add-ons, since practices vary by company and it is better to know before the day rather than see it itemized afterward.',
-          'For the wedding party specifically, book based on headcount plus garment bags and any group luggage if travel is involved — a Cadillac Escalade seating six comfortably seats fewer than six once evening gowns and suit bags are accounted for. When in doubt, size up one vehicle class rather than risk a cramped ride to photos in formalwear.',
+          'For the wedding party specifically, book based on headcount plus garment bags and any group luggage if travel is involved — a Lincoln Navigator seating six comfortably seats fewer than six once evening gowns and suit bags are accounted for. When in doubt, size up one vehicle class rather than risk a cramped ride to photos in formalwear.',
           'Every chauffeur assigned to a wedding wears formal attire as standard, and a tuxedo upgrade is available on request for couples who want the driver\'s presentation to match a black-tie affair specifically.',
         ],
       },

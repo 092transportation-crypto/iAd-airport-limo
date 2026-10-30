@@ -19,7 +19,7 @@ Getting this distinction right at the start of the call or booking form saves a 
 
 ## Step Two: Choose Your Vehicle
 
-Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV like the Cadillac Escalade or Chevrolet Suburban fits up to six with a full luggage load. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.
+Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV like the Lincoln Navigator or Chevrolet Suburban fits up to six with a full luggage load. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.
 
 If you are unsure which class fits your trip, describe your group and luggage to dispatch rather than guessing — matching the vehicle correctly the first time avoids a last-minute swap on travel day.
 

@@ -25,7 +25,7 @@ Ask providers directly about rate stability. The entire point of a negotiated co
 
 ## Executive Sedans vs. SUVs vs. Sprinters for Business Travel
 
-Executive sedans — Mercedes-Benz S-Class and E-Class, BMW 7 Series — cover the bulk of individual business travel and client pickups, offering a quiet, professional environment for a single traveler or a pair. Full-size SUVs like the Escalade or Suburban suit small teams traveling together with luggage, or a single VIP who prefers the extra room.
+Executive sedans — Mercedes-Benz S-Class and E-Class, BMW 7 Series — cover the bulk of individual business travel and client pickups, offering a quiet, professional environment for a single traveler or a pair. Full-size SUVs like the Navigator or Suburban suit small teams traveling together with luggage, or a single VIP who prefers the extra room.
 
 Sprinter vans earn their place on the days that are not routine: a conference delegation arriving together, a client group being moved from the airport to a headquarters visit, or a roadshow team that needs one vehicle for the whole day rather than several. Matching the vehicle to the movement — not just defaulting to a sedan every time — is part of what a good corporate provider should proactively suggest.
 

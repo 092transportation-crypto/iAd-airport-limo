@@ -31,7 +31,7 @@ A black car service is committed at booking, with your chauffeur’s pickup trac
 
 ## Vehicle and Driver Standards
 
-Taxi vehicle quality varies by what the individual driver operates, within whatever condition standards the local taxi authority enforces. A black car service specifies the vehicle class you are booking — a Mercedes-Benz sedan, a Cadillac Escalade, a Sprinter van — and generally runs a maintained, late-model fleet rather than a mix of whatever vehicles are on the road that day.
+Taxi vehicle quality varies by what the individual driver operates, within whatever condition standards the local taxi authority enforces. A black car service specifies the vehicle class you are booking — a Mercedes-Benz sedan, a Lincoln Navigator, a Sprinter van — and generally runs a maintained, late-model fleet rather than a mix of whatever vehicles are on the road that day.
 
 Drivers follow a similar pattern: taxi drivers are licensed to operate a taxi, while black car chauffeurs are typically background-checked and trained specifically on professional, pre-arranged transportation — dressed for business travel and familiar with the specific pickup procedures at IAD, including where meet and greet stages for international arrivals.
 

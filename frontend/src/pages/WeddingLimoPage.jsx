@@ -84,7 +84,7 @@ const WeddingLimoPage = () => {
 
   const testimonials = [
     {
-      text: "IAD Airport Limo made our wedding day absolutely perfect. The Escalade was beautifully decorated and our chauffeur was incredibly professional.",
+      text: "IAD Airport Limo made our wedding day absolutely perfect. The Navigator was beautifully decorated and our chauffeur was incredibly professional.",
       author: "Sarah & Michael",
       location: "McLean, VA"
     },

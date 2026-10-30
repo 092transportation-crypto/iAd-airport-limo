@@ -28,7 +28,7 @@ const batch3 = [
       {
         heading: 'The Fleet: Matching the Vehicle to the Trip',
         paragraphs: [
-          'A serious IAD limo service names its vehicles rather than promising a generic "luxury car." Executive sedans — Mercedes-Benz E-Class and S-Class, BMW 7 Series — carry up to three passengers with two or three checked bags, and suit solo business travelers or couples. Full-size SUVs such as the Cadillac Escalade and Chevrolet Suburban seat up to six with a full luggage load, the right call for families or small groups. Mercedes Sprinter vans move up to thirteen passengers for delegations, wedding parties, and conference groups, and a stretch limousine remains available for events where the occasion itself calls for one.',
+          'A serious IAD limo service names its vehicles rather than promising a generic "luxury car." Executive sedans — Mercedes-Benz E-Class and S-Class, BMW 7 Series — carry up to three passengers with two or three checked bags, and suit solo business travelers or couples. Full-size SUVs such as the Lincoln Navigator and Chevrolet Suburban seat up to six with a full luggage load, the right call for families or small groups. Mercedes Sprinter vans move up to thirteen passengers for delegations, wedding parties, and conference groups, and a stretch limousine remains available for events where the occasion itself calls for one.',
           'The common booking mistake is choosing by passenger count alone. Three travelers home from two weeks abroad with six suitcases will not fit in a sedan trunk regardless of how few people there are. A good dispatcher asks about luggage before confirming a vehicle — our fleet page breaks down passenger and bag capacity for every vehicle class if you want to check before you call.',
         ],
       },
@@ -404,7 +404,7 @@ const batch3 = [
         heading: 'Choosing the Right Vehicle for Your Wedding Party',
         paragraphs: [
           'A stretch limousine or a Lincoln Nautilus suits the couple alone or a small immediate-family group, with the classic look most couples picture for ceremony and reception arrivals. For a full wedding party — bridesmaids, groomsmen, and the couple together — a Mercedes Sprinter van comfortably seats up to thirteen, which covers most parties without splitting into two vehicles.',
-          'For guest shuttles between a hotel and venue, Sprinter vans again do the heavy lifting, often running multiple loops through the evening. Cadillac Escalades and Chevrolet Suburbans are a strong middle option for parents, officiants, or a smaller party that still wants an SUV’s presence rather than a van’s footprint.',
+          'For guest shuttles between a hotel and venue, Sprinter vans again do the heavy lifting, often running multiple loops through the evening. Cadillac Navigators and Chevrolet Suburbans are a strong middle option for parents, officiants, or a smaller party that still wants an SUV’s presence rather than a van’s footprint.',
         ],
       },
       {
@@ -536,7 +536,7 @@ const batch3 = [
       {
         heading: 'Executive Sedans vs. SUVs vs. Sprinters for Business Travel',
         paragraphs: [
-          'Executive sedans — Mercedes-Benz S-Class and E-Class, BMW 7 Series — cover the bulk of individual business travel and client pickups, offering a quiet, professional environment for a single traveler or a pair. Full-size SUVs like the Escalade or Suburban suit small teams traveling together with luggage, or a single VIP who prefers the extra room.',
+          'Executive sedans — Mercedes-Benz S-Class and E-Class, BMW 7 Series — cover the bulk of individual business travel and client pickups, offering a quiet, professional environment for a single traveler or a pair. Full-size SUVs like the Navigator or Suburban suit small teams traveling together with luggage, or a single VIP who prefers the extra room.',
           'Sprinter vans earn their place on the days that are not routine: a conference delegation arriving together, a client group being moved from the airport to a headquarters visit, or a roadshow team that needs one vehicle for the whole day rather than several. Matching the vehicle to the movement — not just defaulting to a sedan every time — is part of what a good corporate provider should proactively suggest.',
         ],
       },
@@ -770,7 +770,7 @@ const batch3 = [
       {
         heading: 'Step Two: Choose Your Vehicle',
         paragraphs: [
-          'Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV like the Cadillac Escalade or Chevrolet Suburban fits up to six with a full luggage load. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.',
+          'Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV like the Lincoln Navigator or Chevrolet Suburban fits up to six with a full luggage load. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.',
           'If you are unsure which class fits your trip, describe your group and luggage to dispatch rather than guessing — matching the vehicle correctly the first time avoids a last-minute swap on travel day.',
         ],
       },
@@ -902,7 +902,7 @@ const batch3 = [
       {
         heading: 'Matching Vehicle to Group Size',
         paragraphs: [
-          'For four to six passengers with luggage, a full-size SUV — Cadillac Escalade or Chevrolet Suburban — is usually the right single-vehicle answer, seating the group together with room for a full set of bags. For larger parties, seven to thirteen passengers, a Mercedes Sprinter van keeps everyone in one vehicle rather than splitting into a multi-car convoy that has to coordinate separately at the airport.',
+          'For four to six passengers with luggage, a full-size SUV — Lincoln Navigator or Chevrolet Suburban — is usually the right single-vehicle answer, seating the group together with room for a full set of bags. For larger parties, seven to thirteen passengers, a Mercedes Sprinter van keeps everyone in one vehicle rather than splitting into a multi-car convoy that has to coordinate separately at the airport.',
           'For groups beyond thirteen, or when the party wants a specific event-style vehicle for part of the trip, multiple Sprinters or a stretch limousine paired with an SUV can be arranged — tell dispatch your total headcount and luggage, and they will recommend the combination that avoids leaving anyone or anything behind.',
         ],
       },
@@ -1179,7 +1179,7 @@ const batch3 = [
       {
         heading: 'Vehicle and Driver Standards',
         paragraphs: [
-          'Taxi vehicle quality varies by what the individual driver operates, within whatever condition standards the local taxi authority enforces. A black car service specifies the vehicle class you are booking — a Mercedes-Benz sedan, a Cadillac Escalade, a Sprinter van — and generally runs a maintained, late-model fleet rather than a mix of whatever vehicles are on the road that day.',
+          'Taxi vehicle quality varies by what the individual driver operates, within whatever condition standards the local taxi authority enforces. A black car service specifies the vehicle class you are booking — a Mercedes-Benz sedan, a Lincoln Navigator, a Sprinter van — and generally runs a maintained, late-model fleet rather than a mix of whatever vehicles are on the road that day.',
           'Drivers follow a similar pattern: taxi drivers are licensed to operate a taxi, while black car chauffeurs are typically background-checked and trained specifically on professional, pre-arranged transportation — dressed for business travel and familiar with the specific pickup procedures at IAD, including where meet and greet stages for international arrivals.',
         ],
       },

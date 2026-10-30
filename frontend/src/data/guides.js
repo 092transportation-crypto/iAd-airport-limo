@@ -45,7 +45,7 @@ export const GUIDES = [
       {
         heading: 'Trip Type 4: Groups, Weddings and Events',
         paragraphs: [
-          'Once a party exceeds four people with luggage, a single rideshare vehicle usually cannot take everyone, and splitting into two cars adds coordination and doubles the chance one is late. A Chevrolet Suburban, Cadillac Escalade or Mercedes Sprinter van moves the group together with the bags. For weddings, concerts and corporate events, a pre-booked vehicle also means a confirmed pickup at a venue where app pickups are often chaotic at the end of the night.',
+          'Once a party exceeds four people with luggage, a single rideshare vehicle usually cannot take everyone, and splitting into two cars adds coordination and doubles the chance one is late. A Chevrolet Suburban, Lincoln Navigator or Mercedes Sprinter van moves the group together with the bags. For weddings, concerts and corporate events, a pre-booked vehicle also means a confirmed pickup at a venue where app pickups are often chaotic at the end of the night.',
         ],
       },
       {
@@ -98,7 +98,7 @@ export const GUIDES = [
       {
         question: 'Can a limo service take a group with luggage?',
         answer:
-          'Yes. SUVs such as the Cadillac Escalade and Chevrolet Suburban and Mercedes Sprinter vans carry larger parties and their bags together in one vehicle.',
+          'Yes. SUVs such as the Lincoln Navigator and Chevrolet Suburban and Mercedes Sprinter vans carry larger parties and their bags together in one vehicle.',
       },
       {
         question: 'What is the cancellation policy for a chauffeured booking?',
@@ -154,7 +154,7 @@ export const GUIDES = [
       {
         heading: 'Vehicle Preparation',
         paragraphs: [
-          'The vehicle a chauffeur brings has been cleaned and checked before the trip, with bottled water, climate set for the season and room in the trunk sized to the booking. A Mercedes-Benz E-Class or S-Class for one or two passengers, a Cadillac Escalade or Chevrolet Suburban for a family with bags, a Mercedes Sprinter van for a group. Car seats are installed on request for families arriving with children, which is a detail that is easy to forget until you are standing at the curb.',
+          'The vehicle a chauffeur brings has been cleaned and checked before the trip, with bottled water, climate set for the season and room in the trunk sized to the booking. A Mercedes-Benz E-Class or S-Class for one or two passengers, a Lincoln Navigator or Chevrolet Suburban for a family with bags, a Mercedes Sprinter van for a group. Car seats are installed on request for families arriving with children, which is a detail that is easy to forget until you are standing at the curb.',
         ],
       },
       {
@@ -694,7 +694,7 @@ export const GUIDES = [
       {
         heading: 'Booking the Trip Into the City',
         paragraphs: [
-          'IAD Airport Limo runs Dulles to the District around the clock with flat rates confirmed before you ride, a fleet from the Mercedes-Benz E-Class to the Cadillac Escalade and Mercedes Sprinter van, and 24/7 dispatch at (877) 609-1919. Book on the booking page. For choosing between the region\'s three airports, read our airport transportation guide, and for what a chauffeur does on the day, why hire a chauffeur.',
+          'IAD Airport Limo runs Dulles to the District around the clock with flat rates confirmed before you ride, a fleet from the Mercedes-Benz E-Class to the Lincoln Navigator and Mercedes Sprinter van, and 24/7 dispatch at (877) 609-1919. Book on the booking page. For choosing between the region\'s three airports, read our airport transportation guide, and for what a chauffeur does on the day, why hire a chauffeur.',
         ],
       },
     ],
@@ -793,7 +793,7 @@ export const GUIDES = [
         heading: 'Choosing the Right Vehicle for Your Group',
         paragraphs: [
           'The fleet behind a holiday lights night is the same fleet used for every other trip, which means the choice comes down to how many people are riding and how much gear — strollers, a cooler, extra coats — is coming along. A Business Sedan (Mercedes-Benz E-Class or similar) or First Class Sedan (BMW 7 Series or Mercedes-Benz S-Class) suits a couple or a small family of three with modest cargo, and makes for a quieter, more intimate ride for a date night through Bull Run or a Georgetown stroll.',
-          'A Midsize SUV (Lincoln Nautilus) steps that up slightly with more room for a family of three plus gear, while a Luxury SUV (Chevrolet Suburban, seating five with five bags) or Premium SUV (Cadillac Escalade, seating six with five bags) is the right call for an extended family doing a drive-through together, car seats and all. Once a group grows past that — an office holiday party, several families combining a night out, or a multi-generational outing — the Sprinter lineup (Sprinter Shuttle or Sprinter Executive, each seating up to 13) keeps everyone together in one vehicle instead of splitting into a caravan that inevitably gets separated at the first red light.',
+          'A Midsize SUV (Lincoln Nautilus) steps that up slightly with more room for a family of three plus gear, while a Luxury SUV (Chevrolet Suburban, seating five with five bags) or Premium SUV (Lincoln Navigator, seating six with five bags) is the right call for an extended family doing a drive-through together, car seats and all. Once a group grows past that — an office holiday party, several families combining a night out, or a multi-generational outing — the Sprinter lineup (Sprinter Shuttle or Sprinter Executive, each seating up to 13) keeps everyone together in one vehicle instead of splitting into a caravan that inevitably gets separated at the first red light.',
         ],
       },
       {
@@ -867,7 +867,7 @@ export const GUIDES = [
       {
         question: 'What vehicle should I book for a family holiday lights night?',
         answer:
-          'A Midsize SUV such as the Lincoln Nautilus fits a small family comfortably, while a Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) suits an extended family with car seats and extra gear. Groups larger than six or seven, such as combined families or an office outing, are better served by a Sprinter Shuttle or Sprinter Executive, each seating up to 13.',
+          'A Midsize SUV such as the Lincoln Nautilus fits a small family comfortably, while a Luxury SUV (Chevrolet Suburban) or Premium SUV (Lincoln Navigator) suits an extended family with car seats and extra gear. Groups larger than six or seven, such as combined families or an office outing, are better served by a Sprinter Shuttle or Sprinter Executive, each seating up to 13.',
       },
       {
         question: 'Is a drive-through or a walk-through holiday light display better?',
@@ -975,7 +975,7 @@ export const GUIDES = [
       {
         question: 'What vehicle should I book for a family trip to Annapolis?',
         answer:
-          'A Luxury SUV (Chevrolet Suburban) or Premium SUV (Cadillac Escalade) fits most families with checked luggage; a Sprinter van is the better choice for a larger group or a Naval Academy event with extended family.',
+          'A Luxury SUV (Chevrolet Suburban) or Premium SUV (Lincoln Navigator) fits most families with checked luggage; a Sprinter van is the better choice for a larger group or a Naval Academy event with extended family.',
       },
       {
         question: 'Should I book a round trip if I am flying back through Dulles?',
@@ -1039,7 +1039,7 @@ export const GUIDES = [
       {
         heading: '5. What Vehicle Will Actually Show Up?',
         paragraphs: [
-          'Ask for the specific vehicle class, not just a category like "luxury sedan." A real answer names a make and model range — Mercedes-Benz E-Class, Cadillac Escalade, Mercedes Sprinter — rather than leaving it to whatever is available that day. If you have a specific need (a car seat, a Sprinter van for a group, extra luggage space), confirm it is reserved in writing, not just requested.',
+          'Ask for the specific vehicle class, not just a category like "luxury sedan." A real answer names a make and model range — Mercedes-Benz E-Class, Lincoln Navigator, Mercedes Sprinter — rather than leaving it to whatever is available that day. If you have a specific need (a car seat, a Sprinter van for a group, extra luggage space), confirm it is reserved in writing, not just requested.',
         ],
       },
       {
@@ -1792,7 +1792,7 @@ export const GUIDES = [
       {
         question: 'What vehicle should I book for a family trip to Richmond?',
         answer:
-          'A sedan suits one or two travelers; a Cadillac Escalade or Chevrolet Suburban fits a family of four to six with luggage; a Sprinter van is the right call for a larger group.',
+          'A sedan suits one or two travelers; a Lincoln Navigator or Chevrolet Suburban fits a family of four to six with luggage; a Sprinter van is the right call for a larger group.',
       },
       {
         question: 'What happens if my flight into Dulles is delayed?',

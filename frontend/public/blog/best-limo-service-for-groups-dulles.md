@@ -19,7 +19,7 @@ Groups also tend to underestimate luggage. A family of six or a wedding party of
 
 ## Matching Vehicle to Group Size
 
-For four to six passengers with luggage, a full-size SUV — Cadillac Escalade or Chevrolet Suburban — is usually the right single-vehicle answer, seating the group together with room for a full set of bags. For larger parties, seven to thirteen passengers, a Mercedes Sprinter van keeps everyone in one vehicle rather than splitting into a multi-car convoy that has to coordinate separately at the airport.
+For four to six passengers with luggage, a full-size SUV — Lincoln Navigator or Chevrolet Suburban — is usually the right single-vehicle answer, seating the group together with room for a full set of bags. For larger parties, seven to thirteen passengers, a Mercedes Sprinter van keeps everyone in one vehicle rather than splitting into a multi-car convoy that has to coordinate separately at the airport.
 
 For groups beyond thirteen, or when the party wants a specific event-style vehicle for part of the trip, multiple Sprinters or a stretch limousine paired with an SUV can be arranged — tell dispatch your total headcount and luggage, and they will recommend the combination that avoids leaving anyone or anything behind.
 

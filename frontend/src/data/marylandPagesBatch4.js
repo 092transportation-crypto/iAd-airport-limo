@@ -5,7 +5,7 @@
 const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
-  { name: "Cadillac Escalade", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
+  { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
@@ -187,16 +187,16 @@ export const MARYLAND_BATCH4 = [
     name: "Dulles Airport Black Car Service",
     badge: "Executive Sedans and SUVs · Dulles (IAD)",
     h1: "Dulles Airport Black Car Service",
-    metaTitle: "Dulles Airport Black Car Service | Mercedes, BMW, Escalade",
+    metaTitle: "Dulles Airport Black Car Service | Mercedes, BMW, Navigator",
     metaDescription:
-      "Black car service at Dulles Airport: Mercedes-Benz and BMW sedans, Escalade and Suburban SUVs, licensed chauffeurs, flat rates. Call (877) 609-1919.",
+      "Black car service at Dulles Airport: Mercedes-Benz and BMW sedans, Navigator and Suburban SUVs, licensed chauffeurs, flat rates. Call (877) 609-1919.",
     stats: [
       { label: "Sedans", value: "Mercedes-Benz E-Class, BMW 7 Series" },
-      { label: "SUVs", value: "Cadillac Escalade, Chevrolet Suburban" },
+      { label: "SUVs", value: "Lincoln Navigator, Chevrolet Suburban" },
       { label: "Pricing", value: "Flat rate, confirmed before you ride" },
     ],
     intro: [
-      "IAD Airport Limo runs black car service at Washington Dulles International Airport with late-model Mercedes-Benz and BMW sedans and Cadillac Escalade and Chevrolet Suburban SUVs, driven by licensed, background-checked chauffeurs in commercially insured vehicles. It is a scheduled, professional alternative to the taxi line and the rideshare zone: the car is reserved in advance, the rate is flat and confirmed before you ride, and the chauffeur is tracking your flight before you board.",
+      "IAD Airport Limo runs black car service at Washington Dulles International Airport with late-model Mercedes-Benz and BMW sedans and Lincoln Navigator and Chevrolet Suburban SUVs, driven by licensed, background-checked chauffeurs in commercially insured vehicles. It is a scheduled, professional alternative to the taxi line and the rideshare zone: the car is reserved in advance, the rate is flat and confirmed before you ride, and the chauffeur is tracking your flight before you board.",
       "Black car service is the everyday product for most of our Dulles clients: the arrival at IAD, the ride to a home in Loudoun, a hotel in Tysons or an office in Washington, and the return to the departures level a few days later. There is no meter running on the Toll Road and no surge when the last European bank lands after midnight.",
     ],
     highlights: [
@@ -240,7 +240,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Which vehicles are used for Dulles black car service?",
-        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, and Mercedes Sprinter vans for groups. Stretch limousines are available for special occasions.",
+        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, and Mercedes Sprinter vans for groups. Stretch limousines are available for special occasions.",
       },
       {
         q: "How much is a black car from Dulles to Washington, DC?",
@@ -386,7 +386,7 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Chauffeur service designed for international travelers",
         paragraphs: [
-          "Many international arrivals are visiting relatives, new hires relocating with several suitcases, delegations, and students starting a semester at George Mason or Georgetown. We ask at booking how many bags are coming so the right vehicle is sent: a sedan for two travelers, an Escalade or Suburban for a family, a Sprinter van for a delegation. Car seats are installed on request for families arriving with young children.",
+          "Many international arrivals are visiting relatives, new hires relocating with several suitcases, delegations, and students starting a semester at George Mason or Georgetown. We ask at booking how many bags are coming so the right vehicle is sent: a sedan for two travelers, a Navigator or Suburban for a family, a Sprinter van for a delegation. Car seats are installed on request for families arriving with young children.",
           "The chauffeur handles the cart and the walk to the vehicle, and the cabin is a quiet place to make a first call after a long flight.",
         ],
       },
@@ -475,7 +475,7 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Families, groups and corporate departures",
         paragraphs: [
-          "An Escalade or Suburban carries a family of five with checked bags and a stroller, with car seats installed on request. A Sprinter van takes a team or a wedding party to the same flight in one vehicle. Corporate accounts book recurring departures for weekly commuters and bill them monthly. If two people are leaving from different addresses, we build the stop into the same reservation with one confirmed rate.",
+          "A Navigator or Suburban carries a family of five with checked bags and a stroller, with car seats installed on request. A Sprinter van takes a team or a wedding party to the same flight in one vehicle. Corporate accounts book recurring departures for weekly commuters and bill them monthly. If two people are leaving from different addresses, we build the stop into the same reservation with one confirmed rate.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines. Call (877) 609-1919 or book online with the flight number.",
         ],
       },
@@ -867,7 +867,7 @@ export const MARYLAND_BATCH4 = [
     ],
     highlights: [
       "Dulles and Reagan National transfers with flight tracking and complimentary wait time on every arrival",
-      "Family airport runs in Escalade and Suburban SUVs with car seats installed on request",
+      "Family airport runs in Navigator and Suburban SUVs with car seats installed on request",
       "Corporate transfers to Westfields, Fair Lakes, Tysons, Reston and downtown Washington with monthly invoicing",
       "Concert nights at Jiffy Lube Live, EagleBank Arena and Wolf Trap with the chauffeur staged for the exit",
       "Weddings, proms for Centreville and Westfield high schools and milestone birthdays in limousines and SUVs",
@@ -951,7 +951,7 @@ export const MARYLAND_BATCH4 = [
     highlights: [
       "Dulles pickups and drop-offs with flight tracking and 45 minutes of complimentary wait on domestic arrivals, 60 on international",
       "Corporate car service to Westfields, the Route 28 corridor, One Loudoun, Reston and Tysons with monthly invoicing",
-      "Family airport runs in Escalade and Suburban SUVs with car seats installed on request",
+      "Family airport runs in Navigator and Suburban SUVs with car seats installed on request",
       "Loudoun wine-country days by the hour along Route 50 toward Aldie and Middleburg",
       "Weddings, proms for Freedom and John Champe high schools, and celebrations in stretch limousines",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",

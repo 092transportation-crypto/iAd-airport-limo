@@ -54,7 +54,7 @@ REAL FACTS — use only these, never invent others:
   • First Class Sedan — BMW 7 Series / Mercedes S-Class or similar — 3 passengers, 2 bags
   • Midsize SUV — Lincoln Nautilus or similar — 3 passengers, 4 bags
   • Luxury SUV — Chevrolet Suburban or similar — 5 passengers, 5 bags
-  • Premium SUV — Cadillac Escalade or similar — 6 passengers, 5 bags
+  • Premium SUV — 2026 Lincoln Navigator or similar — 6 passengers, 5 bags
   • Sprinter Shuttle — Mercedes Sprinter or similar — up to 13 passengers
   • Sprinter Executive — Mercedes Sprinter or similar — up to 13 passengers, executive interior
 - Services: airport transfers, corporate travel, wedding transportation, prom/school events, wine tours, concerts/events, hourly charter.

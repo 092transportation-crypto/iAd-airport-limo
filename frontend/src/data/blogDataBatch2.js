@@ -261,7 +261,7 @@ const batch2 = [
       {
         heading: 'The Vehicle and the Driver',
         paragraphs: [
-          'Rideshare and taxi vehicles vary by whatever the driver owns. A black car service specifies the vehicle class you are getting — a Mercedes-Benz sedan, an Escalade, a Sprinter — driven by a licensed, background-checked chauffeur dressed for business travel.',
+          'Rideshare and taxi vehicles vary by whatever the driver owns. A black car service specifies the vehicle class you are getting — a Mercedes-Benz sedan, a Navigator, a Sprinter — driven by a licensed, background-checked chauffeur dressed for business travel.',
         ],
       },
       {
@@ -279,7 +279,7 @@ const batch2 = [
       {
         heading: 'Groups and Luggage Change the Math',
         paragraphs: [
-          'A rideshare request for four or more passengers with checked bags often gets matched to a standard sedan that cannot actually fit the group, leading to a cancelled match or a cramped, unsafe ride. Taxis at the Dulles stand are typically sedans as well, so a family or a group of colleagues arriving with golf clubs, musical instruments or several suitcases faces the same problem. A reserved SUV, such as a Cadillac Escalade or Chevrolet Suburban, or a Sprinter van for a larger party, is matched to the group size before the flight ever lands — there is no gamble about whether the vehicle that shows up can actually hold everyone and everything.',
+          'A rideshare request for four or more passengers with checked bags often gets matched to a standard sedan that cannot actually fit the group, leading to a cancelled match or a cramped, unsafe ride. Taxis at the Dulles stand are typically sedans as well, so a family or a group of colleagues arriving with golf clubs, musical instruments or several suitcases faces the same problem. A reserved SUV, such as a Lincoln Navigator or Chevrolet Suburban, or a Sprinter van for a larger party, is matched to the group size before the flight ever lands — there is no gamble about whether the vehicle that shows up can actually hold everyone and everything.',
         ],
       },
       {

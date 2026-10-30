@@ -4,7 +4,7 @@
 const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
-  { name: "Cadillac Escalade", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
+  { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
@@ -166,7 +166,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "What vehicles are available in Sterling?",
-        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Cadillac Escalade and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines.",
+        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines.",
       },
     ],
     related: [
@@ -672,7 +672,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you carry a family group from Fairfax to the airport?",
-        a: "Yes. Cadillac Escalade and Chevrolet Suburban SUVs seat six with luggage, and Mercedes Sprinter vans carry up to 14. Car seats are available on request.",
+        a: "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six with luggage, and Mercedes Sprinter vans carry up to 14. Car seats are available on request.",
       },
       {
         q: "Do you serve Fair Oaks, Fair Lakes and the Mosaic District as part of Fairfax?",
@@ -1017,7 +1017,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Is there room for display cases and samples?",
-        a: "Yes. Cadillac Escalade and Chevrolet Suburban SUVs carry six passengers with cargo, and Mercedes Sprinter vans carry up to 14 with space for cases and banner stands. Tell us what you are bringing when you book.",
+        a: "Yes. Lincoln Navigator and Chevrolet Suburban SUVs carry six passengers with cargo, and Mercedes Sprinter vans carry up to 14 with space for cases and banner stands. Tell us what you are bringing when you book.",
       },
       {
         q: "Where does the chauffeur pick up after the show?",
@@ -1510,7 +1510,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "How many people fit in one vehicle?",
-        a: "Sedans seat three, Cadillac Escalade and Chevrolet Suburban SUVs seat six, stretch limousines seat eight and Mercedes Sprinter vans carry up to 14. Larger families ride in multiple coordinated vehicles.",
+        a: "Sedans seat three, Lincoln Navigator and Chevrolet Suburban SUVs seat six, stretch limousines seat eight and Mercedes Sprinter vans carry up to 14. Larger families ride in multiple coordinated vehicles.",
       },
       {
         q: "Can you handle a George Mason commencement at EagleBank Arena?",
