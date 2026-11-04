@@ -17,6 +17,7 @@ import batch13 from './blogDataBatch13';
 import batch14 from './blogDataBatch14';
 import batch15 from './blogDataBatch15';
 import batch16 from './blogDataBatch16';
+import batch18 from './blogDataBatch18';
 import { isPublished } from '../lib/publishSchedule';
 
 // Every post, including ones scheduled for a future date. Only tooling that
@@ -2610,6 +2611,7 @@ export const ALL_BLOG_POSTS = [
   ...batch14,
   ...batch15,
   ...batch16,
+  ...batch18,
 ];
 
 // Live posts only: posts flagged `scheduled: true` whose datePublished is after
