@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import Seo from '../components/Seo';
-import posts from '../data/blogData';
+import posts, { isScheduledBlogPath } from '../data/blogData';
 import { GUIDES } from '../data/guides';
 import { ensureFiveFaqs } from '../lib/faqExtras';
 
@@ -19,6 +19,7 @@ const formatDate = (iso) =>
 const BlogPostPage = ({ slug, guideSlug }) => {
   const post = guideSlug ? GUIDES.find((g) => g.slug === guideSlug) : posts.find((p) => p.slug === slug);
   const otherPosts = [...(guideSlug ? GUIDES : []), ...posts].filter((p) => p.slug !== post.slug).slice(0, 3);
+  const relatedLinks = (post.relatedLinks || []).filter((link) => !isScheduledBlogPath(link.to));
   // Every post shows (and schemas) five Q&As — short posts top up from the
   // same shared policy pool Seo.jsx uses for FAQPage schema, so the visible
   // FAQ section always matches the structured data exactly.
@@ -91,11 +92,11 @@ const BlogPostPage = ({ slug, guideSlug }) => {
           ))}
 
           {/* Related pages */}
-          {post.relatedLinks && post.relatedLinks.length > 0 && (
+          {relatedLinks.length > 0 && (
             <div className="mt-14 border-t border-white/10 pt-10">
               <h2 className="font-display text-2xl sm:text-3xl text-white mb-6">Related Pages</h2>
               <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                {post.relatedLinks.map((link) => (
+                {relatedLinks.map((link) => (
                   <li key={link.to}>
                     <Link to={link.to} className="flex items-center gap-3 border border-white/10 p-4 text-white/70 hover:text-white hover:border-white/40 transition-colors text-sm sm:text-base">
                       <ChevronRight className="w-4 h-4 flex-shrink-0 text-white/40" /> {link.label}

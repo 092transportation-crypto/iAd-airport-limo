@@ -45,11 +45,35 @@ const { MARYLAND_PAGES } = require(path.join(SRC, "data", "marylandPages.js"));
 const routesData = require(path.join(SRC, "data", "routesData.js")).default;
 const venuesData = require(path.join(SRC, "data", "venuesData.js")).default;
 const { GUIDES } = require(path.join(SRC, "data", "guides.js"));
+// Default export = live posts only (scheduled future posts filtered out).
 const blogPosts = require(path.join(SRC, "data", "blogData.js")).default;
 
+const OUT_PATH = path.join(ROOT, "public", "sitemap-static.xml");
+
+// <loc> -> <lastmod> from the sitemap currently on disk (empty if missing).
+// URLs already listed keep their lastmod, so the daily scheduled-publishing
+// rebuild (prebuild runs this script) doesn't stamp every page with today's
+// date. Only URLs new to the sitemap get today.
+function previousLastmods() {
+  const map = new Map();
+  let xml = "";
+  try {
+    xml = fs.readFileSync(OUT_PATH, "utf8");
+  } catch (e) {
+    return map;
+  }
+  const re = /<loc>([^<]+)<\/loc>\s*<lastmod>(\d{4}-\d{2}-\d{2})<\/lastmod>/g;
+  let m;
+  while ((m = re.exec(xml))) map.set(m[1], m[2]);
+  return map;
+}
+const PREVIOUS = previousLastmods();
+
 const urls = [];
-const add = (loc, { priority = "0.6", changefreq = "monthly", lastmod = TODAY } = {}) =>
-  urls.push({ loc: `${ORIGIN}${loc}`, priority, changefreq, lastmod });
+const add = (loc, { priority = "0.6", changefreq = "monthly", lastmod } = {}) => {
+  const full = `${ORIGIN}${loc}`;
+  urls.push({ loc: full, priority, changefreq, lastmod: lastmod || PREVIOUS.get(full) || TODAY });
+};
 
 // --- Static top-level pages ---
 add("/", { priority: "1.0", changefreq: "weekly" });
@@ -111,6 +135,6 @@ const xml =
     .join("\n") +
   `\n</urlset>\n`;
 
-const outPath = path.join(ROOT, "public", "sitemap-static.xml");
+const outPath = OUT_PATH;
 fs.writeFileSync(outPath, xml, "utf8");
 console.log(`[sitemap] wrote ${deduped.length} URLs (${urls.length - deduped.length} duplicates removed) to ${path.relative(ROOT, outPath)}`);

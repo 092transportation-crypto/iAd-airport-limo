@@ -17,8 +17,11 @@ import batch13 from './blogDataBatch13';
 import batch14 from './blogDataBatch14';
 import batch15 from './blogDataBatch15';
 import batch16 from './blogDataBatch16';
+import { isPublished } from '../lib/publishSchedule';
 
-const posts = [
+// Every post, including ones scheduled for a future date. Only tooling that
+// needs the full set (slug-collision checks) should read this.
+export const ALL_BLOG_POSTS = [
   {
     slug: 'iad-airport-car-service-vs-uber-2026',
     title: 'IAD Airport Car Service vs. Uber in 2026: An Honest Comparison',
@@ -2608,5 +2611,19 @@ const posts = [
   ...batch15,
   ...batch16,
 ];
+
+// Live posts only: posts flagged `scheduled: true` whose datePublished is after
+// the build cutoff are hidden everywhere — /blog listing, routes, related posts,
+// breadcrumbs, sitemap and prerender (src/lib/publishSchedule.js).
+const posts = ALL_BLOG_POSTS.filter(isPublished);
+
+// Hand-written links (relatedLinks / related arrays in page data) to a post
+// that is still scheduled would 404 until its date — link renderers drop them.
+const SCHEDULED_SLUGS = new Set(ALL_BLOG_POSTS.filter((p) => !isPublished(p)).map((p) => p.slug));
+export const isScheduledBlogPath = (to) =>
+  SCHEDULED_SLUGS.size > 0 &&
+  typeof to === 'string' &&
+  to.startsWith('/blog/') &&
+  SCHEDULED_SLUGS.has(to.slice(6).split(/[?#]/)[0].replace(/\/+$/, ''));
 
 export default posts;

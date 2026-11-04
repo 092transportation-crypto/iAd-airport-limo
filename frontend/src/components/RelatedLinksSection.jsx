@@ -1,11 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { isScheduledBlogPath } from '../data/blogData';
 
 // Shared "Related Services" + "Nearby Areas" block used by the landing-page,
 // route-page and blog-post templates so every page links out to at least a
 // handful of other pages in two clearly-labeled, crawlable groups. Either
 // list can be omitted; each renders only when it has items.
-const LinkGrid = ({ title, items }) => {
+const LinkGrid = ({ title, items: allItems }) => {
+  // Skip links to blog posts that are scheduled but not yet live.
+  const items = allItems && allItems.filter((r) => !isScheduledBlogPath(r.to));
   if (!items || items.length === 0) return null;
   return (
     <div className="mb-10 last:mb-0">
