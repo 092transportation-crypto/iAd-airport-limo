@@ -114,7 +114,7 @@ const batch16 = [
     ],
     relatedLinks: [
       { label: "Jiffy Lube Live Transportation", to: "/jiffy-lube-live-transportation" },
-      { label: "Wolf Trap & Northern Virginia Summer Concert Season", to: "/blog/wolf-trap-northern-virginia-summer-concert-season-transportation-guide" },
+      { label: "Wolf Trap & Northern Virginia Summer Concert Season", to: "/blog/wolf-trap-summer-concert-season-transportation-guide" },
       { label: "Fleet", to: "/fleet" },
       { label: "Book Now", to: "/book-now" },
     ],
@@ -337,7 +337,7 @@ const batch16 = [
     ],
     relatedLinks: [
       { label: "Corporate", to: "/corporate" },
-      { label: "Alexandria Waterfront Corporate Events", to: "/blog/alexandria-waterfront-corporate-events-client-dinners-conferences-and-chauffeur-logistics-in-old-town" },
+      { label: "Alexandria Waterfront Corporate Events", to: "/blog/alexandria-old-town-waterfront-corporate-events-transportation" },
       { label: "Fleet", to: "/fleet" },
       { label: "Book Now", to: "/book-now" },
     ],
@@ -563,7 +563,7 @@ const batch16 = [
     ],
     relatedLinks: [
       { label: "IAD to Washington DC", to: "/iad-to-washington-dc" },
-      { label: "Reston Town Center Event Transportation", to: "/blog/reston-town-center-event-transportation-dining-concerts-and-the-ice-rink" },
+      { label: "Reston Town Center Event Transportation", to: "/blog/reston-town-center-event-transportation" },
       { label: "Fleet", to: "/fleet" },
       { label: "Book Now", to: "/book-now" },
     ],
