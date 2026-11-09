@@ -35,8 +35,7 @@ import ServiceAreasPage from './pages/ServiceAreasPage';
 import { Toaster } from './components/ui/toaster';
 import FloatingCallButton from './components/FloatingCallButton';
 import ChatWidget from './components/ChatWidget';
-import LeadCapturePopup from './components/LeadCapturePopup';
-import ExitIntentPopup from './components/ExitIntentPopup';
+import ChatGate from './components/ChatGate';
 
 function App() {
   return (
@@ -99,9 +98,9 @@ function App() {
       </BrowserRouter>
       <Toaster />
       <FloatingCallButton />
-      <ChatWidget />
-      <LeadCapturePopup />
-      <ExitIntentPopup />
+      <ChatGate>
+        <ChatWidget />
+      </ChatGate>
     </div>
   );
 }
