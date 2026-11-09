@@ -2167,6 +2167,592 @@ const batch18 = [
       },
     ],
   },
+
+  // ---------------------------------------------------------- POST 19 (2026-11-11)
+  {
+    slug: "bluemont-vineyard-chauffeured-wine-tasting-guide",
+    scheduled: true,
+    title: "Visiting Bluemont Vineyard: A Chauffeured Guide to the Mountainside Winery in Western Loudoun",
+    metaTitle: "Bluemont Vineyard Wine Tasting by Chauffeur | IAD Airport Limo",
+    metaDescription:
+      "Planning a trip to Bluemont Vineyard in Bluemont, Virginia: the drive from Dulles and DC, the steep road up, timing a tasting day and why a chauffeur helps.",
+    datePublished: "2026-11-11",
+    readTime: "8 min read",
+    excerpt:
+      "Bluemont Vineyard sits high on the eastern slope of the Blue Ridge at the far western edge of Loudoun County. Here is how to plan the drive, the day and the ride home so everyone in the group can enjoy the tasting and the view.",
+    image: "/images/blog/fleet-escalade-1.webp",
+    intro: [
+      "Bluemont Vineyard is one of the best-known wineries in western Loudoun County, and most people remember it for the view before they remember the wine. The winery sits on a family farm high on the eastern slope of the Blue Ridge above the village of Bluemont, Virginia, and on a clear day the terrace looks out across the rolling farmland of the Loudoun valley toward the hills in the distance.",
+      "That hillside setting is also what makes the trip worth planning. Bluemont is at the far western end of our Loudoun County service area, the last part of the approach climbs on narrow, steep country roads, and a tasting day often turns into a long afternoon with stops at other wineries along Route 7. This guide covers how to get there from Dulles, DC and Northern Virginia, how to time the day, and why so many groups book a chauffeur rather than choose a designated driver.",
+    ],
+    sections: [
+      {
+        heading: "Where Bluemont Vineyard Is",
+        paragraphs: [
+          "The village of Bluemont sits at the foot of the Blue Ridge near Snickers Gap, where Route 7 crosses the mountains toward Berryville and Winchester. It is a small place: a handful of historic buildings, a general store, a few homes and the surrounding orchards, farms and vineyards. Bluemont Vineyard is on the mountainside above the village, reached by a rural road that winds up from the valley floor.",
+          "Bluemont, Virginia, is home to more than one business that uses the town's name, including a separate brewery and winery in the village itself. When you book, give us the winery's exact street address from its official website, not just the name, so your chauffeur heads to the right place on the first try.",
+        ],
+      },
+      {
+        heading: "Getting to Bluemont Vineyard From Dulles, DC and Northern Virginia",
+        paragraphs: [
+          "From Dulles, Bluemont is roughly 30 miles away, and the drive typically takes 40 to 50 minutes. The usual route heads north to Route 7 and then west past Leesburg, Purcellville and Round Hill before turning off toward the village. The Dulles Greenway is another way to reach Leesburg and pick up Route 7 from there.",
+          "From Tysons, McLean and Reston, add time for the drive out to Loudoun; from Arlington, Alexandria or downtown DC, plan on well over an hour each way, more on a fall weekend. Route 7 west of Leesburg is a busy road on Saturdays during the harvest season, when apple orchards, pumpkin patches and wineries along the corridor all draw crowds at the same time.",
+        ],
+        subsections: [
+          {
+            heading: "The Last Climb Up the Mountain",
+            paragraphs: [
+              "The final stretch to the winery is the part first-time visitors notice. The road is narrow, steep and curving, with farm traffic, cyclists and the occasional deer, and it is the kind of road where visitors who don't know it tend to brake hard and drive slowly. Coming back down after a tasting is when a confident, sober driver matters most.",
+              "If your group is large, mention it when you book. We'll confirm the right vehicle for the approach and the parking area before the day, rather than guessing.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Before You Go: Check With the Winery",
+        paragraphs: [
+          "Tasting room hours, reservation rules, group size limits, food options and policies on children and pets all change from season to season, and they are set by the winery, not by us. Check Bluemont Vineyard's official website or call them directly before you plan the day, especially if you're bringing a larger group, celebrating a birthday or bachelorette, or visiting on a fall weekend when wineries across Loudoun are at their busiest.",
+          "Once you know your reservation time, or the hours you plan to arrive, book your transportation. We can plan the pickup around it.",
+        ],
+      },
+      {
+        heading: "Timing a Day in Bluemont Virginia Wine Country",
+        paragraphs: [
+          "Most groups plan two or three stops in a day, and Bluemont Vineyard works well as either the first or the last. Starting there means you arrive when the terrace is quieter and the morning light is on the valley. Finishing there means you can watch the late-afternoon light over Loudoun before heading home.",
+        ],
+        list: [
+          "Departure: leave the Dulles area about an hour before your first reservation; allow more from DC or inner Northern Virginia.",
+          "Tastings: plan on an hour or more at each stop, longer if you're ordering food or settling in on the terrace.",
+          "Between stops: Route 7 wineries near Bluemont, Round Hill and Purcellville are usually a short drive apart, but rural roads add time.",
+          "Return: allow 40 to 50 minutes back to Dulles, longer to DC, and more in Sunday evening traffic heading east.",
+        ],
+      },
+      {
+        heading: "Why Groups Book a Chauffeur Instead of a Designated Driver",
+        paragraphs: [
+          "The most common alternative is asking one person in the group not to drink. On a winery day, that means someone spends four or five hours watching everyone else taste, then drives a steep mountain road and an hour of highway home at the end of a long day. A chauffeur takes that job off the group entirely.",
+          "Rideshare is unreliable this far west. You may get a car to Bluemont, but finding one to pick you up from a hillside winery late on a Saturday afternoon is a different matter, and cell signal can be inconsistent in the folds of the Blue Ridge. With a pre-booked vehicle, your chauffeur is waiting when you're ready to leave.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for Multi-Stop Days",
+            paragraphs: [
+              "With hourly, as-directed service, the vehicle and chauffeur stay with you for the whole day. You can add a stop, linger longer than planned or leave early without rebooking anything. For a day that includes Bluemont Vineyard and one or two other wineries, hourly service is the simplest choice.",
+            ],
+          },
+          {
+            heading: "One-Way Transfers for Overnight Stays",
+            paragraphs: [
+              "If you're staying at an inn or rental in western Loudoun, two one-way transfers may make more sense: one out to the winery country and one home or to Dulles the next day.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Pairing Bluemont Vineyard With Other Stops",
+        paragraphs: [
+          "Western Loudoun has dozens of wineries, breweries and cideries within a short drive of Bluemont, along Route 7, Route 9 and the back roads around Round Hill, Hillsboro and Purcellville. Many groups plan one stop at a mountain-view winery, one at a smaller tasting room and lunch in between. Others pair a tasting with a walk in Bluemont village or a stop at a farm stand during apple season.",
+          "Hikers sometimes combine a morning on the Appalachian Trail near Bears Den with an afternoon tasting. If that's your plan, bring a change of clothes and shoes for the winery, and tell us the trailhead when you book so we can plan the pickup.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable for the drive out and back. Small groups often choose a Chevrolet Suburban, which carries up to five passengers, or a Lincoln Navigator for up to six. For birthday groups, bachelorette parties and friends traveling together, a Mercedes Sprinter carries up to thirteen passengers. Leave room in the back for any bottles or cases you buy along the way.",
+        ],
+      },
+      {
+        heading: "What to Bring",
+        paragraphs: [
+          "The terrace and hillside are exposed to wind and sun, and the mountain is often a few degrees cooler than the suburbs, especially in spring and late fall. Bring a layer, sunglasses and shoes that work on gravel and grass. Everyone tasting must be 21 or older with valid ID, so make sure each guest brings theirs. Bottled water in the vehicle between stops is a good idea on a full day.",
+        ],
+      },
+      {
+        heading: "Booking Your Winery Day",
+        paragraphs: [
+          "Fall weekends and spring Saturdays book quickly, particularly for Sprinter vans. Reserve your car as soon as your winery plans are set. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, the wineries you plan to visit, your first reservation time and how many people are traveling.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Wine Country Ride", to: "/book-now" },
+      { label: "Bluemont, VA Limo Service", to: "/bluemont-va-limo-service" },
+      { label: "Loudoun County Wine Trail Chauffeur Guide", to: "/blog/loudoun-county-wine-trail-chauffeur-guide" },
+      { label: "Wine Tours", to: "/wine-tours" },
+    ],
+    faqs: [
+      {
+        question: "How far is Bluemont Vineyard from Dulles Airport?",
+        answer: "The village of Bluemont is roughly 30 miles from Dulles, typically 40 to 50 minutes via Route 7. Allow extra time for the steep, winding road up to the winery and for weekend traffic west of Leesburg.",
+      },
+      {
+        question: "Do I need a reservation at Bluemont Vineyard?",
+        answer: "Reservation rules, group limits and tasting room hours are set by the winery and change by season. Check Bluemont Vineyard's official website or call them before you plan the day, especially for groups.",
+      },
+      {
+        question: "Is Bluemont Vineyard the same as the other winery and brewery in Bluemont?",
+        answer: "No. More than one business in Bluemont, Virginia, uses the town's name. Give us the exact street address from the winery's official website when you book so your chauffeur goes to the right place.",
+      },
+      {
+        question: "Will the chauffeur wait while we taste?",
+        answer: "Yes, with an hourly booking. The chauffeur stays with the vehicle between stops and is ready when you are, so nobody in the group has to be the designated driver.",
+      },
+      {
+        question: "What vehicle works for a bachelorette or birthday group?",
+        answer: "A Mercedes Sprinter carries up to thirteen passengers. Smaller groups often choose a Chevrolet Suburban for up to five or a Lincoln Navigator for up to six.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 20 (2026-11-12)
+  {
+    slug: "green-hill-winery-middleburg-chauffeured-visit-guide",
+    scheduled: true,
+    title: "Green Hill Winery Near Middleburg: Planning a Chauffeured Tasting in Virginia Hunt Country",
+    metaTitle: "Green Hill Winery Middleburg Car Service | IAD Airport Limo",
+    metaDescription:
+      "Planning a visit to Green Hill Winery near Middleburg, Virginia: the drive from Dulles and DC on Route 50, timing a tasting day, vehicles and getting home.",
+    datePublished: "2026-11-12",
+    readTime: "8 min read",
+    excerpt:
+      "Green Hill Winery sits in the horse and wine country around Middleburg, about 40 to 50 minutes from Dulles. Here is how to plan the drive along Route 50, combine a tasting with time in town and get everyone home safely.",
+    image: "/images/blog/fleet-sclass-2.webp",
+    intro: [
+      "Green Hill Winery is part of the cluster of wineries in the countryside around Middleburg, the historic town at the heart of Virginia's hunt country. The landscape here is stone walls, horse farms and rolling pasture, and a winery visit in the Middleburg area is often as much about the drive and the setting as the wine.",
+      "For visitors coming from Dulles, DC or the Northern Virginia suburbs, the trip is easy enough to plan but long enough that the ride home deserves some thought. This guide covers how to reach Green Hill Winery, how to time a tasting day, how to pair it with Middleburg itself and why a chauffeur is the simplest way to do it.",
+    ],
+    sections: [
+      {
+        heading: "Where Green Hill Winery Is",
+        paragraphs: [
+          "Green Hill Winery is in the Middleburg area, west of Aldie and the Route 50 corridor that runs out from Fairfax and South Riding. Middleburg straddles the line between Loudoun and Fauquier counties, and many of its wineries sit on rural roads off Route 50 or the country lanes north and south of town.",
+          "Because rural addresses around Middleburg can be confusing, and map apps sometimes route visitors down unpaved farm roads, give us the winery's exact street address from its official website when you book. Your chauffeur will plan the approach in advance.",
+        ],
+      },
+      {
+        heading: "Getting There From Dulles, DC and Northern Virginia",
+        paragraphs: [
+          "From Dulles Airport, Middleburg is about 32 miles away, and the drive typically takes 40 to 50 minutes. The usual route heads south and west to Route 50, then west through Aldie into hunt country. Route 50 narrows to a two-lane road west of the suburbs, passes through Aldie's small historic village and continues into Middleburg's main street.",
+          "From Fairfax, Chantilly and Centreville, the drive is similar or a little shorter. From Arlington, Alexandria or DC, plan on an hour or more each way, depending on I-66 traffic. On fall weekends, Route 50 west of the suburbs can back up, especially around Aldie and through Middleburg, where the speed limit drops and traffic slows for pedestrians in town.",
+        ],
+        subsections: [
+          {
+            heading: "Country Roads and Gravel Lanes",
+            paragraphs: [
+              "Many wineries in this area are reached by narrow roads, some of them gravel, with blind curves, horse trailers and riders on the shoulder. These are pleasant roads to be driven on and less pleasant to drive yourself after several tastings. Coming home after dark in late fall, when deer are active, is when a professional driver makes the biggest difference.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Check With Green Hill Winery Before You Go",
+        paragraphs: [
+          "Tasting hours, reservation requirements, group size limits, food, live music and policies on children and pets are all set by the winery and can change by season. Check Green Hill Winery's official website or contact them directly before you plan, especially for a larger group, a private event or a fall weekend visit. Once you know your arrival time, book your car around it.",
+        ],
+      },
+      {
+        heading: "Planning a Green Hill Winery Day Trip in Virginia Hunt Country",
+        paragraphs: [
+          "Most visitors pair Green Hill Winery with one or two other stops and some time in Middleburg. A typical day might start with a late-morning tasting, continue with lunch in town and end with a second winery in the afternoon.",
+        ],
+        list: [
+          "Departure: leave the Dulles area about an hour before your first reservation; leave earlier from DC or inner Northern Virginia.",
+          "First stop: plan on an hour or more for a tasting, longer if you settle in with food or a bottle.",
+          "Middleburg: the town's main street has shops, galleries and restaurants, and makes a natural midday break.",
+          "Second stop: other wineries around Middleburg, Aldie and The Plains are usually a short drive apart on country roads.",
+          "Return: allow 40 to 50 minutes back to Dulles and more on a Sunday evening heading east on Route 50 or I-66.",
+        ],
+      },
+      {
+        heading: "Combining Your Tasting With Middleburg",
+        paragraphs: [
+          "Middleburg is small enough to walk end to end in a few minutes and pretty enough that most visitors want to. Its main street, Washington Street, carries Route 50 through town, lined with historic buildings, boutiques, tack shops and places to eat. The Red Fox Inn, one of the oldest inns in the region, is in the center of town, and Salamander Resort sits on the edge of it.",
+          "With an hourly booking, your chauffeur can drop you on Washington Street, wait while you walk and shop, and pick you up again for the next winery. That avoids the hunt for a parking space in town on a busy Saturday.",
+        ],
+      },
+      {
+        heading: "Hourly Service or Separate Transfers",
+        subsections: [
+          {
+            heading: "Hourly Service",
+            paragraphs: [
+              "With hourly, as-directed service, the chauffeur and vehicle stay with you from pickup to drop-off. You can change the order of stops, stay longer where you like and leave when you're ready. For a day that includes Green Hill Winery, lunch in Middleburg and a second stop, hourly service is usually the best fit.",
+            ],
+          },
+          {
+            heading: "Transfers for Overnight Guests",
+            paragraphs: [
+              "If you're staying in Middleburg overnight, two one-way transfers often make more sense: one from Dulles or home to your hotel or inn, and one back the next day. Guests flying in for a hunt-country weekend can be met at Dulles; airport pickups include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from touchdown.",
+            ],
+          },
+        ],
+        paragraphs: [],
+      },
+      {
+        heading: "Celebrations, Groups and Wedding Guests",
+        paragraphs: [
+          "Hunt-country wineries are popular for birthdays, anniversaries, bachelorette parties and rehearsal events, and many couples marry at estates around Middleburg. If you're coordinating transportation for a group or wedding guests, tell us the number of people, the venues and the timing, and we'll recommend a plan. Our Middleburg wedding limo page has more on guest shuttles and wedding-day service.",
+        ],
+      },
+      {
+        heading: "The Seasons in Hunt Country",
+        paragraphs: [
+          "Each season changes the feel of a winery day around Middleburg. Spring brings green pastures and point-to-point races on weekends across the hunt country. Summer afternoons are long and warm, and shaded seating fills early. Fall is the busiest season, with harvest, foliage and crowds on Route 50, so reservations, both at the winery and for your car, matter most from September through November.",
+          "Winter is quieter. Some tasting rooms keep shorter hours, and the drive home is in the dark by late afternoon, which is one more reason to let someone else handle the country roads. Whatever the season, check the winery's current hours before you set your pickup time.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class suits the drive along Route 50. Two couples often choose a Chevrolet Suburban, which seats up to five, or a Lincoln Navigator for up to six. Larger groups can travel together in a Mercedes Sprinter with seating for up to thirteen. If you plan to buy cases of wine, let us know so we leave room.",
+        ],
+      },
+      {
+        heading: "What to Bring",
+        paragraphs: [
+          "Wineries in hunt country are mostly outdoors, with lawns, patios and gravel paths. Bring a layer for cool afternoons, sun protection in summer and comfortable shoes. Every guest who plans to taste must be 21 or older with valid ID. A phone charger and a bottle of water for the ride are worth packing on a full day.",
+        ],
+      },
+      {
+        heading: "Booking Your Ride",
+        paragraphs: [
+          "Fall weekends in Middleburg book quickly, especially for groups. Reserve as soon as your winery plans are set. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, the wineries you'd like to visit and how many people are coming.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Hunt Country Ride", to: "/book-now" },
+      { label: "Middleburg Limo Service", to: "/middleburg-limo-service" },
+      { label: "Dulles to Middleburg Car Service", to: "/iad-to-middleburg-va" },
+      { label: "Middleburg Wedding Limo Service", to: "/middleburg-wedding-limo-service" },
+      { label: "Loudoun Wine Country Day Trip by Chauffeur", to: "/blog/loudoun-wine-country-day-trip-by-chauffeur" },
+    ],
+    faqs: [
+      {
+        question: "Where is Green Hill Winery in Virginia, and how far is it from Dulles?",
+        answer: "Green Hill Winery is in the Middleburg area of Virginia hunt country. Middleburg is about 32 miles from Dulles, typically 40 to 50 minutes via Route 50. Allow extra time for weekend traffic through Aldie and Middleburg and for the country roads to the winery.",
+      },
+      {
+        question: "Does Green Hill Winery require reservations?",
+        answer: "Reservation rules, hours and group policies are set by the winery and can change by season. Check Green Hill Winery's official website or contact them directly before you visit.",
+      },
+      {
+        question: "Can we stop in Middleburg between wineries?",
+        answer: "Yes. With an hourly booking, your chauffeur can drop you on Washington Street, wait while you walk, shop or eat, and take you on to the next winery.",
+      },
+      {
+        question: "Can you pick up guests flying into Dulles for a weekend in Middleburg?",
+        answer: "Yes. Airport pickups include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from touchdown, and we track your flight.",
+      },
+      {
+        question: "What vehicle fits two couples on a winery day?",
+        answer: "A Chevrolet Suburban seats up to five and a Lincoln Navigator up to six, with room for any bottles you buy. Larger groups can use a Mercedes Sprinter for up to thirteen.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 21 (2026-11-13)
+  {
+    slug: "windridge-vineyards-darnestown-car-service-guide",
+    scheduled: true,
+    title: "Windridge Vineyards in Darnestown, MD: How to Plan a Chauffeured Visit From Dulles and DC",
+    metaTitle: "Windridge Vineyards Darnestown Car Service | IAD Airport Limo",
+    metaDescription:
+      "Planning a trip to Windridge Vineyards in Darnestown, Maryland: crossing the Potomac from Dulles, the drive from DC and Montgomery County, and getting home.",
+    datePublished: "2026-11-13",
+    readTime: "8 min read",
+    excerpt:
+      "Windridge Vineyards sits in Darnestown, on the edge of Montgomery County's rural countryside. It is close to the Maryland suburbs, but reaching it from Dulles and Northern Virginia means crossing the Potomac. Here is how to plan the trip.",
+    image: "/images/blog/fleet-7series-2.webp",
+    intro: [
+      "Windridge Vineyards is a winery in Darnestown, Maryland, in western Montgomery County, where the suburbs of Gaithersburg and North Potomac give way to open farmland. For Maryland residents it is close to home. For visitors coming from Dulles, Loudoun or Fairfax, it is near on the map but separated by the Potomac River, and that crossing is what makes the trip worth planning.",
+      "This guide covers where Windridge Vineyards is, the realistic routes from Dulles, Northern Virginia and DC, how to time a visit and why a pre-booked chauffeur is the easiest way to enjoy the day and get home afterwards.",
+    ],
+    sections: [
+      {
+        heading: "Where Windridge Vineyards Is",
+        paragraphs: [
+          "Darnestown is a small, mostly rural community along Route 28 (Darnestown Road) west of Gaithersburg and Rockville. To the west lies Montgomery County's Agricultural Reserve, a large protected area of farms, orchards and wineries that stretches toward Poolesville and the Potomac. Windridge Vineyards sits on the edge of that countryside, close enough to the suburbs for an easy afternoon trip.",
+          "As with any rural address, give us the exact street address from the winery's official website when you book. Your chauffeur will plan the approach and the drop-off point in advance.",
+        ],
+      },
+      {
+        heading: "Getting to Windridge Vineyards From Dulles and Northern Virginia",
+        paragraphs: [
+          "The Potomac has few crossings between the Capital Beltway and Point of Rocks, so the route from the Virginia side depends on where you start. From Dulles, Reston, Herndon or Tysons, the usual route heads east to the Beltway and crosses the American Legion Bridge into Maryland, then continues north on I-270 toward Gaithersburg before turning west toward Darnestown. Gaithersburg is about 24 miles from Dulles, typically 30 to 50 minutes, and Darnestown is a short drive beyond.",
+          "The American Legion Bridge is one of the most congested points in the region, especially on weekday afternoons and on Sunday evenings when weekend traffic returns. Leave margin in both directions, and avoid scheduling a weekday tasting so that you hit the bridge at rush hour.",
+        ],
+        subsections: [
+          {
+            heading: "From Leesburg and Western Loudoun",
+            paragraphs: [
+              "From Leesburg or Purcellville, the Beltway route is often still the most reliable. Another option is to head north on Route 15 and cross the Potomac at Point of Rocks, then come back east through rural Maryland, which can be pleasant but is longer. The small river ferry near Leesburg has been out of service in recent years, so don't plan around it without checking its current status first.",
+            ],
+          },
+          {
+            heading: "From DC and the Maryland Suburbs",
+            paragraphs: [
+              "From DC, Bethesda and Rockville, the drive is shorter and stays on the Maryland side, usually via I-270 or River Road and the roads west of Gaithersburg. Weekend traffic is lighter than weekday rush hour, but allow time for Saturday shopping traffic in the Gaithersburg area.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Check With the Winery Before You Go",
+        paragraphs: [
+          "Tasting room hours, reservation rules, group size limits, food, events and policies on children and pets are set by the winery and change from season to season. Check Windridge Vineyards' official website or contact them directly before you plan, especially for a group or a fall weekend. Once you have a reservation time or a planned arrival, book your transportation around it.",
+        ],
+      },
+      {
+        heading: "Timing Your Visit",
+        paragraphs: [
+          "Because Windridge Vineyards is close to the Maryland suburbs, it works well as a half-day trip as well as part of a longer wine day in Montgomery and Frederick counties.",
+        ],
+        list: [
+          "Departure: from the Dulles area, leave at least an hour before your reservation, and more if you'll cross the American Legion Bridge at a busy time.",
+          "Tasting: plan on an hour or more, longer if you're settling in with food or friends.",
+          "Second stop: other wineries and farms in the Agricultural Reserve, toward Poolesville and Dickerson, are a short drive farther west.",
+          "Return: allow plenty of time for the bridge on a Sunday evening, when traffic heading back to Virginia can be heavy.",
+        ],
+      },
+      {
+        heading: "Why a Chauffeur Makes Sense",
+        paragraphs: [
+          "A winery visit followed by a crossing of the American Legion Bridge in heavy traffic is not anyone's idea of a relaxed afternoon, especially for the person who stayed sober to drive. With a chauffeur, the whole group can taste, and nobody has to navigate rural Maryland roads or Beltway traffic afterwards.",
+          "Rideshare availability drops quickly once you leave the suburbs, and a car willing to take a group back across the river to Virginia from a rural winery late on a Saturday isn't guaranteed. A pre-booked car is waiting when you're ready.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly or Point-to-Point",
+            paragraphs: [
+              "For a single tasting with a known start and end, a round trip can be booked as two transfers, but for an afternoon with two or more stops, hourly, as-directed service keeps the chauffeur with you all day. You can add a stop or stay longer without rebooking. We're a licensed and insured Virginia and Maryland carrier, so cross-river trips are routine for us.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Ideas for the Day",
+        paragraphs: [
+          "Windridge Vineyards pairs naturally with the rest of Montgomery County's countryside. Groups often combine a tasting with a second winery in the Agricultural Reserve, a visit to a pick-your-own farm in season, or lunch in Gaithersburg, Rockville or Potomac Village on the way home. Couples sometimes make it part of a longer day with dinner nearby.",
+          "For a fuller Maryland wine day, the wineries of Frederick County are farther north, and our Maryland wine tour page has more on planning a multi-stop itinerary there.",
+        ],
+      },
+      {
+        heading: "Busy Seasons and Bridge Traffic",
+        paragraphs: [
+          "Spring and fall weekends are the most popular times for wineries across Montgomery County, and the same weekends bring pick-your-own crowds and fall festivals to the farms of the Agricultural Reserve. Rural roads west of Darnestown are narrow, and a slow line of cars behind a tractor or a group of cyclists is normal on a Saturday.",
+          "On the Virginia side, the bigger variable is the Beltway. A trip that takes forty minutes on a quiet Saturday morning can take much longer on a Friday afternoon or a holiday weekend. If you're planning a weekday visit, a late-morning start and an early-afternoon return usually avoid the worst of the rush in both directions.",
+        ],
+      },
+      {
+        heading: "Visiting From Out of Town",
+        paragraphs: [
+          "Travelers flying into Dulles to visit friends or family in Montgomery County sometimes add a winery afternoon to the trip. We can combine an airport pickup with a stop at your hotel and a visit to Windridge Vineyards on the same day. Airport pickups include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from touchdown, and we track your flight.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable for the drive. Small groups often choose a Chevrolet Suburban, which carries up to five, or a Lincoln Navigator for up to six. For birthdays, bachelorette parties and office outings, a Mercedes Sprinter seats up to thirteen. Let us know if you plan to buy wine so we leave space.",
+        ],
+      },
+      {
+        heading: "What to Bring",
+        paragraphs: [
+          "Plan for an outdoor visit: a light layer for spring and fall afternoons, sun protection in summer and shoes that work on grass and gravel. Every guest who plans to taste must be 21 or older with valid ID.",
+        ],
+      },
+      {
+        heading: "Booking Your Ride",
+        paragraphs: [
+          "Weekend afternoons in spring and fall are popular. Reserve as soon as your plans are set. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, the time of your reservation and how many people are traveling.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Winery Ride", to: "/book-now" },
+      { label: "Maryland Wine Tour Transportation", to: "/maryland-wine-tour-transportation" },
+      { label: "Gaithersburg Limo Service", to: "/gaithersburg-limo-service" },
+      { label: "Dulles to Gaithersburg Car Service", to: "/iad-to-gaithersburg-md" },
+      { label: "North Potomac Limo Service", to: "/north-potomac-limo-service" },
+    ],
+    faqs: [
+      {
+        question: "How do you get to Windridge Vineyards from Dulles Airport?",
+        answer: "The usual route crosses the Potomac on the American Legion Bridge, then heads north on I-270 toward Gaithersburg and west to Darnestown. Gaithersburg is typically 30 to 50 minutes from Dulles, and Darnestown is a short drive beyond.",
+      },
+      {
+        question: "Can we take the ferry across the Potomac from Leesburg?",
+        answer: "The small river ferry near Leesburg has been out of service in recent years, so don't plan around it without checking its current status. The American Legion Bridge or the Route 15 bridge at Point of Rocks are the usual crossings.",
+      },
+      {
+        question: "Do I need a reservation at Windridge Vineyards?",
+        answer: "Reservation rules, hours and group policies are set by the winery and change by season. Check Windridge Vineyards' official website or contact them before you visit.",
+      },
+      {
+        question: "Do you drive between Virginia and Maryland?",
+        answer: "Yes. We're a licensed and insured Virginia and Maryland carrier, and trips across the Potomac are routine for us.",
+      },
+      {
+        question: "Can we visit more than one winery in the same trip?",
+        answer: "Yes. With hourly, as-directed service, the chauffeur stays with you all day, so you can add other wineries in Montgomery County's Agricultural Reserve or farther north in Frederick County.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 22 (2026-11-14)
+  {
+    slug: "big-cork-vineyards-rohrersville-day-trip-from-dulles",
+    scheduled: true,
+    title: "Big Cork Vineyards Day Trip: Getting to Rohrersville, MD From Dulles and Northern Virginia",
+    metaTitle: "Big Cork Vineyards Day Trip From Dulles | IAD Airport Limo",
+    metaDescription:
+      "Planning a day at Big Cork Vineyards in Rohrersville, Maryland: the route from Dulles over the Potomac, drive times, nearby stops and why a chauffeur helps.",
+    datePublished: "2026-11-14",
+    readTime: "8 min read",
+    excerpt:
+      "Big Cork Vineyards is in Pleasant Valley, near Harpers Ferry and Antietam in Washington County, Maryland. It is a long, scenic drive from Dulles across the Potomac, and the trip home is the part to plan. Here is how.",
+    image: "/images/blog/scenario-group-boarding.webp",
+    intro: [
+      "Big Cork Vineyards is one of the better-known wineries in western Maryland. It sits in Rohrersville, in Washington County's Pleasant Valley, a narrow stretch of farmland between South Mountain and Elk Ridge just north of the Potomac River and Harpers Ferry. For many groups from Northern Virginia, it is a destination day trip rather than a quick tasting.",
+      "That distance is the reason to plan carefully. The trip from Dulles crosses the Potomac, follows two-lane roads through rural Loudoun and Frederick counties, and ends in a valley that most visitors have never driven before. This guide covers the routes from Dulles and DC, how to time the day, what else is nearby and how to get everyone home safely.",
+    ],
+    sections: [
+      {
+        heading: "Where Big Cork Vineyards Is",
+        paragraphs: [
+          "Rohrersville is a small community on Route 67, which runs north through Pleasant Valley from US-340 toward Boonsboro. The valley is quiet farm country, with the long ridge of South Mountain to the east and Elk Ridge to the west. Big Cork Vineyards is in this valley, a short drive from Harpers Ferry, Brunswick and Antietam National Battlefield near Sharpsburg.",
+          "Give us the winery's exact street address from its official website when you book, so your chauffeur can plan the approach and drop-off in advance.",
+        ],
+      },
+      {
+        heading: "Getting to Big Cork Vineyards From Dulles",
+        paragraphs: [
+          "From Dulles, the most direct route usually heads to Leesburg, then north on Route 15 to the Potomac bridge at Point of Rocks, Maryland. From there, roads lead west along the river toward Brunswick and US-340, and then north onto Route 67 into Pleasant Valley. Expect the drive to take roughly an hour and a quarter to an hour and a half in normal traffic.",
+          "Route 15 north of Leesburg is a two-lane road for much of the way, and it can be slow on fall weekends and during the weekday commute, when traffic queues at the Point of Rocks bridge. Leave margin in your schedule, especially for a reservation at a fixed time.",
+        ],
+        subsections: [
+          {
+            heading: "From DC and Montgomery County",
+            paragraphs: [
+              "From DC, Bethesda and Rockville, the usual route heads north on I-270 toward Frederick, then west on US-340 toward Harpers Ferry before turning onto Route 67. Frederick is about 42 miles from Dulles, typically 50 to 70 minutes, and Pleasant Valley is farther west, so from the inner suburbs plan on about an hour and a half each way, more in traffic.",
+            ],
+          },
+          {
+            heading: "Rural Roads at the End",
+            paragraphs: [
+              "The last stretch runs through rural, two-lane country with farm equipment, cyclists and occasional deer, particularly at dusk. After a long afternoon of tastings, nobody in your group should have to drive these roads and then an hour or more of highway home.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Check With Big Cork Before You Go",
+        paragraphs: [
+          "Hours, reservation requirements, group policies, food, live music and policies on children and pets are set by the winery and can change by season. Check Big Cork Vineyards' official website or contact them directly before you plan the day, especially for a larger group or a busy fall weekend. Once you have a reservation time, book your car around it.",
+        ],
+      },
+      {
+        heading: "Planning a Big Cork Vineyards Day Trip",
+        paragraphs: [
+          "Because the drive is long, most groups make a full day of it. The trip works best with an early-enough start that you aren't rushing through tastings.",
+        ],
+        list: [
+          "Departure: leave the Dulles area about an hour and a half before your reservation, earlier from DC or on a fall weekend.",
+          "Tasting: plan on an hour and a half or more, longer if you're ordering food or staying for music.",
+          "Second stop: add a nearby winery, a walk in Harpers Ferry or a visit to Antietam, all a short drive away.",
+          "Return: allow at least an hour and a half home, more on Sunday evenings when traffic heads south on Route 15.",
+        ],
+      },
+      {
+        heading: "Pairing Your Visit With Harpers Ferry or Antietam",
+        paragraphs: [
+          "Pleasant Valley is close to two of the region's most visited historic sites. Harpers Ferry, at the confluence of the Potomac and Shenandoah rivers in West Virginia, has a historic lower town run by the National Park Service, with shops, museums and river views. Antietam National Battlefield near Sharpsburg, Maryland, is the site of the 1862 Civil War battle and is a natural stop for history-minded visitors.",
+          "Many groups visit one of these in the morning and arrive at the winery for an afternoon tasting. Check the National Park Service websites for hours, parking and shuttle information before you go, since parking at Harpers Ferry in particular can be limited on busy days. With hourly service, your chauffeur handles the driving between stops.",
+        ],
+      },
+      {
+        heading: "Why a Chauffeur Makes Sense for This Trip",
+        paragraphs: [
+          "Big Cork is far enough from home that a designated driver would spend most of the day behind the wheel and finish with a long drive back in the dark. A chauffeur lets the whole group taste and relax. Rideshare is limited in rural Washington County, and getting a car back to Northern Virginia from a winery late in the day is uncertain at best.",
+          "We're a licensed and insured Virginia and Maryland carrier, so a trip from Loudoun or Fairfax into western Maryland is routine for us.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service",
+            paragraphs: [
+              "Hourly, as-directed service keeps the vehicle and chauffeur with you from pickup to drop-off. You can add Harpers Ferry or a second winery, stay longer where you like and leave when you're ready, without rebooking.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Seasons in Pleasant Valley",
+        paragraphs: [
+          "Spring and fall are the most popular times to visit western Maryland wineries. In October, foliage on South Mountain and Elk Ridge draws visitors from across the region, and the same weekends bring crowds to Harpers Ferry and the farm markets along US-340. Reservations at the winery and for your car matter most then.",
+          "Summer brings long evenings and outdoor seating, though heat and afternoon thunderstorms are common. Winter is quieter, with shorter hours at many tasting rooms and early darkness on the drive home. Check the winery's current hours before you set your pickup time, and in winter, keep an eye on the forecast for western Maryland, where conditions can differ from Northern Virginia.",
+        ],
+      },
+      {
+        heading: "Visiting From Out of Town",
+        paragraphs: [
+          "Guests flying into Dulles for a weekend in the region can be met at the airport and taken to a hotel or inn near Harpers Ferry, Frederick or Leesburg, with a winery day on the itinerary. Airport pickups include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from touchdown.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable for the long drive. For small groups, a Chevrolet Suburban seats up to five and a Lincoln Navigator up to six. For birthdays, bachelorette parties and group outings, a Mercedes Sprinter carries up to thirteen. Let us know if you plan to buy wine so we leave room in the back.",
+        ],
+      },
+      {
+        heading: "What to Bring",
+        paragraphs: [
+          "Pleasant Valley can be breezy and cooler than the suburbs, and much of a winery visit is outdoors. Bring layers, sun protection and comfortable shoes, especially if you're walking Harpers Ferry or Antietam the same day. Everyone who plans to taste must be 21 or older with valid ID. Water and snacks in the vehicle help on a long day.",
+        ],
+      },
+      {
+        heading: "Booking Your Big Cork Day",
+        paragraphs: [
+          "Fall weekends book quickly, particularly for Sprinter vans. Reserve as soon as your winery plans are set. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, your reservation time, any other stops you'd like to add and how many people are traveling.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Day Trip", to: "/book-now" },
+      { label: "Maryland Wine Tour Transportation", to: "/maryland-wine-tour-transportation" },
+      { label: "Frederick Limo Service", to: "/frederick-limo-service" },
+      { label: "Dulles to Frederick, MD Car Service", to: "/iad-to-frederick-md" },
+      { label: "Wine Tours", to: "/wine-tours" },
+    ],
+    faqs: [
+      {
+        question: "How long is the drive from Dulles to Big Cork Vineyards?",
+        answer: "Roughly an hour and a quarter to an hour and a half in normal traffic, usually via Route 15 and the Potomac bridge at Point of Rocks. Allow more on fall weekends, when Route 15 can be slow.",
+      },
+      {
+        question: "Where is Big Cork Vineyards?",
+        answer: "In Rohrersville, Maryland, in Washington County's Pleasant Valley along Route 67, between South Mountain and Elk Ridge and a short drive from Harpers Ferry and Antietam.",
+      },
+      {
+        question: "Do I need a reservation at Big Cork Vineyards?",
+        answer: "Hours, reservation rules and group policies are set by the winery and can change by season. Check Big Cork Vineyards' official website or contact them before you visit.",
+      },
+      {
+        question: "Can we combine Big Cork with Harpers Ferry or Antietam?",
+        answer: "Yes. Both are a short drive from Pleasant Valley. With hourly service, your chauffeur drives between stops, and you can check National Park Service websites for hours and parking.",
+      },
+      {
+        question: "What vehicle works for a group winery trip?",
+        answer: "A Mercedes Sprinter carries up to thirteen passengers. Smaller groups often choose a Chevrolet Suburban for up to five or a Lincoln Navigator for up to six.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
