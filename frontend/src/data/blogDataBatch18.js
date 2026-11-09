@@ -2753,6 +2753,147 @@ const batch18 = [
       },
     ],
   },
+  // ---------------------------------------------------------- POST 23 (2026-11-15)
+  {
+    slug: "middleburg-virginia-visitors-guide-by-chauffeur",
+    scheduled: true,
+    title: "Middleburg, Virginia: A Year-Round Visitor's Guide to Hunt Country by Chauffeur",
+    metaTitle: "Middleburg, Virginia Visitor's Guide | IAD Airport Limo",
+    metaDescription:
+      "Visiting Middleburg, Virginia: getting there from Dulles and DC on Route 50, walking Washington Street, horse country, wineries and planning the ride home.",
+    datePublished: "2026-11-15",
+    readTime: "8 min read",
+    excerpt:
+      "Middleburg, Virginia is a small historic town in the heart of Loudoun's horse and hunt country, about 40 to 50 minutes from Dulles. Here is how to plan a visit in any season, from the drive out on Route 50 to the ride home.",
+    image: "/images/blog/fleet-escalade-2.webp",
+    intro: [
+      "Middleburg, Virginia is one of the most visited small towns in Northern Virginia, and it is easy to see why. A few blocks of stone and brick buildings line Washington Street, the surrounding countryside is stone walls, horse farms and rolling pasture, and the town has long been known as the center of Virginia's horse and hunt country. Visitors come for the shops and restaurants, the wineries on the roads outside town, the horse events and simply the drive.",
+      "This guide is for anyone planning a visit to Middleburg from Dulles, DC or the Northern Virginia suburbs, whether for an afternoon, a long weekend or a special occasion. It covers how to get there, what a day in town usually looks like, how the year changes the experience and how to plan transportation so nobody has to worry about the country roads or the drive home.",
+    ],
+    sections: [
+      {
+        heading: "Where Middleburg Is",
+        paragraphs: [
+          "Middleburg sits in southwestern Loudoun County, close to the Fauquier County line, on US Route 50, the old road that runs west from the Washington suburbs toward Winchester. The town grew up as a stop on that road, roughly midway between Alexandria and Winchester, and its historic center still follows the highway. Through town, Route 50 becomes Washington Street, the main street where most visitors spend their time.",
+          "The town itself is compact, but Middleburg is also shorthand for the countryside around it: the villages of Aldie to the east, Upperville to the west and The Plains to the south, along with the farms, estates and wineries scattered across the hills between them. Many addresses that say Middleburg are several miles from the town center on rural roads.",
+        ],
+      },
+      {
+        heading: "Getting to Middleburg, Virginia From Dulles, DC and the Suburbs",
+        paragraphs: [
+          "From Dulles Airport, Middleburg is about 32 miles away, and the drive typically takes 40 to 50 minutes. The usual route heads south and west from the airport to Route 50, then west past South Riding, through the roundabouts at Gilbert's Corner and the small historic village of Aldie, and on into Middleburg. West of the suburbs, Route 50 narrows to a two-lane country road.",
+          "From Fairfax, Chantilly and Centreville, the trip is similar. From Arlington, Alexandria or downtown DC, plan on an hour or more each way, depending on I-66 traffic. Weekend afternoons in spring and fall are the busiest times on Route 50, when traffic slows through Aldie and again as the speed limit drops on Washington Street.",
+        ],
+        subsections: [
+          {
+            heading: "Parking in Town",
+            paragraphs: [
+              "Middleburg's main street was built long before cars, and parking on busy weekends can be tight. On event days, the town fills early. With a chauffeur, you are dropped at the door of your first stop, and your driver handles the car while you walk, shop and eat.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Spending a Day on Washington Street",
+        paragraphs: [
+          "Most visits to Middleburg start on foot. The historic center is small enough to walk end to end in a few minutes, and most visitors take a lot longer because of the shops. Washington Street and the side streets around it are lined with boutiques, antique and home shops, galleries, tack and saddlery stores, bookshops and cafes, with horse-country style in nearly every window.",
+          "The Red Fox Inn, one of the oldest inns in the region, sits in the center of town and is a landmark in its own right. The National Sporting Library and Museum, dedicated to horse and field sports, art and literature, is also in town and is a good stop for anyone curious about the area's equestrian history. Salamander Resort sits on the edge of town for visitors who want a spa day or an overnight stay. Hours and reservation policies for restaurants, museums and shops change by season, so check each one's official website before you set a schedule.",
+        ],
+      },
+      {
+        heading: "Horse Country Around Middleburg",
+        paragraphs: [
+          "Horses are the reason Middleburg looks the way it does. The countryside around town is home to fox hunts, breeding and training farms, and a calendar of horse events that draws visitors from across the region. You don't need to ride to enjoy it: a drive along the back roads past stone walls, board fences and grazing horses is part of the appeal of any visit.",
+          "Several of the area's best-known events take place close to Middleburg. Steeplechase races are held at Glenwood Park on the edge of town, the Virginia Gold Cup is run at Great Meadow in The Plains, and nearby Upperville hosts a long-running horse show. Dates, tickets, parking and tailgating rules are set by each event's organizers and change from year to year, so check the official websites before you plan. Our Virginia Gold Cup race day guide covers that event in more detail.",
+        ],
+      },
+      {
+        heading: "Wineries Near Middleburg",
+        paragraphs: [
+          "The hills around Middleburg are dotted with wineries, many within a short drive of town on Route 50 or the country lanes north and south of it. A winery day often pairs one or two tastings with lunch on Washington Street. Roads to some tasting rooms are narrow or gravel, and map apps sometimes route visitors down farm lanes, which is one reason many groups prefer not to drive themselves.",
+          "Tasting hours, reservation rules and group size limits are set by each winery and change by season. For one example of how to plan a tasting in the area, see our Green Hill Winery guide.",
+        ],
+      },
+      {
+        heading: "History on the Way In",
+        paragraphs: [
+          "The drive to Middleburg passes through one of the most historic stretches of Northern Virginia. Aldie, a few miles east of town, has a small historic village and the restored Aldie Mill, and the countryside between Aldie and Middleburg saw cavalry fighting during the Civil War. The region is also associated with Colonel John Mosby, whose Confederate rangers operated across Loudoun and Fauquier counties. Many visitors are surprised by how much history fits into a few miles of Route 50.",
+          "If you'd like to add a historic stop on the way out or back, tell us when you book and we will plan the timing. Check the official site for any museum, park or historic building before you go, since hours and access can change.",
+        ],
+      },
+      {
+        heading: "Middleburg Through the Year",
+        paragraphs: [
+          "Spring brings green pastures, blooming gardens and the start of the steeplechase and horse-show season. Summer is quieter on weekdays and busy on weekends, with long evenings for dinner in town or on a winery patio. Fall is the most popular season, with foliage, harvest at the wineries and some of the area's busiest weekends, so reservations at restaurants and for your car matter most then.",
+          "Winter is the calmest time to visit, with fewer crowds, shorter days and darkness on the drive home by late afternoon. The exception is early December, when Christmas in Middleburg fills the town for its hunt review and parade. Our separate guide covers that day and how to plan around the road closures.",
+        ],
+      },
+      {
+        heading: "Why Visit Middleburg by Chauffeur",
+        paragraphs: [
+          "Middleburg is close enough for a day trip but far enough that the drive home deserves some thought. The last part of most itineraries is a two-lane road in the dark, often after a wine tasting or dinner, with deer active at dusk and few streetlights outside town. Rideshare can be hard to find in western Loudoun, especially late in the day.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for a Day in Town",
+            paragraphs: [
+              "With hourly, as-directed service, your chauffeur and vehicle stay with you from pickup to drop-off. You can walk Washington Street, move on to a winery, stop at a farm stand on the way back and change the plan as you go, without rebooking or waiting for a ride.",
+            ],
+          },
+          {
+            heading: "Airport Transfers for Overnight Guests",
+            paragraphs: [
+              "If you're flying in for a weekend at an inn or Salamander Resort, a one-way transfer from Dulles is often all you need, with a separate ride back to the airport at the end of your stay. Airport pickups include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from touchdown, and we track your flight.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is a comfortable choice for the drive out on Route 50. Families and small groups often choose a Chevrolet Suburban, which seats up to five, or a Lincoln Navigator for up to six, with room for shopping bags and any wine you buy. Larger groups can travel together in a Mercedes Sprinter with seating for up to thirteen, or in two or more Sprinters for bigger parties. Weddings in the area have their own planning considerations, covered on our Middleburg wedding limo page.",
+        ],
+      },
+      {
+        heading: "Planning and Booking Your Visit",
+        paragraphs: [
+          "Tell us your pickup address, the places you'd like to visit and how many people are coming, and we'll suggest a timing plan. Book as early as you can for fall weekends and event days. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Middleburg Ride", to: "/book-now" },
+      { label: "Middleburg Limo Service", to: "/middleburg-limo-service" },
+      { label: "Dulles to Middleburg Car Service", to: "/iad-to-middleburg-va" },
+      { label: "Green Hill Winery Near Middleburg", to: "/blog/green-hill-winery-middleburg-chauffeured-visit-guide" },
+      { label: "Christmas in Middleburg Parade Day", to: "/blog/christmas-in-middleburg-parade-hunt-review-transportation" },
+      { label: "Virginia Gold Cup Race Day Transportation", to: "/blog/virginia-gold-cup-great-meadow-race-day-transportation" },
+      { label: "Middleburg Wedding Limo Service", to: "/middleburg-wedding-limo-service" },
+    ],
+    faqs: [
+      {
+        question: "How far is Middleburg, Virginia from Dulles Airport?",
+        answer: "About 32 miles, typically 40 to 50 minutes via Route 50 through Aldie. Allow extra time on spring and fall weekends and on event days, when traffic slows on the two-lane stretch into town.",
+      },
+      {
+        question: "Is Middleburg worth a day trip from DC?",
+        answer: "Yes. Plan on an hour or more each way from DC. A typical day combines a walk along Washington Street, lunch in town and a winery or a drive through the surrounding horse country.",
+      },
+      {
+        question: "Can a chauffeur wait while we walk around town?",
+        answer: "Yes, with an hourly booking. Your chauffeur drops you on Washington Street, waits while you shop and eat, and takes you on to your next stop or home.",
+      },
+      {
+        question: "What is the best time of year to visit Middleburg?",
+        answer: "Fall is the most popular season, with foliage and harvest. Spring brings the horse-event season. Winter is quietest, except for Christmas in Middleburg in early December. Check event dates on official websites.",
+      },
+      {
+        question: "What vehicle works for a family or small group?",
+        answer: "A Chevrolet Suburban seats up to five and a Lincoln Navigator up to six. Larger groups can use a Mercedes Sprinter for up to thirteen, or two or more Sprinters for bigger parties.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
