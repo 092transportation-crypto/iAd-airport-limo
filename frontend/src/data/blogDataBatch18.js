@@ -3369,6 +3369,464 @@ const batch18 = [
       },
     ],
   },
+
+  // ---------------------------------------------------------- POST 22 (2026-11-19)
+  {
+    slug: "bluemont-station-brewery-winter-day-trip-from-dulles",
+    scheduled: true,
+    title: "Bluemont Station Brewery in Winter: A Chauffeured Day Trip From Dulles and Northern Virginia",
+    metaTitle: "Bluemont Station Brewery Day Trip | IAD Airport Limo",
+    metaDescription:
+      "Plan a winter trip to Bluemont Station Brewery in western Loudoun: the drive from Dulles, timing, what to check first and why a chauffeur beats a sober driver.",
+    datePublished: "2026-11-19",
+    readTime: "8 min read",
+    excerpt:
+      "Bluemont Station Brewery sits in the small village of Bluemont at the foot of the Blue Ridge, about as far west as Loudoun County goes. Here is how to plan a winter visit from Dulles, Reston, Tysons or DC so that nobody in the group has to stay sober to drive home.",
+    image: "/images/blog/fleet-escalade-2.webp",
+    intro: [
+      "Bluemont Station Brewery is one of the reasons people make the drive to the far western edge of Loudoun County. The brewery, which also makes wine under the same roof, sits in the village of Bluemont, Virginia, a small cluster of old buildings at the base of the Blue Ridge near Snickers Gap. It is a long way from the office parks of Reston and Tysons, and that distance is part of the appeal.",
+      "It is also the part that needs a plan. Bluemont is roughly 30 miles from Dulles, the last miles are on rural roads, and a brewery visit usually means everyone in the group wants to try a flight or two. This guide covers how to get to Bluemont Station Brewery from Dulles and the rest of Northern Virginia in winter, how to time the day, what to confirm with the brewery before you go, and how a pre-booked chauffeur replaces the designated driver.",
+    ],
+    sections: [
+      {
+        heading: "Where Bluemont Station Brewery Is",
+        paragraphs: [
+          "Bluemont is an unincorporated village in Loudoun County, just below the ridge where Route 7 climbs over the Blue Ridge toward Berryville and Winchester. It is a quiet place, surrounded by orchards, farms, wineries and the hills that rise toward the Appalachian Trail at Bears Den. Bluemont Station Brewery is in the village itself, and it is a separate business from Bluemont Vineyard, the mountainside winery above the village.",
+          "Because more than one business uses the Bluemont name, the most useful thing you can do when you book is give us the brewery's exact street address from its official website. That way your chauffeur heads to the right building on the first try instead of following a map pin up the wrong hill.",
+        ],
+      },
+      {
+        heading: "Getting to Bluemont Station Brewery From Dulles and Northern Virginia",
+        paragraphs: [
+          "From Dulles, Bluemont is about 30 miles away, and the drive typically takes 40 to 50 minutes. The usual route heads north to Route 7 and then west past Leesburg, Purcellville and Round Hill before turning into the village. The Dulles Greenway is another way to reach Leesburg and pick up Route 7 from there.",
+          "From Reston and Herndon, add the time it takes to reach Route 28 or the Greenway. From Tysons, McLean and Vienna, plan on a longer ride, and from Arlington, Alexandria or downtown DC, well over an hour each way. Weekend afternoons can be slow west of Leesburg, so build in a cushion rather than planning to the minute.",
+        ],
+        subsections: [
+          {
+            heading: "Winter Roads in Western Loudoun",
+            paragraphs: [
+              "Winter changes the drive more than most visitors expect. The roads around Bluemont are narrow and rural, with few streetlights, and they sit higher and colder than the suburbs to the east. After a snowfall, the main highways are usually cleared first while the back roads near the ridge can stay slick for longer. Dusk also arrives early in December, so an afternoon visit often means driving home in the dark.",
+              "A professional chauffeur who knows Route 7 and the roads around Round Hill and Bluemont takes all of that off your plate. If the forecast looks doubtful, call us before the day and we will talk through timing.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Why a Winter Visit Works Well",
+        paragraphs: [
+          "Western Loudoun is busiest in the fall, when apple orchards, pumpkin patches, wineries and breweries along Route 7 all draw crowds at once. By December and January, the leaf-peeping traffic has gone, and a weekday or a quiet Saturday can feel very different from a packed October afternoon.",
+          "A winter trip to a farm brewery is a good fit for a small birthday outing, a holiday get-together with friends, a relaxed afternoon for visiting family, or a team outing that wants to get out of the office. Whatever the reason, the logistics are the same: a long drive, rural roads and a group that would rather not choose a driver.",
+        ],
+      },
+      {
+        heading: "Before You Go: Check With the Brewery",
+        paragraphs: [
+          "Opening days and hours, seasonal closures, group size limits, reservation rules, food options and policies on children and dogs are all set by the brewery, and they can change from season to season, especially around the holidays. Check Bluemont Station Brewery's official website or call them before you plan the day, and ask about larger groups if you are bringing more than a handful of people.",
+          "Once you know when you plan to arrive, book your transportation. We will plan the pickup time around your arrival, not the other way around.",
+        ],
+      },
+      {
+        heading: "Planning the Day",
+        paragraphs: [
+          "Most groups plan a brewery visit as part of a longer afternoon in western Loudoun. A simple outline works well in winter, when daylight is short:",
+        ],
+        list: [
+          "Departure: leave the Dulles area about an hour before you want to arrive, and earlier from inner Northern Virginia or DC.",
+          "At the brewery: plan on at least an hour, longer if you are ordering food or settling in with a group.",
+          "Second stop: a nearby winery, a lunch spot in Purcellville or a walk in Bluemont village are all a short drive away.",
+          "Return: allow 40 to 50 minutes back to Dulles and more to Tysons, Arlington or DC, especially on a Sunday evening heading east.",
+        ],
+      },
+      {
+        heading: "A Chauffeur Instead of a Designated Driver",
+        paragraphs: [
+          "The usual alternative is asking one person not to drink. On a brewery day, that means a friend spends the afternoon watching everyone else taste, then drives rural roads and an hour of highway home in the dark. A pre-booked chauffeur takes that job off the group completely, and everyone can enjoy the visit.",
+          "Rideshare is unreliable this far west. You may find a car to Bluemont, but finding one to pick you up from a village at the foot of the Blue Ridge late on a winter afternoon is another matter, and cell signal can be patchy in the hills. With a reserved vehicle, your chauffeur is there when you are ready to leave.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for Multi-Stop Afternoons",
+            paragraphs: [
+              "With hourly, as-directed service, the vehicle and chauffeur stay with your group for the whole outing. You can add a stop, stay longer than planned or head home early without rebooking. For a day that includes Bluemont Station Brewery and one or two other stops in western Loudoun, hourly service is the simplest option.",
+            ],
+          },
+          {
+            heading: "One-Way Rides for Overnight Stays",
+            paragraphs: [
+              "If you are staying at an inn or a rental cottage in western Loudoun, two one-way rides may make more sense: one out to the brewery and your lodging, and one home or to Dulles the next day.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Flying In? Start the Trip at Dulles",
+        paragraphs: [
+          "Visitors landing at Dulles can head straight to western Loudoun without renting a car. Your chauffeur tracks your flight and meets you on arrival, with 45 minutes of complimentary waiting on domestic flights and 60 minutes on international flights, timed from touchdown. From there, the drive west on Route 7 is a pleasant introduction to Loudoun's countryside.",
+          "Out-of-town friends who are in the area for the holidays often enjoy a day like this more than another trip downtown. Pair an airport pickup with an afternoon in Bluemont and a drop-off at their hotel, and the whole visit is handled.",
+        ],
+      },
+      {
+        heading: "Pairing the Brewery With Other Stops",
+        paragraphs: [
+          "Western Loudoun has wineries, breweries and cideries scattered along Route 7, Route 9 and the back roads around Round Hill, Hillsboro and Purcellville. In winter, many groups keep the day to two stops and a meal, which leaves time to get home before the evening gets late. Others combine the brewery with a morning hike on the Appalachian Trail near Bears Den, then change into dry clothes before heading into the village.",
+          "If you plan to visit a winery as well, our guide to Bluemont Vineyard covers the mountainside winery above the village, and our Loudoun County wine trail guide covers the wider area.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For two or three people, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable for the drive out and back. A Chevrolet Suburban carries up to five passengers and a Lincoln Navigator up to six, with room for coats, bags and anything you bring home. For larger birthday groups, holiday outings or team events, a Mercedes Sprinter carries up to thirteen passengers and keeps everyone together in one vehicle.",
+        ],
+      },
+      {
+        heading: "What to Bring",
+        paragraphs: [
+          "Dress for the cold. Bluemont sits at the foot of the mountains and is often a few degrees cooler than Reston or Tysons, and any outdoor seating will be chilly in December. Bring a warm layer, a hat and shoes that work on gravel or wet grass. Everyone who plans to drink must be 21 or older with valid ID, so remind each guest to bring theirs. A bottle of water in the vehicle between stops is a good idea on a longer day.",
+        ],
+      },
+      {
+        heading: "Booking Your Bluemont Day Trip",
+        paragraphs: [
+          "Weekends during the holiday season book up, particularly for Sprinter vans, so reserve once your plans are set. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before, which gives you room to adjust if the weather turns. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, the brewery's street address, any other stops you plan to make, your arrival time and how many people are coming.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Bluemont Day Trip", to: "/book-now" },
+      { label: "Bluemont, VA Limo Service", to: "/bluemont-va-limo-service" },
+      { label: "Visiting Bluemont Vineyard by Chauffeur", to: "/blog/bluemont-vineyard-chauffeured-wine-tasting-guide" },
+      { label: "Loudoun County Wine Trail Chauffeur Guide", to: "/blog/loudoun-county-wine-trail-chauffeur-guide" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Purcellville Limo Service", to: "/purcellville-limo-service" },
+    ],
+    faqs: [
+      {
+        question: "Where is Bluemont Station Brewery?",
+        answer: "It is in the village of Bluemont in western Loudoun County, Virginia, near Route 7 and the Blue Ridge. Use the exact street address from the brewery's official website when you book.",
+      },
+      {
+        question: "How far is Bluemont Station Brewery from Dulles Airport?",
+        answer: "The village of Bluemont is about 30 miles from Dulles, typically 40 to 50 minutes via Route 7. Allow extra time on weekends and in winter weather.",
+      },
+      {
+        question: "Is Bluemont Station Brewery the same as Bluemont Vineyard?",
+        answer: "No. They are separate businesses. Bluemont Station Brewery is in the village, while Bluemont Vineyard is a winery on the mountainside above it.",
+      },
+      {
+        question: "Is the brewery open in winter?",
+        answer: "Hours and seasonal schedules are set by the brewery and can change around the holidays. Check its official website or call before you plan the trip.",
+      },
+      {
+        question: "Will the chauffeur wait while we're at the brewery?",
+        answer: "Yes, with an hourly booking. The vehicle and chauffeur stay with your group between stops, so nobody has to be the designated driver.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 23 (2026-11-20)
+  {
+    slug: "meadowlark-winter-walk-of-lights-vienna-car-service",
+    scheduled: true,
+    title: "Meadowlark's Winter Walk of Lights: Planning a Chauffeured Holiday Evening in Vienna, Virginia",
+    metaTitle: "Winter Walk of Lights at Meadowlark | IAD Airport Limo",
+    metaDescription:
+      "How to plan a night at the Winter Walk of Lights at Meadowlark Botanical Gardens in Vienna, VA: timed tickets, timing from Dulles, and a ride for your group.",
+    datePublished: "2026-11-20",
+    readTime: "8 min read",
+    excerpt:
+      "Every holiday season, Meadowlark Botanical Gardens in Vienna turns into a walk-through light show. Here is how to plan an evening at the Winter Walk of Lights from Dulles, Reston, Tysons or DC, from tickets to the ride home.",
+    image: "/images/blog/scenario-group-boarding.webp",
+    intro: [
+      "The Winter Walk of Lights at Meadowlark Botanical Gardens has become a holiday tradition for many families in Northern Virginia. Each season, NOVA Parks lights up the gardens in Vienna, and visitors follow a path through illuminated trees, ponds and garden displays after dark. Unlike a drive-through show, it is a walk, so you spend the evening outside in the cold, on your feet, and together.",
+      "That makes it a different kind of outing to plan. Tickets are usually sold for timed entry, the busiest nights fill up, and you will want to leave the gardens warm and on time rather than hunting for your car. This guide covers how the Winter Walk of Lights works, how to time your visit from Dulles and around Northern Virginia, and how a pre-booked chauffeur makes the evening easier for families, visiting relatives and groups.",
+    ],
+    sections: [
+      {
+        heading: "What the Winter Walk of Lights Is",
+        paragraphs: [
+          "Meadowlark Botanical Gardens is a NOVA Parks property on the Vienna side of Fairfax County, not far from Wolf Trap and the Dulles Toll Road. During the day it is known for its gardens, lakes and seasonal plantings, and it is one of the most popular wedding settings in the area. In the holiday season, the Winter Walk of Lights turns the same grounds into an outdoor light show that visitors explore on foot.",
+          "The event typically runs from mid-November into early January, on evenings throughout the season. Exact dates, hours, ticket rules and any special nights are set by NOVA Parks each year, so check the official Meadowlark or NOVA Parks website before you make plans.",
+        ],
+      },
+      {
+        heading: "Tickets and Timed Entry",
+        paragraphs: [
+          "In recent seasons, admission has been by ticket with a timed entry window, and popular nights such as weekends in December and the days just before Christmas can sell out. The simplest order of operations is to buy tickets first, then book your ride around your entry time.",
+          "When you book with us, tell us your entry window. We will set your pickup so you arrive with a little time to spare, and plan the return pickup for when you expect to finish walking.",
+        ],
+      },
+      {
+        heading: "Getting There From Dulles and Around Northern Virginia",
+        paragraphs: [
+          "Vienna is about 13 miles from Dulles, typically 25 to 35 minutes via the Dulles Toll Road. From Reston and Herndon the drive is shorter. From Tysons and McLean it is usually a quick trip across western Fairfax, while Arlington, Alexandria and downtown DC are farther, and evening rush hour on I-66 and the Beltway can add a lot of time on weekdays.",
+          "Holiday-season traffic is the real variable. December weeknights combine the regular commute with shopping traffic around Tysons, and weekend evenings bring their own crowds. If your entry window is early in the evening on a weekday, leave more time than you think you need.",
+        ],
+        subsections: [
+          {
+            heading: "Arriving at the Gardens",
+            paragraphs: [
+              "On busy nights, parking at popular light shows can fill up and the walk from a distant space can be long and dark. A drop-off near the entrance means your group starts the evening warm and together, and your chauffeur handles the vehicle while you walk. Follow any drop-off instructions the gardens post for the event, and let us know if you have someone who needs to be dropped as close as possible.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Who Books a Ride to the Winter Walk of Lights",
+        paragraphs: [
+          "A few kinds of groups find a chauffeured evening especially useful:",
+        ],
+        list: [
+          "Families with grandparents and young children who want everyone in one vehicle instead of a two-car caravan.",
+          "Relatives visiting for the holidays who have just landed at Dulles and are staying at a hotel in Reston, Herndon or Tysons.",
+          "Couples planning a date night that ends with dinner in Vienna, Tysons or Reston.",
+          "Office teams and friend groups turning the light walk into a small holiday party.",
+          "Groups that plan to celebrate with a drink at dinner afterward and would rather not drive.",
+        ],
+      },
+      {
+        heading: "Timing a Holiday Evening",
+        paragraphs: [
+          "Most visitors spend an hour or so walking the path, longer with small children who want to stop at every display, or with a group that wants photos. A simple plan for an evening looks like this:",
+        ],
+        list: [
+          "Pickup: about 45 minutes before your entry window from the Dulles corridor, more from DC or Alexandria on a weeknight.",
+          "Walk: plan on an hour or more inside the gardens.",
+          "Dinner: Vienna, Tysons and Reston Town Center are a short drive away for a meal afterward.",
+          "Return: a direct ride home or back to your hotel, with no one needing to drive after dinner.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for the Whole Evening",
+            paragraphs: [
+              "With hourly, as-directed service, your vehicle and chauffeur stay with you through the light walk, dinner and any other stops. If the kids want to leave early, or the adults want to stay for one more round of photos, nothing needs to be rebooked. For an evening with two or more stops, hourly service is usually the easiest choice.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Hotel Pickups for Visiting Relatives",
+        paragraphs: [
+          "During the holidays, many of the people who visit the Winter Walk of Lights are staying in hotels near Dulles, in Reston, Herndon or Tysons. A pickup from the hotel lobby is simple to arrange: tell us the hotel name and the time you want to leave, and your chauffeur will be waiting. If your relatives are landing at Dulles the same day, we can plan the airport pickup, a stop at the hotel to drop bags and the evening at Meadowlark as one itinerary, so nobody has to figure out unfamiliar roads after a long flight.",
+        ],
+      },
+      {
+        heading: "Dressing for an Outdoor Light Walk",
+        paragraphs: [
+          "Because the Winter Walk of Lights is outdoors and on foot, dress as you would for a long winter walk. Wear warm layers, a hat and gloves, and comfortable shoes with good grip, since paths can be damp or icy on cold nights. A warm vehicle waiting at the end of the walk is a welcome sight, especially for small children and older relatives.",
+          "If you are bringing a stroller or mobility aid, tell us when you book so we can make sure there is room in the vehicle, and check the gardens' accessibility information for the event before you go.",
+        ],
+      },
+      {
+        heading: "Weather and Changes",
+        paragraphs: [
+          "Light shows sometimes adjust hours or close for severe weather, so check the gardens' announcements on the day of your visit. If your plans change, call us as soon as you can. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        ],
+      },
+      {
+        heading: "Pairing the Light Walk With Other Holiday Plans",
+        paragraphs: [
+          "Many families make the Winter Walk of Lights one stop in a longer holiday season. Visiting relatives often arrive at Dulles, spend a day seeing the sights in DC, and save an evening for the lights. Others combine Meadowlark with a drive-through display elsewhere in the region on a different night. Our holiday lights tour guide covers more of the region's displays, and our Northern Virginia holiday transportation guide covers December outings more broadly.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple or a small family, a Business Sedan such as a Mercedes-Benz E-Class seats three. A Lincoln Nautilus also seats three, with room for four bags or a folded stroller. A Chevrolet Suburban seats five and a Lincoln Navigator seats six, which suits most families with grandparents. For larger family gatherings or office groups, a Mercedes Sprinter carries up to thirteen passengers and keeps everyone together for the whole evening.",
+        ],
+      },
+      {
+        heading: "Booking Your Evening at Meadowlark",
+        paragraphs: [
+          "December weekends book quickly, particularly for SUVs and Sprinter vans, so reserve once you have your tickets. Your quote is all-inclusive, covering tolls, taxes and gratuity, and it is confirmed before you ride.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, your entry window, any dinner plans and how many people are coming, including children who need car seats.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Holiday Evening", to: "/book-now" },
+      { label: "Vienna Limo Service", to: "/vienna-limo-service" },
+      { label: "IAD to Vienna, VA Car Service", to: "/iad-to-vienna-va" },
+      { label: "Holiday Lights Limo Tours Guide", to: "/holiday-lights-limo-tours-guide" },
+      { label: "Northern Virginia Holiday Lights and Christmas Transportation", to: "/blog/northern-virginia-holiday-lights-christmas-transportation" },
+      { label: "Sprinter Vans", to: "/vehicles/sprinters" },
+    ],
+    faqs: [
+      {
+        question: "When is the Winter Walk of Lights at Meadowlark?",
+        answer: "It typically runs from mid-November into early January on evenings throughout the season. Check the official Meadowlark or NOVA Parks website for this year's dates, hours and tickets.",
+      },
+      {
+        question: "Do I need tickets in advance?",
+        answer: "In recent seasons admission has been by timed ticket, and popular nights can sell out. Buy tickets first, then book your ride around your entry time.",
+      },
+      {
+        question: "How long is the drive from Dulles to Vienna?",
+        answer: "Vienna is about 13 miles from Dulles, typically 25 to 35 minutes via the Dulles Toll Road. Allow more time on December weeknights.",
+      },
+      {
+        question: "Can the chauffeur wait while we walk the lights?",
+        answer: "Yes, with an hourly booking. The vehicle and chauffeur stay with your group through the light walk, dinner and any other stops.",
+      },
+      {
+        question: "What vehicle fits a family with grandparents?",
+        answer: "A Chevrolet Suburban seats five and a Lincoln Navigator seats six. For larger family groups, a Mercedes Sprinter carries up to thirteen passengers.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 24 (2026-11-21)
+  {
+    slug: "mount-vernon-by-candlelight-evening-tour-transportation",
+    scheduled: true,
+    title: "Mount Vernon by Candlelight: Planning the Holiday Evening Tour and Your Ride From Dulles and NoVA",
+    metaTitle: "Mount Vernon by Candlelight Transportation | IAD Airport Limo",
+    metaDescription:
+      "Planning Mount Vernon by Candlelight? Timed tickets, the dark drive down the George Washington Parkway, timing from Dulles, and booking a ride for your group.",
+    datePublished: "2026-11-21",
+    readTime: "8 min read",
+    excerpt:
+      "Each holiday season, George Washington's Mount Vernon opens the estate on select evenings for candlelit tours. Here is how to plan the evening from Dulles, Northern Virginia or DC, and why a chauffeur makes the drive along the dark parkway easier.",
+    image: "/images/blog/fleet-sclass-1.webp",
+    intro: [
+      "Mount Vernon by Candlelight is one of the most atmospheric holiday events in the Washington area. On select evenings during the holiday season, George Washington's Mount Vernon offers candlelit tours of the estate, with costumed interpreters bringing the eighteenth-century household to life after dark. For many families, it is the one holiday outing everyone remembers.",
+      "It is also an evening that takes some planning. Tickets are typically sold for timed tours and often sell out, Mount Vernon sits at the far southern end of the George Washington Memorial Parkway, and the drive home is on a winding, unlit road at night. This guide covers how Mount Vernon by Candlelight generally works, how long the drive takes from Dulles and around Northern Virginia, and how to plan a ride so the evening stays relaxed.",
+    ],
+    sections: [
+      {
+        heading: "What Mount Vernon by Candlelight Is",
+        paragraphs: [
+          "George Washington's Mount Vernon is the historic estate on the Potomac River just south of Alexandria, Virginia. During the day it is one of the most visited historic sites in the country. In the holiday season, the estate typically holds candlelit evening programs on select nights in late November and December, when visitors tour by candlelight and learn how the Washington household celebrated the season.",
+          "The details of the program, including which nights it runs, tour times, what is included and whether it is suitable for young children, are set by Mount Vernon and can change from year to year. Check the official Mount Vernon website for this season's schedule and ticket information before you make other plans.",
+        ],
+      },
+      {
+        heading: "Tickets Come First",
+        paragraphs: [
+          "Because the evening tours are timed and capacity is limited, popular nights can sell out well ahead, particularly weekends in December. Buy tickets before you book anything else, then plan dinner and transportation around your tour time.",
+          "When you book with us, tell us your tour time. We will plan the pickup so you arrive with time to check in, and schedule the return for when the program ends, rather than leaving you to guess.",
+        ],
+      },
+      {
+        heading: "Getting to Mount Vernon From Dulles and Northern Virginia",
+        paragraphs: [
+          "Mount Vernon is about 38 miles from Dulles, and the drive typically takes 50 to 65 minutes depending on traffic, using the Dulles Toll Road, the Beltway and the George Washington Memorial Parkway. From Old Town Alexandria, it is about 9 miles, usually 20 to 30 minutes. From Tysons, McLean and Arlington, the parkway is the most direct route south.",
+          "Holiday traffic is the main variable. On December weeknights, an early evening tour means driving through the end of rush hour on the Beltway, and weekend evenings bring heavy traffic around Old Town and National Harbor. If your tour starts early in the evening, leave extra time.",
+        ],
+        subsections: [
+          {
+            heading: "The Parkway After Dark",
+            paragraphs: [
+              "The southern stretch of the George Washington Memorial Parkway is beautiful by day, running along the Potomac between Alexandria and Mount Vernon. At night, long stretches are dark and winding, with deer crossing and few places to pull over. It is not a road most visitors want to learn on a cold December night, and it is the same road home after the tour. A chauffeur who drives the parkway regularly removes that worry entirely.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Who Books a Ride for the Evening",
+        paragraphs: [
+          "A chauffeured evening suits several kinds of visitors:",
+        ],
+        list: [
+          "Families with grandparents who would rather not drive an unfamiliar road at night.",
+          "Out-of-town relatives visiting for the holidays and staying near Dulles, in Reston or in Tysons.",
+          "Couples making the tour part of a holiday date night with dinner in Old Town Alexandria.",
+          "International visitors and business travelers in town over the holidays who want to see a famous historic site.",
+          "Small corporate groups or clubs planning a holiday outing together.",
+        ],
+      },
+      {
+        heading: "Planning the Evening",
+        paragraphs: [
+          "A typical evening has three parts: the ride down, the tour and the ride home, with dinner either before or after. A simple outline:",
+        ],
+        list: [
+          "Pickup: about an hour and a quarter before your tour from the Dulles corridor, and earlier on a weeknight.",
+          "Check-in: arrive with enough time to find the entrance and use the facilities before your tour.",
+          "Tour: allow for the length of the program as listed by Mount Vernon, plus time for the gift shop or a warm drink if available.",
+          "Dinner: Old Town Alexandria is on the way back north and is a natural place to stop for a meal.",
+          "Return: a direct ride home or to your hotel, with no one driving after dinner.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for Tour and Dinner",
+            paragraphs: [
+              "With hourly, as-directed service, your vehicle and chauffeur stay with you for the whole evening, including the tour and dinner in Old Town. If the tour runs long, or you decide to linger over dessert, nothing needs to be rebooked. For an evening with two or more stops, hourly service is usually the easiest choice.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Pairing Mount Vernon With Old Town Alexandria",
+        paragraphs: [
+          "Many visitors build a full holiday day around Mount Vernon and Old Town Alexandria. Old Town's historic streets are decorated for the season, and King Street and the waterfront are full of restaurants and shops. If you are visiting on the weekend of the Scottish Christmas Walk, our guide to that event covers the crowds and street closures in Old Town.",
+          "Some families also combine a daytime visit to the estate with a return in the evening for the candlelit program. If you plan a longer day like that, tell us when you book so we can plan the whole itinerary.",
+        ],
+      },
+      {
+        heading: "A Note for Families With Young Children",
+        paragraphs: [
+          "An evening program at a historic house is a different experience from a daytime visit, and families with young children should read Mount Vernon's description of the event before buying tickets, including any age guidance. Evening tours often run past a small child's usual bedtime, and the drive home from the southern end of the parkway can take an hour or more to the Dulles area. A comfortable vehicle with room to rest makes the ride back easier, and child seats are available on request, so mention them when you book.",
+        ],
+      },
+      {
+        heading: "What to Wear and Bring",
+        paragraphs: [
+          "Evening programs at historic sites usually involve some time outdoors, walking between buildings or waiting to enter. Dress warmly, with a coat, hat and gloves, and wear comfortable shoes with good grip for paths that may be damp or icy. A small flashlight or a phone light can help on dark walkways, but follow the site's guidance. A warm vehicle waiting at the end of the evening is especially welcome for older relatives.",
+          "If anyone in your group uses a wheelchair or walker, check Mount Vernon's accessibility information for the evening program, and tell us when you book so the right vehicle is sent.",
+        ],
+      },
+      {
+        heading: "Flying Into Dulles for the Holidays",
+        paragraphs: [
+          "If your relatives are flying into Dulles for the holidays, an airport pickup can be booked with the same company as the evening out. Our chauffeurs track flights and include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from touchdown. That way, the holiday visit starts smoothly and the evening at Mount Vernon is already arranged.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a First Class Sedan such as a BMW 7 Series or Mercedes S-Class makes the evening feel special, and a Business Sedan such as a Mercedes-Benz E-Class is a comfortable alternative, each seating three. A Chevrolet Suburban seats five and a Lincoln Navigator seats six, which suits most families. For larger family gatherings or group outings, a Mercedes Sprinter carries up to thirteen passengers.",
+        ],
+      },
+      {
+        heading: "Booking and Changes",
+        paragraphs: [
+          "December evenings book up, so reserve once you have your tour tickets. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before, so you can book with confidence if the weather or your plans change. Your quote is all-inclusive, covering tolls, taxes and gratuity.",
+          "Book online through our reservation page or call (877) 609-1919 any time. Tell us your pickup address, your tour time, any dinner reservation and how many people are coming.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Mount Vernon Evening", to: "/book-now" },
+      { label: "Mount Vernon Transportation", to: "/mount-vernon-transportation" },
+      { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },
+      { label: "IAD to Alexandria Car Service", to: "/iad-to-alexandria" },
+      { label: "Scottish Christmas Walk in Old Town Alexandria", to: "/blog/scottish-christmas-walk-old-town-alexandria-parade-weekend" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+    ],
+    faqs: [
+      {
+        question: "When is Mount Vernon by Candlelight?",
+        answer: "It typically runs on select evenings in late November and December. Check the official Mount Vernon website for this season's dates, tour times and tickets.",
+      },
+      {
+        question: "Do I need tickets in advance?",
+        answer: "Yes. The evening tours are typically timed with limited capacity, and popular nights can sell out. Buy tickets first, then book your ride around your tour time.",
+      },
+      {
+        question: "How long is the drive from Dulles to Mount Vernon?",
+        answer: "About 38 miles, typically 50 to 65 minutes depending on traffic, via the Dulles Toll Road, the Beltway and the George Washington Memorial Parkway.",
+      },
+      {
+        question: "Can we have dinner in Old Town Alexandria afterward?",
+        answer: "Yes. With hourly service, the chauffeur stays with your group for the tour and dinner, then takes everyone home.",
+      },
+      {
+        question: "Can I cancel if the weather changes our plans?",
+        answer: "Yes. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
