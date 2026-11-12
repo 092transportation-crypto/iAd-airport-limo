@@ -4255,6 +4255,441 @@ const batch18 = [
       },
     ],
   },
+
+  // ---------------------------------------------------------- POST 28 (2026-11-25)
+  {
+    slug: "alexandria-holiday-boat-parade-of-lights-car-service",
+    scheduled: true,
+    title: "Alexandria Holiday Boat Parade of Lights: An Old Town Evening Plan From Dulles",
+    metaTitle: "Alexandria Holiday Boat Parade Car Service | IAD Airport Limo",
+    metaDescription:
+      "Planning to watch the Alexandria Holiday Boat Parade of Lights? Viewing spots, Old Town traffic, timing from Dulles and booking one ride for the whole group.",
+    datePublished: "2026-11-25",
+    readTime: "8 min read",
+    excerpt:
+      "Lit-up boats on the Potomac, a crowded Old Town waterfront and almost no parking. Here is how to plan an evening at the Alexandria Holiday Boat Parade of Lights from Dulles and Northern Virginia.",
+    image: "/images/blog/scenario-doorman.webp",
+    intro: [
+      "Every holiday season, dozens of boats strung with lights cruise along the Potomac River in front of Old Town Alexandria, and thousands of people line the waterfront to watch them go by. The Alexandria Holiday Boat Parade of Lights is one of the city's longest-running holiday traditions, and for many Northern Virginia families it marks the real start of the season, often paired with an afternoon of shopping on King Street and dinner in Old Town.",
+      "It is also an evening when Old Town's narrow streets fill up fast. This guide looks at the Alexandria Holiday Boat Parade from a transportation point of view: where people usually watch, how traffic and parking behave around the waterfront, how long the trip takes from Dulles, Reston, Tysons and Loudoun County, and how a booked ride keeps the evening simple. The parade date, start time and any related events are set by the organizers each year, so check Visit Alexandria and the City of Alexandria for this season's details before you go.",
+    ],
+    sections: [
+      {
+        heading: "What the Alexandria Holiday Boat Parade Is Like",
+        paragraphs: [
+          "The parade has typically been held on a Saturday around the end of November or the start of December, in the late afternoon and early evening. Boats of all sizes, from small powerboats to larger cruise and sailing vessels, are decorated with lights and pass slowly along the Old Town waterfront as it gets dark. Santa has traditionally made an appearance, and the day often includes daytime holiday activities around the waterfront and King Street.",
+          "Because the boats are best seen after sunset, most of the crowd arrives in the late afternoon and stays into the evening. In late November and early December, it can be cold and windy right on the water, so the comfort of the trip there and back matters more than it would on a summer night.",
+        ],
+      },
+      {
+        heading: "Where People Usually Watch",
+        paragraphs: [
+          "Most spectators gather along the Old Town waterfront, in and around Waterfront Park at the foot of King Street, Founders Park to the north and the walkways near the Torpedo Factory Art Center. The best spots near the water fill early, and families with small children often stake out a place well before the boats appear.",
+          "If someone in your group cannot stand for long, consider a spot a little away from the busiest stretch, or plan a dinner reservation with a view of the river. Either way, agree on where you will meet your driver before you get out of the car, because the waterfront gets crowded and phone signals can be slow when thousands of people are in one place.",
+        ],
+      },
+      {
+        heading: "Old Town Traffic and Parking on Parade Night",
+        paragraphs: [
+          "Old Town Alexandria was laid out long before cars, and its grid of narrow, often one-way streets does not absorb a big crowd easily. On parade day, King Street, Union Street and the blocks near the river are busy from midafternoon, garages close to the water fill early, and some streets near the waterfront may be closed or restricted. Leaving after the parade is often the slowest part of the evening, as everyone heads for the same garages and the same roads out of town at the same time.",
+          "This is where a chauffeur makes the biggest difference. You are dropped as close to the waterfront as that day's traffic plan allows, you do not circle for parking, and when you are ready to leave, your driver meets you at an agreed corner a few blocks from the crowd instead of in a packed garage.",
+        ],
+      },
+      {
+        heading: "Drive Times From Dulles and Northern Virginia",
+        paragraphs: [
+          "Dulles to Old Town Alexandria is roughly 30 miles. On a Saturday afternoon, the drive usually takes 40 minutes to an hour, depending on the route and how busy the Capital Beltway, I-66 and the George Washington Memorial Parkway are. From Reston and Herndon the trip is similar, from Tysons it is shorter, and from Leesburg, Ashburn or western Loudoun it is longer.",
+          "Holiday-season Saturdays bring heavy shopping traffic across Northern Virginia, and Old Town itself slows to a crawl in the last mile. Plan to arrive well before the boats are due so you have time to find a viewing spot. Tell us when you would like to be standing on the waterfront, and we will set the pickup time to match.",
+        ],
+      },
+      {
+        heading: "Who Books a Ride to the Boat Parade",
+        paragraphs: [
+          "A chauffeured trip to the parade tends to suit:",
+        ],
+        list: [
+          "Families with young children and grandparents who want one vehicle for everyone and no long walk from a distant garage.",
+          "Visiting relatives in town for the Thanksgiving weekend who want to see a local holiday tradition.",
+          "Couples planning the parade around a dinner reservation in Old Town.",
+          "Groups of friends or neighbors who would rather not split across several cars.",
+          "Out-of-town visitors staying near Dulles, in Reston or in Tysons without a car of their own.",
+        ],
+      },
+      {
+        heading: "Planning an Old Town Evening Around the Parade",
+        paragraphs: [
+          "The parade itself lasts a relatively short time, so most people build an afternoon and evening around it. A sample plan:",
+        ],
+        list: [
+          "Pickup: from home or your hotel in the early afternoon, earlier from western Loudoun.",
+          "Shopping: a stroll along King Street's independent shops and galleries while it is still light.",
+          "Viewing: a spot along the waterfront before the boats are due.",
+          "Dinner: a reservation in Old Town after the parade, booked well in advance for this night.",
+          "Return: a pickup a short walk from the restaurant and a direct ride home.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service or a Drop-Off and Return",
+            paragraphs: [
+              "With hourly, as-directed service, your vehicle and chauffeur stay in the area for the afternoon and evening, so you can move from King Street to the waterfront to dinner without thinking about parking. If you prefer a simple drop-off and a separate return pickup at a set time, that works too. Non-airport pickups include 15 minutes of complimentary waiting time, so a fixed return time works best if your plans are firm.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Pickup Points and Staying in Touch",
+        paragraphs: [
+          "Because traffic and street closures around the waterfront can change through the evening, your chauffeur will confirm a drop-off and pickup point with you on the day. Choose a meeting place a few blocks from the river, away from the thickest crowd, so the car can actually reach you. Call or text about fifteen minutes before you want to be collected. Our dispatch line, (877) 609-1919, is answered around the clock.",
+          "Anything you do not want to carry, such as shopping bags from King Street, a stroller or extra layers, can stay in the vehicle while you watch the boats.",
+        ],
+      },
+      {
+        heading: "Dress for the Waterfront",
+        paragraphs: [
+          "The breeze off the Potomac can make a mild late-autumn evening feel much colder once the sun goes down. Bring warm coats, hats and gloves, and wear comfortable shoes for standing and walking on brick sidewalks. A thermos of something hot or a stop for cocoa on King Street helps children last until the last boat passes. If anyone in your group uses a wheelchair or walker, mention it when you book so we can plan the closest practical drop-off.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple, a First Class Sedan such as a BMW 7 Series or Mercedes S-Class adds a sense of occasion, and a Business Sedan such as a Mercedes-Benz E-Class also seats up to three. A Lincoln Nautilus seats three with more room for bags, a Chevrolet Suburban seats five and a Lincoln Navigator seats six, which covers most families. For a larger family or a group of friends, a Mercedes Sprinter seats up to 13 passengers, so everyone arrives and leaves together. If you are bringing small children, tell us their ages when you book so we can talk through seating.",
+        ],
+      },
+      {
+        heading: "Pairing the Parade With a Dulles Arrival",
+        paragraphs: [
+          "The parade often falls close to the Thanksgiving travel weekend, when relatives are flying in and out of Dulles. An airport pickup can be booked with the same company as the evening in Old Town. Our chauffeurs track flights and include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals.",
+        ],
+      },
+      {
+        heading: "Booking and Changes",
+        paragraphs: [
+          "Holiday Saturdays book quickly, so reserve as soon as the parade date is announced and your plans are set. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Your rate is a flat, all-inclusive price confirmed when you book, with no surge pricing on a busy night.",
+          "Book online through our reservation page or call (877) 609-1919. Tell us your pickup address, the date, how many people are coming and whether you want hourly service or a drop-off and return.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Old Town Evening", to: "/book-now" },
+      { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },
+      { label: "IAD to Alexandria Car Service", to: "/iad-to-alexandria" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "A Private Chauffeur Day in Tysons and Old Town Alexandria", to: "/blog/private-chauffeur-day-tysons-old-town-alexandria" },
+      { label: "Holiday Lights Limo Tours Guide", to: "/holiday-lights-limo-tours-guide" },
+    ],
+    faqs: [
+      {
+        question: "When is the Alexandria Holiday Boat Parade of Lights?",
+        answer: "It has typically been held on a Saturday around the end of November or the start of December, in the late afternoon and evening. Check Visit Alexandria for this year's date and schedule.",
+      },
+      {
+        question: "Where is the best place to watch the boat parade?",
+        answer: "Most people watch from the Old Town waterfront, around Waterfront Park at the foot of King Street and Founders Park. The spots closest to the water fill early, so arrive ahead of time.",
+      },
+      {
+        question: "How long is the drive from Dulles to Old Town Alexandria?",
+        answer: "It is roughly 30 miles, usually 40 minutes to an hour on a Saturday afternoon. Holiday shopping traffic and crowds in Old Town can add time.",
+      },
+      {
+        question: "Can the chauffeur wait while we watch the parade and have dinner?",
+        answer: "Yes. With hourly service, your chauffeur stays in the area and meets you at an agreed point. For a simple drop-off and return, non-airport pickups include 15 minutes of complimentary waiting.",
+      },
+      {
+        question: "What if we need to cancel because of weather?",
+        answer: "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 29 (2026-11-26)
+  {
+    slug: "busch-gardens-christmas-town-williamsburg-trip-from-northern-virginia",
+    scheduled: true,
+    title: "Busch Gardens Christmas Town From Northern Virginia: A Chauffeured Williamsburg Holiday Trip",
+    metaTitle: "Busch Gardens Christmas Town Car Service | IAD Airport Limo",
+    metaDescription:
+      "Heading to Busch Gardens Christmas Town from Northern Virginia? Drive times, I-95 traffic, day trip vs. overnight, and booking one ride for the whole family.",
+    datePublished: "2026-11-26",
+    readTime: "8 min read",
+    excerpt:
+      "Christmas Town at Busch Gardens Williamsburg is a long day out from Dulles and Northern Virginia. Here is how to plan the drive, the timing and the ride home so the trip stays fun for everyone.",
+    image: "/images/blog/scenario-group-boarding.webp",
+    intro: [
+      "Each holiday season, Busch Gardens Williamsburg turns into Christmas Town, with the park's European-themed villages covered in lights, holiday shows, seasonal food and a huge decorated tree. For many Northern Virginia families, a visit to Busch Gardens Christmas Town is an annual tradition, and for others it is a once-in-a-while treat when grandparents or cousins are in town for the holidays.",
+      "It is also a long trip. Williamsburg is about three hours south of Dulles, much of it on I-95, one of the busiest stretches of highway on the East Coast, and the best part of Christmas Town happens after dark. This guide covers how a Christmas Town trip usually works, how long the drive takes from Dulles and the rest of Northern Virginia, whether to make it a day trip or an overnight stay, and how a booked ride takes the driving off your plate. Busch Gardens sets its own operating dates, hours and ticket rules each season, so check the park's official website before you plan.",
+    ],
+    sections: [
+      {
+        heading: "What Christmas Town Is Like",
+        paragraphs: [
+          "Christmas Town typically runs on select days from mid-November into early January. The park is open in the afternoon and evening, and the lights come into their own once the sun sets. Visitors walk through the park's themed villages, watch holiday shows, visit Santa, sample seasonal food and drinks and ride some of the park's attractions that operate during the event. Which rides run, and on which days, varies, so check the park's schedule for your date.",
+          "Because it is outdoors, you spend hours walking in December weather. Williamsburg is usually a little milder than Northern Virginia, but evenings can still be close to freezing, and the park is spread across hills that add up over a long night. Comfortable shoes and warm layers make a real difference.",
+        ],
+      },
+      {
+        heading: "Drive Times From Dulles and Northern Virginia",
+        paragraphs: [
+          "Dulles to Busch Gardens Williamsburg is roughly 170 miles. The usual route runs south on I-95 past Fredericksburg toward Richmond, then east on I-64 to Williamsburg. In light traffic the trip takes about three hours. On a holiday-season weekend, the I-95 corridor between the Capital Beltway and Fredericksburg can add a lot of time, and the Friday before a holiday or the Sunday after one is often the slowest.",
+          "From Fairfax, Springfield or Woodbridge, the drive is shorter because you start closer to I-95. From Loudoun County, it is longer. Either way, a chauffeur who knows the corridor can choose the route based on traffic that day, and you can sleep, read or talk on the way instead of watching brake lights.",
+        ],
+      },
+      {
+        heading: "Day Trip or Overnight Stay",
+        paragraphs: [
+          "Christmas Town can be done as a long day trip, but it is a big day: about three hours each way plus an evening in the park. Many families leave Northern Virginia late in the morning, arrive in Williamsburg in the early afternoon and head home after the lights, getting back late at night. Children usually sleep most of the way home, which is one of the best arguments for not having a parent drive.",
+          "Others prefer to stay overnight in Williamsburg and make a weekend of it, adding a visit to Colonial Williamsburg's historic area, which is decorated for the holidays, or a relaxed breakfast before the drive home. With an overnight trip, you can book a transfer down and a separate return the next day, so the vehicle is not tied up while you sleep.",
+        ],
+      },
+      {
+        heading: "Who Books a Ride to Christmas Town",
+        paragraphs: [
+          "A chauffeured trip to Williamsburg tends to suit:",
+        ],
+        list: [
+          "Families with young children who want everyone rested and in one vehicle for a three-hour drive each way.",
+          "Multi-generation groups with grandparents who would rather not ride in the back of a crowded minivan.",
+          "Parents who do not want to drive I-95 late at night after a long evening on their feet.",
+          "Visiting relatives flying into Dulles for the holidays who want a memorable outing during their stay.",
+          "Friends, clubs or church groups planning a December trip together.",
+        ],
+      },
+      {
+        heading: "A Sample Christmas Town Day",
+        paragraphs: [
+          "Every family's timing is different, but a day trip often looks like this:",
+        ],
+        list: [
+          "Late morning: pickup from home, with snacks and a movie or two for the children.",
+          "Midday: a lunch stop along I-95 or I-64, or near Williamsburg.",
+          "Early afternoon: arrival at the park, with time to walk around before dusk.",
+          "Evening: the lights, the shows and a holiday dinner inside the park.",
+          "Late evening: pickup at the agreed meeting point and the drive home.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for a Long Day",
+            paragraphs: [
+              "For a day trip, hourly, as-directed service keeps one vehicle and one chauffeur with you from the moment you leave home until you are back. There is no handoff to arrange at the end of the night, and if the group decides to stay for one more show, the car is still there. Ask for a quote for the full day when you book, and we will confirm everything in writing.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Making the Most of an Evening in the Park",
+        paragraphs: [
+          "Christmas Town can be crowded on weekend evenings, especially in mid-December. Arriving in the early afternoon gives you time to see the villages in daylight, eat before the dinner rush and find a good place for the shows before dark. Weeknights, where the park's calendar includes them, are often calmer. Because nobody in your group has to drive home, you can stay for the last show without worrying about how tired the driver will be on I-64 at midnight.",
+        ],
+      },
+      {
+        heading: "Meeting Your Driver at the End of the Night",
+        paragraphs: [
+          "Closing time at a theme park brings a rush to the exits and the parking lots. Agree on a meeting point and an approximate time with your chauffeur before you head in, and call or text about fifteen minutes before you reach the exit. Our dispatch line, (877) 609-1919, is answered at any hour, which matters when you are heading home close to midnight.",
+          "Anything you do not want to carry around the park, such as extra coats, a stroller for later or gifts bought along the way, can stay in the vehicle.",
+        ],
+      },
+      {
+        heading: "Winter Weather on I-95 and I-64",
+        paragraphs: [
+          "December weather in Virginia is changeable. Rain is more common than snow on the route to Williamsburg, but an ice storm or snow in Northern Virginia can make the first hour of the trip the hardest. We watch the forecast ahead of your date and will talk with you if the weather looks likely to cause problems. If you need to change plans, sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle for a Long Drive",
+        paragraphs: [
+          "On a three-hour drive, space matters. A First Class Sedan such as a BMW 7 Series or Mercedes S-Class, or a Business Sedan such as a Mercedes-Benz E-Class, suits a couple or a small group of up to three. A Lincoln Nautilus also seats three, with more room for bags. A Chevrolet Suburban seats five and a Lincoln Navigator seats six, with room for coats and bags. For a larger family or group, a Mercedes Sprinter seats up to 13 passengers and gives everyone room to stretch out. If you are bringing small children, tell us their ages when you book so we can talk through seating.",
+        ],
+      },
+      {
+        heading: "Visiting From Out of Town",
+        paragraphs: [
+          "If relatives are flying into Dulles for the holidays, you can book their airport pickup with the same company as the Williamsburg trip. Our chauffeurs track every flight and include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals.",
+        ],
+      },
+      {
+        heading: "Booking Your Busch Gardens Christmas Town Trip",
+        paragraphs: [
+          "Weekends in December are the most popular days for Christmas Town and for holiday travel generally, so book once your date and park tickets are set. Your rate is a flat, all-inclusive price confirmed when you book, with no surge pricing.",
+          "Book online through our reservation page or call (877) 609-1919. Tell us your pickup address, your date, how many people are coming and whether you plan a day trip or an overnight stay.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Williamsburg Trip", to: "/book-now" },
+      { label: "Our Fleet", to: "/fleet" },
+      { label: "Sprinter Van Service", to: "/vehicles/sprinters" },
+      { label: "IAD to Richmond, VA Car Service", to: "/iad-to-richmond-va" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Kings Dominion Day Trip From Northern Virginia", to: "/blog/kings-dominion-day-trip-from-northern-virginia" },
+    ],
+    faqs: [
+      {
+        question: "When is Busch Gardens Christmas Town open?",
+        answer: "It typically runs on select days from mid-November into early January, in the afternoon and evening. Check the Busch Gardens Williamsburg website for this season's dates and hours.",
+      },
+      {
+        question: "How long is the drive from Dulles to Busch Gardens Williamsburg?",
+        answer: "It is roughly 170 miles, about three hours in light traffic via I-95 and I-64. Holiday weekend traffic on I-95 can add significant time.",
+      },
+      {
+        question: "Can the chauffeur stay with us for the whole day?",
+        answer: "Yes. With hourly, as-directed service, the same vehicle and chauffeur stay with you from pickup until you are home. Ask for a full-day quote when you book.",
+      },
+      {
+        question: "Can we stay overnight in Williamsburg instead?",
+        answer: "Yes. You can book a transfer to Williamsburg and a separate return the next day, which many families pair with a visit to Colonial Williamsburg.",
+      },
+      {
+        question: "What vehicle works for a large family?",
+        answer: "A Chevrolet Suburban seats five and a Lincoln Navigator seats six. For larger groups, a Mercedes Sprinter seats up to 13 passengers.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 30 (2026-11-27)
+  {
+    slug: "hersheypark-christmas-candylane-day-trip-from-dulles",
+    scheduled: true,
+    title: "Hersheypark Christmas Candylane: A Holiday Day Trip From Dulles and Loudoun",
+    metaTitle: "Hersheypark Christmas Candylane Car Service | IAD Airport Limo",
+    metaDescription:
+      "Planning a Hersheypark Christmas Candylane trip from Northern Virginia? Route via US-15, drive times, winter weather, timing and booking a ride for the family.",
+    datePublished: "2026-11-27",
+    readTime: "8 min read",
+    excerpt:
+      "Hersheypark Christmas Candylane is about two and a half hours north of Dulles. Here is how to plan the drive, the day in Hershey and the late ride home without anyone in the family having to drive.",
+    image: "/images/blog/fleet-escalade-1.webp",
+    intro: [
+      "Every holiday season, Hersheypark in Hershey, Pennsylvania, opens for Hersheypark Christmas Candylane, with the park decorated in lights, holiday shows, seasonal treats, visits with Santa and a selection of rides running in the cold. Add Hershey's Chocolate World next door, and it is easy to see why the town that chocolate built is a favorite December outing for families in Northern Virginia.",
+      "From Dulles and Loudoun County, Hershey is a little over two hours away, and the trip is a pleasant drive north through Frederick and Gettysburg. It also ends with a long ride home after dark, often in colder weather than you left. This guide covers how a Christmas Candylane visit usually works, the routes and drive times from Dulles, how to time the day and how a booked ride makes it easier. Hersheypark sets its own operating calendar, hours and ticket rules each year, so check the park's official website before you plan.",
+    ],
+    sections: [
+      {
+        heading: "What Hersheypark Christmas Candylane Is Like",
+        paragraphs: [
+          "Christmas Candylane typically runs on select days from mid-November through the end of December. The park opens for the afternoon and evening, and the lights are at their best after dark. Expect holiday music and shows, seasonal food, character visits and a mix of family rides and some larger attractions, depending on the weather and the day. Not every ride runs in winter, so check the park's list of operating attractions for your date.",
+          "Central Pennsylvania in December is noticeably colder than Northern Virginia, and evenings in the park are often below freezing. Snow is possible, and the park can close or change hours for severe weather. Dress in warm layers, wear waterproof shoes and plan for the cold to wear children out sooner than you expect.",
+        ],
+      },
+      {
+        heading: "The Route and Drive Times From Dulles",
+        paragraphs: [
+          "Dulles to Hershey is roughly 130 miles. One common route heads north from Loudoun County on US-15, through Point of Rocks, Frederick and Gettysburg, before reaching the Harrisburg area and Hershey. Another follows I-270 through Montgomery County toward Frederick and then continues north. In normal traffic, the trip usually takes about two and a half hours.",
+          "US-15 is a scenic two- and four-lane road in places, and in winter, sections in rural Maryland and Pennsylvania can be slick when other roads are clear. A chauffeur who drives the region regularly will pick the route based on traffic and weather that day. From Fairfax, Arlington or Tysons, plan for a slightly longer trip.",
+        ],
+      },
+      {
+        heading: "Making a Day of It in Hershey",
+        paragraphs: [
+          "Because the park opens in the afternoon, many families add a stop or two before going in. Hershey's Chocolate World, next to the park, is the best-known, with its free chocolate-making tour ride, shops and seasonal treats. Gettysburg is on the way and makes a natural lunch stop, and some families break up the drive with a walk around downtown Frederick on the way up or the way back.",
+          "For a longer visit, an overnight stay in Hershey lets you see the park in the evening and enjoy the town the next morning before heading home. In that case, a transfer up and a separate return the next day is often the simplest booking.",
+        ],
+      },
+      {
+        heading: "Who Books a Ride to Hershey",
+        paragraphs: [
+          "A chauffeured Hershey trip is popular with:",
+        ],
+        list: [
+          "Families with young children who want everyone together and nobody driving home tired at night.",
+          "Grandparents taking grandchildren on a holiday outing.",
+          "Visiting relatives in town for the holidays who want a day out of the city.",
+          "Scout troops, youth groups and church groups planning a December trip.",
+          "Friends who would rather share one vehicle than coordinate several cars on a two-and-a-half-hour drive.",
+        ],
+      },
+      {
+        heading: "A Sample Christmas Candylane Day",
+        paragraphs: [
+          "A typical day trip from Northern Virginia might look like this:",
+        ],
+        list: [
+          "Late morning: pickup from home in Loudoun, Fairfax or Prince William County.",
+          "Midday: lunch in Gettysburg or Frederick on the way north.",
+          "Early afternoon: Hershey's Chocolate World before the park opens.",
+          "Afternoon and evening: Christmas Candylane, the lights and a holiday dinner in the park.",
+          "Evening: pickup at the agreed meeting point and the drive home, with most children asleep before you reach Maryland.",
+        ],
+        subsections: [
+          {
+            heading: "Hourly Service for the Whole Day",
+            paragraphs: [
+              "With hourly, as-directed service, one vehicle and one chauffeur stay with you for the entire day, from your driveway to Hershey and back. Stops along the way, a longer lunch or one more hour in the park are easy to fit in. Ask for a full-day quote when you book, and we will confirm everything in writing.",
+            ],
+          },
+        ],
+      },
+      {
+        heading: "Tips for Families With Young Children",
+        paragraphs: [
+          "A Hershey day is long for small children, and a little planning keeps it fun. Pack a change of warm clothes, since snow, slush and spilled cocoa are all part of a December day at the park. Bring snacks and water for the drive, and plan a quiet activity or two for the ride up so children arrive rested rather than restless.",
+          "Think about timing, too. Many families with toddlers do Chocolate World and an early dinner, see the lights just after dark and head home before the park gets busiest. Older children may want to stay until closing. Because the chauffeur is waiting for you rather than a parking meter, you can decide on the day how long the group wants to stay.",
+          "On the way home, the vehicle is warm and quiet, and children who fall asleep in the back seat do not have to be woken up to switch cars. If you are dropping off another family or friends on the way, tell us when you book so the return route can be planned around each stop.",
+        ],
+      },
+      {
+        heading: "Pickup at the Park",
+        paragraphs: [
+          "Like any theme park, Hersheypark gets busy at the exits near closing. Agree on a meeting point and an approximate time with your chauffeur before you go in, and call or text about fifteen minutes before you are ready. Our dispatch line, (877) 609-1919, is answered around the clock.",
+          "Bags from Chocolate World, extra coats and anything else you do not want to carry can stay in the vehicle while you are in the park.",
+        ],
+      },
+      {
+        heading: "Winter Weather and Changing Plans",
+        paragraphs: [
+          "Snow and ice are more likely in central Pennsylvania than at home, and conditions can change quickly in the hills along US-15. We watch the forecast before your date and will talk with you if the weather looks likely to cause trouble. If you need to change plans, sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For a couple or small group of up to three, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable for the drive. A Lincoln Nautilus also seats three, with more cargo room. A Chevrolet Suburban seats five and a Lincoln Navigator seats six, with room for coats and shopping. For a larger family, a youth group or a club outing, a Mercedes Sprinter seats up to 13 passengers. If you are bringing small children, tell us their ages when you book so we can talk through seating.",
+        ],
+      },
+      {
+        heading: "Holiday Visitors Flying Into Dulles",
+        paragraphs: [
+          "Relatives flying in for the holidays can be picked up at Dulles by the same company that takes everyone to Hershey. Our chauffeurs track flights and include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals.",
+        ],
+      },
+      {
+        heading: "Booking Your Hershey Trip",
+        paragraphs: [
+          "December weekends are the busiest days at Christmas Candylane and on the roads, so reserve once your date is set. Your rate is a flat, all-inclusive price confirmed when you book, with no surge pricing.",
+          "Book online through our reservation page or call (877) 609-1919. Tell us your pickup address, your date, how many people are coming and any stops you would like to make on the way.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Hershey Trip", to: "/book-now" },
+      { label: "IAD to Frederick, MD Car Service", to: "/iad-to-frederick-md" },
+      { label: "Sprinter Van Service", to: "/vehicles/sprinters" },
+      { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Sedan vs. SUV vs. Sprinter Van: Which to Book", to: "/blog/sedan-vs-suv-vs-sprinter-van-which-to-book" },
+    ],
+    faqs: [
+      {
+        question: "When does Hersheypark Christmas Candylane run?",
+        answer: "It typically runs on select days from mid-November through the end of December, in the afternoon and evening. Check the Hersheypark website for this year's calendar and hours.",
+      },
+      {
+        question: "How long is the drive from Dulles to Hershey?",
+        answer: "It is roughly 130 miles, usually about two and a half hours via US-15 or I-270 through Frederick. Winter weather and holiday traffic can add time.",
+      },
+      {
+        question: "Can we stop at Hershey's Chocolate World or Gettysburg on the way?",
+        answer: "Yes. With hourly service, stops are easy to add. Chocolate World is next to the park, and Gettysburg and Frederick are on the usual route north.",
+      },
+      {
+        question: "What if it snows on the day of our trip?",
+        answer: "We watch the forecast and will contact you if conditions look risky. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+      {
+        question: "Which vehicle works for a youth group or big family?",
+        answer: "A Mercedes Sprinter seats up to 13 passengers. For smaller families, a Chevrolet Suburban seats five and a Lincoln Navigator seats six.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
