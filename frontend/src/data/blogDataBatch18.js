@@ -6488,6 +6488,339 @@ const batch18 = [
       },
     ],
   },
+
+  // ---------------------------------------------------------- POST 45 (2026-12-12)
+  {
+    slug: "late-night-arrivals-dulles-airport-getting-home-after-midnight",
+    scheduled: true,
+    title: "Late-Night Arrivals at Dulles: Getting Home After Midnight",
+    metaTitle: "Late-Night Arrivals at Dulles: Getting Home | IAD Limo",
+    metaDescription:
+      "Landing at Dulles late at night? How to plan the ride home after a late or delayed flight, what to expect at the curb, wait times and how to book a car.",
+    datePublished: "2026-12-12",
+    readTime: "7 min read",
+    excerpt:
+      "Late flights and holiday delays often put travelers on the Dulles curb near midnight. Here is how to plan a calm ride home when options thin out and everyone is tired.",
+    image: "/images/blog/scenario-airport-pickup-1.webp",
+    intro: [
+      "Plenty of trips into Washington Dulles end late: the last flight of the evening from the West Coast, a long-haul arrival that lands after dark, or a connection that ran hours behind schedule. In December and early January, with full flights and winter weather elsewhere in the country, late arrivals are even more common.",
+      "Arriving tired after midnight is when a plan matters most. This guide covers what changes at Dulles late at night, how to choose a ride home and how a pre-booked car with flight tracking takes the guesswork out of the last leg of the trip.",
+    ],
+    sections: [
+      {
+        heading: "What Changes at Dulles Late at Night",
+        paragraphs: [
+          "The airport stays open, but the options around it get thinner. Some shops and restaurants close, public transit runs less often or ends for the night, and the number of rideshare drivers waiting near the airport can drop. Check WMATA and the airport's website for current transit hours rather than assuming a train or bus will be there.",
+          "Late arrivals also tend to come in waves. When several delayed flights land close together, the baggage claim, the curb and the rideshare pickup area can all get crowded at once, just when everyone wants to get home.",
+        ],
+      },
+      {
+        heading: "Why a Pre-Booked Ride Helps After Midnight",
+        paragraphs: [
+          "A booked car is assigned before you land, so you are not searching for a driver at the end of a long day. Travelers often choose one for late arrivals because:",
+        ],
+        list: [
+          "The chauffeur tracks your flight and adjusts to the actual landing time, including delays.",
+          "There is no surge pricing when a cluster of late flights lands at once.",
+          "Your rate is confirmed in writing when you book, so there is no surprise at the end of the ride.",
+          "You do not have to walk to a parking garage and drive home tired.",
+          "Someone at home does not have to stay up and make the airport run.",
+        ],
+      },
+      {
+        heading: "Waiting Time When Your Flight Is Late",
+        paragraphs: [
+          "Because we track the flight, the pickup is planned around when you actually land, not when you were scheduled to. On domestic arrivals, 45 minutes of complimentary waiting is included after landing, and on international arrivals, 60 minutes, which allows for immigration and customs. If your bags are slow or you are stuck in a long line, send us a message so dispatch knows where you are.",
+        ],
+      },
+      {
+        heading: "Curbside or Meet and Greet",
+        paragraphs: [
+          "For curbside pickup, your chauffeur meets you at the arrivals curb once you have your bags. For a late night, many travelers prefer meet-and-greet service, an add-on where the chauffeur waits inside the terminal and walks with you to the vehicle. It is a good choice for first-time visitors, older relatives, families with children and anyone who would rather not navigate the curb alone at night.",
+        ],
+      },
+      {
+        heading: "Tips for a Smooth Late Arrival",
+        paragraphs: [
+          "A few small steps make the last leg of a late trip easier:",
+        ],
+        list: [
+          "Share your flight number when you book, so changes are picked up automatically.",
+          "Keep your phone charged and turn it on as soon as you land.",
+          "Message us when you reach baggage claim if you checked bags.",
+          "Note the vehicle and chauffeur details in your confirmation before you fly.",
+          "If the flight is cancelled and rebooked to the next day, send us the new details.",
+        ],
+      },
+      {
+        heading: "Booking a Ride for Someone Else",
+        paragraphs: [
+          "Many of our late-night bookings are made by someone other than the passenger: a parent booking for a college student coming home for break, an assistant booking for an executive or a host arranging a ride for a visiting relative. Give us the traveler's name, phone number and flight, and we will keep you both informed.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits one or two travelers with standard luggage. A Lincoln Nautilus seats three with more cargo room, and a Chevrolet Suburban or Lincoln Navigator suits families with holiday bags. For a group arriving together, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Book online through our reservation page or call (877) 609-1919 any time of day. Tell us the flight number, the number of passengers and bags and where you are headed.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book the Airport Ride", to: "/book-now" },
+      { label: "Dulles Airport Meet and Greet", to: "/dulles-airport-meet-and-greet" },
+      { label: "Dulles International Arrivals Car Service", to: "/dulles-international-arrivals-car-service" },
+      { label: "Dulles International Arrivals, Step by Step", to: "/blog/dulles-international-arrivals-step-by-step" },
+      { label: "Winter Weather Flight Delay Playbook for Dulles", to: "/blog/winter-weather-flight-delay-playbook-dulles" },
+      { label: "Last-Minute IAD Airport Car Service", to: "/last-minute-iad-airport-car-service" },
+    ],
+    faqs: [
+      {
+        question: "Do you pick up at Dulles after midnight?",
+        answer: "Yes. We operate around the clock, including late-night and early-morning arrivals. Book ahead with your flight number so the pickup follows your actual landing time.",
+      },
+      {
+        question: "What happens if my flight is delayed by several hours?",
+        answer: "We track the flight and plan the pickup around the actual landing. Domestic arrivals include 45 minutes of complimentary waiting after landing, and international arrivals 60 minutes.",
+      },
+      {
+        question: "Can the chauffeur meet me inside the terminal?",
+        answer: "Yes. Meet-and-greet service is available as an add-on, with the chauffeur waiting inside the terminal and walking with you to the vehicle.",
+      },
+      {
+        question: "Can I book a late-night pickup for a family member?",
+        answer: "Yes. Give us the traveler's name, phone number and flight details when you book, and we will keep you both updated.",
+      },
+      {
+        question: "What if my flight is cancelled and rebooked for tomorrow?",
+        answer: "Send us the new flight details. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 46 (2026-12-13)
+  {
+    slug: "dc-winter-restaurant-week-dinner-car-service-northern-virginia",
+    scheduled: true,
+    title: "Winter Restaurant Week in DC: Planning Dinner Out With a Chauffeur",
+    metaTitle: "DC Winter Restaurant Week by Car Service | IAD Limo",
+    metaDescription:
+      "Planning a Winter Restaurant Week dinner in DC or Northern Virginia? Reservations, neighborhoods, timing, parking and booking a chauffeur for the night.",
+    datePublished: "2026-12-13",
+    readTime: "7 min read",
+    excerpt:
+      "Metropolitan Washington's Winter Restaurant Week typically arrives in January. Here is how to plan a dinner out in DC or Northern Virginia, and why a booked car makes the night easier.",
+    image: "/images/blog/scenario-doorman.webp",
+    intro: [
+      "Restaurant Week in the Washington area typically runs twice a year, with a winter edition in January and a summer edition in August. During the winter event, many participating restaurants across DC, Northern Virginia and Maryland offer special prix-fixe menus, and it is a popular time for date nights, small group dinners and client meals.",
+      "Dates, participating restaurants and menu prices are set by the organizers and the restaurants each year, so check the official Restaurant Week website before you plan. This guide covers how to plan the evening itself: reservations, neighborhoods, timing and getting there and back without worrying about parking or driving.",
+    ],
+    sections: [
+      {
+        heading: "Book the Table Early",
+        paragraphs: [
+          "Popular restaurants fill quickly once the participant list is announced, especially on Friday and Saturday nights. Once you have a reservation, book your ride for the same evening so both are set. If the table time moves, let us know and we will adjust the pickup.",
+        ],
+      },
+      {
+        heading: "Choosing a Neighborhood",
+        paragraphs: [
+          "Part of the fun is trying a neighborhood you do not usually visit. Some ideas for an evening out:",
+        ],
+        list: [
+          "Georgetown, for dinner and a walk along the waterfront.",
+          "Dupont Circle and Logan Circle, with many restaurants within a few blocks.",
+          "The Wharf and Navy Yard, along the water in Southwest and Southeast DC.",
+          "Old Town Alexandria, with dining along King Street.",
+          "Tysons and Reston Town Center, closer to home for many Northern Virginia diners.",
+        ],
+      },
+      {
+        heading: "Why Book a Chauffeur for Dinner",
+        paragraphs: [
+          "Parking in busy DC neighborhoods on a winter weekend can take a while, and many diners would rather enjoy a glass of wine with dinner than drive home. A booked car solves both. Your chauffeur drops you at the restaurant door and picks you up when you are ready, so nobody has to walk several blocks in the cold or be the designated driver.",
+        ],
+      },
+      {
+        heading: "Point to Point or Hourly",
+        paragraphs: [
+          "For a single dinner, point-to-point service with a scheduled return pickup often works well. If you plan to visit more than one spot, such as cocktails in one neighborhood and dinner in another, hourly service keeps the car and chauffeur with you for the evening. Hourly bookings keep timing flexible if dinner runs long.",
+        ],
+      },
+      {
+        heading: "Planning a Group or Client Dinner",
+        paragraphs: [
+          "Restaurant Week is a good excuse for a team dinner or a client evening. If guests are coming from different offices or hotels, we can coordinate several pickups, or bring everyone together in one vehicle. Tell us the guest list and addresses when you book. For corporate accounts, the ride can be billed to the company along with the rest of your travel.",
+        ],
+      },
+      {
+        heading: "Winter Weather",
+        paragraphs: [
+          "January in the Washington area can bring cold rain, ice or snow. Our chauffeurs watch conditions and plan routes accordingly. If a storm is in the forecast, check with the restaurant about its plans and talk with us about timing.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits a couple. A Chevrolet Suburban seats five and a Lincoln Navigator seats six for a double date or small group. For a larger group dinner, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address, the restaurant and your reservation time.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Evening", to: "/book-now" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
+      { label: "The Wharf DC Limo Service", to: "/the-wharf-dc-limo-service" },
+      { label: "Point to Point vs. Hourly Chauffeur Service", to: "/blog/point-to-point-vs-hourly-chauffeur-service-which-to-book" },
+      { label: "Northern Virginia Anniversary Limo", to: "/northern-virginia-anniversary-limo" },
+    ],
+    faqs: [
+      {
+        question: "When is Winter Restaurant Week in DC?",
+        answer: "It typically takes place in January. The organizers set the dates and the participating restaurants each year, so check the official Restaurant Week website for current details.",
+      },
+      {
+        question: "Can the chauffeur wait while we eat?",
+        answer: "Yes, with hourly service the car and chauffeur stay with you for the evening. For point-to-point service, we schedule a return pickup at the time you choose.",
+      },
+      {
+        question: "Can you pick up guests from different places?",
+        answer: "Yes. Give us each pickup address when you book and we will plan the route, or arrange separate vehicles if that works better.",
+      },
+      {
+        question: "Which vehicle is best for a group of six?",
+        answer: "A Lincoln Navigator seats six. For a larger group, a Mercedes Sprinter seats up to 13 passengers.",
+      },
+      {
+        question: "What if our reservation changes?",
+        answer: "Let us know the new time. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 47 (2026-12-14)
+  {
+    slug: "snowbird-winter-departures-dulles-florida-arizona-car-service",
+    scheduled: true,
+    title: "Heading South for the Winter: Snowbird Departures From Dulles",
+    metaTitle: "Snowbird Winter Departures From Dulles | IAD Limo",
+    metaDescription:
+      "Spending the winter in Florida, Arizona or somewhere warm? How Northern Virginia snowbirds can plan the Dulles departure, luggage, timing and the spring return.",
+    datePublished: "2026-12-14",
+    readTime: "7 min read",
+    excerpt:
+      "Many Northern Virginia retirees spend part of the winter somewhere warmer. Here is how to plan the departure from Dulles with months of luggage, and the ride home in spring.",
+    image: "/images/blog/airport-dropoff.webp",
+    intro: [
+      "Each winter, many Northern Virginia residents trade cold, gray weeks for a few months in Florida, Arizona or another warm-weather spot. Flying out of Dulles is often the easiest way to start the season, but a trip measured in months brings more luggage, more planning and a house to close up before leaving.",
+      "This guide covers the practical side of a snowbird departure: getting the house ready, packing for a long stay, timing the airport trip and booking the ride to Dulles and back again in the spring.",
+    ],
+    sections: [
+      {
+        heading: "Closing Up the House",
+        paragraphs: [
+          "A few tasks are worth finishing before departure day, so you are not rushing on the morning of the flight:",
+        ],
+        list: [
+          "Arrange mail forwarding or a hold, and tell a neighbor how long you will be away.",
+          "Set the thermostat to protect pipes during cold snaps, and consider having someone check the house.",
+          "Refill prescriptions for the full stay, or confirm how to fill them where you are going.",
+          "Unplug appliances you will not need and empty the refrigerator.",
+          "Leave a spare key and your contact details with someone you trust.",
+        ],
+      },
+      {
+        heading: "Packing for a Long Stay",
+        paragraphs: [
+          "A stay of several months often means two large suitcases per person, plus carry-ons. Check the airline's checked bag allowance and fees before you pack, and weigh bags at home. Keep medications, documents, glasses, chargers and a change of clothes in the carry-on in case checked bags are delayed. Some snowbirds ship a box ahead or keep a set of basics at their winter home to cut down on what they carry.",
+          "When you book the ride, tell us exactly how many bags are coming, so we send a vehicle with room for all of them.",
+        ],
+      },
+      {
+        heading: "Timing the Trip to Dulles",
+        paragraphs: [
+          "For domestic flights, many travelers plan to arrive about two hours before departure, and a little more during busy holiday weeks or with a lot of checked luggage. Work backward from that time to set your pickup, allowing for traffic from your home. From much of Loudoun County the drive is short, while trips from southern Fairfax or Prince William County take longer, especially at rush hour.",
+        ],
+      },
+      {
+        heading: "Why Book a Ride Instead of Parking",
+        paragraphs: [
+          "Parking a car at the airport for months adds up, and asking a family member to drive you can be a lot to ask on a weekday morning. A booked ride is a simple alternative:",
+        ],
+        list: [
+          "Your chauffeur helps load and unload heavy bags at the house and the curb.",
+          "There is no long-term parking bill and no car sitting in a garage all winter.",
+          "Your rate is confirmed in writing when you book, with no surge pricing.",
+          "Meet-and-greet service is available on the return, with the chauffeur waiting inside the terminal.",
+        ],
+      },
+      {
+        heading: "Planning the Spring Return",
+        paragraphs: [
+          "Book the return pickup as soon as your flight home is set. We track the flight and include 45 minutes of complimentary waiting after landing on domestic arrivals, which leaves time to collect several checked bags. If your plans change while you are away, send us the new flight details.",
+        ],
+      },
+      {
+        heading: "Flying From Another Airport",
+        paragraphs: [
+          "Depending on the destination and fares, some snowbirds fly from Reagan National or BWI instead. We provide rides to all three Washington-area airports, so tell us which one you are using when you book.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A couple with four large suitcases usually fits best in an SUV such as a Chevrolet Suburban or Lincoln Navigator, which have room for luggage and passengers. A Lincoln Nautilus seats three with more cargo room than a sedan. A Business Sedan such as a Mercedes-Benz E-Class works for one traveler with lighter bags. If you need help getting in and out of the vehicle, tell us when you book.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Book online through our reservation page or call (877) 609-1919 with your pickup address, flight details and how many bags are coming.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book the Airport Ride", to: "/book-now" },
+      { label: "Dulles Airport Departure Drop-Off", to: "/dulles-airport-departure-drop-off" },
+      { label: "Dulles Airport Parking vs. Car Service", to: "/blog/dulles-airport-parking-vs-car-service" },
+      { label: "Dulles Airport Meet and Greet", to: "/dulles-airport-meet-and-greet" },
+      { label: "Senior and Retirement Community Transportation", to: "/blog/senior-retirement-community-transportation-guide-nova-maryland" },
+      { label: "Skis, Golf Bags and Oversized Luggage at Dulles", to: "/blog/skis-golf-bags-oversized-luggage-dulles-car-service" },
+    ],
+    faqs: [
+      {
+        question: "Which vehicle fits a couple with four large suitcases?",
+        answer: "An SUV such as a Chevrolet Suburban or Lincoln Navigator usually works best. Tell us the exact number of bags when you book so we send the right vehicle.",
+      },
+      {
+        question: "How early should we arrive at Dulles for a domestic flight?",
+        answer: "Many travelers plan on about two hours before a domestic departure, with a little more during busy holiday weeks or with a lot of checked luggage.",
+      },
+      {
+        question: "Can we book the spring return now?",
+        answer: "Yes. Book as soon as your return flight is set. We track the flight and include 45 minutes of complimentary waiting after landing on domestic arrivals.",
+      },
+      {
+        question: "Will the chauffeur help with heavy bags?",
+        answer: "Yes. Your chauffeur helps load and unload luggage at your home and at the airport curb.",
+      },
+      {
+        question: "What if our travel dates change?",
+        answer: "Send us the new details. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
