@@ -6821,6 +6821,427 @@ const batch18 = [
       },
     ],
   },
+  // ---------------------------------------------------------- POST 48 (2026-12-15)
+  {
+    slug: "ice-skating-rinks-dc-northern-virginia-chauffeured-evening",
+    scheduled: true,
+    title: "Ice Skating in DC and Northern Virginia: Planning a Chauffeured Evening",
+    metaTitle: "Ice Skating Nights in DC and NoVA by Car | IAD Limo",
+    metaDescription:
+      "Planning a winter skating night in DC or Northern Virginia? Outdoor rink ideas, timing, what to bring and how a booked car makes the evening easier.",
+    datePublished: "2026-12-15",
+    readTime: "7 min read",
+    excerpt:
+      "Outdoor rinks are a winter tradition around Washington. Here is how to plan a skating night with family, friends or a date, from choosing a rink to getting home warm.",
+    image: "/images/blog/fleet-escalade-1.webp",
+    intro: [
+      "Each winter, several outdoor ice rinks open around the Washington area, and an evening of skating has become a holiday and January tradition for many families, couples and groups of friends. Skating under the lights, followed by hot chocolate or dinner nearby, makes for an easy night out during the darkest weeks of the year.",
+      "Rink seasons, hours, ticket prices and skate rental details are set by each operator and can change from year to year, so check the rink's official website before you go. This guide covers the planning side: choosing a rink, timing the visit and getting there and back without hunting for parking in the cold.",
+    ],
+    sections: [
+      {
+        heading: "Outdoor Rinks Worth Considering",
+        paragraphs: [
+          "The rinks below have typically opened for the winter season in recent years. Confirm that each one is operating this season, along with its current hours, before you plan the evening:",
+        ],
+        list: [
+          "Reston Town Center, where the pavilion rink sits among shops and restaurants.",
+          "The National Gallery of Art Sculpture Garden on the National Mall, when it is open for the season.",
+          "Washington Harbour in Georgetown, along the Potomac waterfront.",
+          "Canal Park in the Navy Yard neighborhood, a short walk from restaurants near the ballpark.",
+        ],
+      },
+      {
+        heading: "Timing the Visit",
+        paragraphs: [
+          "Many rinks run timed sessions, and weekend evenings and school holidays tend to be the busiest. If the rink sells tickets online, buy them ahead and plan your pickup around the session start time, with a little extra time for skate rental lines. Weeknight sessions are often quieter, which helps with younger children or first-time skaters.",
+          "Rinks may close for rain, warm spells or maintenance, so check the rink's website or social media on the day before you leave home.",
+        ],
+      },
+      {
+        heading: "What to Bring",
+        paragraphs: [
+          "A little preparation keeps everyone comfortable on the ice:",
+        ],
+        list: [
+          "Warm layers, gloves and a hat, since you will be outside for an hour or more.",
+          "Thick socks, which help rental skates fit more comfortably.",
+          "Helmets for young children, if the rink allows or recommends them.",
+          "A dry change of socks or gloves to leave in the car.",
+          "A small bag for shoes, since rinks often have limited locker space.",
+        ],
+      },
+      {
+        heading: "Why a Booked Car Helps",
+        paragraphs: [
+          "Parking near the rinks in Georgetown, Navy Yard and downtown DC can be limited on a winter weekend, and walking several blocks with cold children is nobody's favorite part of the evening. With a booked car, your chauffeur drops you near the rink and picks you up when you are ready, and the vehicle is warm when you climb back in. It also lets parents relax and lets the adults in a group enjoy dinner afterward without anyone having to drive home.",
+        ],
+      },
+      {
+        heading: "Skating Plus Dinner or Holiday Lights",
+        paragraphs: [
+          "Many skating nights turn into a longer evening: a session at the rink, then dinner at a nearby restaurant or a drive past holiday light displays. If you plan more than one stop, hourly service keeps the car and chauffeur with you for the whole evening. For a single round trip, point-to-point service with a scheduled return pickup usually works well.",
+        ],
+      },
+      {
+        heading: "Groups, Parties and Date Nights",
+        paragraphs: [
+          "Skating is a popular choice for birthday parties, scout troops, church groups and office outings, as well as a simple date night. For a group, check whether the rink offers group rates or private sessions, and tell us how many people are coming so we can plan the right vehicle or coordinate pickups from several addresses.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits a couple. A Chevrolet Suburban seats five and a Lincoln Navigator seats six, with room for bags and skates for families who bring their own. For a larger group, a Mercedes Sprinter seats up to 13 passengers. If you need child safety seats, tell us the ages and number of children when you book.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address, the rink and your session time.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Evening", to: "/book-now" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Reston Limo Service", to: "/reston-limo-service" },
+      { label: "Navy Yard DC Limo Service", to: "/navy-yard-dc-limo-service" },
+      { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
+      { label: "Holiday Lights Limo Tours", to: "/holiday-lights-limo-tours-guide" },
+    ],
+    faqs: [
+      {
+        question: "When do outdoor ice rinks open in the DC area?",
+        answer: "Many outdoor rinks typically open in November or December and run into late winter. Seasons and hours vary by rink and year, so check each rink's official website before you go.",
+      },
+      {
+        question: "Can the chauffeur wait while we skate?",
+        answer: "Yes, with hourly service the car and chauffeur stay with you for the evening. For point-to-point service, we schedule a return pickup at the time you choose.",
+      },
+      {
+        question: "Can you provide child safety seats?",
+        answer: "Tell us the ages and number of children when you book, and we will confirm the seating arrangements for your ride.",
+      },
+      {
+        question: "Which vehicle fits a group of ten skaters?",
+        answer: "A Mercedes Sprinter seats up to 13 passengers, which suits most party and group outings.",
+      },
+      {
+        question: "What if the rink closes because of weather?",
+        answer: "Let us know as soon as you can. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 49 (2026-12-16)
+  {
+    slug: "flying-with-holiday-gifts-dulles-tsa-packing-car-service",
+    scheduled: true,
+    title: "Flying Out of Dulles With Holiday Gifts: Packing Tips and the Ride to the Airport",
+    metaTitle: "Flying With Holiday Gifts From Dulles | IAD Limo",
+    metaDescription:
+      "Taking presents on a holiday flight from Dulles? Tips on wrapping, carry-on vs. checked bags, liquids, fragile items and booking a ride with room for it all.",
+    datePublished: "2026-12-16",
+    readTime: "7 min read",
+    excerpt:
+      "Holiday trips often mean extra bags full of presents. Here is how to pack gifts for a flight from Dulles, what to know before security and how to plan a ride with enough room.",
+    image: "/images/blog/airport-terminal-glass.webp",
+    intro: [
+      "In December, many travelers leaving Dulles are carrying more than clothes. Presents for family, food from home, a fragile keepsake or an extra suitcase just for gifts all add weight, bulk and a few questions at the security checkpoint.",
+      "This guide covers practical ways to pack holiday gifts for a flight, what to keep in mind before screening and how to plan the ride to the airport so every bag fits. Security rules and airline baggage policies can change, so check the TSA website and your airline before you pack.",
+    ],
+    sections: [
+      {
+        heading: "Hold Off on the Wrapping Paper",
+        paragraphs: [
+          "TSA has long advised travelers not to wrap gifts before a flight, because officers may need to open a package to inspect it, in carry-on or checked bags. Gift bags, boxes with lids or wrapping the presents after you arrive are easier options. Many travelers pack a roll of tape and folded paper in the suitcase and wrap at their destination.",
+        ],
+      },
+      {
+        heading: "Carry-On or Checked Bag",
+        paragraphs: [
+          "Deciding where each gift goes saves trouble at the airport. A few general guidelines:",
+        ],
+        list: [
+          "Keep valuable and fragile items, such as jewelry or electronics, with you in the carry-on.",
+          "Pack spare lithium batteries and power banks in carry-on bags, as airlines generally require.",
+          "Put liquids, gels and aerosols larger than the carry-on limit, such as perfume sets or bottles, in checked bags.",
+          "Wrap breakable items in clothing and place them in the center of the suitcase.",
+          "Use TSA's online \"What Can I Bring?\" tool if you are unsure about a specific item.",
+        ],
+      },
+      {
+        heading: "Food Gifts and International Trips",
+        paragraphs: [
+          "Homemade cookies and other solid baked goods are generally fine to carry, while jams, sauces and other spreadable or liquid foods count toward carry-on liquid limits. If you are flying internationally, the destination country may restrict food, plants or other items, and returning travelers have to declare certain food items to U.S. Customs. Check the rules for your destination before packing food gifts.",
+        ],
+      },
+      {
+        heading: "Shipping Instead of Carrying",
+        paragraphs: [
+          "Larger or heavier presents are often easier to ship ahead or order online for delivery to your destination. Compare shipping costs with your airline's checked bag fees, and keep in mind that holiday shipping deadlines arrive early in December. Shipping can also leave more room in your bags for anything you bring home.",
+        ],
+      },
+      {
+        heading: "Allowing Extra Time at Dulles",
+        paragraphs: [
+          "Holiday weeks are among the busiest of the year at Dulles, and extra checked bags can mean a longer wait at the ticket counter. Many travelers plan to arrive about two hours before a domestic flight and three hours before an international one, with a little more time during peak holiday days. Set your pickup time working back from that, allowing for traffic from home.",
+        ],
+      },
+      {
+        heading: "Planning a Ride With Room for Everything",
+        paragraphs: [
+          "Extra suitcases and gift bags are a common reason travelers book a larger vehicle in December. When you book, tell us how many people are traveling and how many bags of each size are coming, including any oversized boxes. Your chauffeur helps load and unload at your home and at the departures curb, and we confirm your rate in writing when you book.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits one or two travelers with standard luggage. A Lincoln Nautilus seats three with more cargo room. A Chevrolet Suburban or Lincoln Navigator suits families with several large suitcases and gift bags. For a larger group flying together, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. Book online through our reservation page or call (877) 609-1919 with your pickup address, flight details and how many bags are coming. If you are returning through Dulles, we can book the pickup at the same time.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book the Airport Ride", to: "/book-now" },
+      { label: "Dulles Airport Departure Drop-Off", to: "/dulles-airport-departure-drop-off" },
+      { label: "Holiday Travel at Dulles Airport", to: "/blog/thanksgiving-christmas-holiday-travel-dulles-airport-car-service-guide" },
+      { label: "Skis, Golf Bags and Oversized Luggage at Dulles", to: "/blog/skis-golf-bags-oversized-luggage-dulles-car-service" },
+      { label: "Bringing Food Through Customs at Dulles", to: "/blog/bringing-food-through-customs-at-dulles" },
+      { label: "Sedan vs. SUV vs. Sprinter Van", to: "/blog/sedan-vs-suv-vs-sprinter-van-which-to-book" },
+    ],
+    faqs: [
+      {
+        question: "Can I bring wrapped gifts through security at Dulles?",
+        answer: "You can, but TSA advises against wrapping gifts before a flight because officers may need to open them for inspection. Gift bags or wrapping after you arrive are easier options.",
+      },
+      {
+        question: "Where should I pack fragile or valuable gifts?",
+        answer: "Keep valuable and fragile items with you in your carry-on when possible. Spare lithium batteries and power banks generally need to go in carry-on bags as well.",
+      },
+      {
+        question: "How early should I get to Dulles during the holidays?",
+        answer: "Many travelers plan on about two hours before a domestic flight and three hours before an international one, with extra time on peak holiday days or with several checked bags.",
+      },
+      {
+        question: "Which vehicle fits a family with lots of luggage?",
+        answer: "A Chevrolet Suburban or Lincoln Navigator usually works best. Tell us the number and size of bags when you book so we send the right vehicle.",
+      },
+      {
+        question: "Can I book my return pickup at the same time?",
+        answer: "Yes. Share the return flight details and we will track the flight. Domestic arrivals include 45 minutes of complimentary waiting after landing, and international arrivals 60 minutes.",
+      },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 50 (2026-12-17)
+  {
+    slug: "national-mall-winter-museum-day-car-service-from-northern-virginia",
+    scheduled: true,
+    title: "A Winter Museum Day on the National Mall: Planning the Ride From Northern Virginia",
+    metaTitle: "Winter Museum Day on the National Mall | IAD Limo",
+    metaDescription:
+      "Planning a winter day at the Smithsonian museums on the National Mall? Choosing museums, timing, passes, drop-off points and booking a car from Northern Virginia.",
+    datePublished: "2026-12-17",
+    readTime: "7 min read",
+    excerpt:
+      "Cold days are a good time to explore the museums on the National Mall. Here is how to plan a museum day from Northern Virginia, from choosing exhibits to getting dropped off at the door.",
+    image: "/images/blog/landmark-capitol-1.webp",
+    intro: [
+      "When the weather turns cold, the museums along the National Mall make an easy day out for families, visiting relatives and anyone with a free day during winter break. Many of the Smithsonian museums offer free general admission, and a day indoors among dinosaurs, spacecraft and paintings is a welcome change from a gray January afternoon.",
+      "Hours, entry requirements and exhibits change over time, and some museums close on certain holidays, so check each museum's official website before you go. This guide covers planning the day and getting to the Mall and back from Northern Virginia without worrying about downtown parking.",
+    ],
+    sections: [
+      {
+        heading: "Pick Two or Three Museums",
+        paragraphs: [
+          "The Mall is long, and trying to see everything in one day usually means seeing little of anything. Choosing two or three museums close to each other keeps walking in the cold to a minimum. A few popular combinations:",
+        ],
+        list: [
+          "The National Museum of Natural History and the National Museum of American History, next to each other on the north side of the Mall.",
+          "The National Air and Space Museum and the National Gallery of Art, across the Mall from each other near the Capitol end.",
+          "The National Museum of the American Indian and the U.S. Botanic Garden Conservatory, a warm indoor garden near the Capitol.",
+          "The National Museum of African American History and Culture, which deserves most of a day on its own.",
+        ],
+      },
+      {
+        heading: "Check Passes and Hours First",
+        paragraphs: [
+          "Some museums have used free timed-entry passes during busy periods, and requirements can change, so check before you leave home. Bags are typically screened at the entrance, and lines can build on weekends and during school breaks. Arriving close to opening time is often the quietest part of the day.",
+        ],
+      },
+      {
+        heading: "Why a Booked Car Helps Downtown",
+        paragraphs: [
+          "Street parking near the Mall is limited and often time-restricted, and garages can be a long walk from the museum entrances. With a booked car, your chauffeur drops you near the museum door, and picks you up at a different museum later if your plans move along the Mall. That means less walking in the cold for children, older relatives and anyone who has already spent hours on their feet indoors.",
+        ],
+      },
+      {
+        heading: "Hourly Service for a Full Day",
+        paragraphs: [
+          "If you plan to visit several museums, have lunch somewhere off the Mall or add an evening stop, hourly service keeps the car and chauffeur available throughout the day. For a simple trip with one drop-off and one pickup, point-to-point service with a scheduled return usually works well. Tell us your plan when you book and we will suggest what fits.",
+        ],
+      },
+      {
+        heading: "Adding Udvar-Hazy on the Way Home",
+        paragraphs: [
+          "Families who love aircraft and spacecraft often pair the Mall with the Steven F. Udvar-Hazy Center near Dulles, the Air and Space Museum's large companion site in Chantilly. It is close to many Loudoun and western Fairfax homes and works well as a separate day or a morning visit before heading into the city.",
+        ],
+      },
+      {
+        heading: "Hosting Visiting Family",
+        paragraphs: [
+          "A museum day is a popular plan for relatives visiting over the holidays. If guests are staying at different homes or hotels, we can coordinate several pickups, or bring everyone together in one vehicle. If anyone needs extra help getting in and out of the vehicle, or uses a folding wheelchair or walker, tell us when you book.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits one or two visitors. A Chevrolet Suburban seats five and a Lincoln Navigator seats six for a family outing. For a larger group, such as several families or a school or scout group, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address, the museums you plan to visit and your preferred times.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Day Out", to: "/book-now" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Capitol Hill Limo Service", to: "/capitol-hill-limo-service" },
+      { label: "Limo Service Near the Udvar-Hazy Center", to: "/limo-service-near-udvar-hazy-center" },
+      { label: "Top Things to Do in DC and Northern Virginia", to: "/blog/top-things-to-do-dc-northern-virginia-how-to-get-there" },
+      { label: "Coordinating Holiday Arrivals at Dulles", to: "/blog/coordinating-multiple-holiday-arrivals-dulles-family-guests" },
+    ],
+    faqs: [
+      {
+        question: "Are the Smithsonian museums free?",
+        answer: "Many Smithsonian museums on the National Mall offer free general admission. Some have used free timed-entry passes during busy periods, so check each museum's website before you go.",
+      },
+      {
+        question: "Can the chauffeur pick us up at a different museum?",
+        answer: "Yes. Tell us where you would like to be picked up, or message us during the day if your plans change. With hourly service, the car stays available throughout your visit.",
+      },
+      {
+        question: "Are the museums open on holidays?",
+        answer: "Most are open on many days of the year but close on certain holidays, such as Christmas Day. Check each museum's official website for its current hours.",
+      },
+      {
+        question: "Which vehicle fits a group of eight?",
+        answer: "A Mercedes Sprinter seats up to 13 passengers, which works well for several families or a small group.",
+      },
+      {
+        question: "What if we need to change the day?",
+        answer: "Let us know as soon as possible. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------- POST 51 (2026-11-18)
+  {
+    slug: "dc-downtown-holiday-market-shopping-trip-car-service-from-northern-virginia",
+    scheduled: true,
+    title: "The Downtown Holiday Market in DC: Planning a Shopping Trip From Northern Virginia",
+    metaTitle: "DC Downtown Holiday Market Trip by Car | IAD Limo",
+    metaDescription:
+      "Visiting the Downtown Holiday Market in DC this season? Timing, what to expect, nearby museums and dining, and booking a car from Northern Virginia.",
+    datePublished: "2026-11-18",
+    readTime: "6 min read",
+    excerpt:
+      "The Downtown Holiday Market is a seasonal favorite in Penn Quarter. Here is how to plan a shopping trip from Northern Virginia, with tips on timing, bags and getting there and back.",
+    image: "/images/blog/scenario-doorman.webp",
+    intro: [
+      "Each holiday season, the Downtown Holiday Market sets up rows of vendor booths in Penn Quarter, near the Smithsonian American Art Museum and the National Portrait Gallery. Shoppers come for handmade crafts, jewelry, art, gifts and seasonal food, and many make a day or evening of it with a museum visit or dinner nearby.",
+      "The market typically runs from late November until shortly before Christmas. Exact dates, hours and vendor lists are set by the organizers each year, so check the market's official website before you go. This guide covers planning the trip from Northern Virginia and getting home with your bags.",
+    ],
+    sections: [
+      {
+        heading: "When to Go",
+        paragraphs: [
+          "Weekday afternoons are usually the calmest time to browse, while weekend evenings and the last weeks before Christmas bring the biggest crowds. The market is outdoors, so check the forecast and dress for standing in the cold. If rain or wind is expected, check the organizers' website or social media for any changes to hours.",
+        ],
+      },
+      {
+        heading: "Making a Day of It",
+        paragraphs: [
+          "Penn Quarter has plenty to do within a few blocks, which makes the market easy to combine with other plans:",
+        ],
+        list: [
+          "A visit to the Smithsonian American Art Museum and National Portrait Gallery, which share a building next to the market.",
+          "Lunch or dinner at one of the many restaurants in Penn Quarter and Chinatown.",
+          "A show at one of the downtown theaters.",
+          "A stop to see the National Christmas Tree near the White House, once it is lit for the season.",
+        ],
+      },
+      {
+        heading: "Why a Booked Car Helps",
+        paragraphs: [
+          "Parking downtown during the holidays can be slow and expensive, and carrying shopping bags several blocks back to a garage in the cold is no fun. With a booked car, your chauffeur drops you near the market and picks you up when you are done, and your purchases ride home with you. It also means nobody has to drive if you stop for a glass of wine with dinner.",
+        ],
+      },
+      {
+        heading: "Point to Point or Hourly",
+        paragraphs: [
+          "For a straightforward trip to the market and back, point-to-point service with a scheduled return pickup works well. If you plan several stops, such as the market, a museum and dinner in another neighborhood, hourly service keeps the car and chauffeur with you and gives you a place to leave bags between stops.",
+        ],
+      },
+      {
+        heading: "Group Shopping Trips",
+        paragraphs: [
+          "A holiday market outing is a popular plan for friends, book clubs, office teams and visiting family. Tell us how many people are coming and where to pick everyone up, and we can coordinate several pickups or bring the group together in one vehicle.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits one or two shoppers. A Chevrolet Suburban seats five and a Lincoln Navigator seats six, with room for shopping bags. For a larger group, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address and your plans for the day.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Trip", to: "/book-now" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Visiting the National Christmas Tree", to: "/blog/national-christmas-tree-ellipse-visit-car-service-from-dulles" },
+      { label: "Holiday Shows and Nutcracker Performances", to: "/blog/holiday-shows-nutcracker-northern-virginia-theater-car-service" },
+      { label: "Historic Downtown Leesburg Holiday Shopping", to: "/blog/historic-downtown-leesburg-holiday-shopping-dining-car-service" },
+      { label: "Capitol Hill Limo Service", to: "/capitol-hill-limo-service" },
+    ],
+    faqs: [
+      {
+        question: "When is the Downtown Holiday Market open?",
+        answer: "It typically runs from late November until shortly before Christmas. The organizers set the dates and hours each year, so check the market's official website before you go.",
+      },
+      {
+        question: "Can the chauffeur hold our shopping bags?",
+        answer: "With hourly service, the car and chauffeur stay with you, so you can leave purchases in the vehicle between stops.",
+      },
+      {
+        question: "Can you pick up friends from different places?",
+        answer: "Yes. Give us each pickup address when you book and we will plan the route, or arrange separate vehicles if that works better.",
+      },
+      {
+        question: "Which vehicle fits a group of six?",
+        answer: "A Lincoln Navigator seats six. For a larger group, a Mercedes Sprinter seats up to 13 passengers.",
+      },
+      {
+        question: "What if our plans change?",
+        answer: "Let us know the new time. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
