@@ -7242,6 +7242,199 @@ const batch18 = [
       },
     ],
   },
+  {
+    slug: "washington-national-cathedral-christmas-season-visit-car-service",
+    scheduled: true,
+    title: "Washington National Cathedral at Christmas: Planning a Visit From Northern Virginia",
+    metaTitle: "National Cathedral Christmas Visit by Car | IAD Limo",
+    metaDescription:
+      "Planning a holiday visit, concert or service at Washington National Cathedral? Timing, tickets, what to see and booking a car from Dulles and Northern Virginia.",
+    datePublished: "2026-11-18",
+    readTime: "6 min read",
+    excerpt:
+      "Washington National Cathedral draws visitors all season for concerts, services and its stained glass. Here is how to plan a visit from Northern Virginia, with tips on tickets, timing and the ride there and back.",
+    image: "/images/blog/landmark-capitol-2.webp",
+    intro: [
+      "Washington National Cathedral sits on high ground in upper Northwest DC, at Massachusetts and Wisconsin Avenues. During the holiday season it hosts concerts, carol services and Christmas worship, and many visitors come simply to see the nave, the stained glass and the building lit up on a winter evening.",
+      "Holiday events at the Cathedral are popular, and some require tickets or passes that are released ahead of time. Programs, times and ticketing change each year, so check the Cathedral's official website before you plan. This guide covers getting there from Dulles and Northern Virginia and making the evening easy.",
+    ],
+    sections: [
+      {
+        heading: "What to See",
+        paragraphs: [
+          "Even outside of a service or concert, the Cathedral is worth a visit. Guided and self-guided visits are typically offered on most days, and the Cathedral's website lists current hours and admission for sightseeing visits. Highlights many visitors look for include:",
+        ],
+        list: [
+          "The nave and its stained glass windows, including the Space Window, which holds a small piece of moon rock.",
+          "The carved gargoyles and grotesques on the exterior, including the well-known Darth Vader grotesque high on the northwest tower.",
+          "The Bishop's Garden on the south side of the Cathedral grounds.",
+          "Views over the city from the upper levels when tours of those areas are offered.",
+        ],
+      },
+      {
+        heading: "Holiday Concerts and Services",
+        paragraphs: [
+          "The Christmas season typically brings choral concerts, carol sings and several services around Christmas Eve and Christmas Day. These events can fill up, and entry lines can form well before the start time. If tickets or passes are required, get them early and plan to arrive with time to spare, especially for evening events in December.",
+        ],
+      },
+      {
+        heading: "Why a Booked Car Helps",
+        paragraphs: [
+          "Parking on the Cathedral grounds is limited, and nearby neighborhood streets fill quickly during large events. With a booked car, your chauffeur drops you near the entrance and picks you up after the program ends, so nobody has to circle for a space or walk back to a distant garage in the cold. It is a good fit for older relatives and guests visiting for the holidays.",
+        ],
+      },
+      {
+        heading: "Timing the Ride",
+        paragraphs: [
+          "Drive time from Dulles, Reston or Tysons depends heavily on traffic, and weekday evenings in December can be slow. Tell us the event start time when you book and we will plan a pickup that leaves room for traffic and the entry line. For the return, we can set a fixed pickup time or wait nearby and come when you call.",
+        ],
+      },
+      {
+        heading: "Making an Evening of It",
+        paragraphs: [
+          "Many visitors pair the Cathedral with dinner nearby or in Georgetown, which is a short drive away. If you plan more than one stop, hourly service keeps the car and chauffeur with you for the evening. For a single round trip, point-to-point service with a scheduled return pickup usually works well.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits one or two guests. A Chevrolet Suburban seats five and a Lincoln Navigator seats six. For a family group or a choir outing, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address and the event time.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Trip", to: "/book-now" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
+      { label: "A Visitor's Guide to Getting Around Georgetown", to: "/blog/georgetown-visitor-guide-getting-around" },
+      { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
+    ],
+    faqs: [
+      {
+        question: "Do I need tickets for Christmas services at the Cathedral?",
+        answer: "Some holiday services and concerts require tickets or passes, and they can run out. Check the Cathedral's official website for this year's details before you plan.",
+      },
+      {
+        question: "How early should we arrive for a holiday concert?",
+        answer: "Popular events can have entry lines, so plan to arrive well before the start time. Tell us the start time and we will plan the pickup around traffic.",
+      },
+      {
+        question: "Can you wait for us during the service?",
+        answer: "With hourly service the car and chauffeur stay with you. With point-to-point service we set a return pickup time or come back when you call.",
+      },
+      {
+        question: "Which vehicle fits a family group of eight?",
+        answer: "A Mercedes Sprinter seats up to 13 passengers and keeps the group together in one vehicle.",
+      },
+      {
+        question: "What is your cancellation policy?",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+  {
+    slug: "college-students-home-for-winter-break-dulles-pickup-parents-guide",
+    scheduled: true,
+    title: "College Students Coming Home for Winter Break: A Dulles Pickup Guide for Parents",
+    metaTitle: "Winter Break College Pickup at Dulles | IAD Limo",
+    metaDescription:
+      "Is your college student flying into Dulles for winter break? How to book the pickup, handle flight changes and extra bags, and plan the return trip in January.",
+    datePublished: "2026-11-18",
+    readTime: "6 min read",
+    excerpt:
+      "When finals end, students fly home on tight schedules with extra bags. Here is how parents can arrange a reliable Dulles pickup for winter break and the trip back to campus.",
+    image: "/images/blog/scenario-airport-pickup-1.webp",
+    intro: [
+      "Winter break brings a wave of college students home through Dulles. Fall semesters typically wrap up in mid-December, and many students book flights the day their last exam ends, often on busy travel days and sometimes late in the evening.",
+      "If you cannot get to the airport yourself, or you would rather not drive Route 28 and the Dulles Access Road at rush hour, a booked car is a simple way to get your student home. This guide covers what to arrange and what to tell your student before they fly.",
+    ],
+    sections: [
+      {
+        heading: "Book Once the Flight Is Set",
+        paragraphs: [
+          "Book the pickup as soon as your student has a confirmed flight, and give us the airline and flight number. December is one of the busiest stretches of the year at Dulles, and SUVs and larger vehicles fill first on peak days. Parents can make and pay for the booking, and we can send confirmations to both you and your student.",
+        ],
+      },
+      {
+        heading: "Flight Changes and Delays",
+        paragraphs: [
+          "Because we track the flight, the pickup is planned around when the plane actually lands. On domestic arrivals, 45 minutes of complimentary waiting is included after landing, and on international arrivals, 60 minutes. If the flight is cancelled or your student is rebooked, call or message us with the new flight details and we will move the pickup.",
+        ],
+      },
+      {
+        heading: "What to Tell Your Student",
+        paragraphs: [
+          "A short checklist before they fly helps the pickup go smoothly:",
+        ],
+        list: [
+          "Save our phone number, (877) 609-1919, and the confirmation details in their phone.",
+          "Keep their phone charged and turn it on as soon as they land.",
+          "Send a message once they have their bags so the chauffeur knows they are on the way out.",
+          "Know whether the pickup is curbside or a meet and greet inside the terminal.",
+        ],
+      },
+      {
+        heading: "Meet and Greet for First-Time Flyers",
+        paragraphs: [
+          "If your student is new to flying alone or arriving late at night, meet and greet service means the chauffeur waits inside the terminal and walks with them to the car. It removes the guesswork of finding a pickup spot after a long travel day.",
+        ],
+      },
+      {
+        heading: "Room for Extra Bags",
+        paragraphs: [
+          "Students often come home for break with more than they left with: laundry, gifts and belongings they do not want to leave in a dorm. A Business Sedan such as a Mercedes-Benz E-Class suits one student with a couple of bags. A Chevrolet Suburban seats five with room for five bags, which works well for a student with extra luggage or a sibling along for the ride. If several friends from the same area are flying in together, a Lincoln Navigator seats six, and a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+      },
+      {
+        heading: "Planning the Trip Back in January",
+        paragraphs: [
+          "You can book the return trip to Dulles at the same time as the pickup. Spring semesters typically start in January, and the days just before many schools reopen can be busy at the airport. Tell us the flight time and we will plan a departure pickup that leaves time for check-in and security.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans up to 12 hours before. Book online through our reservation page or call (877) 609-1919 with the flight details and your home address.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Trip", to: "/book-now" },
+      { label: "Dulles International Arrivals Car Service", to: "/dulles-international-arrivals-car-service" },
+      { label: "Dulles Airport Meet and Greet", to: "/dulles-airport-meet-and-greet" },
+      { label: "Picking Up an Unaccompanied Minor at Dulles", to: "/blog/unaccompanied-minor-arrivals-dulles-pickup-guide" },
+      { label: "JMU and Virginia Tech Weekends From Dulles", to: "/blog/jmu-virginia-tech-college-weekends-from-dulles" },
+      { label: "Airport Transfers", to: "/airport-transfer" },
+    ],
+    faqs: [
+      {
+        question: "Can I book and pay for my student's ride?",
+        answer: "Yes. Parents can make the booking and pay for it, and we can send the confirmation to both you and your student.",
+      },
+      {
+        question: "What happens if the flight is delayed?",
+        answer: "We track the flight and plan the pickup around the actual landing time. Domestic arrivals include 45 minutes of complimentary waiting after landing, and international arrivals 60 minutes.",
+      },
+      {
+        question: "Can the chauffeur meet my student inside the terminal?",
+        answer: "Yes. With meet and greet service, the chauffeur waits inside the terminal and walks with your student to the car.",
+      },
+      {
+        question: "Which vehicle fits a student with a lot of luggage?",
+        answer: "A Chevrolet Suburban seats five with room for five bags, which leaves plenty of space for extra luggage.",
+      },
+      {
+        question: "Can we book the return trip to Dulles now?",
+        answer: "Yes. Give us the January flight details and we will schedule the departure pickup at the same time.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
