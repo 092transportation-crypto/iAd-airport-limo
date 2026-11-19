@@ -7435,6 +7435,289 @@ const batch18 = [
       },
     ],
   },
+  // ---------------------------------------------------------- POST 54 (2026-12-18)
+  {
+    slug: "washington-auto-show-convention-center-car-service-from-northern-virginia",
+    scheduled: true,
+    title: "Visiting the Washington Auto Show: Planning the Ride From Northern Virginia",
+    metaTitle: "Washington Auto Show Car Service From NoVA | IAD Limo",
+    metaDescription:
+      "Heading to the Washington Auto Show at the Convention Center? Timing your visit, drop-off near the entrances, group vehicles and booking a car from Northern Virginia.",
+    datePublished: "2026-12-18",
+    readTime: "6 min read",
+    excerpt:
+      "The Washington Auto Show is a winter tradition at the Walter E. Washington Convention Center. Here is how to plan the day from Northern Virginia, from timing to drop-off and pickup.",
+    image: "/images/blog/fleet-escalade-1.webp",
+    intro: [
+      "The Washington Auto Show is typically held in winter, often in January, at the Walter E. Washington Convention Center in downtown DC. It draws families, car enthusiasts and industry visitors to see new models, concept vehicles and displays from many manufacturers under one roof.",
+      "Show dates, hours and ticketing are set by the organizers and can change from year to year, so check the official Washington Auto Show website before you plan. This guide covers making the day easy from Northern Virginia, without circling downtown for parking.",
+    ],
+    sections: [
+      {
+        heading: "Choosing When to Go",
+        paragraphs: [
+          "Weekend afternoons are usually the busiest time at the show, with long lines at the most popular displays. Weekday visits and early weekend arrivals tend to be quieter, which matters if you want time to sit in vehicles or talk to manufacturer representatives. If the show offers a public preview or special evening event, check the organizer's site for details and tickets.",
+        ],
+      },
+      {
+        heading: "Getting There Without the Parking Search",
+        paragraphs: [
+          "The Convention Center sits in the Mount Vernon Square area, and nearby garages and street parking fill quickly on busy show days. With a booked car, your chauffeur drops you near an entrance and picks you up at a time you choose, so you spend the day inside the show instead of looking for a space or walking blocks in the cold.",
+          "If you are not sure when you will finish, send us a message when you are ready to leave, or choose hourly service so the car stays available while you are inside.",
+        ],
+      },
+      {
+        heading: "Adding Dinner or Another Stop",
+        paragraphs: [
+          "Many visitors pair the show with lunch or dinner in nearby Penn Quarter, Chinatown or Shaw. Hourly service makes it easy to move from the show to a restaurant and then home to Northern Virginia without arranging a second ride. Tell us your plans when you book and we will suggest whether hourly or point-to-point service fits better.",
+        ],
+      },
+      {
+        heading: "Bringing a Group",
+        paragraphs: [
+          "The show is a popular outing for car clubs, dealership teams, families and groups of friends. Keeping everyone in one vehicle means you arrive together and nobody has to drive or park. A Chevrolet Suburban seats five and a Lincoln Navigator seats six. For larger groups, a Mercedes Sprinter seats up to 13 passengers.",
+        ],
+        list: [
+          "Families with children who want to see the newest models and concept cars.",
+          "Car clubs and enthusiast groups planning a day out together.",
+          "Dealership and industry teams visiting the show for work.",
+          "Friends planning a winter outing with dinner afterward.",
+        ],
+      },
+      {
+        heading: "Coming From Dulles",
+        paragraphs: [
+          "If you are flying into Dulles to attend the show, we can meet you at the airport and take you directly to the Convention Center or your hotel. We track your flight and plan the pickup around the actual landing time, with 45 minutes of complimentary waiting after domestic arrivals and 60 minutes after international arrivals.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address, the day you plan to attend and the size of your group.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Ride", to: "/book-now" },
+      { label: "Washington Convention Center Transportation", to: "/washington-convention-center-transportation" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "IAD to Washington DC", to: "/iad-to-washington-dc" },
+      { label: "Sedan vs. SUV vs. Sprinter Van", to: "/blog/sedan-vs-suv-vs-sprinter-van-which-to-book" },
+      { label: "DC Winter Restaurant Week by Car", to: "/blog/dc-winter-restaurant-week-dinner-car-service-northern-virginia" },
+    ],
+    faqs: [
+      {
+        question: "When is the Washington Auto Show?",
+        answer: "The show is typically held in winter, often in January, at the Walter E. Washington Convention Center. Check the official Washington Auto Show website for the current dates, hours and tickets.",
+      },
+      {
+        question: "Where will the chauffeur drop us off?",
+        answer: "Your chauffeur drops you near a Convention Center entrance and picks you up at the time you choose. If your plans change, message us and we will adjust the pickup.",
+      },
+      {
+        question: "Can the car wait while we are at the show?",
+        answer: "Yes. With hourly service, the car and chauffeur stay available throughout your visit, which also makes it easy to add lunch or dinner afterward.",
+      },
+      {
+        question: "Which vehicle fits a group of ten?",
+        answer: "A Mercedes Sprinter seats up to 13 passengers, which works well for car clubs, dealership teams and larger groups of friends.",
+      },
+      {
+        question: "What is the cancellation policy?",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------- POST 55 (2026-12-19)
+  {
+    slug: "hylton-performing-arts-center-manassas-evening-car-service",
+    scheduled: true,
+    title: "An Evening at the Hylton Performing Arts Center: Getting There by Car Service",
+    metaTitle: "Hylton Performing Arts Center Car Service | IAD Limo",
+    metaDescription:
+      "Planning a show at the Hylton Performing Arts Center in Manassas? Dinner nearby, arrival timing, drop-off and booking a car from Loudoun, Fairfax and Prince William.",
+    datePublished: "2026-12-19",
+    readTime: "6 min read",
+    excerpt:
+      "The Hylton Performing Arts Center in Manassas hosts concerts, dance, theater and family shows. Here is how to plan an evening there, from dinner to drop-off and the ride home.",
+    image: "/images/blog/scenario-doorman.webp",
+    intro: [
+      "The Hylton Performing Arts Center sits on George Mason University's Science and Technology Campus in Manassas. It hosts a season of concerts, dance, theater, family shows and performances by local arts groups, which makes it a popular night out for Prince William, western Fairfax and southern Loudoun residents who would rather not drive into DC.",
+      "Programs and showtimes change each season, so check the Hylton Center's official website for the current calendar and ticketing. This guide covers planning the evening around the show and getting there and back with a booked car.",
+    ],
+    sections: [
+      {
+        heading: "Planning Dinner Before the Show",
+        paragraphs: [
+          "Many guests pair a Hylton performance with dinner in Old Town Manassas or at the restaurants around Virginia Gateway in Gainesville, both a short drive from the campus. Leave enough time to finish dinner without rushing. A booked car can take you from home to dinner, then on to the theater, and keep the evening on schedule.",
+        ],
+      },
+      {
+        heading: "Arriving With Time to Spare",
+        paragraphs: [
+          "Plan to arrive at least 20 to 30 minutes before curtain so you have time to pick up tickets, check coats and find your seats. Popular performances and holiday shows can draw full houses, and parking and walking in from the lots take longer on those nights. With a booked car, your chauffeur drops you near the entrance, so you do not need to look for parking.",
+        ],
+      },
+      {
+        heading: "Getting Home After the Show",
+        paragraphs: [
+          "When the show ends, many guests leave at once and the lots can take time to clear. Your chauffeur will be waiting at an agreed pickup point, and you can message us if the performance runs long. Hourly service keeps the car with you all evening, while point-to-point service with a scheduled return works well for a simple dinner-and-show plan.",
+        ],
+      },
+      {
+        heading: "Good Occasions for a Booked Car",
+        paragraphs: [
+          "A night at the Hylton is a popular way to mark a special occasion close to home. A few times when a booked car makes the evening easier:",
+        ],
+        list: [
+          "An anniversary or birthday dinner followed by a concert.",
+          "Taking parents or grandparents to a holiday performance without anyone driving.",
+          "A family outing to a children's show with several relatives.",
+          "A group of friends or coworkers going to a show together.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "A Business Sedan such as a Mercedes-Benz E-Class suits a couple. A Chevrolet Suburban seats five and a Lincoln Navigator seats six for a family or small group. For a larger party, a Mercedes Sprinter seats up to 13 passengers. If anyone needs extra help getting in and out of the vehicle, or uses a folding wheelchair or walker, tell us when you book.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your pickup address, the show date and curtain time, and any dinner plans.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Your Evening", to: "/book-now" },
+      { label: "Manassas Limo Service", to: "/manassas-limo-service" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Limo Service Near Manassas Battlefield", to: "/limo-service-near-manassas-battlefield" },
+      { label: "George Mason University Event Transportation", to: "/blog/george-mason-university-event-transportation" },
+      { label: "Holiday Shows and the Nutcracker by Car", to: "/blog/holiday-shows-nutcracker-northern-virginia-theater-car-service" },
+    ],
+    faqs: [
+      {
+        question: "Where is the Hylton Performing Arts Center?",
+        answer: "The Hylton Performing Arts Center is on George Mason University's Science and Technology Campus in Manassas, a short drive from Old Town Manassas and Gainesville.",
+      },
+      {
+        question: "How early should we arrive?",
+        answer: "Plan to arrive at least 20 to 30 minutes before curtain to pick up tickets, check coats and find your seats. Allow more time for popular or holiday performances.",
+      },
+      {
+        question: "Can the chauffeur take us to dinner first?",
+        answer: "Yes. We can pick you up at home, take you to dinner in Old Town Manassas or Gainesville, drop you at the theater and bring you home after the show.",
+      },
+      {
+        question: "What if the show runs late?",
+        answer: "Message us and we will adjust the pickup. With hourly service, the car stays available for the whole evening.",
+      },
+      {
+        question: "What is the cancellation policy?",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
+  // ---------------------------------------------------------- POST 56 (2026-12-20)
+  {
+    slug: "january-company-kickoff-meeting-transportation-tysons-reston",
+    scheduled: true,
+    title: "Planning Transportation for a January Company Kickoff in Tysons or Reston",
+    metaTitle: "January Kickoff Meeting Transportation | IAD Limo",
+    metaDescription:
+      "Hosting a January sales or company kickoff in Tysons or Reston? Airport arrivals, hotel shuttles, team dinners, winter weather and billing for your event's transportation.",
+    datePublished: "2026-12-20",
+    readTime: "7 min read",
+    excerpt:
+      "Many companies start the year with a kickoff meeting that brings teams in from around the country. Here is how to plan the ground transportation, from Dulles arrivals to the closing dinner.",
+    image: "/images/blog/scenario-corporate-1.webp",
+    intro: [
+      "Early January is when many companies hold their annual sales or company kickoff, bringing employees, regional teams and sometimes customers together for a few days of planning and celebration. In Northern Virginia, these meetings often take place at hotels and offices in Tysons, Reston and around the Dulles corridor, with many attendees flying in through Dulles.",
+      "Ground transportation is easy to leave until the last minute, but with dozens of arrivals, a team dinner and possible winter weather, it pays to plan ahead. This guide covers the main pieces and how to book them.",
+    ],
+    sections: [
+      {
+        heading: "Start With the Arrival Schedule",
+        paragraphs: [
+          "Ask attendees for their flight details early and group them by arrival time. Executives, keynote speakers and customers often get a dedicated car with meet and greet, while groups of employees landing close together can share an SUV or Sprinter van to the hotel. We track every flight and plan each pickup around the actual landing time, with 45 minutes of complimentary waiting after domestic arrivals and 60 minutes after international arrivals.",
+        ],
+      },
+      {
+        heading: "Hotel to Office or Venue Shuttles",
+        paragraphs: [
+          "If attendees are staying at one hotel and meeting at your office or another venue, scheduled shuttle runs in the morning and evening keep everyone on time. A Mercedes Sprinter seats up to 13 passengers, and several runs or vehicles can cover a larger group. Share the agenda with us and we will plan the timing around the start of each session.",
+        ],
+      },
+      {
+        heading: "Team Dinners and Evening Events",
+        paragraphs: [
+          "The kickoff dinner or awards night is often the highlight of the week. Booking transportation means attendees can enjoy the evening without driving, and it keeps everyone arriving together. Hourly service works well for an evening with several stops, while a scheduled pickup and return fits a single dinner location.",
+        ],
+        list: [
+          "Plan pickup times around the dinner start, not the end of the last session.",
+          "Choose one clear pickup point at the hotel and share it with attendees.",
+          "Schedule return runs so guests can leave early or stay late.",
+          "Give us a single on-site contact for day-of changes.",
+        ],
+      },
+      {
+        heading: "Planning for Winter Weather",
+        paragraphs: [
+          "January in Northern Virginia can bring snow, ice and flight delays. Build extra time into arrival and departure pickups, keep attendee phone numbers handy, and let us know if the agenda shifts. Because we track flights, delayed arrivals are picked up when they actually land, and our dispatch team can adjust shuttle timing if the schedule changes.",
+        ],
+      },
+      {
+        heading: "Departures and the Last Day",
+        paragraphs: [
+          "The final afternoon tends to bring a rush of departures to Dulles and Reagan National. Collect departure flight times along with arrivals, and we will group attendees whose flights leave close together. Executives and guests with early flights can be scheduled in their own cars.",
+        ],
+      },
+      {
+        heading: "Billing and Receipts",
+        paragraphs: [
+          "For company events, a corporate account keeps every ride under one account with consolidated billing and receipts for each trip, which makes it easier to reconcile event costs afterward. Ask about corporate accounts when you contact us, and let us know any cost center or event code you want on the receipts.",
+        ],
+      },
+      {
+        heading: "Changes and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. At non-airport pickups, the first 15 minutes of waiting are complimentary. Book online through our reservation page or call (877) 609-1919 with your event dates, hotel and venue, and an estimated number of attendees.",
+        ],
+      },
+    ],
+    relatedLinks: [
+      { label: "Book Event Transportation", to: "/book-now" },
+      { label: "Tysons Corporate Car Service", to: "/tysons-corporate-car-service" },
+      { label: "Reston Corporate Car Service", to: "/reston-corporate-car-service" },
+      { label: "IAD to Tysons", to: "/iad-to-tysons" },
+      { label: "Conference and Association Meeting Transportation", to: "/blog/conference-association-meeting-transportation-dulles" },
+      { label: "How Corporate Car Accounts Work", to: "/blog/how-corporate-car-accounts-work-near-dulles" },
+    ],
+    faqs: [
+      {
+        question: "Can you handle dozens of airport arrivals for one event?",
+        answer: "Yes. Send us the attendee flight list and we will group arrivals by time, assign dedicated cars for executives and guests, and use SUVs or Sprinter vans for groups landing together.",
+      },
+      {
+        question: "What happens if an attendee's flight is delayed?",
+        answer: "We track every flight and plan the pickup around the actual landing time. Domestic arrivals include 45 minutes of complimentary waiting after landing, and international arrivals 60 minutes.",
+      },
+      {
+        question: "Can you run shuttles between the hotel and our office?",
+        answer: "Yes. Share your agenda and we will schedule morning and evening runs around your sessions. A Mercedes Sprinter seats up to 13 passengers per trip.",
+      },
+      {
+        question: "Can all the rides be billed to one account?",
+        answer: "Yes. A corporate account keeps every ride under one account with consolidated billing and a receipt for each trip.",
+      },
+      {
+        question: "What is the cancellation policy?",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+      },
+    ],
+  },
 ];
 
 export default batch18;
