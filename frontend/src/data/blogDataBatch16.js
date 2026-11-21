@@ -568,6 +568,372 @@ const batch16 = [
       { label: "Book Now", to: "/book-now" },
     ],
   },
+  // ---------------------------------------------------------- POST 6 (2026-11-20, live)
+  {
+    slug: "thanksgiving-day-dinner-transportation-northern-virginia",
+    title: "Thanksgiving Day Rides in Northern Virginia: Getting Family to Dinner and Home Safely",
+    metaTitle: "Thanksgiving Day Car Service in Northern Virginia | IAD Limo",
+    metaDescription:
+      "Plan Thanksgiving Day rides in Loudoun, Fairfax and Prince William: grandparents, restaurant dinners, hotel guests and a safe ride home after the meal.",
+    datePublished: "2026-11-20",
+    readTime: "7 min read",
+    excerpt:
+      "Thanksgiving falls on Thursday, November 26 this year. Here is how to get grandparents, hotel guests and the whole table to dinner and home again without anyone driving after the meal.",
+    image: "/images/blog/fleet-escalade-2.webp",
+    intro: [
+      "Thanksgiving falls on Thursday, November 26, 2026, and for many Northern Virginia families the day is less about one trip than a chain of them: picking up grandparents in Fairfax, collecting cousins from a hotel near Dulles, getting everyone to a dinner table in Ashburn or Manassas and getting them all home again long after dark. Each of those rides is short. Together they are the reason one person usually spends the holiday as the family driver instead of at the table.",
+      "This guide covers the Thanksgiving Day trips we are asked for most, how to plan them so no one has to drive after dinner, and how to book them now while vehicles are still open. Restaurants and hotels set their own holiday hours, so confirm reservation times with them directly before you book the ride.",
+    ],
+    sections: [
+      {
+        heading: "The Thanksgiving Day Trips People Book Most",
+        paragraphs: [
+          "Most Thanksgiving Day bookings in Loudoun, Fairfax and Prince William counties fall into a few familiar patterns:",
+        ],
+        list: [
+          "Bringing parents or grandparents who no longer like to drive at night from their home to the family dinner and back.",
+          "Collecting out-of-town relatives from a hotel in Herndon, Sterling, Reston or Tysons and bringing them to the host's house.",
+          "Taking a family to and from a Thanksgiving dinner reservation at a restaurant or hotel that is open on the holiday.",
+          "Getting guests home at the end of the night so the host, and everyone else, can relax with a glass of wine.",
+          "Airport runs on the holiday itself, for relatives landing at Dulles on Thursday morning or flying out that evening.",
+        ],
+      },
+      {
+        heading: "Why the Ride Home Is the One to Plan",
+        paragraphs: [
+          "The trip to dinner is easy to improvise. The trip home is not. By late November the sun sets before 5 p.m. in the Washington area, so the drive home after a long afternoon meal happens in full darkness, often after wine with dinner and after a day that started early in the kitchen. On rural roads in western Loudoun and Fauquier, that drive can be on unlit two-lane roads.",
+          "Thanksgiving is also a holiday when many people would rather not work, so counting on finding a rideshare at 9 p.m. on Thursday night is a gamble. A ride booked in advance turns the end of the night into a known quantity: the car is already assigned, the chauffeur knows the address, and guests leave when the evening winds down rather than when someone feels sober enough to drive.",
+        ],
+      },
+      {
+        heading: "One Car, Several Stops: Hourly Service for the Holiday",
+        paragraphs: [
+          "When the plan involves more than a simple A-to-B trip, hourly, as-directed service is usually the better fit. One vehicle and one chauffeur can pick up grandparents in Fairfax, stop at a bakery for a pie order, collect a cousin from a Herndon hotel and arrive at dinner together, then reverse the loop at the end of the night.",
+          "Tell us the stops and rough times when you book and we will quote the time in writing. If dinner runs long, as Thanksgiving dinners usually do, let the chauffeur or dispatch know before the scheduled end and the booking can be extended when the vehicle is available.",
+        ],
+      },
+      {
+        heading: "Guests Staying at Hotels Near Dulles",
+        paragraphs: [
+          "Plenty of families put visiting relatives up at a hotel rather than squeezing everyone into the house, and the hotels around Dulles, Reston and Tysons are a natural choice for relatives who flew into IAD. The catch is that those guests often have no car. A scheduled pickup at the hotel lobby on Thursday afternoon and a drop-off back at the hotel after dinner keeps them independent without anyone in the family making two extra round trips.",
+          "If those relatives are also arriving at Dulles on Wednesday, the same company can handle the airport pickup. Our chauffeurs track the flight and include 45 minutes of complimentary waiting after landing on domestic arrivals and 60 minutes on international arrivals, so a delayed Wednesday flight does not turn into a stranded guest.",
+        ],
+      },
+      {
+        heading: "Rides for Older Relatives",
+        paragraphs: [
+          "A large share of our Thanksgiving bookings are for parents and grandparents. If anyone needs extra time getting in and out of the vehicle, uses a walker or travels with a folding wheelchair, tell us when you book so we can plan the right vehicle and the chauffeur can help at the door. For relatives who prefer a higher seat that is easier to step into than a low sedan, an SUV is often more comfortable.",
+          "Having the car come to them also lets older relatives leave when they are ready. Rather than waiting for the last guest to finish dessert so someone can drive them home, they can head out at 7 p.m. and be home before the roads empty out.",
+        ],
+      },
+      {
+        heading: "A Sample Thanksgiving Day Plan",
+        paragraphs: [
+          "A typical Thanksgiving Day booking for a family hosting in Loudoun might look like this:",
+        ],
+        list: [
+          "Early afternoon: pickup of grandparents at their home in Fairfax.",
+          "On the way: a stop at a hotel in Sterling to collect visiting relatives.",
+          "Mid-afternoon: arrival at the host's home in Ashburn in time for the meal.",
+          "Early evening: a first drop-off for grandparents who want an early night.",
+          "Later evening: hotel guests back to Sterling after dessert.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For one to three passengers, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable. A Lincoln Nautilus seats three with more room for casserole dishes and gift bags. A Chevrolet Suburban seats five and a Lincoln Navigator seats six. For a large family moving between a hotel and a dinner together, a Mercedes Sprinter seats up to 13 passengers, which keeps the whole group in one vehicle rather than two or three cars arriving at different times.",
+        ],
+      },
+      {
+        heading: "Weather and Changing Plans",
+        paragraphs: [
+          "Late November weather in Northern Virginia is usually cold rain rather than snow, but an early storm is not unheard of. We watch the forecast before your booking and will contact you if conditions look risky. Plans also change for ordinary reasons, such as a guest catching a cold or dinner moving to a different house. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        ],
+      },
+      {
+        heading: "Booking Your Thanksgiving Rides",
+        paragraphs: [
+          "Thanksgiving Day availability is limited, and the hours around mid-afternoon arrivals and the late-evening ride home fill first, so book as soon as your dinner time is set. Your rate is confirmed in writing when you book. Reserve online through our booking page or call (877) 609-1919; our dispatch line is answered around the clock, including on the holiday.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Do you operate on Thanksgiving Day?",
+        answer:
+          "Yes. Our dispatch line, (877) 609-1919, is answered around the clock, including on Thanksgiving. Availability on the day is limited, so book early.",
+      },
+      {
+        question: "Can one car pick up relatives from different addresses on the way to dinner?",
+        answer:
+          "Yes. With hourly, as-directed service, one vehicle and chauffeur can make several stops, such as a parent's home and a hotel, then bring everyone home again at the end of the night.",
+      },
+      {
+        question: "What if Thanksgiving dinner runs later than planned?",
+        answer:
+          "Let the chauffeur or dispatch know before the scheduled end of an hourly booking and it can be extended when the vehicle is available.",
+      },
+      {
+        question: "Can you pick up relatives at Dulles the day before Thanksgiving?",
+        answer:
+          "Yes. We track the flight and include 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, timed from landing.",
+      },
+      {
+        question: "What is your cancellation policy for Thanksgiving bookings?",
+        answer:
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings can be cancelled free up to 12 hours before pickup.",
+      },
+    ],
+    relatedLinks: [
+      { label: "Thanksgiving and Christmas Travel Through Dulles", to: "/blog/thanksgiving-christmas-holiday-travel-dulles-airport-car-service-guide" },
+      { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
+      { label: "Senior Medical Appointment Car Service", to: "/senior-medical-appointment-car-service-nova" },
+      { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
+      { label: "Fairfax County Car Service", to: "/fairfax-county-car-service" },
+      { label: "Book Now", to: "/book-now" },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 7 (2026-11-20, live)
+  {
+    slug: "sunday-after-thanksgiving-dulles-return-flight-pickup-guide",
+    title: "Flying Home After Thanksgiving: A Dulles Pickup Plan for the Sunday Return Rush",
+    metaTitle: "Sunday After Thanksgiving: Dulles Pickup Plan | IAD Limo",
+    metaDescription:
+      "Landing at Dulles on the Sunday after Thanksgiving? How to plan the pickup around crowded baggage claim, flight delays and a busy drive home.",
+    datePublished: "2026-11-20",
+    readTime: "7 min read",
+    excerpt:
+      "The Sunday after Thanksgiving is one of the busiest travel days of the year. Here is how to plan your Dulles arrival, or a relative's departure, so the last leg home is the easy part.",
+    image: "/images/blog/scenario-airport-pickup-2.webp",
+    intro: [
+      "Most Thanksgiving travel advice is about getting there: the Tuesday and Wednesday departure crush, early alarms and long security lines. The trip home gets far less attention, even though it is often harder. This year the holiday falls on Thursday, November 26, which puts the big return day on Sunday, November 29, 2026, when a huge share of the country's holiday travelers all head home within the same few hours.",
+      "For Dulles travelers that usually means a packed arrivals hall on Sunday afternoon and evening, crowded baggage carousels, and roads out of the airport carrying everyone else's return traffic as well. This guide covers how to plan a Sunday arrival into IAD, how to handle a relative's Sunday departure, and why booking the ride home at the same time as the ride out is the simplest fix.",
+    ],
+    sections: [
+      {
+        heading: "Why the Return Weekend Is Different",
+        paragraphs: [
+          "Outbound Thanksgiving travel is spread over several days: some people leave the weekend before, others Tuesday, others Wednesday morning. The return is much more compressed. Work and school start again Monday, so a large share of travelers fly home on Sunday, and the Sunday after Thanksgiving has historically ranked among the busiest days of the year for airport security screening nationwide.",
+          "That compression shows up at every step of an arrival. Flights are full, so boarding and deplaning take longer. Checked bags are heavier and more numerous, so carousels run longer. Any weather delay elsewhere in the country ripples into a late evening arrival bank at Dulles. And the moment everyone gets outside, rideshare demand spikes at exactly the same time.",
+        ],
+      },
+      {
+        heading: "Book the Return When You Book the Departure",
+        paragraphs: [
+          "The easiest way to make Sunday painless is to decide on it in advance. If you are booking a car to Dulles for your outbound flight, book the return pickup in the same reservation. The vehicle is assigned ahead of time, the chauffeur has your flight number, and you do not need to think about how you are getting home until you land.",
+          "Compare that with the alternatives on the busiest return day of the year. A rideshare request from the arrivals curb at 7 p.m. on Sunday competes with thousands of other requests. A car parked at the airport for a long holiday week is often waiting in a crowded garage, with an exit line of other returning travelers. Neither is a disaster, but neither is how most people want to end a long trip.",
+        ],
+      },
+      {
+        heading: "How Flight Tracking Handles a Sunday Delay",
+        paragraphs: [
+          "Holiday Sundays are prone to delays, especially for connecting itineraries. Our chauffeurs track your flight and time the pickup to the actual landing rather than the scheduled one. After touchdown you get 45 minutes of complimentary waiting on domestic arrivals and 60 minutes on international arrivals, which covers the slow walk off a full plane and a long wait at baggage claim.",
+          "If your flight is cancelled and you are rebooked onto a later departure, call dispatch at (877) 609-1919 with the new flight number and we will move the pickup. If the rebooking pushes you into Monday, the same applies; the important thing is that dispatch has the new details as soon as you do.",
+        ],
+      },
+      {
+        heading: "What to Send Dispatch Before You Fly",
+        paragraphs: [
+          "A little information up front makes a busy-day pickup faster:",
+        ],
+        list: [
+          "Your flight number and the airline, so the chauffeur can track it directly.",
+          "How many passengers are traveling and how many checked bags, car seats or oversized items you have.",
+          "A mobile number that will be on and reachable when you land.",
+          "Whether you would like meet and greet inside the terminal or a curbside pickup.",
+          "Your final drop-off address, including any stop on the way home.",
+        ],
+      },
+      {
+        heading: "Meet and Greet on a Crowded Day",
+        paragraphs: [
+          "On an ordinary weeknight, curbside pickup at Dulles works well for most travelers. On the Sunday after Thanksgiving, the arrivals hall and curb are both at their busiest, and meet and greet is worth considering, particularly for families with children, older relatives and anyone with a lot of luggage. With meet and greet, your chauffeur waits inside the terminal with a name sign, so you are not searching for a vehicle among hundreds of others outside. It is available as an add-on when you book.",
+        ],
+      },
+      {
+        heading: "Dropping Relatives Off for a Sunday Flight",
+        paragraphs: [
+          "The return rush works in both directions. If relatives who visited you for Thanksgiving are flying out of Dulles on Sunday, the airport will be busy for them too, with longer lines at check-in and security than a normal weekend. Check your airline's and TSA's guidance on arrival times and leave more margin than usual.",
+          "A booked drop-off means the host does not have to make the round trip to Dulles on a day when everyone is tired, and the departing guests are not relying on a rideshare showing up at the right moment with bags already by the door. A larger group heading to the airport together can travel in one Sprinter rather than two or three cars.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle for Holiday Luggage",
+        paragraphs: [
+          "Return trips tend to carry more than outbound ones: leftovers in a cooler bag, gifts picked up along the way, and the coats you did not need where you were. For one to three passengers with modest luggage, a Business Sedan such as a Mercedes-Benz E-Class works well, and a Lincoln Nautilus seats three with room for four bags. A Chevrolet Suburban seats five with five bags and a Lincoln Navigator seats six with five bags. A Mercedes Sprinter carries up to 13 passengers and 13 bags, which suits a large family flying home together.",
+        ],
+      },
+      {
+        heading: "Changes and Cancellations",
+        paragraphs: [
+          "Holiday plans shift. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If you are simply changing flights, call dispatch and we will move the booking rather than cancel it.",
+        ],
+      },
+      {
+        heading: "Booking Your Thanksgiving Return",
+        paragraphs: [
+          "Sunday afternoon and evening arrival slots fill first over the Thanksgiving weekend, so book now if you already know your return flight. Your rate is confirmed in writing when you book. Reserve online through our booking page or call (877) 609-1919; dispatch is answered 24/7 through the holiday weekend.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Why is the Sunday after Thanksgiving so busy at Dulles?",
+        answer:
+          "Outbound holiday travel is spread across several days, but most travelers return on Sunday before work and school resume Monday. That compresses a huge volume of arrivals and departures into a few hours.",
+      },
+      {
+        question: "What happens if my return flight is delayed?",
+        answer:
+          "We track the flight and time the pickup to the actual landing. You get 45 minutes of complimentary waiting after landing on domestic flights and 60 minutes on international flights.",
+      },
+      {
+        question: "Can I book my return pickup at the same time as my ride to the airport?",
+        answer:
+          "Yes, and it is the simplest way to handle the return rush. Give us both flight numbers and both trips are confirmed in one reservation.",
+      },
+      {
+        question: "Is meet and greet worth it on a busy holiday Sunday?",
+        answer:
+          "For families, older travelers and anyone with a lot of luggage, often yes. Your chauffeur waits inside the terminal with a name sign so you are not searching for a car outside.",
+      },
+      {
+        question: "What if my flight is cancelled and I am rebooked for Monday?",
+        answer:
+          "Call dispatch at (877) 609-1919 with the new flight details and we will move the pickup to match.",
+      },
+    ],
+    relatedLinks: [
+      { label: "Thanksgiving and Christmas Travel Through Dulles", to: "/blog/thanksgiving-christmas-holiday-travel-dulles-airport-car-service-guide" },
+      { label: "Dulles Airport Parking vs. Car Service", to: "/blog/dulles-airport-parking-vs-car-service" },
+      { label: "Dulles Airport Meet and Greet Service", to: "/blog/dulles-airport-meet-and-greet-service" },
+      { label: "Winter Weather & Flight Delay Playbook", to: "/blog/winter-weather-flight-delay-playbook-dulles" },
+      { label: "Fleet", to: "/fleet" },
+      { label: "Book Now", to: "/book-now" },
+    ],
+  },
+
+  // ---------------------------------------------------------- POST 8 (2026-11-20, live)
+  {
+    slug: "new-years-day-flight-out-of-dulles-car-service-guide",
+    title: "Flying Out of Dulles on New Year's Day: Planning the Ride After a Late Night",
+    metaTitle: "New Year's Day Flight Out of Dulles: Ride Plan | IAD Limo",
+    metaDescription:
+      "Flying out of Dulles on January 1? How to plan the airport ride after New Year's Eve: timing, packing, parking and booking both nights together.",
+    datePublished: "2026-11-20",
+    readTime: "7 min read",
+    excerpt:
+      "A New Year's Day flight after a late New Year's Eve is a classic recipe for a missed alarm and a scramble to the airport. Here is how to plan the morning so the ride to Dulles is already handled.",
+    image: "/images/blog/airport-dropoff.webp",
+    intro: [
+      "New Year's Day flights are popular for a simple reason: they let you celebrate the countdown at home and still get back to wherever the new year starts on time. In 2027, January 1 falls on a Friday, which makes a New Year's Day departure from Dulles an appealing way to head home or start a trip with a long weekend still ahead.",
+      "The catch is the night before. A late New Year's Eve, a few hours of sleep and an early alarm make January 1 one of the easiest days of the year to oversleep, underestimate the drive or discover that no rideshare is nearby. This guide covers how to plan a New Year's Day departure from Dulles so that the ride to the airport is the one part of the morning you do not have to think about.",
+    ],
+    sections: [
+      {
+        heading: "Why New Year's Day Departures Go Wrong",
+        paragraphs: [
+          "Most New Year's Day travel problems are not about the airport at all. They come from the hours before it: plans that run later than expected, packing left until the morning, and the assumption that a ride will be easy to find. Early on January 1, many drivers are off after working one of the busiest nights of the year, and the ones still on the road are often finishing late-night trips rather than starting early-morning ones.",
+          "The other common mistake is planning to drive yourself to Dulles after very little sleep. Even if you stopped celebrating hours earlier, a short night is a poor setup for a drive on the Dulles Toll Road and a hunt for long-term parking with luggage in tow.",
+        ],
+      },
+      {
+        heading: "Book Both Nights Together",
+        paragraphs: [
+          "If you are already booking a car for New Year's Eve, add the airport ride to the same reservation. The chauffeur who takes you home after midnight is not the only part of the plan; the car that picks you up on January 1 with your flight details already on file is what makes the morning work.",
+          "Booking both together also means one confirmation, one point of contact and one dispatch team that knows your schedule. If the New Year's Eve plans change, or the flight moves, a single call to (877) 609-1919 updates both trips.",
+        ],
+      },
+      {
+        heading: "Choosing a Realistic Flight Time",
+        paragraphs: [
+          "If you have flexibility, the single best decision is choosing a flight that fits the night before. A first-wave departure on New Year's morning means an alarm only a few hours after midnight; a late-morning or afternoon flight gives you a real night's sleep and a calmer trip to the airport.",
+          "Whatever time you choose, work backward from your airline's and TSA's guidance on arrival times for your type of flight, then add the drive from your home or hotel to Dulles. Tell us your flight time when you book and we will suggest a pickup time with sensible margin built in.",
+        ],
+      },
+      {
+        heading: "A Simple New Year's Day Departure Checklist",
+        paragraphs: [
+          "A little work on December 30 or the afternoon of New Year's Eve saves a lot of stress the next morning:",
+        ],
+        list: [
+          "Pack and weigh your bags before you go out on New Year's Eve, and leave them by the door.",
+          "Check in online and download your boarding pass before the evening starts.",
+          "Set two alarms, and give a travel companion your pickup time as a backup.",
+          "Keep your phone charged overnight so the chauffeur can reach you.",
+          "Lay out your ID or passport, wallet and travel documents with your bags.",
+        ],
+      },
+      {
+        heading: "Skip the Long-Term Parking",
+        paragraphs: [
+          "Driving yourself and parking at Dulles over the holiday has its own costs. Garages and lots are busy at the end of December, and when you return you face the walk or shuttle back to the car, often in January cold. A drop-off at the departures curb and a scheduled pickup when you return replace both with a door-to-door ride, and nobody has to drive on a short night's sleep.",
+        ],
+      },
+      {
+        heading: "Staying in DC or Tysons for New Year's Eve",
+        paragraphs: [
+          "Many people celebrate New Year's Eve at a hotel in Washington DC, Tysons or Reston and fly out the next day. That works well with a booked car: the chauffeur picks you up at the hotel entrance with your bags and takes you straight to Dulles. If your hotel's checkout time is earlier than your flight, ask the front desk about holding luggage and we can collect you and your bags together.",
+          "If you are hosting relatives who are flying home on January 1, a booked drop-off spares the host an early drive to the airport after a late night of their own.",
+        ],
+      },
+      {
+        heading: "Winter Weather on January 1",
+        paragraphs: [
+          "Early January can bring snow or freezing rain to Northern Virginia. We watch the forecast ahead of your pickup and will contact you if conditions suggest leaving earlier. Arrivals work the same way in reverse: when you fly back into Dulles, our chauffeurs track the flight and include 45 minutes of complimentary waiting after landing on domestic arrivals and 60 minutes on international arrivals.",
+        ],
+      },
+      {
+        heading: "Choosing a Vehicle",
+        paragraphs: [
+          "For one to three passengers, a Business Sedan such as a Mercedes-Benz E-Class or a First Class Sedan such as a BMW 7 Series or Mercedes S-Class is comfortable. A Lincoln Nautilus seats three with room for four bags, a Chevrolet Suburban seats five with five bags and a Lincoln Navigator seats six with five bags. A family or group flying out together can travel in a Mercedes Sprinter, which seats up to 13 passengers with room for luggage.",
+        ],
+      },
+      {
+        heading: "Changes, Cancellations and Booking",
+        paragraphs: [
+          "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If your flight changes, call dispatch and we will move the pickup. New Year's Eve and New Year's Day are among the first dates on the calendar to fill, so book both rides as soon as your plans are set. Your rate is confirmed in writing when you book. Reserve online or call (877) 609-1919.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Can I book a New Year's Eve ride and a New Year's Day airport ride together?",
+        answer:
+          "Yes. Both trips can go in one reservation, so one dispatch team has your evening plans and your flight details.",
+      },
+      {
+        question: "Do you run early-morning airport pickups on New Year's Day?",
+        answer:
+          "Yes. Dispatch is answered around the clock, including on January 1. Early slots on New Year's Day fill quickly, so book as soon as you have your flight.",
+      },
+      {
+        question: "How early should I leave for a New Year's Day flight from Dulles?",
+        answer:
+          "Follow your airline's and TSA's guidance for your type of flight, then add the drive time from your pickup address. Tell us your flight time and we will suggest a pickup time with margin built in.",
+      },
+      {
+        question: "Can you pick me up from a DC hotel and take me to Dulles?",
+        answer:
+          "Yes. The chauffeur meets you at the hotel entrance with your bags and drives you directly to the Dulles departures curb.",
+      },
+      {
+        question: "What if it snows on New Year's Day?",
+        answer:
+          "We watch the forecast and will contact you if conditions suggest an earlier pickup. Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans up to 12 hours before.",
+      },
+    ],
+    relatedLinks: [
+      { label: "Northern Virginia New Year's Eve Car Service", to: "/blog/northern-virginia-new-years-eve-car-service" },
+      { label: "Early Morning IAD Pickup Guide", to: "/blog/iad-airport-early-morning-pickup-guide" },
+      { label: "Dulles Airport Parking vs. Car Service", to: "/blog/dulles-airport-parking-vs-car-service" },
+      { label: "Winter Weather & Flight Delay Playbook", to: "/blog/winter-weather-flight-delay-playbook-dulles" },
+      { label: "Fleet", to: "/fleet" },
+      { label: "Book Now", to: "/book-now" },
+    ],
+  },
 ];
 
 export default batch16;
