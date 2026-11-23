@@ -377,7 +377,7 @@ const batch13 = [
       {
         heading: 'Step 5: The Ride and Drop-off',
         paragraphs: [
-          'The chauffeur drives you directly to your destination. Payment has typically already been authorized on the card used at booking, so there is no transaction to handle at drop-off — you simply exit the vehicle, with a tip handled according to whatever gratuity policy was confirmed when you booked.',
+          'The chauffeur drives you directly to your destination. Your card was already charged once the reservation and rate were confirmed, so there is no transaction to handle at drop-off — you simply exit the vehicle, with a tip handled according to whatever gratuity policy was confirmed when you booked.',
         ],
         list: [
           'Request a quote online or by phone — no app or account required',
@@ -412,7 +412,7 @@ const batch13 = [
       {
         question: 'Do I pay the chauffeur directly at drop-off?',
         answer:
-          'No, payment is typically authorized on the card used at booking, so there is no transaction to handle at drop-off, aside from any gratuity not already included in your rate.',
+          'No. Your card is charged once the reservation and rate are confirmed, so there is no transaction to handle at drop-off, aside from any gratuity not already included in your rate.',
       },
     ],
     relatedLinks: [
@@ -577,7 +577,7 @@ const batch13 = [
       {
         question: 'What vehicle works best for a family-day weekend with extended family?',
         answer:
-          'A 14-passenger Sprinter van is the most common choice for extended families sharing one schedule across an airport-area hotel and base events.',
+          'A 13-passenger Sprinter van is the most common choice for extended families sharing one schedule across an airport-area hotel and base events.',
       },
       {
         question: 'How far is Quantico from Dulles and Reagan National?',

@@ -151,7 +151,7 @@ const batch15 = [
       {
         question: 'What vehicle works best for a Pride group?',
         answer:
-          'An SUV comfortably fits four to six people; a Mercedes Sprinter van fits larger groups of eight to fourteen, which keeps everyone together for arrival and departure instead of splitting across multiple rideshares.',
+          'An SUV comfortably fits four to six people; a Mercedes Sprinter van fits larger groups of eight to thirteen, which keeps everyone together for arrival and departure instead of splitting across multiple rideshares.',
       },
       {
         question: 'Should I rent a car for Pride weekend in DC?',

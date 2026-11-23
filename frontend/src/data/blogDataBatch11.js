@@ -146,7 +146,7 @@ const batch11 = [
       {
         question: 'Can you pick up a group of 10 or more at BWI?',
         answer:
-          'Yes. A Mercedes Sprinter van seats up to 14 passengers with luggage, which keeps a family or group together in one vehicle instead of splitting across several rideshares.',
+          'Yes. A Mercedes Sprinter van seats up to 13 passengers with luggage, which keeps a family or group together in one vehicle instead of splitting across several rideshares.',
       },
       {
         question: 'Do you serve BWI even though you are based near Dulles?',
@@ -306,7 +306,7 @@ const batch11 = [
       {
         question: 'Do you run extra vehicles for large holiday arrivals?',
         answer:
-          'Yes, our fleet scales from sedans to Sprinter vans seating up to 14, and we add dispatch capacity for the Thanksgiving and Christmas travel weeks specifically.',
+          'Yes, our fleet scales from sedans to Sprinter vans seating up to 13, and we add dispatch capacity for the Thanksgiving and Christmas travel weeks specifically.',
       },
     ],
     relatedLinks: [

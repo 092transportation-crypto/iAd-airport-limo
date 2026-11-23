@@ -12,7 +12,7 @@ const airportFaqs = [
   {
     question: 'Which airports does your transfer service cover?',
     answer:
-      'We specialize in Dulles International (IAD) and also serve Reagan National (DCA) and BWI Marshall, including airport-to-airport connections.',
+      'We specialize in Dulles International (IAD) and also serve Reagan National (DCA) and BWI Marshall. Airport-to-airport connections between the three are available, and every airport pickup is flight-tracked.',
   },
   {
     question: 'How does airport pickup work at IAD?',

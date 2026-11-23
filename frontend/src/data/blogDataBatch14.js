@@ -259,7 +259,7 @@ const batch14 = [
       {
         heading: 'Group Size Is the First Filter',
         paragraphs: [
-          'A Sprinter van comfortably covers 10 to 14 passengers, a stretch limousine covers up to about 8 to 10 in a more celebratory format, a party bus typically runs 20 to 40, and a full charter bus covers 40 and up. If your group is under 14, a limo-class vehicle is almost always the better experience and value; above 20, you are choosing between a party bus and a charter bus rather than a limo at all.',
+          'A Sprinter van comfortably covers 10 to 13 passengers, a stretch limousine covers up to about 8 to 10 in a more celebratory format, a party bus typically runs 20 to 40, and a full charter bus covers 40 and up. If your group is 13 or fewer, a limo-class vehicle is almost always the better experience and value; above 20, you are choosing between a party bus and a charter bus rather than a limo at all.',
         ],
       },
       {
@@ -277,7 +277,7 @@ const batch14 = [
       {
         heading: 'Choosing Based on Your Event',
         paragraphs: [
-          'A wedding or prom group under 14: a stretch limousine or Sprinter van. A bachelor or bachelorette party or milestone birthday with 20 or more: a party bus. A corporate retreat, conference shuttle or large family event over 40: a charter bus. Tell us your group size and the kind of event when you book and we will recommend the right fit rather than the biggest vehicle available.',
+          'A wedding or prom group under 13: a stretch limousine or Sprinter van. A bachelor or bachelorette party or milestone birthday with 20 or more: a party bus. A corporate retreat, conference shuttle or large family event over 40: a charter bus. Tell us your group size and the kind of event when you book and we will recommend the right fit rather than the biggest vehicle available.',
         ],
       },
     ],
@@ -290,7 +290,7 @@ const batch14 = [
       {
         question: 'Is a Sprinter van better than a party bus for a smaller group?',
         answer:
-          'For a group of 10 to 14, yes — a Sprinter van is more cost-effective and still comfortable, while a party bus is built for a larger, more social-format group.',
+          'For a group of 10 to 13, yes — a Sprinter van is more cost-effective and still comfortable, while a party bus is built for a larger, more social-format group.',
       },
       {
         question: 'Which option is best for a corporate group?',

@@ -1792,7 +1792,7 @@ export const GUIDES = [
       {
         question: 'What vehicle should I book for a family trip to Richmond?',
         answer:
-          'A sedan suits one or two travelers; a Lincoln Navigator or Chevrolet Suburban fits a family of four to six with luggage; a Sprinter van is the right call for a larger group.',
+          'A sedan suits one or two travelers; a Lincoln Navigator fits a family of up to six with luggage, a Chevrolet Suburban up to five; a Sprinter van is the right call for a larger group.',
       },
       {
         question: 'What happens if my flight into Dulles is delayed?',

@@ -6,8 +6,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -135,7 +135,7 @@ export const MARYLAND_BATCH6 = [
       { q: "How much is a car service from Annapolis to BWI or Dulles?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride, with no surge pricing. Call (877) 609-1919 or book online for exact pricing to BWI, IAD or DCA." },
       { q: "How far is BWI from Annapolis?", a: "About 25 miles and 30–45 minutes via US-50 and I-97, making BWI the fastest airport option for most Annapolis travelers." },
       { q: "Do you handle Naval Academy commissioning week and graduation?", a: "Yes, every year. These are our busiest Annapolis dates — we recommend booking as soon as your dates are confirmed, since vehicles sell out weeks ahead." },
-      { q: "Can you provide a Sprinter van for a sailing week or wedding group?", a: "Yes. Our 14-passenger Sprinter vans and stretch limousines regularly handle Annapolis wedding parties, sailing-week crews and family reunions moving between hotels and the venue." },
+      { q: "Can you provide a Sprinter van for a sailing week or wedding group?", a: "Yes. Our 13-passenger Sprinter vans and stretch limousines regularly handle Annapolis wedding parties, sailing-week crews and family reunions moving between hotels and the venue." },
       { q: "Do you serve the Annapolis boat shows?", a: "Yes. We run dedicated transportation for both the fall sail and powerboat shows — see our Annapolis Boat Show page for show-specific pickup details." },
     ],
     related: [
@@ -302,11 +302,11 @@ export const MARYLAND_BATCH6 = [
     ],
     intro: [
       "Homecoming season brings the same group-coordination problem as prom, usually with less lead time: a dance, a dinner reservation and a group of teenagers who want to arrive together and get home safely without a parent playing designated driver between three or four houses. Our homecoming limo service covers Washington DC, Northern Virginia and Maryland with a professional, background-checked chauffeur for the whole night.",
-      "Groups typically book a stretch limousine or a Sprinter van for six to fourteen students, with a flat rate covering pickup at each house, the dinner stop, the dance, and drop-off at the end of the night. Parents get a confirmed itinerary in advance and a chauffeur who stays with the group the entire evening — not a rideshare driver who disappears after one leg of the trip.",
+      "Groups typically book a stretch limousine or a Sprinter van for six to thirteen students, with a flat rate covering pickup at each house, the dinner stop, the dance, and drop-off at the end of the night. Parents get a confirmed itinerary in advance and a chauffeur who stays with the group the entire evening — not a rideshare driver who disappears after one leg of the trip.",
     ],
     highlights: [
       "Flat-rate pricing for the full night — pickup, dinner stop, dance and drop-off — confirmed before you book",
-      "Stretch limousines and Sprinter vans sized for groups of six to fourteen students",
+      "Stretch limousines and Sprinter vans sized for groups of six to thirteen students",
       "Professional, background-checked chauffeurs who stay with the group for the entire evening",
       "Parents receive a confirmed itinerary and the chauffeur's direct contact number",
       "No alcohol policy strictly enforced, with chauffeurs trained to handle group dynamics appropriately",
@@ -336,7 +336,7 @@ export const MARYLAND_BATCH6 = [
       { q: "How far ahead should we book for homecoming?", a: "Four to six weeks ahead is ideal. Stretch limousines and Sprinter vans for homecoming season sell out fastest, especially on the first two homecoming weekends in a given area." },
       { q: "Is there a no-alcohol policy?", a: "Yes, strictly enforced. Chauffeurs are trained to handle teen group bookings appropriately and will not transport a group that violates the policy." },
       { q: "Can parents track the group or reach the chauffeur during the night?", a: "Yes. Parents receive the chauffeur's direct contact number and a confirmed itinerary in advance, and can call dispatch at any point for a status update." },
-      { q: "What vehicles work best for a homecoming group?", a: "A luxury SUV fits a smaller group of up to six; a Sprinter van or stretch limousine fits larger groups of eight to fourteen comfortably with room for everyone to ride together." },
+      { q: "What vehicles work best for a homecoming group?", a: "A luxury SUV fits a smaller group of up to six; a Sprinter van or stretch limousine fits larger groups of eight to thirteen comfortably with room for everyone to ride together." },
       
     ],
     related: [

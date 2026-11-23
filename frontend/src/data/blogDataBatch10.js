@@ -32,7 +32,7 @@ const batch10 = [
           'IAD to Ashburn, luxury SUV (up to 6 passengers): roughly $90–$120, all-in',
           'IAD to Leesburg, executive sedan (1–3 passengers): roughly $80–$100, all-in',
           'IAD to Leesburg, luxury SUV (up to 6 passengers): roughly $100–$130, all-in',
-          'Mercedes Sprinter van (up to 14 passengers), either destination: priced above SUV tier, scaled to group size and date',
+          'Mercedes Sprinter van (up to 13 passengers), either destination: priced above SUV tier, scaled to group size and date',
         ],
       },
       {
@@ -80,7 +80,7 @@ const batch10 = [
       {
         question: 'Can you pick up a team of six from a data center campus in Ashburn?',
         answer:
-          'Yes. A luxury SUV covers up to six passengers with luggage; for larger teams, a Mercedes Sprinter van seats up to 14.',
+          'Yes. A luxury SUV covers up to six passengers with luggage; for larger teams, a Mercedes Sprinter van seats up to 13.',
       },
     ],
     relatedLinks: [
@@ -627,7 +627,7 @@ const batch10 = [
       {
         heading: 'Group Size and Vehicle Choice for a Maryland Prom Night',
         paragraphs: [
-          'A stretch limousine comfortably seats a group of six to eight and remains the classic prom choice. Larger friend groups of ten to fourteen are better served by a Mercedes Sprinter van, which keeps everyone together for the photo stop, dinner and dance rather than splitting across two vehicles and two pickup times — a common source of a late arrival at the one part of the night that actually has a fixed start time.',
+          'A stretch limousine comfortably seats a group of six to eight and remains the classic prom choice. Larger friend groups of ten to thirteen are better served by a Mercedes Sprinter van, which keeps everyone together for the photo stop, dinner and dance rather than splitting across two vehicles and two pickup times — a common source of a late arrival at the one part of the night that actually has a fixed start time.',
         ],
       },
       {

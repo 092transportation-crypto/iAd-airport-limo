@@ -28,7 +28,7 @@ const servicesFaqs = [
   {
     question: 'What chauffeur services do you offer?',
     answer:
-      'Personal transportation (airport transfers, appointments, nights out), corporate travel with account billing, and event transportation for weddings, proms, and galas across DC, Maryland, and Virginia.',
+      'We offer personal transportation for airport transfers, appointments, and nights out, plus corporate travel with account billing. Event transportation covers weddings, proms, and galas across DC, Maryland, and Virginia.',
   },
   {
     question: 'Are your rates flat or metered?',

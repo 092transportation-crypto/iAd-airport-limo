@@ -19,7 +19,7 @@ const blogFaqs = [
   {
     question: 'What topics does the IAD Airport Limo blog cover?',
     answer:
-      'Practical guidance for Dulles Airport travelers: car service vs. rideshare comparisons, transportation guides, flat-rate pricing explainers, and corporate travel planning for the DC, Maryland, and Virginia region.',
+      'The blog offers practical guidance for Dulles Airport travelers, from car service vs. rideshare comparisons to transportation guides. You will also find flat-rate pricing explainers and corporate travel planning for the DC, Maryland, and Virginia region.',
   },
   {
     question: 'How do I book a car service after reading a guide?',

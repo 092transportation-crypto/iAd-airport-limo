@@ -123,7 +123,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: '3. Look at the Fleet, Not the Stock Photos',
         paragraphs: [
-          'A serious black car service names its vehicles: Mercedes-Benz E-Class and S-Class, BMW 7 Series, Lincoln Nautilus, Chevrolet Suburban, Cadillac Escalade, Mercedes Sprinter. It can tell you passenger and luggage capacity for each, and it matches the vehicle to your trip — a sedan for a solo executive, an SUV for a family of five with checked bags, a Sprinter for a conference delegation.',
+          'A serious black car service names its vehicles: Mercedes-Benz E-Class and S-Class, BMW 7 Series, Lincoln Nautilus, Chevrolet Suburban, Lincoln Navigator, Mercedes Sprinter. It can tell you passenger and luggage capacity for each, and it matches the vehicle to your trip — a sedan for a solo executive, an SUV for a family of five with checked bags, a Sprinter for a conference delegation.',
           'Be wary of sites showing only generic stock imagery or promising a “luxury vehicle” without specifics. What shows up at your door tends to match the specificity of what was promised.',
         ],
       },
@@ -343,7 +343,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: 'The Fleet Question for Corporate Travel',
         paragraphs: [
-          'Corporate travel spans more use cases than sedans. A practical corporate fleet at IAD includes executive sedans (Mercedes-Benz S-Class and E-Class, BMW 7 Series) for individual travel, full-size luxury SUVs (Escalade, Suburban) for teams and clients with luggage, and Mercedes Sprinter vans for delegations up to 13. Matching the vehicle to the movement is part of the provider’s job — your coordinator should be able to say “four people, six bags, two stops” and get the right vehicle without further negotiation.',
+          'Corporate travel spans more use cases than sedans. A practical corporate fleet at IAD includes executive sedans (Mercedes-Benz S-Class and E-Class, BMW 7 Series) for individual travel, full-size luxury SUVs (Navigator, Suburban) for teams and clients with luggage, and Mercedes Sprinter vans for delegations up to 13. Matching the vehicle to the movement is part of the provider’s job — your coordinator should be able to say “four people, six bags, two stops” and get the right vehicle without further negotiation.',
         ],
       },
       {
@@ -404,7 +404,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: 'Choosing the Right Vehicle for the Trip',
         paragraphs: [
-          'Match the vehicle to your luggage first and your party size second. An executive sedan — a Mercedes-Benz S-Class or E-Class, or BMW 7 Series — comfortably carries up to three passengers with two or three checked bags. A full-size luxury SUV such as a Cadillac Escalade or Chevrolet Suburban handles up to six passengers with a full load of luggage. For delegations, wedding parties, and conference groups, a Mercedes Sprinter van moves up to thirteen with room to spare.',
+          'Match the vehicle to your luggage first and your party size second. An executive sedan — a Mercedes-Benz S-Class or E-Class, or BMW 7 Series — comfortably carries up to three passengers with two or three checked bags. A full-size luxury SUV handles a full load of luggage — up to six passengers in a Lincoln Navigator or five in a Chevrolet Suburban with a full load of luggage. For delegations, wedding parties, and conference groups, a Mercedes Sprinter van moves up to thirteen with room to spare.',
           'The common mistake is booking by headcount alone. Three travelers returning from two weeks in Europe with six suitcases do not fit in a sedan trunk. A good dispatcher will ask about bags before recommending a vehicle — and if the one you booked will not work, will say so before pickup day.',
         ],
       },
@@ -678,7 +678,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: 'Judge the Fleet by Its Specifics',
         paragraphs: [
-          'The best operators name their vehicles and their capacities: Mercedes-Benz S-Class and E-Class and BMW 7 Series sedans for up to three passengers; Cadillac Escalade and Chevrolet Suburban SUVs for up to six with full luggage; Mercedes Sprinter vans for groups up to thirteen. Specificity is the tell — a company that knows its fleet can match a vehicle to “four people, six bags” instantly, while a company promising an unnamed “luxury vehicle” is planning to send whatever is available.',
+          'The best operators name their vehicles and their capacities: Mercedes-Benz S-Class and E-Class and BMW 7 Series sedans for up to three passengers; Lincoln Navigator SUVs for up to six and Chevrolet Suburbans for up to five, with full luggage; Mercedes Sprinter vans for groups up to thirteen. Specificity is the tell — a company that knows its fleet can match a vehicle to “four people, six bags” instantly, while a company promising an unnamed “luxury vehicle” is planning to send whatever is available.',
           'In 2026, also ask about vehicle age and condition outright. Late-model, detailed-between-trips fleets are the standard the best operators hold; a seven-year-old SUV with 180,000 miles is not what the website’s photography implied. You are allowed to ask what year the vehicle is. The good companies do not flinch.',
         ],
       },
@@ -761,7 +761,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: 'Scenario Three: The Family of Five with Checked Bags',
         paragraphs: [
-          'Rideshare pricing is per vehicle, but capacity is the catch: five passengers with international luggage need an XL, and XL fares from Dulles routinely land within striking distance of a booked SUV — without the guarantee that the vehicle that shows up actually fits six suitcases. A chauffeured Suburban or Escalade is specified in advance, meets you at baggage claim, and installs the child seats you requested at booking.',
+          'Rideshare pricing is per vehicle, but capacity is the catch: five passengers with international luggage need an XL, and XL fares from Dulles routinely land within striking distance of a booked SUV — without the guarantee that the vehicle that shows up actually fits six suitcases. A chauffeured Suburban or Navigator is specified in advance, meets you at baggage claim, and installs the child seats you requested at booking.',
           'Price the comparison honestly — XL surge fare plus the garage walk with children and a luggage cart, against a flat-rate SUV with meet and greet — and the gap narrows to nothing on many dates, then inverts on the bad ones.',
         ],
       },
@@ -959,7 +959,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Which vehicles suit executive travel from Dulles?',
         answer:
-          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Cadillac Escalades and Chevrolet Suburbans for small teams, and Mercedes Sprinters for delegations up to 13.',
+          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Lincoln Navigators and Chevrolet Suburbans for small teams, and Mercedes Sprinters for delegations up to 13.',
       },
     ],
   },
@@ -1575,7 +1575,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What vehicle fits a family with a week of luggage?',
         answer:
-          'A luxury SUV comfortably handles one family of four with full-size bags and a stroller. Two families, or a trip with grandparents, fit a 14-passenger Sprinter van — one vehicle, one flat rate, and nobody split across separate cars.',
+          'A luxury SUV comfortably handles one family of four with full-size bags and a stroller. Two families, or a trip with grandparents, fit a 13-passenger Sprinter van — one vehicle, one flat rate, and nobody split across separate cars.',
       },
       {
         question: 'How early should families arrive at Dulles?',
@@ -1623,7 +1623,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: 'SUVs, Sprinters, and the Group Math',
         paragraphs: [
-          'A full-size SUV — Suburban or Escalade class — adds roughly $30–$60 to any sedan rate and earns it whenever the party passes three people or the luggage passes four bags. Mercedes Sprinter vans for groups generally start around $250–$375 for regional transfers.',
+          'A full-size SUV — Suburban or Navigator class — adds roughly $30–$60 to any sedan rate and earns it whenever the party passes three people or the luggage passes four bags. Mercedes Sprinter vans for groups generally start around $250–$375 for regional transfers.',
           'The group math deserves emphasis because it surprises people: a Sprinter carrying ten travelers from IAD to a downtown hotel costs less per person than the Silver Line once you count the hotel-end transfers — and dramatically less than three surge-priced rideshare XLs during an evening arrival bank.',
         ],
       },
@@ -1650,7 +1650,7 @@ export const ALL_BLOG_POSTS = [
       {
         heading: 'Tipping, Deposits, and Payment',
         paragraphs: [
-          'Gratuity of 15–20 percent is customary for chauffeured service, and most travelers fold it into the booking so the trip itself is cashless. Expect a card guarantee at reservation with the charge at or after service, and a written confirmation stating the all-in total before the vehicle ever arrives. Event work — weddings, proms, long charters — normally carries a deposit; simple airport transfers should not.',
+          'Gratuity of 15–20 percent is customary for chauffeured service, and most travelers fold it into the booking so the trip itself is cashless. Expect your card to be charged once the reservation and rate are confirmed, and a written confirmation stating the all-in total before the vehicle ever arrives. Event work — weddings, proms, long charters — normally carries a deposit; simple airport transfers should not.',
         ],
       },
       {
@@ -1664,7 +1664,7 @@ export const ALL_BLOG_POSTS = [
         paragraphs: ['The levers are simple and entirely yours:'],
         list: [
           'Book 48 hours or more ahead — last-minute availability is where premiums hide.',
-          'Right-size the vehicle: two travelers with carry-ons belong in a sedan, not an Escalade.',
+          'Right-size the vehicle: two travelers with carry-ons belong in a sedan, not a Navigator.',
           'Book the round trip at once so both legs lock at the quoted rate.',
           'Share a Sprinter for groups of six or more; per person, it wins almost every time.',
           'Set up a corporate account if your team flies monthly — negotiated rates beat retail.',
@@ -2161,7 +2161,7 @@ export const ALL_BLOG_POSTS = [
           {
             heading: '4. Family Luggage Needs a Suburban, Not a Compact',
             paragraphs: [
-              'Two checked bags per person on Southwest encourages people to pack. A Chevrolet Suburban or Cadillac Escalade carries six with the luggage in the back, car seats installed before pickup, and no roulette about which vehicle the app assigns. Browse the options on our fleet page.',
+              'Two checked bags per person on Southwest encourages people to pack. A Lincoln Navigator carries six (a Chevrolet Suburban five) with the luggage in the back, car seats installed before pickup, and no roulette about which vehicle the app assigns. Browse the options on our fleet page.',
             ],
           },
           {
@@ -2346,7 +2346,7 @@ export const ALL_BLOG_POSTS = [
           {
             heading: 'The Fleet Question',
             paragraphs: [
-              'Match vehicles to roles. A stretch limousine seats up to eight for the wedding party. A Mercedes Sprinter carries 14 guests from the hotel block. A Mercedes-Benz S-Class is the getaway car. Look at the actual fleet, then ask whether the specific vehicle can be named on your contract.',
+              'Match vehicles to roles. A stretch limousine seats up to eight for the wedding party. A Mercedes Sprinter carries 13 guests from the hotel block. A Mercedes-Benz S-Class is the getaway car. Look at the actual fleet, then ask whether the specific vehicle can be named on your contract.',
             ],
           },
           {
@@ -2398,7 +2398,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Can you shuttle guests from Dulles to our Maryland venue?',
         answer:
-          'Yes. Sprinter vans carry 14 with luggage from IAD to Bethesda, Frederick, Annapolis or the Eastern Shore, with flight tracking and meet and greet. Call (877) 609-1919 to coordinate multiple arrivals.',
+          'Yes. Sprinter vans carry 13 with luggage from IAD to Bethesda, Frederick, Annapolis or the Eastern Shore, with flight tracking and meet and greet. Call (877) 609-1919 to coordinate multiple arrivals.',
       },
       {
         question: 'What happens if the reception runs late?',
@@ -2461,7 +2461,7 @@ export const ALL_BLOG_POSTS = [
           {
             heading: 'Move the Group in One Sprinter',
             paragraphs: [
-              'A Mercedes Sprinter carries 14 with tailgate gear in the back. One vehicle, one drop-off, one pickup point after the show, and no one in the group drives home from a concert or a race day. Book it for the National Harbor run or a Camden Yards game and split the flat rate.',
+              'A Mercedes Sprinter carries 13 with tailgate gear in the back. One vehicle, one drop-off, one pickup point after the show, and no one in the group drives home from a concert or a race day. Book it for the National Harbor run or a Camden Yards game and split the flat rate.',
             ],
           },
         ],
@@ -2496,7 +2496,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Can a group from Loudoun share one vehicle to a Ravens game?',
         answer:
-          'Yes. A Mercedes Sprinter carries up to 14 to M&T Bank Stadium at a flat rate, with a fixed pickup point after the game. Call (877) 609-1919 for group quotes.',
+          'Yes. A Mercedes Sprinter carries up to 13 to M&T Bank Stadium at a flat rate, with a fixed pickup point after the game. Call (877) 609-1919 for group quotes.',
       },
       {
         question: 'What is the cancellation policy for event transportation?',

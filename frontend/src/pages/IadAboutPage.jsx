@@ -12,12 +12,12 @@ const aboutFaqs = [
   {
     question: 'What is IAD Airport Limo?',
     answer:
-      'IAD Airport Limo is a luxury chauffeured transportation company based at Dulles International Airport, serving Washington DC, Maryland, and Virginia with airport transfers, corporate travel, and special-event service.',
+      'IAD Airport Limo is a luxury chauffeured transportation company built around Washington Dulles International Airport. We serve Washington DC, Maryland, and Virginia with airport transfers, corporate travel, and special-event service.',
   },
   {
     question: 'Which airports do you serve?',
     answer:
-      'We specialize in Washington Dulles International (IAD) and also serve Reagan National (DCA) and BWI Marshall, including airport-to-airport transfers between them.',
+      'We specialize in Washington Dulles International (IAD) and also serve Reagan National (DCA) and BWI Marshall. Airport-to-airport transfers between them are available, with the same flat rates and flight tracking.',
   },
   {
     question: 'Are your chauffeurs background-checked?',

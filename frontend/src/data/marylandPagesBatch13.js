@@ -22,8 +22,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -43,7 +43,7 @@ export const MARYLAND_BATCH13 = [
     stats: [
       { label: "Dulles (IAD)", value: "30 mi · 30–45 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Middleburg and the surrounding hunt-country towns of western Loudoun are one of the region's most-booked wedding destinations — Salamander Resort, a cluster of working-farm and vineyard venues, and a historic downtown built around equestrian tourism. We provide hourly, as-directed wedding-day transportation built around estate and farm-venue logistics: long gravel drives, limited on-site parking and ceremony sites set well back from the public road.",
@@ -120,7 +120,7 @@ export const MARYLAND_BATCH13 = [
     stats: [
       { label: "Dulles (IAD)", value: "15 mi · 20–30 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Great Falls' large private estates and riverside properties host a steady share of the region's at-home and private-property weddings, a different logistics problem than a commercial venue with its own event staff. We provide hourly, as-directed wedding-day transportation built around private-property access — long driveways, limited turnaround space and a host family coordinating the day alongside the couple's planner.",
@@ -606,7 +606,7 @@ export const MARYLAND_BATCH13 = [
       "Safe, chauffeured prom transportation for Tysons-area high schoolers — licensed drivers, parent-verified itinerary. Call (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Flat rate per vehicle, by the hour" },
-      { label: "Fleet", value: "Stretch limousine or 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine or 13-passenger Sprinter van" },
       { label: "Coverage", value: "McLean, Vienna, Great Falls & the Tysons area" },
     ],
     intro: [
@@ -668,7 +668,7 @@ export const MARYLAND_BATCH13 = [
     faqs: [
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked — we never use rideshare drivers for prom transportation." },
       { q: "Can the itinerary be confirmed with a parent instead of just the student?", a: "Yes, we confirm the full schedule — pickup, dinner, photos and drop-off times — directly with a parent or guardian before the night." },
-      { q: "What vehicles work best for a Tysons-area prom group?", a: "A stretch limousine for a smaller group, or a 14-passenger Sprinter van for a larger group splitting the cost." },
+      { q: "What vehicles work best for a Tysons-area prom group?", a: "A stretch limousine for a smaller group, or a 13-passenger Sprinter van for a larger group splitting the cost." },
       { q: "Can you plan dinner and photos around Tysons Corner Center?", a: "Yes, many groups keep the whole night within a few minutes of Tysons Corner Center, which makes the hourly schedule simple to confirm." },
       { q: "How far ahead should we book Tysons prom transportation?", a: "As early as possible — spring prom season books up quickly, especially for Saturday dates." },
     ],
@@ -695,7 +695,7 @@ export const MARYLAND_BATCH13 = [
       "Safe, chauffeured prom transportation for Ashburn and Loudoun County high schoolers — licensed, parent-confirmed itineraries. (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Flat rate per vehicle, by the hour" },
-      { label: "Fleet", value: "Stretch limousine or 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine or 13-passenger Sprinter van" },
       { label: "Coverage", value: "Ashburn, Broadlands, Brambleton & One Loudoun" },
     ],
     intro: [
@@ -758,7 +758,7 @@ export const MARYLAND_BATCH13 = [
     faqs: [
       { q: "Are your Ashburn prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked — we never use rideshare drivers for prom transportation." },
       { q: "Can the itinerary be confirmed with a parent instead of just the student?", a: "Yes, we confirm the full schedule — pickup, dinner, photos and drop-off times — directly with a parent or guardian before the night." },
-      { q: "What vehicles work best for a larger Ashburn prom group?", a: "A 14-passenger Sprinter van is the most common choice for groups from One Loudoun, Broadlands or Brambleton splitting the cost." },
+      { q: "What vehicles work best for a larger Ashburn prom group?", a: "A 13-passenger Sprinter van is the most common choice for groups from One Loudoun, Broadlands or Brambleton splitting the cost." },
       { q: "Can you plan dinner and photos around One Loudoun?", a: "Yes, many groups base the entire night around One Loudoun's restaurants and plaza, which keeps the schedule simple to confirm in advance." },
       { q: "How far ahead should we book Ashburn prom transportation?", a: "As early as possible — spring prom season books up quickly, especially for Saturday dates." },
     ],

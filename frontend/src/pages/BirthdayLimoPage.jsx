@@ -10,7 +10,7 @@ const birthdayFaqs = [
   {
     question: 'How many people fit in a birthday party vehicle?',
     answer:
-      'Sedans carry up to 3 guests, SUVs up to 6, and our Mercedes Sprinter party van up to 12 with LED lighting, premium sound, and space to celebrate.',
+      'Sedans carry up to 3 guests and SUVs up to 6. Our Mercedes Sprinter party van takes up to 12, with LED lighting, premium sound, and space to celebrate.',
   },
   {
     question: 'Can we plan multiple stops for the night?',
@@ -25,7 +25,7 @@ const birthdayFaqs = [
   {
     question: 'What areas do you cover for birthday limo service?',
     answer:
-      'Washington DC, Northern Virginia, and Maryland — including pickups throughout the Dulles, Tysons, Bethesda, and Arlington areas.',
+      'We cover Washington DC, Northern Virginia, and Maryland. That includes pickups throughout the Dulles, Tysons, Bethesda, and Arlington areas.',
   },
 ];
 

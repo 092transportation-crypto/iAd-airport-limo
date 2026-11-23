@@ -5,53 +5,54 @@ import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
 import TrustSignals from '../components/TrustSignals';
+import { fleetImageAlt } from '../lib/fleetImageAlt';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
 
 const homeFaqs = [
   {
     question: 'How do I book an IAD airport car service?',
     answer:
-      'Book online through our booking page in under two minutes, or call (877) 609-1919 any hour. You receive a written flat-rate confirmation with your chauffeur and vehicle details.',
+      'Reserve on our booking page or phone (877) 609-1919 at any hour of the day or night. Once the trip is set, a written confirmation arrives with your flat rate, vehicle and chauffeur details. Your card is only charged after both the booking and the rate have been confirmed.',
   },
   {
     question: 'Do you track flights arriving at Dulles Airport?',
     answer:
-      'Yes. Every airport pickup includes automatic flight tracking with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international. If your flight lands early or late, your chauffeur adjusts at no extra charge.',
+      'Yes. We follow every Dulles arrival in real time, so your chauffeur is there for the moment you actually land, early or delayed, at no extra charge. Your chauffeur waits free of charge for 45 minutes after a domestic landing and 60 minutes after an international one.',
   },
   {
     question: 'What areas does your Dulles airport limo service cover?',
     answer:
-      'We serve Washington DC, Maryland, and Virginia — including Bethesda, Arlington, Alexandria, Tysons, Rockville, Silver Spring, Annapolis, Columbia, and Baltimore — plus transfers between IAD, DCA, and BWI.',
+      'Around Dulles we cover Reston, Herndon, Ashburn, Sterling, Chantilly, Leesburg, Fairfax and Tysons. Beyond Loudoun and Fairfax counties we serve the rest of Northern Virginia, Washington DC and Maryland, including Bethesda, Arlington, Alexandria, Rockville, Silver Spring, Annapolis, Columbia and Baltimore. Transfers between IAD, DCA and BWI are available too.',
   },
   {
     question: 'What vehicles are in your fleet?',
     answer:
-      'Executive sedans including the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs like the Lincoln Nautilus, Chevrolet Suburban, and Lincoln Navigator, and Mercedes Sprinter vans for up to 13 passengers.',
+      'Sedans carry one to three riders: the Mercedes-Benz E-Class, Mercedes S-Class and BMW 7 Series. Our SUVs step up from the Lincoln Nautilus (three passengers) to the Chevrolet Suburban (five) and the Lincoln Navigator (six). Groups of up to 13 ride together in a Mercedes Sprinter van.',
   },
   {
     question: 'Is your car service licensed and insured?',
     answer:
-      'Yes. We are a licensed and insured Virginia and Maryland carrier with commercial insurance and background-checked professional chauffeurs.',
+      'Yes. IAD Airport Limo operates as a licensed and insured carrier in Virginia and Maryland, with commercial insurance on every vehicle. Each chauffeur is a background-checked professional.',
   },
   {
     question: 'How much does a Dulles airport car service cost?',
     answer:
-      'Every trip is a flat, all-inclusive rate by vehicle class and distance — fuel, tolls, flight tracking, and the chauffeur included, with no surge pricing. Request a quote online or call (877) 609-1919 for an exact written rate.',
+      'Pricing is a flat, all-in rate set by vehicle class and distance, so fuel, tolls, flight tracking and the chauffeur are already built in. Rates never surge at busy times. For an exact written price, use the online quote form or phone (877) 609-1919.',
   },
   {
     question: 'How far in advance should I book?',
     answer:
-      'Book by the night before at the latest — earlier for pre-dawn departures, holidays, and event weekends. Same-day requests are accommodated whenever a vehicle is available, and our line answers 24/7.',
+      'Reserving at least a day ahead is safest, and earlier still for pre-dawn flights out of Dulles, holiday weeks and big event weekends. Need a car today? Call us: same-day trips go ahead whenever a vehicle is free, and the phone is answered 24/7.',
   },
   {
     question: 'What is your cancellation policy?',
     answer:
-      'Sedans and SUVs can be cancelled free of charge up to 3 hours before your scheduled pickup time. Sprinter vans, limousines and special-event bookings can be cancelled free of charge up to 12 hours before pickup. Later cancellations may incur a fee — call (877) 609-1919 as early as possible to change plans.',
+      'Free cancellation on a sedan or SUV is available until 3 hours before pickup. For Sprinter vans, limousines and special-event bookings, that free window closes 12 hours before pickup. Later changes may carry a fee, so phone (877) 609-1919 as soon as your plans shift.',
   },
   {
     question: 'Do you serve DCA and BWI airports too?',
     answer:
-      'Yes. Besides Dulles, we run flat-rate, flight-tracked transfers to and from Reagan National (DCA) and BWI Marshall from anywhere in Virginia, Maryland, and Washington DC.',
+      'Yes. Dulles is our specialty, but Reagan National (DCA) and BWI Marshall get the same flat rates and flight tracking. Pickups and drop-offs can be anywhere in Virginia, Maryland or Washington DC, and airport-to-airport connections are available.',
   },
 ];
 
@@ -65,8 +66,8 @@ const HomePage = () => {
     eclass: '/images/mercedes-e-class.webp',
     bmw7: '/images/bmw-7-series.webp',
     nautilus: '/images/lincoln-nautilus.webp',
-    suburban: '/images/chevy-suburban.webp',
-    escalade: '/images/cadillac-escalade.webp',
+    suburban: '/images/chevrolet-suburban.webp',
+    navigator: '/images/lincoln-navigator.webp',
     sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
     sprinterExecutive: '/images/mercedes-sprinter.webp',
     sprinterLimo: '/images/limousine.webp',
@@ -87,7 +88,7 @@ const HomePage = () => {
     { name: 'First Class Sedan', subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar', category: 'Sedan', pax: 3, luggage: 2, image: fleetImages.bmw7 },
     { name: 'Midsize SUV', subtitle: 'Lincoln Nautilus 2023+ or similar', category: 'SUV', pax: 3, luggage: 4, image: fleetImages.nautilus },
     { name: 'Luxury SUV', subtitle: 'Chevrolet Suburban 2023+ or similar', category: 'SUV', pax: 5, luggage: 5, image: fleetImages.suburban },
-    { name: 'Premium SUV', subtitle: '2026 Lincoln Navigator or similar', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.escalade },
+    { name: 'Premium SUV', subtitle: '2026 Lincoln Navigator or similar', category: 'SUV', pax: 6, luggage: 5, image: fleetImages.navigator },
     { name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
     { name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'Van', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
   ];
@@ -100,10 +101,10 @@ const HomePage = () => {
   };
 
   const services = [
-    { icon: <Plane className="w-6 h-6 md:w-8 md:h-8" />, title: 'Airport Transfers', desc: 'IAD, DCA, BWI', link: '/airport-transfer', image: images.airport },
-    { icon: <Briefcase className="w-6 h-6 md:w-8 md:h-8" />, title: 'Corporate Travel', desc: 'Executive transportation', link: '/corporate', image: images.corporate },
-    { icon: <Heart className="w-6 h-6 md:w-8 md:h-8" />, title: 'Weddings', desc: 'Your special day', link: '/wedding-limo', image: images.wedding },
-    { icon: <Wine className="w-6 h-6 md:w-8 md:h-8" />, title: 'Wine Tours', desc: 'Virginia wine country', link: '/wine-tours', image: images.wine },
+    { icon: <Plane className="w-6 h-6 md:w-8 md:h-8" />, title: 'Airport Transfers', desc: 'IAD, DCA, BWI', link: '/airport-transfer', image: images.airport, alt: 'Airplane wing above the clouds at sunset' },
+    { icon: <Briefcase className="w-6 h-6 md:w-8 md:h-8" />, title: 'Corporate Travel', desc: 'Executive transportation', link: '/corporate', image: images.corporate, alt: 'Businessman in a dark suit and glasses' },
+    { icon: <Heart className="w-6 h-6 md:w-8 md:h-8" />, title: 'Weddings', desc: 'Your special day', link: '/wedding-limo', image: images.wedding, alt: 'Bride holding a bouquet beside the groom' },
+    { icon: <Wine className="w-6 h-6 md:w-8 md:h-8" />, title: 'Wine Tours', desc: 'Virginia wine country', link: '/wine-tours', image: images.wine, alt: 'Glass of red wine overlooking rows of vineyard vines' },
   ];
 
   const testimonials = [
@@ -127,7 +128,7 @@ const HomePage = () => {
       {/* Hero */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-28 md:pt-0">
         <div className="absolute inset-0">
-          <img src={images.hero} alt="Chauffeured luxury sedan used for IAD Airport Limo's Dulles airport car service" className="w-full h-full object-cover opacity-30" />
+          <img src={images.hero} alt="" aria-hidden="true" className="w-full h-full object-cover opacity-30" />
           <div className="absolute inset-0 bg-gradient-to-b from-black via-black/70 to-black" />
         </div>
         <div className="relative z-10 text-center px-4 sm:px-6 py-8 w-full">
@@ -219,7 +220,7 @@ const HomePage = () => {
             {currentFleet.map((vehicle, idx) => (
               <div key={idx} className="luxury-card group overflow-hidden border border-white/10">
                 <div className="h-48 sm:h-52 overflow-hidden">
-                  <img src={vehicle.image} alt={vehicle.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                  <img src={vehicle.image} alt={fleetImageAlt(vehicle.image, vehicle.name)} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                 </div>
                 <div className="p-4 bg-black">
                   <div className="text-white/40 text-xs uppercase tracking-widest mb-1">{vehicle.category}</div>
@@ -245,7 +246,7 @@ const HomePage = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {services.map((service, idx) => (
               <Link key={idx} to={service.link} className="group relative h-48 sm:h-56 overflow-hidden luxury-card">
-                <img src={service.image} alt={service.title} className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-500 opacity-60" />
+                <img src={service.image} alt={service.alt} className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-500 opacity-60" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent" />
                 <div className="absolute inset-0 p-4 sm:p-6 flex flex-col justify-end">
                   <div className="text-white mb-2">{service.icon}</div>
@@ -377,26 +378,25 @@ const HomePage = () => {
         <div className="max-w-4xl mx-auto px-4 md:px-6">
           <h2 className="font-display text-3xl md:text-4xl font-medium mb-6">Book Your Dulles Airport Transportation Today</h2>
           <p className="text-white/70 leading-relaxed mb-4">
-            When you need a dependable airport transportation service in Northern Virginia, IAD Airport Limo is the
-            call locals make first. Our chauffeurs track your flight in real time, meet you inside the terminal, and
-            load your luggage into a spotless Mercedes or BMW — no rideshare roulette, no surge pricing, no waiting
-            at the curb.
+            Flying in or out of Washington Dulles? IAD Airport Limo follows your flight as it moves, has a chauffeur
+            waiting inside the terminal when you land, and handles the bags on the way to a clean Mercedes or BMW.
+            There is no surge pricing, no guessing which rideshare will turn up, and no standing at the curb.
           </p>
           <p className="text-white/70 leading-relaxed">
-            Prefer something more discreet? Our Dulles black car service is the professional&apos;s choice for early
-            departures, late arrivals, and everything between: flat all-inclusive rates, licensed and insured
-            chauffeurs, and 24/7 dispatch across Virginia, Maryland, and Washington DC. Book online in minutes or
-            call — we answer around the clock.
+            Heading home to Reston, Herndon, Tysons or Ashburn, or leaving one of them before dawn? Our Dulles black
+            car service keeps it simple: one all-inclusive flat rate, licensed and insured chauffeurs, and dispatch
+            that never closes, covering Virginia, Maryland and Washington DC. Reserve online in a few minutes or phone
+            us at any hour.
           </p>
         </div>
       </section>
 
       <section className="relative py-20 md:py-32 overflow-hidden">
-        <div className="absolute inset-0"><img src={images.nightCity} alt="Washington DC metro skyline at night, served by IAD Airport Limo's 24/7 chauffeur service" className="w-full h-full object-cover opacity-30" /><div className="absolute inset-0 bg-black/80" /></div>
+        <div className="absolute inset-0"><img src={images.nightCity} alt="" aria-hidden="true" className="w-full h-full object-cover opacity-30" /><div className="absolute inset-0 bg-black/80" /></div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <img src={logo} alt="IAD Airport Limo" className="w-32 sm:w-40 mx-auto mb-6" style={{background:'transparent'}} />
           <h2 className="font-display text-3xl sm:text-4xl text-white mb-6">Start Your Journey</h2>
-          <p className="text-white/50 text-base mb-8">Book your premium transportation today. Available 24/7.</p>
+          <p className="text-white/50 text-base mb-8">Reserve your Dulles ride online or by phone — we answer day and night.</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link to="/book-now" className="inline-flex items-center justify-center gap-2 bg-white text-black px-8 py-4 font-bold uppercase tracking-wider hover:bg-white/90 text-sm">Free Quote <ArrowRight className="w-4 h-4" /></Link>
             <a href="tel:+18776091919" className="inline-flex items-center justify-center gap-2 border border-white text-white px-8 py-4 font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all text-sm"><Phone className="w-4 h-4" /> (877) 609-1919</a>

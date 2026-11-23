@@ -20,8 +20,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -83,7 +83,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Crystal City from Dulles Airport?", a: "About 24 miles and 35–45 minutes via the Dulles Toll Road and I-66, depending on traffic." },
       { q: "Do you serve Amazon HQ2 and the Crystal Drive office corridor?", a: "Yes. We run daily corporate pickups and roadshow transportation for National Landing's offices, including Amazon's HQ2 campus and the Crystal Drive corridor." },
       { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. Curbside pickup is also available." },
-      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines." },
     ],
     related: [
       { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
@@ -149,7 +149,7 @@ export const MARYLAND_BATCH12 = [
       { q: "Do you pick up at the Ritz-Carlton and Fashion Centre hotels?", a: "Yes, we run regular pickups at all of Pentagon City's hotel towers and can coordinate directly with the concierge desk." },
       { q: "How long does Pentagon visitor screening typically add to a pickup?", a: "It varies by appointment type; tell us your host's instructions when you book and we'll build the buffer into your schedule." },
       { q: "How far is Pentagon City from Dulles?", a: "About 23 miles, typically 35 to 45 minutes via the Dulles Toll Road and I-66." },
-      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines." },
     ],
     related: [
       { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
@@ -215,7 +215,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Rosslyn from Reagan National?", a: "About 6 miles, typically 15 to 20 minutes depending on traffic." },
       { q: "Can you take us from Rosslyn to Georgetown for dinner or an event?", a: "Yes, it's one of our most common short runs — a two-minute crossing over Key Bridge, timed around rush-hour backups." },
       { q: "Do you serve Rosslyn's law firms and association offices?", a: "Yes. We run standing corporate accounts for client travel, depositions and multi-stop roadshows from Rosslyn's office towers." },
-      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines." },
     ],
     related: [
       { label: "Clarendon & Ballston Limo Service", to: "/clarendon-ballston-limo-service" },
@@ -281,7 +281,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Clarendon/Ballston from Reagan National?", a: "About 7 miles, typically 18 to 25 minutes depending on traffic." },
       { q: "Do you serve the office towers around Ballston Quarter?", a: "Yes. We run standing corporate accounts for Ballston-area offices, including client visits and multi-stop roadshows." },
       { q: "How far is the corridor from Dulles?", a: "About 21 miles, typically 30 to 40 minutes via I-66 and the Dulles Toll Road." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Rosslyn Limo Service", to: "/rosslyn-limo-service" },
@@ -899,7 +899,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is the Navy Yard from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic and event-day closures." },
       { q: "Do you serve Navy Yard corporate offices?", a: "Yes. We run standing accounts for the Capitol Riverfront's office towers and nearby federal agencies." },
       { q: "How far is the Navy Yard from Dulles?", a: "About 28 miles, typically 40 to 50 minutes via I-295 and the Southeast-Southwest Freeway to the Dulles Toll Road." },
-      { q: "What vehicles work best for a group heading to a game?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a group heading to a game?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Nationals Park Transportation", to: "/nationals-park-transportation" },
@@ -1045,7 +1045,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Logan Circle from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic." },
       { q: "Is parking difficult in Logan Circle — does that affect pickup?", a: "Street parking is limited, which is exactly why a pre-booked pickup point works better here than trying to flag a car at the curb during busy dinner hours." },
       { q: "Can you book a reliable return ride after a late dinner on 14th Street?", a: "Yes, we confirm the return pickup around your reservation time so you are not competing for a rideshare car with the rest of the corridor at closing time." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
@@ -1111,7 +1111,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Adams Morgan from Reagan National?", a: "About 6 miles, typically 15 to 22 minutes depending on traffic." },
       { q: "Why not just flag a car on 18th Street?", a: "Weekend pedestrian crowds and limited curb space make 18th Street itself a poor pickup point — we arrange a nearby meeting spot that's easier for both you and the chauffeur." },
       { q: "How far is Adams Morgan from Dulles?", a: "About 28 miles, typically 40 to 50 minutes depending on traffic." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator or Chevrolet Suburban for up to six, or a 14-passenger Mercedes Sprinter van for larger groups." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
     ],
     related: [
       { label: "Logan Circle Limo Service", to: "/logan-circle-limo-service" },
@@ -1518,7 +1518,7 @@ export const MARYLAND_BATCH12 = [
     metaDescription: "Chauffeured transportation for baby showers and gender reveal parties across NoVA, DC & Maryland. Flat rates, chauffeurs 24/7. (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Hourly or point-to-point packages" },
-      { label: "Fleet", value: "Sedans through 14-passenger Sprinter vans" },
+      { label: "Fleet", value: "Sedans through 13-passenger Sprinter vans" },
       { label: "Coverage", value: "Northern Virginia, DC & Maryland" },
     ],
     intro: [
@@ -1558,7 +1558,7 @@ export const MARYLAND_BATCH12 = [
     faqs: [
       { q: "Can you coordinate arrival timing for a gender-reveal moment?", a: "Yes, we work closely with your planner or photographer so the vehicle arrives exactly when your reveal is choreographed to happen." },
       { q: "Do you provide round-trip service for a baby shower?", a: "Yes, pickup, wait at the venue, and return home can all be booked as a single hourly reservation." },
-      { q: "What vehicle is best for a multi-generational family group?", a: "A 14-passenger Mercedes Sprinter van is the most common choice for grandparents, siblings and close friends traveling together." },
+      { q: "What vehicle is best for a multi-generational family group?", a: "A 13-passenger Mercedes Sprinter van is the most common choice for grandparents, siblings and close friends traveling together." },
       { q: "Is pricing hourly or a flat point-to-point rate?", a: "Either, depending on your plans — we quote both so you can choose what fits your day, confirmed in writing before you book." },
       { q: "How far in advance should we book?", a: "As soon as your date and venue are set, especially for weekend dates during peak baby-shower season in spring and fall." },
     ],
@@ -1582,7 +1582,7 @@ export const MARYLAND_BATCH12 = [
     metaDescription: "Chauffeured bachelor & bachelorette party transportation across NoVA, DC & Maryland — bar hops, wineries, group nights out. Call (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Hourly, as-directed group packages" },
-      { label: "Fleet", value: "SUVs up to a 14-passenger Sprinter van" },
+      { label: "Fleet", value: "SUVs up to a 13-passenger Sprinter van" },
       { label: "Coverage", value: "DC nightlife, NoVA breweries, Loudoun wineries" },
     ],
     intro: [
@@ -1591,7 +1591,7 @@ export const MARYLAND_BATCH12 = [
     ],
     highlights: [
       "One hourly reservation covers every stop — no splitting the group into separate rides",
-      "A Lincoln Navigator or Chevrolet Suburban for groups up to six; a 14-passenger Sprinter van for larger parties",
+      "A Lincoln Navigator for groups up to six or a Chevrolet Suburban for up to five; a 13-passenger Sprinter van for larger parties",
       "Coordinated pickup for guests flying into Dulles, Reagan or BWI for the weekend",
       "Flexible, as-directed routing — the chauffeur follows your itinerary, not a fixed schedule",
       "A safe, sober ride home at the end of the night — no one drives after the last stop",
@@ -1621,7 +1621,7 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you run a multi-stop bar crawl or wine tasting itinerary?", a: "Yes. Hourly, as-directed service means the chauffeur follows your itinerary — including changes on the day — rather than a fixed route." },
-      { q: "What's the best vehicle for a group of 8–10?", a: "A 14-passenger Mercedes Sprinter van is the most common choice for groups that size, keeping everyone together for the whole night." },
+      { q: "What's the best vehicle for a group of 8–10?", a: "A 13-passenger Mercedes Sprinter van is the most common choice for groups that size, keeping everyone together for the whole night." },
       { q: "Can you pick up guests flying in for the weekend?", a: "Yes, we coordinate group airport pickups at Dulles, Reagan National or BWI and deliver everyone to the same starting point." },
       { q: "Do you run bachelor/bachelorette transportation to Loudoun wineries?", a: "Yes, a full-day wine-country itinerary with multiple tasting stops is one of our most popular bachelorette bookings." },
       { q: "How far in advance should we book for a weekend date?", a: "As early as possible — spring, summer and fall weekends are our busiest, and vehicles for large groups book up first." },
@@ -1646,16 +1646,16 @@ export const MARYLAND_BATCH12 = [
     metaDescription: "Chauffeured quinceañera and sweet sixteen limousine transportation across NoVA, DC & Maryland. Court party packages. Call (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Hourly packages, court-party capacity" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
       { label: "Coverage", value: "Northern Virginia, DC & Maryland" },
     ],
     intro: [
       "A quinceañera or sweet sixteen is built around a grand entrance, and the ride matters as much as the dress. We provide stretch limousines and Sprinter vans for the honoree and her court, timed to arrive at the church, hall or reception venue exactly when the schedule calls for it.",
-      "Because a quinceañera court can run anywhere from a handful of damas and chambelanes to a full fourteen-person party, we size the vehicle to the group — a stretch limousine for a smaller court, or a Mercedes Sprinter van when the whole court travels together.",
+      "Because a quinceañera court can run anywhere from a handful of damas and chambelanes to a full court of a dozen or more, we size the vehicle to the group — a stretch limousine for a smaller court, or a Mercedes Sprinter van when the whole court travels together.",
     ],
     highlights: [
       "Stretch limousines sized for the honoree and a smaller court",
-      "14-passenger Sprinter vans for a full court traveling together",
+      "13-passenger Sprinter vans for a full court traveling together",
       "Arrival timing coordinated with your church, hall or photographer's schedule",
       "Multi-stop routing — church, photos, reception — booked as one hourly reservation",
       "Decoration-friendly vehicles for a quinceañera or sweet sixteen theme",
@@ -1684,7 +1684,7 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How many people fit in a quinceañera court vehicle?", a: "A stretch limousine seats up to 8; a 14-passenger Mercedes Sprinter van fits a full court of damas and chambelanes together." },
+      { q: "How many people fit in a quinceañera court vehicle?", a: "A stretch limousine seats up to 8; a 13-passenger Mercedes Sprinter van fits a full court of damas and chambelanes together." },
       { q: "Can you coordinate a multi-stop day — church, photos and reception?", a: "Yes, this is one of our most common quinceañera bookings, run as a single hourly reservation with the chauffeur staying with your group throughout." },
       { q: "Can the chauffeur time our arrival for the grand entrance?", a: "Yes, we coordinate with your planner, hall or photographer so the vehicle arrives exactly when your entrance is scheduled." },
       { q: "Is pricing hourly or a flat rate?", a: "Hourly, as-directed service for the full celebration, confirmed in writing before you book." },

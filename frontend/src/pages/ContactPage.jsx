@@ -302,7 +302,7 @@ const ContactPage = () => {
                         value={formData.passengers}
                         onChange={handleChange}
                         min="1"
-                        max="14"
+                        max="13"
                         className="w-full bg-[#111] border border-[#333] text-white px-4 py-3 focus:border-[#c9a227] focus:outline-none transition-colors"
                         placeholder="How many?"
                         data-testid="contact-passengers-input"

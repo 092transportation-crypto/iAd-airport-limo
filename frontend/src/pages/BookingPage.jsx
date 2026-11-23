@@ -19,7 +19,7 @@ const bookingFaqs = [
   {
     question: 'What information do I need to book?',
     answer:
-      'Your pickup address, destination, date and time, passenger and luggage count, and flight number for airport pickups so we can track your arrival.',
+      'You need your pickup address, destination, date and time, and the passenger and luggage count. For airport pickups, add your flight number so we can track your arrival.',
   },
   {
     question: 'Is my rate confirmed when I book?',
@@ -122,7 +122,7 @@ const BookingPage = ({ path = '/book-now' }) => {
   const setField = (name, value) => setFormData((f) => ({ ...f, [name]: value }));
 
   const stepPassengers = (delta) =>
-    setFormData((f) => ({ ...f, passengers: Math.min(14, Math.max(1, f.passengers + delta)) }));
+    setFormData((f) => ({ ...f, passengers: Math.min(13, Math.max(1, f.passengers + delta)) }));
 
   const progress = useMemo(() => {
     const required = ['first_name', 'last_name', 'phone', 'email', 'pickup_location', 'dropoff_location', 'date', 'time'];
@@ -386,7 +386,7 @@ const BookingPage = ({ path = '/book-now' }) => {
                             {formData.passengers === 1 ? 'Passenger' : 'Passengers'}
                           </p>
                         </div>
-                        <button type="button" onClick={() => stepPassengers(1)} disabled={formData.passengers >= 14}
+                        <button type="button" onClick={() => stepPassengers(1)} disabled={formData.passengers >= 13}
                           aria-label="More passengers"
                           className="w-11 h-11 rounded-full border border-white/20 text-white flex items-center justify-center transition-all duration-200 hover:border-[#d4af37] hover:text-[#d4af37] active:scale-90 disabled:opacity-25 disabled:pointer-events-none">
                           <Plus className="w-4 h-4" />

@@ -21,8 +21,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -42,7 +42,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "110 mi · 2 hours – 2 hours 15 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Charlottesville and the surrounding Monticello wine trail are one of Virginia's best-known wedding destinations — vineyard venues with Blue Ridge views, historic estates, and a compact, walkable downtown where most wedding parties stay the weekend. Because so many Charlottesville weddings draw guests flying into Dulles or Richmond rather than driving from town, we run this as a destination-wedding market: group airport pickups, hotel shuttles and a full wedding-day itinerary on a single reservation.",
@@ -122,7 +122,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "70 mi · 75–90 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Winchester sits at the northern end of the Shenandoah Valley, surrounded by a growing cluster of wineries, orchard venues and historic farm properties that have made it a regional wedding destination distinct from the Loudoun horse-country scene closer to Dulles. We provide hourly, as-directed wedding-day transportation built around valley venue logistics — long approach roads, orchard and vineyard parking fields, and ceremony sites set well back from the highway.",
@@ -360,7 +360,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Purcellville anchors western Loudoun's wine and farm-brewery scene, within easy reach of the wineries and farm venues that make this corner of the county one of Northern Virginia's busiest wedding destinations alongside neighboring Middleburg. We provide hourly, as-directed wedding-day transportation built around rural venue access, unpaved drives and ceremony sites set well back from Route 7.",
@@ -433,7 +433,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "65 mi · 70–85 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Fredericksburg's historic downtown — brick storefronts, riverfront venues and a cluster of 18th- and 19th-century buildings converted into event spaces — has made it a popular mid-Atlantic wedding destination roughly halfway between Washington and Richmond. We provide hourly, as-directed wedding-day transportation built around downtown's narrow one-way streets, limited event parking and venues within easy walking distance of each other.",
@@ -579,7 +579,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "6 mi · 10–15 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Sterling sits directly next to Dulles Airport, which makes it a practical wedding base for couples with out-of-town guests flying in and a convenient staging point for weddings at nearby Loudoun wineries and event venues. We provide hourly, as-directed wedding-day transportation covering hotel pickups, venue ceremonies and guest shuttles for weddings based in or near Sterling.",
@@ -692,7 +692,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Amazon HQ2 and the National Landing corridor?", a: "Yes, we regularly transport employees, contractors and visitors between Crystal City, Pentagon City and client sites across Arlington and DC." },
       { q: "Can you handle a recurring office-to-airport pickup schedule?", a: "Yes. A standing corporate account keeps every transfer billed consistently with the same flat rate." },
       { q: "Do you offer monthly invoicing for Crystal City corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for a Crystal City meeting day?", a: "Sedans and SUVs for individual travelers, plus 14-passenger Sprinter vans for larger teams moving between meetings." },
+      { q: "What vehicles are available for a Crystal City meeting day?", a: "Sedans and SUVs for individual travelers, plus 13-passenger Sprinter vans for larger teams moving between meetings." },
     ],
     related: [
       { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
@@ -759,7 +759,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Pentagon-adjacent contractor and consultant travel?", a: "Yes, we regularly transport contractors, consultants and vendors with business at or near the Pentagon and nearby federal offices." },
       { q: "Can you handle a recurring meeting-day schedule across Pentagon City and Crystal City?", a: "Yes. A standing corporate account keeps every transfer billed consistently with the same flat rate." },
       { q: "Do you offer monthly invoicing for Pentagon City corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for a Pentagon City meeting day?", a: "Sedans and SUVs for individual travelers, plus 14-passenger Sprinter vans for larger contractor or vendor teams." },
+      { q: "What vehicles are available for a Pentagon City meeting day?", a: "Sedans and SUVs for individual travelers, plus 13-passenger Sprinter vans for larger contractor or vendor teams." },
     ],
     related: [
       { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
@@ -826,7 +826,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve corporate travel within Richmond itself, not just airport transfers?", a: "Yes, we run local point-to-point corporate transportation across downtown Richmond and the Innsbrook and Boulders business corridors." },
       { q: "Can you handle a recurring Richmond-to-Dulles travel schedule?", a: "Yes. A standing corporate account keeps every transfer billed consistently with the same flat rate." },
       { q: "Do you offer monthly invoicing for Richmond corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for Richmond corporate travel?", a: "Sedans and SUVs for individual executives, plus 14-passenger Sprinter vans for larger teams or client groups." },
+      { q: "What vehicles are available for Richmond corporate travel?", a: "Sedans and SUVs for individual executives, plus 13-passenger Sprinter vans for larger teams or client groups." },
     ],
     related: [
       { label: "Richmond Limo Service", to: "/richmond-va-limo-service" },
@@ -893,7 +893,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Can you handle Naval Academy contractor or vendor visits?", a: "Yes, we regularly transport contractors and vendors with business at or near the Naval Academy, and confirm gate requirements in advance." },
       { q: "Do you serve state-government offices in downtown Annapolis?", a: "Yes, we run daily corporate transportation through downtown Annapolis's state-government and maritime-industry corridor." },
       { q: "Do you offer monthly invoicing for Annapolis corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for an Annapolis corporate meeting day?", a: "Sedans and SUVs for individual executives, plus 14-passenger Sprinter vans for larger teams or delegations." },
+      { q: "What vehicles are available for an Annapolis corporate meeting day?", a: "Sedans and SUVs for individual executives, plus 13-passenger Sprinter vans for larger teams or delegations." },
     ],
     related: [
       { label: "Annapolis Limo Service", to: "/annapolis-limo-service" },
@@ -960,7 +960,7 @@ export const MARYLAND_BATCH14 = [
       { q: "How far is Georgetown from Reagan National and Dulles airports?", a: "About 8 miles and 20 to 30 minutes from Reagan National, or about 25 miles and 40 to 50 minutes from Dulles." },
       { q: "Can you navigate Georgetown's narrow, one-way streets?", a: "Yes, our chauffeurs know which blocks allow a brief stop and the nearest legal loading zones for each office." },
       { q: "Do you offer monthly invoicing for Georgetown corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for a Georgetown client visit?", a: "Sedans and SUVs for individual executives, plus 14-passenger Sprinter vans for larger delegations." },
+      { q: "What vehicles are available for a Georgetown client visit?", a: "Sedans and SUVs for individual executives, plus 13-passenger Sprinter vans for larger delegations." },
     ],
     related: [
       { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
@@ -1027,7 +1027,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Can you navigate Columbia's office-park campuses?", a: "Yes, we confirm the exact building and visitor-entrance instructions for each campus before every pickup." },
       { q: "Do you serve biotech and tech companies in Columbia?", a: "Yes, we regularly transport employees, clients and vendors for biotech, tech and professional-services companies throughout the Columbia corridor." },
       { q: "Do you offer monthly invoicing for Columbia corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for a Columbia corporate meeting day?", a: "Sedans and SUVs for individual travelers, plus 14-passenger Sprinter vans for larger teams moving between office parks." },
+      { q: "What vehicles are available for a Columbia corporate meeting day?", a: "Sedans and SUVs for individual travelers, plus 13-passenger Sprinter vans for larger teams moving between office parks." },
     ],
     related: [
       { label: "Columbia MD Limo Service", to: "/columbia-md-limo-service" },
@@ -1094,7 +1094,7 @@ export const MARYLAND_BATCH14 = [
       { q: "How far is Great Falls from Dulles and Reagan National?", a: "About 20 to 30 minutes from Dulles and 35 to 50 minutes from Reagan National, depending on traffic." },
       { q: "Can you handle a recurring executive travel schedule for a Great Falls household or small office?", a: "Yes. A standing corporate account keeps every transfer billed consistently with the same flat rate." },
       { q: "Do you offer monthly invoicing for Great Falls corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for Great Falls executive travel?", a: "Sedans and SUVs for individual executives, plus a 14-passenger Sprinter van when a larger group is traveling together." },
+      { q: "What vehicles are available for Great Falls executive travel?", a: "Sedans and SUVs for individual executives, plus a 13-passenger Sprinter van when a larger group is traveling together." },
     ],
     related: [
       { label: "Great Falls Limo Service", to: "/great-falls-limo-service" },
@@ -1161,7 +1161,7 @@ export const MARYLAND_BATCH14 = [
       { q: "How far is Capitol Hill from Reagan National and Dulles airports?", a: "About 6 miles and 15 to 25 minutes from Reagan National, or about 28 miles and 40 to 55 minutes from Dulles." },
       { q: "Can you handle Capitol Hill's security perimeter and restricted streets?", a: "Yes, our chauffeurs know which blocks allow a brief stop near each House and Senate office building." },
       { q: "Do you offer monthly invoicing for Capitol Hill corporate accounts?", a: "Yes, consolidated monthly invoicing with trip-level detail is available for a standing account." },
-      { q: "What vehicles are available for a Capitol Hill client visit?", a: "Sedans and SUVs for individual executives, plus 14-passenger Sprinter vans for larger delegations." },
+      { q: "What vehicles are available for a Capitol Hill client visit?", a: "Sedans and SUVs for individual executives, plus 13-passenger Sprinter vans for larger delegations." },
     ],
     related: [
       { label: "Capitol Hill Limo Service", to: "/capitol-hill-limo-service" },
@@ -1188,7 +1188,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "28 mi · 40–55 minutes" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Prom night in Bethesda means a group of students, a dinner stop, the dance itself, and often an after-party — and parents want one word for the whole evening: safe. We provide licensed, insured prom transportation for Bethesda-area high schools with a professional chauffeur who stays with the group for every stop on the itinerary, confirmed in writing before the night.",
@@ -1218,7 +1218,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 14-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate and the same licensed chauffeur for the night.",
+          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate and the same licensed chauffeur for the night.",
         ],
       },
       {
@@ -1233,7 +1233,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Bethesda-area high schools for prom?", a: "Yes, we regularly serve Bethesda and neighboring Montgomery County high schools for prom night." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening." },
       { q: "Can we book dinner, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 14-passenger Sprinter van covers larger groups splitting the cost." },
+      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost." },
       { q: "How far ahead should we book Bethesda prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly." },
     ],
     related: [
@@ -1261,7 +1261,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–55 minutes, depending on traffic" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Arlington prom nights usually run through a few stops — dinner in Clarendon or Ballston, the dance itself, and a group after-party — and parents book a professional chauffeur for exactly the reason they'd book one for an airport run: a confirmed vehicle, a licensed driver, and no one in the group behind the wheel. We cover the whole evening on one reservation, with the vehicle and chauffeur staying with the group at every stop.",
@@ -1291,7 +1291,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 14-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
+          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
         ],
       },
       {
@@ -1306,7 +1306,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Arlington-area high schools for prom?", a: "Yes, we regularly serve Arlington high schools, including students from Clarendon, Ballston, Rosslyn and Crystal City." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening." },
       { q: "Can we book dinner, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 14-passenger Sprinter van covers larger groups splitting the cost." },
+      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost." },
       { q: "How far ahead should we book Arlington prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly." },
     ],
     related: [
@@ -1334,7 +1334,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "40–60 minutes, depending on traffic" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Alexandria prom night often means a dinner stop in Old Town, the dance, and a group after-party, and parents choose a professional car service for the same reason they would for any evening with teenagers on the road: a licensed chauffeur, a confirmed vehicle, and no one in the group driving. We run the entire night on one reservation, with the chauffeur and vehicle staying with the group at every stop.",
@@ -1364,7 +1364,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 14-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
+          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
         ],
       },
       {
@@ -1379,7 +1379,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Alexandria-area high schools for prom?", a: "Yes, we regularly serve Alexandria high schools, including students from Old Town and neighboring Fairfax County communities." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening." },
       { q: "Can we book dinner in Old Town, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 14-passenger Sprinter van covers larger groups splitting the cost." },
+      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost." },
       { q: "How far ahead should we book Alexandria prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly." },
     ],
     related: [
@@ -1407,7 +1407,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "About 20–30 minutes, depending on traffic" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Vienna prom night typically means a dinner stop near Church Street or Tysons, the dance, and a group after-party — and parents book a professional chauffeur for exactly the reason they would for any night with a group of teenagers on the road: a confirmed vehicle, a licensed driver, and no one in the group driving. We run the entire night on one reservation, with the chauffeur and vehicle staying with the group at every stop.",
@@ -1437,7 +1437,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 14-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
+          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
         ],
       },
       {
@@ -1452,7 +1452,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Vienna-area high schools for prom?", a: "Yes, we regularly serve Vienna high schools, including students from neighboring Tysons and McLean communities." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening." },
       { q: "Can we book dinner, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 14-passenger Sprinter van covers larger groups splitting the cost." },
+      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost." },
       { q: "How far ahead should we book Vienna prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly." },
     ],
     related: [

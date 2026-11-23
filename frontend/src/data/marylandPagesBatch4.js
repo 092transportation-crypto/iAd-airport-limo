@@ -6,8 +6,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -82,7 +82,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can I book meet and greet for a group?",
-        a: "Yes. A Sprinter van carries up to 14 with luggage, and larger groups ride in coordinated vehicles that meet at the same carousel and depart together.",
+        a: "Yes. A Sprinter van carries up to 13 with luggage, and larger groups ride in coordinated vehicles that meet at the same carousel and depart together.",
       },
     ],
     related: [
@@ -915,7 +915,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you offer prom limo service for Centreville high schools?",
-        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 14, with pickup times and the route confirmed in writing for parents.",
+        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 13, with pickup times and the route confirmed in writing for parents.",
       },
     ],
     related: [
@@ -1078,7 +1078,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you run wine tours from Aldie?",
-        a: "Yes. Wine-country days are booked by the hour with unlimited stops. SUVs carry six and Sprinter vans carry up to 14, with room for purchases.",
+        a: "Yes. Wine-country days are booked by the hour with unlimited stops. SUVs carry six and Sprinter vans carry up to 13, with room for purchases.",
       },
       {
         q: "Can you provide wedding transportation for an Aldie vineyard venue?",
@@ -1162,7 +1162,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you run winery and brewery tours from Purcellville?",
-        a: "Yes. Tours are booked by the hour with unlimited stops, and the chauffeur waits at each vineyard or brewery. SUVs carry six and Sprinter vans carry up to 14.",
+        a: "Yes. Tours are booked by the hour with unlimited stops, and the chauffeur waits at each vineyard or brewery. SUVs carry six and Sprinter vans carry up to 13.",
       },
       {
         q: "Can you shuttle wedding guests from Leesburg hotels to a Purcellville venue?",
@@ -1252,7 +1252,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you run wine tours around Middleburg?",
-        a: "Yes. Wine-country days are booked by the hour with unlimited stops, and the chauffeur waits at each tasting room. SUVs carry six and Sprinter vans carry up to 14.",
+        a: "Yes. Wine-country days are booked by the hour with unlimited stops, and the chauffeur waits at each tasting room. SUVs carry six and Sprinter vans carry up to 13.",
       },
     ],
     related: [
@@ -1419,7 +1419,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you offer prom limo service for Vienna high schools?",
-        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 14, with the route and pickup times confirmed in writing for parents.",
+        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 13, with the route and pickup times confirmed in writing for parents.",
       },
     ],
     related: [
@@ -1584,7 +1584,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you offer prom limo service for Manassas high schools?",
-        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 14, with the route and pickup times confirmed in writing for parents.",
+        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 13, with the route and pickup times confirmed in writing for parents.",
       },
     ],
     related: [
@@ -1743,7 +1743,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you run wine tours from Haymarket?",
-        a: "Yes. Wine-country days are booked by the hour with unlimited stops along Route 15 and Route 55, and the chauffeur waits at each vineyard. SUVs carry six and Sprinter vans carry up to 14.",
+        a: "Yes. Wine-country days are booked by the hour with unlimited stops along Route 15 and Route 55, and the chauffeur waits at each vineyard. SUVs carry six and Sprinter vans carry up to 13.",
       },
       {
         q: "Can you provide wedding transportation for a Haymarket-area vineyard?",
@@ -1834,7 +1834,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you run wine tours in Fauquier County?",
-        a: "Yes. Wine-country days are booked by the hour with unlimited stops through Delaplane, Marshall and The Plains, and the chauffeur waits at each vineyard. SUVs carry six and Sprinter vans carry up to 14.",
+        a: "Yes. Wine-country days are booked by the hour with unlimited stops through Delaplane, Marshall and The Plains, and the chauffeur waits at each vineyard. SUVs carry six and Sprinter vans carry up to 13.",
       },
     ],
     related: [

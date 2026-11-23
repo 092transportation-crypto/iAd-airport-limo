@@ -6,6 +6,7 @@ import Seo from '../components/Seo';
 import posts, { isScheduledBlogPath } from '../data/blogData';
 import { GUIDES } from '../data/guides';
 import { ensureFiveFaqs } from '../lib/faqExtras';
+import { fleetImageAlt } from '../lib/fleetImageAlt';
 
 // Blog posts live at /blog/<slug>; guides (data/guides.js) share this template at /<slug>.
 const postPath = (p) => (GUIDES.includes(p) ? `/${p.slug}` : `/blog/${p.slug}`);
@@ -52,7 +53,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
         <div className="max-w-3xl mx-auto px-4 sm:px-6 -mt-6 md:-mt-8">
           <img
             src={post.image}
-            alt={post.title}
+            alt={fleetImageAlt(post.image, post.title)}
             className="w-full h-56 sm:h-72 md:h-96 object-cover border border-white/10"
             loading="eager"
           />
@@ -68,7 +69,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
           {post.sections.map((section, idx) => (
             <div key={idx} className="mt-10">
               <h2 className="font-display text-2xl sm:text-3xl text-white mb-5">{section.heading}</h2>
-              {section.paragraphs.map((para, pIdx) => (
+              {(section.paragraphs || []).map((para, pIdx) => (
                 <p key={pIdx} className="text-white/70 text-base sm:text-lg leading-relaxed mb-6">{para}</p>
               ))}
               {section.list && (
@@ -83,7 +84,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
               {section.subsections && section.subsections.map((sub, sIdx) => (
                 <div key={sIdx}>
                   <h3 className="font-display text-xl sm:text-2xl text-white mt-8 mb-4">{sub.heading}</h3>
-                  {sub.paragraphs.map((para, spIdx) => (
+                  {(sub.paragraphs || []).map((para, spIdx) => (
                     <p key={spIdx} className="text-white/70 text-base sm:text-lg leading-relaxed mb-6">{para}</p>
                   ))}
                 </div>

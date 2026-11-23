@@ -14,8 +14,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -35,7 +35,7 @@ export const MARYLAND_BATCH11 = [
     stats: [
       { label: "Dulles (IAD)", value: "15–25 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Tysons is a hotel-heavy, high-rise part of Northern Virginia, which makes it a common staging point for a wedding day even when the ceremony itself is elsewhere — a bridal party getting ready at a Tysons hotel, then moving to a ceremony and reception somewhere in McLean, Vienna, Great Falls or downtown DC. We build that kind of day as one hourly reservation rather than a series of separate rides.",
@@ -105,7 +105,7 @@ export const MARYLAND_BATCH11 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Downtown Bethesda's density of hotels and restaurants makes it a frequent wedding-day base in Montgomery County, whether the ceremony itself is at a downtown venue or the day includes a drive out to a reception elsewhere in the DC area. We run Bethesda wedding days as one hourly reservation, with the same chauffeur and vehicle dedicated to the wedding party from getting-ready through the reception exit.",
@@ -174,7 +174,7 @@ export const MARYLAND_BATCH11 = [
     stats: [
       { label: "Reagan (DCA)", value: "10–20 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Arlington wedding days frequently cross into Washington, DC for part of the itinerary — a ceremony at an Arlington venue, photos near the Potomac, and a reception downtown, or the reverse. We build that kind of cross-jurisdiction day as one hourly reservation, so a chauffeur familiar with both Arlington's streets and the District's bridges and traffic patterns handles the whole route.",
@@ -261,7 +261,7 @@ export const MARYLAND_BATCH11 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 14-passenger Sprinter van" },
+      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Potomac's private estates, country clubs and conference-center venues host a steady calendar of weddings, and the area's winding, unmarked roads reward a chauffeur who already knows the way rather than one following a map app through a gravel driveway for the first time. We build Potomac wedding days as one hourly reservation, from getting-ready through the reception exit.",
@@ -447,7 +447,7 @@ export const MARYLAND_BATCH11 = [
       { q: "Can you run a shuttle for a multi-day conference at Gaylord National?", a: "Yes. We build a shuttle schedule around your conference's attendee volume and session times, with contingency built in for delays." },
       { q: "Do you offer direct corporate billing?", a: "Yes. We set up direct billing and monthly invoicing for companies and event planners booking National Harbor transportation regularly." },
       { q: "Should international attendees use Dulles instead of Reagan?", a: "Yes, Dulles is the practical choice for international itineraries even though it runs a longer drive — about 50 to 65 minutes from National Harbor." },
-      { q: "Can you handle a visiting team of six or more?", a: "Yes. A luxury SUV covers up to six passengers with luggage; for larger teams a Mercedes Sprinter van seats up to 14." },
+      { q: "Can you handle a visiting team of six or more?", a: "Yes. A luxury SUV covers up to six passengers with luggage; for larger teams a Mercedes Sprinter van seats up to 13." },
     ],
     related: [
       { label: "National Harbor Transportation", to: "/national-harbor-transportation" },
@@ -602,7 +602,7 @@ export const MARYLAND_BATCH11 = [
       { q: "Can you handle a multi-site visit for a board member or investor in one day?", a: "Yes. Hourly, as-directed service keeps one vehicle and chauffeur with the group across multiple campuses on one reservation." },
       { q: "Should I use Dulles or Reagan for a trip along this corridor?", a: "Reagan National is generally faster for Bethesda-end addresses; Dulles is often the better choice for Gaithersburg-end addresses and international travel." },
       { q: "Do you offer direct corporate billing?", a: "Yes. We set up direct billing and monthly invoicing for biotech and healthcare companies booking this corridor regularly." },
-      { q: "Can you accommodate a visiting delegation of scientists or executives?", a: "Yes. SUVs cover small teams and a Mercedes Sprinter van seats up to 14 for larger visiting delegations." },
+      { q: "Can you accommodate a visiting delegation of scientists or executives?", a: "Yes. SUVs cover small teams and a Mercedes Sprinter van seats up to 13 for larger visiting delegations." },
     ],
     related: [
       { label: "Rockville Corporate Car Service", to: "/rockville-corporate-car-service" },

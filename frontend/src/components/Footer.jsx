@@ -25,7 +25,7 @@ const Footer = () => {
 
           {/* Services */}
           <div>
-            <h4 className="font-display text-white font-semibold mb-6">Services</h4>
+            <p className="font-display text-white font-semibold mb-6">Services</p>
             <ul className="space-y-4">
               {[
                 { name: 'Airport Transfers', path: '/airport-transfer' },
@@ -48,7 +48,7 @@ const Footer = () => {
 
           {/* Popular Routes */}
           <div>
-            <h4 className="font-display text-white font-semibold mb-6">Popular Routes</h4>
+            <p className="font-display text-white font-semibold mb-6">Popular Routes</p>
             <ul className="space-y-4">
               {[
                 { name: 'IAD to Washington DC', path: '/iad-to-washington-dc' },
@@ -72,7 +72,7 @@ const Footer = () => {
 
           {/* Company */}
           <div>
-            <h4 className="font-display text-white font-semibold mb-6">Company</h4>
+            <p className="font-display text-white font-semibold mb-6">Company</p>
             <ul className="space-y-4">
               {[
                 { name: 'About Us', path: '/about' },
@@ -98,7 +98,7 @@ const Footer = () => {
 
           {/* Contact */}
           <div>
-            <h4 className="font-display text-white font-semibold mb-6">Contact</h4>
+            <p className="font-display text-white font-semibold mb-6">Contact</p>
             <div className="space-y-4">
               <a 
                 href="tel:+18776091919" 

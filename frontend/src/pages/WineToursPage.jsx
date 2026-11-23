@@ -14,7 +14,7 @@ const wineFaqs = [
   {
     question: 'Which Virginia wineries do your tours visit?',
     answer:
-      'We build custom itineraries across Loudoun and Fauquier County wine country — you choose the wineries, or we suggest favorites based on your group size and tastes.',
+      'We build custom itineraries across Loudoun and Fauquier County wine country. You choose the wineries, or we suggest favorites based on your group size and tastes.',
   },
   {
     question: 'How many wineries can we visit in one tour?',
@@ -24,7 +24,7 @@ const wineFaqs = [
   {
     question: 'What vehicles are available for wine tours?',
     answer:
-      'Luxury SUVs for small groups and Mercedes Sprinter vans seating up to 13 for larger parties — call (877) 609-1919 to match the vehicle to your group.',
+      'Luxury SUVs suit small groups, and Mercedes Sprinter vans seat up to 13 for larger parties. Call (877) 609-1919 to match the vehicle to your group.',
   },
   {
     question: 'How is wine tour pricing structured?',

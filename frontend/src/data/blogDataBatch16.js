@@ -56,7 +56,7 @@ const batch16 = [
       {
         heading: "Vehicle Choices for a Group",
         paragraphs: [
-          "A sedan covers one or two concertgoers comfortably. For a group, a Lincoln Navigator or Chevrolet Suburban seats up to six, and a Mercedes Sprinter van keeps a larger group of friends or a full tailgate crew together in one vehicle for the night - which matters more at Jiffy Lube Live than almost anywhere else in the region, since a group arriving and leaving in separate cars is exactly how people get split up in that exit crawl.",
+          "A sedan covers one or two concertgoers comfortably. For a group, a Lincoln Navigator seats up to six and a Chevrolet Suburban up to five, and a Mercedes Sprinter van keeps a larger group of friends or a full tailgate crew together in one vehicle for the night - which matters more at Jiffy Lube Live than almost anywhere else in the region, since a group arriving and leaving in separate cars is exactly how people get split up in that exit crawl.",
           "The vehicle choice also affects how the night starts, not just how it ends. A Sprinter van means everyone leaves the pregame or dinner together rather than coordinating two or three separate rideshare pickups beforehand, which is its own small headache before a show even if the venue traffic were not a factor at all.",
         ],
       },
@@ -104,7 +104,7 @@ const batch16 = [
       {
         question: "What vehicle works best for a group going to a concert?",
         answer:
-          "A Lincoln Navigator or Chevrolet Suburban comfortably seats up to six; a Mercedes Sprinter van keeps a larger group or tailgate crew together in one vehicle for the whole night.",
+          "A Lincoln Navigator comfortably seats up to six and a Chevrolet Suburban up to five; a Mercedes Sprinter van keeps a larger group or tailgate crew together in one vehicle for the whole night.",
       },
       {
         question: "How far ahead should I book for a big tour date?",
@@ -212,7 +212,7 @@ const batch16 = [
       {
         question: "What vehicle fits a family attending a graduation together?",
         answer:
-          "A Lincoln Navigator or Chevrolet Suburban comfortably keeps a family of five or six together, including older relatives who would rather not walk from an overflow lot; a Mercedes Sprinter van covers a larger group.",
+          "A Chevrolet Suburban (five seats) or Lincoln Navigator (six) comfortably keeps a family together, including older relatives who would rather not walk from an overflow lot; a Mercedes Sprinter van covers a larger group.",
       },
       {
         question: "Do you serve EagleBank Arena for concerts as well as George Mason sports and graduations?",

@@ -147,7 +147,7 @@ const batch12 = [
       {
         question: 'What vehicles does IAD Airport Limo offer?',
         answer:
-          'Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup.',
+          'Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup.',
       },
       {
         question: 'Does it matter which term I use when I book?',
@@ -842,9 +842,9 @@ const batch12 = [
           'A weighted split, where shorter-leg riders pay somewhat less, is more equitable — though many groups find an even split simpler for a one-time event.',
       },
       {
-        question: 'What vehicle fits a group of 10–14?',
+        question: 'What vehicle fits a group of 10–13?',
         answer:
-          'A 14-passenger Mercedes Sprinter van is the standard choice for groups that size, keeping everyone together in one vehicle.',
+          'A 13-passenger Mercedes Sprinter van is the standard choice for groups that size, keeping everyone together in one vehicle.',
       },
     ],
     relatedLinks: [

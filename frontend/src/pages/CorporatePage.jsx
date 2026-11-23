@@ -10,7 +10,7 @@ const corporateFaqs = [
   {
     question: 'What does a corporate account include?',
     answer:
-      'Centralized booking for travel coordinators, consolidated monthly invoicing, fixed rates for your common routes, priority dispatch, and automatic flight tracking on every airport trip.',
+      'A corporate account gives travel coordinators centralized booking and consolidated monthly invoicing. It also includes fixed rates for your common routes, priority dispatch, and automatic flight tracking on every airport trip.',
   },
   {
     question: 'Can executive assistants book on behalf of travelers?',

@@ -15,7 +15,7 @@ const promFaqs = [
   {
     question: 'How many friends can share a prom vehicle?',
     answer:
-      'SUVs seat up to 6, stretch limos up to 8, and party Sprinters up to 12 — sharing a larger vehicle usually costs less per person.',
+      'SUVs seat up to 6, stretch limos up to 8, and party Sprinters up to 12. Sharing a larger vehicle usually costs less per person.',
   },
   {
     question: 'When should we book for prom season?',

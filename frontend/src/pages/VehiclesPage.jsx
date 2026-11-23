@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import { Users, Car, Check, Star, ArrowRight } from 'lucide-react';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import { fleetImageAlt } from '../lib/fleetImageAlt';
 
 const vehicleSeo = {
   sedans: {
@@ -15,7 +16,7 @@ const vehicleSeo = {
   suv: {
     title: 'Luxury SUVs | Dulles Airport Limo Fleet',
     description:
-      'Premium SUVs for IAD transfers — Lincoln Nautilus, Chevrolet Suburban & Lincoln Navigator seating up to 6 with full luggage. Book online or call (877) 609-1919.',
+      'Premium SUVs for IAD transfers — Lincoln Nautilus, Chevrolet Suburban (5) & Lincoln Navigator (6) with full luggage. Book online or call (877) 609-1919.',
   },
   sprinters: {
     title: 'Sprinter Vans | IAD Group Airport Transportation',
@@ -33,12 +34,12 @@ const vehiclesFaqs = [
   {
     question: 'How do I choose the right vehicle for my trip?',
     answer:
-      'Count passengers and checked bags: sedans fit 3 passengers with 2 bags, SUVs fit 6 with 5-6 bags, and Sprinter vans fit up to 13. Our team can advise at (877) 609-1919.',
+      'Count passengers and checked bags: sedans fit 3 passengers with 2 bags, the Lincoln Nautilus fits 3 with 4 bags, the Chevrolet Suburban 5 and the Lincoln Navigator 6 with 5 bags each, and Sprinter vans fit up to 13. Our team can advise at (877) 609-1919.',
   },
   {
     question: 'Do all vehicles come with a professional chauffeur?',
     answer:
-      'Yes. Every vehicle is chauffeured by a background-checked professional under our licensed and insured Virginia and Maryland carrier authority.',
+      'Yes. Every vehicle is chauffeured by a background-checked professional under our licensed and insured Virginia and Maryland carrier authority. Your chauffeur tracks your flight on airport pickups and meets you at the time and place on your written confirmation.',
   },
   {
     question: 'Can I see the exact vehicle before booking?',
@@ -56,8 +57,8 @@ const VehiclesPage = () => {
     sedan: '/images/mercedes-e-class.webp',
     bmw7: '/images/bmw-7-series.webp',
     nautilus: '/images/lincoln-nautilus.webp',
-    suburban: '/images/chevy-suburban.webp',
-    suv: '/images/cadillac-escalade.webp',
+    suburban: '/images/chevrolet-suburban.webp',
+    suv: '/images/lincoln-navigator.webp',
     sprinter: '/images/mercedes-sprinter.webp',
     sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
     sprinterLimo: '/images/limousine.webp',
@@ -185,7 +186,7 @@ const VehiclesPage = () => {
         name: 'BMW 7 Series',
         subtitle: 'Executive Performance',
         pax: 3, luggage: 2,
-        image: images.sedan,
+        image: images.bmw7,
         features: ['Executive Lounge', 'Panoramic Roof', 'Harman Kardon Audio', 'Ambient Lighting', 'Heated Seats', 'WiFi Hotspot'],
         description: 'The BMW 7 Series combines athletic performance with supreme comfort. Its cutting-edge technology and refined interior create an exceptional travel experience.'
       }
@@ -197,10 +198,10 @@ const VehiclesPage = () => {
       vehicle: {
         name: 'Lincoln Navigator',
         subtitle: 'Premium SUV',
-        pax: 5, luggage: 5,
+        pax: 6, luggage: 5,
         image: images.suv,
-        features: ['Third Row Seating', 'Premium Bose Audio', 'Tri-Zone Climate', 'Night Vision', 'Magnetic Ride Control', 'Heads-Up Display'],
-        description: 'The Lincoln Navigator makes a statement wherever it goes. With room for up to 5 passengers and generous luggage space, it\'s the perfect choice for airport runs and special occasions.'
+        features: ['Third Row Seating', 'Premium Audio', 'Tri-Zone Climate', 'Heads-Up Display', 'Leather Interior', 'Climate Control'],
+        description: 'The Lincoln Navigator makes a statement wherever it goes. With room for up to 6 passengers and generous luggage space, it\'s the perfect choice for airport runs and special occasions.'
       }
     },
     'chevy-suburban': {
@@ -210,8 +211,8 @@ const VehiclesPage = () => {
       vehicle: {
         name: 'Chevy Suburban',
         subtitle: 'Full-Size SUV',
-        pax: 6, luggage: 6,
-        image: images.suv,
+        pax: 5, luggage: 5,
+        image: images.suburban,
         features: ['Spacious Interior', 'Fold-Flat Seats', 'Ample Cargo', 'Smooth Ride', 'Climate Control', 'USB Ports'],
         description: 'The Chevy Suburban offers unmatched space and versatility. Perfect for families, groups, and anyone who needs extra room for passengers and luggage.'
       }
@@ -283,12 +284,12 @@ const VehiclesPage = () => {
       'Availability on the 7 Series is more limited than our standard Business Sedan, so for an important date — a board visit, a VIP client arrival — request it specifically and book a few days ahead rather than assuming it will be available same-day.',
     ],
     'cadillac-escalade': [
-      'The Lincoln Navigator is our boldest SUV, built for groups of up to five passengers who want the capacity of a full-size SUV without sacrificing a genuinely luxury interior — third-row seating, Bose premium audio, tri-zone climate control and features like night vision and a heads-up display that go well beyond a standard rental-class SUV.',
-      'Families flying into Dulles with substantial luggage, wedding parties needing a statement vehicle for the couple, and corporate clients hosting a small group all request the Navigator specifically for the combination of space and presence it brings — it reads as a premium vehicle from the outside while comfortably seating five with full luggage inside. Magnetic ride control keeps the cabin smooth even on longer highway transfers to Baltimore, Richmond or the Eastern Shore.',
+      'The Lincoln Navigator is our boldest SUV, built for groups of up to six passengers who want the capacity of a full-size SUV without sacrificing a genuinely luxury interior — third-row seating, premium audio, tri-zone climate control and a heads-up display that go well beyond a standard rental-class SUV.',
+      'Families flying into Dulles with substantial luggage, wedding parties needing a statement vehicle for the couple, and corporate clients hosting a small group all request the Navigator specifically for the combination of space and presence it brings — it reads as a premium vehicle from the outside while comfortably seating six with full luggage inside. Its smooth, quiet ride suits longer highway transfers to Baltimore, Richmond or the Eastern Shore.',
       'Every Navigator booking includes the same flight tracking, 45-to-60-minute wait allowance and background-checked chauffeur standard as the rest of our fleet — the upgrade is entirely in the vehicle, not the service model underneath it.',
     ],
     'chevy-suburban': [
-      'The Chevrolet Suburban is our most practical full-size SUV, built around maximizing usable space for families and groups rather than maximizing styling — fold-flat seats, generous cargo room and a famously smooth ride make it the vehicle we recommend most often for a family of six traveling with a full set of checked luggage, golf clubs or ski gear.',
+      'The Chevrolet Suburban is our most practical full-size SUV, built around maximizing usable space for families and groups rather than maximizing styling — fold-flat seats, generous cargo room and a famously smooth ride make it the vehicle we recommend most often for a family of five traveling with a full set of checked luggage, golf clubs or ski gear.',
       'It is a regular choice for airport transfers where luggage volume is the deciding factor rather than passenger count alone, and for group bookings where everyone needs to travel together with room to spare rather than splitting into two vehicles. The Suburban\'s ride quality holds up well on longer transfers beyond the immediate Dulles area, which makes it a common request for trips to Richmond, the Eastern Shore or Ocean City.',
       'As with every vehicle in our fleet, Suburban bookings include flight tracking on airport pickups, a background-checked professional chauffeur, and a flat rate confirmed before you travel.',
     ],
@@ -365,7 +366,7 @@ const VehiclesPage = () => {
               <div>
                 <img 
                   src={currentData.vehicle.image} 
-                  alt={`${currentData.vehicle.name} — IAD Airport Limo chauffeured vehicle for Dulles airport transfers`}
+                  alt={fleetImageAlt(currentData.vehicle.image, currentData.vehicle.name)}
                   className="w-full h-96 object-cover"
                 />
               </div>
@@ -416,7 +417,7 @@ const VehiclesPage = () => {
                   <div className="relative h-56 overflow-hidden">
                     <img 
                       src={vehicle.image} 
-                      alt={`${vehicle.name} — Dulles airport limo and black car service`}
+                      alt={fleetImageAlt(vehicle.image, vehicle.name)}
                       className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                     />
                   </div>

@@ -25,7 +25,7 @@ const weddingFaqs = [
   {
     question: 'What areas do you serve for weddings?',
     answer:
-      'All of Washington DC, Maryland, and Virginia — venues from DC hotels to Loudoun County vineyards and Annapolis waterfronts.',
+      'We serve weddings across all of Washington DC, Maryland, and Virginia. That includes venues from DC hotels to Loudoun County vineyards and Annapolis waterfronts.',
   },
   {
     question: 'Do you have dedicated wedding transportation pages for specific cities?',
@@ -35,7 +35,7 @@ const weddingFaqs = [
   {
     question: 'How many vehicles does a typical wedding party need?',
     answer:
-      'It depends on your guest count and venues — see our guide on how many cars a wedding party needs for a breakdown by party size, or call (877) 609-1919 and we will size it for your specific day.',
+      'It depends on your guest count and venues. Our guide on how many cars a wedding party needs breaks it down by party size, or call (877) 609-1919 and we will size it for your specific day.',
   },
 ];
 

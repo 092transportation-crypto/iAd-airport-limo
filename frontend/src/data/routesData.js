@@ -282,7 +282,7 @@ const routes = [
       {
         question: 'Can you pick up my whole family with luggage at IAD?',
         answer:
-          'Yes. Our Chevrolet Suburban and Lincoln Navigator SUVs carry up to six passengers with a full load of luggage, and Sprinter vans handle groups up to 13.',
+          'Yes. Our Lincoln Navigator carries up to six passengers and our Chevrolet Suburban up to five, each with a full load of luggage, and Sprinter vans handle groups up to 13.',
       },
       {
         question: 'Do you offer meet and greet inside the terminal at Dulles?',
@@ -769,7 +769,7 @@ const routes = [
         heading: 'Certainty on a Route Where Rideshares Hesitate',
         paragraphs: [
           'Cross-river trips from IAD into Maryland are among the most frequently declined rides on rideshare platforms, and the surge pricing when it rains on the Beltway is notorious. We remove the variables: your chauffeur is assigned when you book, the flat rate is confirmed in writing, and the vehicle that arrives is a detailed executive sedan or SUV — not a coin flip.',
-          'Families flying into Dulles appreciate our SUVs — Suburban and Navigator — with room for six passengers and a full luggage load, and child seats are available on request. Every trip is operated by a licensed and insured Virginia and Maryland carrier with commercial insurance and vetted chauffeurs.',
+          'Families flying into Dulles appreciate our SUVs — Suburban and Navigator — with room for five or six passengers and a full luggage load, and child seats are available on request. Every trip is operated by a licensed and insured Virginia and Maryland carrier with commercial insurance and vetted chauffeurs.',
         ],
       },
       {
@@ -1878,7 +1878,7 @@ const routes = [
         heading: 'A Fixed Rate Across the River, Every Time',
         paragraphs: [
           'Cross-river trips from IAD into Maryland are the rides rideshare drivers decline most, and Beltway weather turns their pricing volatile precisely when you need the ride most. Our model removes the gamble: your chauffeur is committed the moment you book, the flat rate is confirmed in writing, and meet and greet at baggage claim is available on every reservation.',
-          'Solo business travelers typically choose a Mercedes-Benz or BMW executive sedan; families flying into Dulles with vacation luggage take a Suburban or Navigator with genuine room for six plus bags. Child seats are available on request, and every trip is operated by a licensed and insured Virginia and Maryland carrier.',
+          'Solo business travelers typically choose a Mercedes-Benz or BMW executive sedan; families flying into Dulles with vacation luggage take a Suburban (five passengers) or Navigator (six) with genuine room for bags. Child seats are available on request, and every trip is operated by a licensed and insured Virginia and Maryland carrier.',
         ],
       },
       {

@@ -23,7 +23,7 @@ const batch9 = [
         list: [
           'Executive sedan (1–3 passengers): low-to-mid $100s, all-in',
           'Luxury SUV (up to 6 passengers): mid $100s to low $200s, all-in',
-          'Sprinter van (up to 14 passengers): above SUV pricing, varies by group size and date',
+          'Sprinter van (up to 13 passengers): above SUV pricing, varies by group size and date',
           'Stretch limousine: priced similarly to Sprinter, more common for celebrations than straight transfers',
         ],
       },

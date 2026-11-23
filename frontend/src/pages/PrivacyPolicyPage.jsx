@@ -8,12 +8,12 @@ const privacyFaqs = [
   {
     question: 'What personal information does IAD Airport Limo collect?',
     answer:
-      'Booking details you provide — name, contact information, pickup and drop-off addresses, and flight numbers — plus standard technical data when you visit our website.',
+      'We collect the booking details you provide: name, contact information, pickup and drop-off addresses, and flight numbers. We also collect standard technical data when you visit our website.',
   },
   {
     question: 'Does IAD Airport Limo share my information with third parties?',
     answer:
-      'We share information only with service providers needed to operate our business, such as payment processors and booking systems, and never sell your personal data.',
+      'We share information only with service providers needed to operate our business, such as payment processors and booking systems. We never sell your personal data.',
   },
 ];
 

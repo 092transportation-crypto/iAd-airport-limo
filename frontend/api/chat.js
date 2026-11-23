@@ -58,6 +58,7 @@ REAL FACTS — use only these, never invent others:
   • Sprinter Shuttle — Mercedes Sprinter or similar — up to 13 passengers
   • Sprinter Executive — Mercedes Sprinter or similar — up to 13 passengers, executive interior
 - Services: airport transfers, corporate travel, wedding transportation, prom/school events, wine tours, concerts/events, hourly charter.
+- Payment: the card is charged once the reservation and rate are confirmed.
 - Cancellation policy: Sedans and SUVs can be cancelled free up to 3 hours before pickup. Sprinter vans, limousines and special events can be cancelled free up to 12 hours before pickup.
 
 TONE: Warm, concise, professional chauffeur-service tone. Keep replies to 2-4 sentences unless you're listing the fleet.
@@ -141,7 +142,7 @@ function formatMessages(raw) {
 const VEHICLE_ALIASES = [
   { key: 'Sprinter Executive', patterns: ['sprinter executive', 'executive sprinter', 'executive van'] },
   { key: 'Sprinter Van', patterns: ['sprinter shuttle', 'sprinter van', 'shuttle', 'sprinter'] },
-  { key: 'Premium SUV', patterns: ['premium suv', 'escalade'] },
+  { key: 'Premium SUV', patterns: ['premium suv', 'navigator', 'escalade'] },
   { key: 'Luxury SUV', patterns: ['luxury suv', 'suburban'] },
   { key: 'Mid-Size SUV', patterns: ['midsize suv', 'mid-size suv', 'mid size suv', 'nautilus', 'suv'] },
   { key: 'First Class', patterns: ['first class', 'bmw', 's-class', 'sclass'] },

@@ -13,7 +13,7 @@ const termsFaqs = [
   {
     question: 'Am I charged extra if my flight is delayed?',
     answer:
-      'No. Airport pickups include flight tracking and complimentary wait time — 45 minutes on domestic arrivals and 60 minutes on international — so normal flight delays do not add charges.',
+      'No. Airport pickups include flight tracking and complimentary wait time: 45 minutes on domestic arrivals and 60 minutes on international. Normal flight delays therefore do not add charges.',
   },
   {
     question: 'What counts as a no-show?',
@@ -84,7 +84,7 @@ const TermsPage = () => {
                   We accept all major credit cards (Visa, MasterCard, American Express, Discover), cash, and corporate accounts for approved businesses.
                 </p>
                 <p>
-                  Full payment or a deposit may be required at the time of booking. Any additional charges (tolls, parking, wait time) will be charged to the payment method on file.
+                  Your card is charged once the reservation and rate are confirmed. Any additional charges (tolls, parking, wait time) will be charged to the payment method on file.
                 </p>
               </div>
             </div>

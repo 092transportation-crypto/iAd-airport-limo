@@ -116,7 +116,7 @@ const batch8 = [
       {
         heading: 'SUVs: The Workhorse for Four to Six Travelers',
         paragraphs: [
-          'A midsize SUV like the Lincoln Nautilus handles four passengers with luggage comfortably, and a premium SUV like the Lincoln Navigator or a Chevrolet Suburban stretches that to five or six passengers with full-size luggage — the most frequently booked configuration for Dulles-area families and small business groups.',
+          'A midsize SUV like the Lincoln Nautilus handles four passengers with luggage comfortably, and a Chevrolet Suburban stretches that to five passengers and a Lincoln Navigator to six with full-size luggage — the most frequently booked configuration for Dulles-area families and small business groups.',
           'The Navigator specifically earns its popularity for group airport runs: six real seats, a cargo area that handles checked bags without stacking luggage on laps, and enough road presence that a group arriving for a conference or event doesn\'t feel like an afterthought. For a group of five to six with normal luggage, this is almost always the right call before jumping straight to a van.',
           'Families traveling with young children should note that an SUV\'s third row, where present, is usually sized for smaller adults or children rather than full-size adult passengers with their own luggage — if your group of six includes several large adults with full suitcases, it is worth confirming exact cargo and seating dimensions with your reservation specialist rather than assuming every six-passenger SUV fits your group the same way.',
           'A premium SUV also tends to be the preferred choice for a small corporate group that wants a vehicle with real presence for a client pickup or an executive arrival, without the formality of a stretch limousine or the scale of a full Sprinter van. The Navigator in particular has become something of a default recommendation for exactly this middle-ground use case across the industry.',
@@ -153,7 +153,7 @@ const batch8 = [
           {
             heading: 'Two Group Bookings That Almost Always Need a Sprinter',
             paragraphs: [
-              'Prom groups are a frequent example of exactly this sizing problem in practice: ten to fourteen students in formalwear, plus any shared accessories, almost always calls for a Sprinter van rather than splitting into two SUVs that risk arriving at the venue at different times — our city-specific prom limo pages cover how that group pricing and scheduling typically works.',
+              'Prom groups are a frequent example of exactly this sizing problem in practice: ten to thirteen students in formalwear, plus any shared accessories, almost always calls for a Sprinter van rather than splitting into two SUVs that risk arriving at the venue at different times — our city-specific prom limo pages cover how that group pricing and scheduling typically works.',
               'Wedding guest shuttles between a hotel block and a rural estate venue are the other common case, where a single Sprinter running a fixed loop handles far more guests per trip than individual sedans and avoids the parking problem many Loudoun and Fauquier venues create for a line of guest cars.',
             ],
           },
@@ -169,7 +169,7 @@ const batch8 = [
       { label: 'Warrenton Limo Service for Weddings', to: '/warrenton-wedding-limo-service' },
     ],
     faqs: [
-      { question: 'How many passengers fit in a Lincoln Navigator with luggage?', answer: 'A Lincoln Navigator comfortably seats five to six passengers with full-size luggage, making it the most popular choice for groups that outgrow a sedan but do not need a full Sprinter van.' },
+      { question: 'How many passengers fit in a Lincoln Navigator with luggage?', answer: 'A Lincoln Navigator comfortably seats up to six passengers with full-size luggage, making it the most popular choice for groups that outgrow a sedan but do not need a full Sprinter van.' },
       { question: 'When should I book a Sprinter van instead of an SUV?', answer: 'Once your group passes six travelers, or six travelers with an unusual amount of luggage like golf bags or trade-show material, a Sprinter van is the only option that keeps everyone in one vehicle for the full trip.' },
       { question: 'Do car seats count against vehicle capacity?', answer: 'Yes. A properly installed car seat takes up real passenger space alongside luggage, so families traveling with car seats should mention them when booking rather than relying on headcount alone.' },
       { question: 'Can I book multiple vehicles for a large group arriving at different times?', answer: 'Yes. Multiple vehicles can be coordinated against one shared schedule through a single dispatcher, which keeps a wedding party, conference group, or sports team arriving together rather than independently.' },
@@ -297,7 +297,7 @@ const batch8 = [
       {
         heading: 'Choosing the Vehicle for Your Wedding Party',
         paragraphs: [
-          'A sedan — Mercedes-Benz E-Class or BMW 7 Series — is the right choice for the couple\'s private exit: quiet, elegant, and sized for two to three passengers, not a full bridal party. A wedding party of four to six fits comfortably in a Lincoln Navigator or Chevrolet Suburban with room for garment bags, and a party of seven to thirteen needs a Sprinter van to stay together as one unit rather than splitting across two cars.',
+          'A sedan — Mercedes-Benz E-Class or BMW 7 Series — is the right choice for the couple\'s private exit: quiet, elegant, and sized for two to three passengers, not a full bridal party. A wedding party of up to six fits comfortably in a Lincoln Navigator, or up to five in a Chevrolet Suburban, with room for garment bags, and a party of seven to thirteen needs a Sprinter van to stay together as one unit rather than splitting across two cars.',
           'The most common sizing mistake: booking a vehicle for the wedding party and forgetting that the couple needs a separate, dedicated vehicle for their own exit at the end of the night — not the same vehicle that spent the day shuttling the wedding party and needs to be released and re-staged.',
           'Full-length gowns and multiple garment bags take up more room than most couples expect when estimating vehicle capacity — a wedding party that technically fits a vehicle\'s seat count by headcount alone can still feel genuinely cramped once dresses, shoes, and overnight bags for a destination-style wedding weekend are loaded in.',
           'Some couples also want the wedding party vehicle for a dedicated photo session rather than purely transportation — a Sprinter or classic limousine parked as a backdrop, or simply the group posing beside it — and mentioning this when booking lets the chauffeur plan a few extra minutes at that stop rather than treating the vehicle purely as transit between locations.',
@@ -352,7 +352,7 @@ const batch8 = [
     ],
     faqs: [
       { question: 'How far in advance should I book Northern Virginia wedding transportation?', answer: 'We recommend 2–4 months ahead for peak spring and fall Saturdays, since Sprinter vans and limousines book out first for wedding season. Last-minute requests are still accepted based on availability.' },
-      { question: 'What vehicle fits a 6-person wedding party with garment bags?', answer: 'A Lincoln Navigator or Chevrolet Suburban comfortably fits a wedding party of four to six with garment bags and luggage. A party of seven or more should move up to a Sprinter van to stay together in one vehicle.' },
+      { question: 'What vehicle fits a 6-person wedding party with garment bags?', answer: 'A Lincoln Navigator comfortably fits a wedding party of up to six, and a Chevrolet Suburban up to five, with garment bags and luggage. A party of seven or more should move up to a Sprinter van to stay together in one vehicle.' },
       { question: 'Do we need a separate vehicle for the couple\'s exit?', answer: 'Yes, typically. The vehicle used for the wedding party\'s daytime logistics usually needs to be released and re-staged, so most couples book a separate sedan or limousine reserved specifically for their own exit at the end of the night.' },
       { question: 'Can you provide guest shuttles for our hotel block?', answer: 'Yes. Guest shuttles between a hotel block and venue are a common add-on, especially at venues with limited on-site parking, and are booked as a block reservation with a set schedule rather than individual rides.' },
       { question: 'What is the cancellation policy for wedding bookings?', answer: 'Sprinter vans, limousines, and other special-event vehicles can be cancelled free of charge up to 12 hours before pickup, longer than the 3-hour window on a standard sedan or SUV transfer.' },
@@ -471,7 +471,7 @@ const batch8 = [
       {
         heading: 'Sizing the Vehicle for the Court of Honor',
         paragraphs: [
-          'A traditional court of honor of fourteen damas and chambelanes, plus the celebrant, is a group that needs a Sprinter van to travel together — splitting the court across multiple vehicles undercuts the whole point of a coordinated grand entrance. Smaller courts, or sweet sixteen celebrations without a formal court, often fit comfortably in a Lincoln Navigator or Chevrolet Suburban.',
+          'A full court of honor of damas and chambelanes, plus the celebrant, is a group that needs a Sprinter van to travel together — splitting the court across multiple vehicles undercuts the whole point of a coordinated grand entrance. Smaller courts, or sweet sixteen celebrations without a formal court, often fit comfortably in a Lincoln Navigator or Chevrolet Suburban.',
           'Confirm the exact court size when booking, including any younger escorts or family members joining the ride, so the vehicle is sized correctly from the start rather than discovered to be too small on the day itself.',
           'Formal wear for a court of honor — ball gowns for damas, tuxedos for chambelanes — takes up meaningfully more space than casual clothing, and a vehicle that comfortably fits the same headcount in street clothes can feel noticeably tighter once everyone is dressed for the event; mention the formality of the attire when booking so this is accounted for.',
           'Some families also want the celebrant to arrive in a separate, smaller vehicle from the rest of the court specifically for a more dramatic individual entrance, with the court itself arriving moments earlier. This is a reasonable and increasingly common request — just confirm it when booking so two coordinated vehicles are reserved rather than one, with their arrival timed to work together rather than independently.',
@@ -525,7 +525,7 @@ const batch8 = [
       { label: 'Book Now', to: '/book-now' },
     ],
     faqs: [
-      { question: 'What vehicle fits a full court of honor for a quinceañera?', answer: 'A traditional court of fourteen damas and chambelanes plus the celebrant needs a Sprinter van to travel together as one group. Smaller courts often fit in a Lincoln Navigator or Chevrolet Suburban.' },
+      { question: 'What vehicle fits a full court of honor for a quinceañera?', answer: 'A full court of damas and chambelanes plus the celebrant needs a Sprinter van to travel together as one group. Smaller courts often fit in a Lincoln Navigator or Chevrolet Suburban.' },
       { question: 'Can the vehicle cover both the church ceremony and the reception?', answer: 'Yes. Book the vehicle hourly for the full block of time covering the ceremony, any photo session, and arrival at the reception, rather than separate point-to-point trips.' },
       { question: 'How do you time the grand entrance correctly?', answer: 'Share your full schedule, including the approximate grand entrance time, with your reservation coordinator in advance, and confirm with the venue exactly where the vehicle should stage for the entrance.' },
       { question: 'How far in advance should we book for peak season?', answer: 'Book 4–8 weeks ahead for a standard celebration, earlier during peak spring and summer quinceañera and sweet sixteen season when Sprinter vans and limousines book out fastest.' },
@@ -562,7 +562,7 @@ const batch8 = [
       {
         heading: 'Sizing the Vehicle for Your Group',
         paragraphs: [
-          'A group of four to six fits comfortably in a Lincoln Navigator or Chevrolet Suburban, which is the most commonly booked configuration for this kind of night. Larger groups of seven to thirteen should book a Sprinter van to keep the full party together rather than splitting across two vehicles and risking a mismatched schedule between them.',
+          'A group of four to six fits comfortably in a Lincoln Navigator (or up to five in a Chevrolet Suburban), which is the most commonly booked configuration for this kind of night. Larger groups of seven to thirteen should book a Sprinter van to keep the full party together rather than splitting across two vehicles and risking a mismatched schedule between them.',
           'If the group plans to grow or shrink over the course of the night — some friends joining only for dinner, others only for the later stops — mention this when booking so the vehicle is sized for the largest point of the night, not the average.',
           'Groups celebrating with a more elaborate theme — matching outfits, decorations, a sash or sign for the guest of honor — should also confirm there is enough room for any items the group is bringing along, since party supplies take up real space alongside passengers.',
           'If the group plans to bring any drinks or a small cooler for the ride between venues, ask about the company\'s policy on this directly — some permit it for guests of legal drinking age within reasonable limits, while others restrict it, and knowing the policy before the night starts avoids an awkward conversation at the first pickup.',
@@ -642,7 +642,7 @@ const batch8 = [
       {
         heading: 'Choosing the Vehicle for Your Group',
         paragraphs: [
-          'A sedan or small SUV works well for a couple or a small group of three to four, while a Lincoln Navigator or Chevrolet Suburban comfortably handles a group of five to six with room for any wine purchases made along the way. Larger groups celebrating a birthday, anniversary, or just a group trip with friends should book a Sprinter van, which keeps the whole party together across every stop rather than coordinating two separate cars on the same route.',
+          'A sedan or small SUV works well for a couple or a small group of three to four, while a Lincoln Navigator comfortably handles a group of up to six and a Chevrolet Suburban up to five, with room for any wine purchases made along the way. Larger groups celebrating a birthday, anniversary, or just a group trip with friends should book a Sprinter van, which keeps the whole party together across every stop rather than coordinating two separate cars on the same route.',
           'Wine trail groups often buy bottles or cases along the way, which takes up real cargo space by the end of the day — mention this when booking if your group plans to shop, so the vehicle has room for both passengers and purchases.',
           'Temperature matters for wine purchases on a warm day — ask whether the vehicle\'s trunk or cargo area is climate-controlled if your group plans to buy several cases, since a hot trunk on a summer afternoon is not ideal for wine that will sit in the vehicle for the rest of the day.',
           'Groups celebrating a milestone sometimes also want a slightly more formal vehicle for the day even though it is a casual wine trail outing — a BMW 7 Series or Mercedes S-Class, for instance, rather than an SUV — simply for the experience of arriving at each winery in something a bit more special. This is entirely a matter of preference and worth mentioning at booking if it matters to your group.',
@@ -687,7 +687,7 @@ const batch8 = [
     faqs: [
       { question: 'How many wineries can we realistically visit in one day?', answer: 'Three stops is a comfortable, relaxed full day. Four is possible if the group moves efficiently, but five almost always feels rushed by the final stop. Plan for fewer stops with real time to enjoy each one.' },
       { question: 'Should wine trail transportation be booked hourly or as fixed trips?', answer: 'Hourly, as-directed booking is the better fit, since time spent at each winery is unpredictable. A fixed-trip booking adds pressure that an hourly reservation avoids entirely.' },
-      { question: 'What vehicle fits a group of 6 visiting the wine trail?', answer: 'A Lincoln Navigator or Chevrolet Suburban comfortably fits a group of five to six with room for wine purchases. Larger groups should book a Sprinter van to stay together across every stop.' },
+      { question: 'What vehicle fits a group of 6 visiting the wine trail?', answer: 'A Lincoln Navigator comfortably fits a group of up to six, and a Chevrolet Suburban up to five, with room for wine purchases. Larger groups should book a Sprinter van to stay together across every stop.' },
       { question: 'Do Loudoun County wineries require reservations?', answer: 'Many of the most popular wineries do, especially on weekends. Confirm your planned stops ahead of time rather than planning to walk in, and let your chauffeur know your rough itinerary when booking.' },
       { question: 'How far in advance should we book a weekend wine trail day?', answer: 'Book at least one to two weeks ahead for a Saturday or Sunday, earlier during fall harvest season or for a larger group needing a Sprinter van.' },
     ],
@@ -732,7 +732,7 @@ const batch8 = [
       {
         heading: 'Sizing the Vehicle for Your Group',
         paragraphs: [
-          'A group of four to six fits comfortably in a Lincoln Navigator or Chevrolet Suburban, the most commonly booked option for a game day outing. Larger groups — a company suite, a birthday celebration, a full group of friends — should book a Sprinter van to keep everyone together for both the arrival and, more importantly, the departure, when a crowd makes re-grouping with a second vehicle genuinely difficult.',
+          'A group of four to six fits comfortably in a Lincoln Navigator (or up to five in a Chevrolet Suburban), the most commonly booked option for a game day outing. Larger groups — a company suite, a birthday celebration, a full group of friends — should book a Sprinter van to keep everyone together for both the arrival and, more importantly, the departure, when a crowd makes re-grouping with a second vehicle genuinely difficult.',
           'If the group includes people flying in specifically for the event, coordinate the airport pickup and the game-day transportation as one combined booking rather than two separate reservations, so the full day is covered by one point of contact.',
           'Corporate groups with a suite or hospitality package at the venue sometimes find a Sprinter Executive configuration worthwhile for the ride over, giving the group a comfortable space to go over any hosting logistics before arriving rather than treating the drive as simply downtime.',
           'If the group includes both season-ticket regulars and first-time guests, mention this mix when booking — a chauffeur can plan a slightly more detailed drop-off and pickup briefing for guests less familiar with the venue, rather than assuming everyone already knows where to meet at the end of the night.',
@@ -905,7 +905,7 @@ const batch8 = [
       {
         heading: 'Vehicle Sizing for Group Celebrations',
         paragraphs: [
-          'A group of four to six fits well in a Lincoln Navigator or Chevrolet Suburban, the most common booking for a New Year\'s Eve group night out. Larger groups celebrating together should book a Sprinter van to stay together for the whole night rather than splitting across vehicles during the busiest traffic and pickup conditions of the year.',
+          'A group of four to six fits well in a Lincoln Navigator (or up to five in a Chevrolet Suburban), the most common booking for a New Year\'s Eve group night out. Larger groups celebrating together should book a Sprinter van to stay together for the whole night rather than splitting across vehicles during the busiest traffic and pickup conditions of the year.',
           'If your group includes people staying overnight at a hotel versus others heading home, confirm multiple drop-off points when booking so the night ends cleanly for everyone without a second reservation needed.',
           'For a larger office or friend-group celebration spanning more than one vehicle, coordinate all vehicles through a single dispatcher for the night so the group can regroup smoothly at the countdown venue rather than arriving separately with no coordination between the cars.',
           'If your group is mixing a dinner reservation with a separate countdown party at a different venue entirely, make sure the chauffeur has both addresses and a sense of which part of the group is going where — a split group plan is common on New Year\'s Eve and works fine with advance notice, but causes confusion if only discovered mid-evening.',
@@ -1390,7 +1390,7 @@ const batch8 = [
       {
         heading: 'Sizing the Vehicle for the Group',
         paragraphs: [
-          'A group of four to six fits comfortably in a Lincoln Navigator or Chevrolet Suburban, the most common booking for this kind of trip. Larger groups of seven or more should book a Sprinter van to keep everyone together for both the trip out and, especially, the return trip, when a late-night crowd makes coordinating two separate vehicles noticeably harder.',
+          'A group of four to six fits comfortably in a Lincoln Navigator (or up to five in a Chevrolet Suburban), the most common booking for this kind of trip. Larger groups of seven or more should book a Sprinter van to keep everyone together for both the trip out and, especially, the return trip, when a late-night crowd makes coordinating two separate vehicles noticeably harder.',
           'If the group\'s size might grow over the course of the evening — friends meeting up later — mention this when booking so the vehicle is sized for the largest point of the night.',
           'Groups celebrating a specific occasion at the casino — a birthday, a bachelor or bachelorette night extension — should mention this when booking, since the chauffeur can plan around a livelier group and a potentially later-than-average night more effectively with that context in advance.',
           'If your group plans to split up at the casino itself — some at the tables, others at a show or a restaurant — agree on a single meeting point for the end of the night before everyone splits up, and share that same meeting point with your chauffeur so pickup is straightforward once the group reconverges.',
@@ -1418,7 +1418,7 @@ const batch8 = [
     faqs: [
       { question: 'How long is the drive from Northern Virginia to MGM National Harbor?', answer: 'Typically 45 minutes to over an hour depending on time of day, with Beltway traffic adding real unpredictability during evening rush hour. Build in buffer rather than cutting the timing close.' },
       { question: 'Why does the ride home need more planning than the trip out?', answer: 'Casino nights rarely end on a predictable schedule, and arranging a late-night rideshare from a busy casino pickup zone can be genuinely difficult. A pre-arranged pickup at a confirmed (and flexible) time solves this.' },
-      { question: 'What vehicle fits a group of 6 going to National Harbor?', answer: 'A Lincoln Navigator or Chevrolet Suburban comfortably fits a group of four to six. Groups of seven or more should book a Sprinter van to stay together for both the trip out and the return.' },
+      { question: 'What vehicle fits a group of 6 going to National Harbor?', answer: 'A Lincoln Navigator comfortably fits a group of up to six, and a Chevrolet Suburban up to five. Groups of seven or more should book a Sprinter van to stay together for both the trip out and the return.' },
       { question: 'Should the trip be booked hourly or as a round trip?', answer: 'Hourly is the better fit if the evening includes dinner, the casino floor, and possibly a show, since it lets the chauffeur adjust to the evening\'s actual timing rather than a fixed schedule.' },
       { question: 'How far in advance should we book for a weekend night?', answer: 'At least a week ahead for a Friday or Saturday night, earlier if a Sprinter van is needed for a larger group or if the night coincides with a concert or event at the adjacent venues.' },
     ],

@@ -27,7 +27,7 @@ const GROUPS = [
 ];
 
 const faqs = [
-  { question: 'What areas does IAD Airport Limo cover?', answer: 'Northern Virginia — Loudoun, Fairfax, Arlington and Alexandria — plus Washington DC and Maryland, with airport service at Dulles (IAD), Reagan National (DCA) and BWI.' },
+  { question: 'What areas does IAD Airport Limo cover?', answer: 'We cover Northern Virginia (Loudoun, Fairfax, Arlington and Alexandria) plus Washington DC and Maryland. Airport service runs at Dulles (IAD), Reagan National (DCA) and BWI.' },
   { question: 'My town is not listed — can I still book?', answer: 'Almost certainly. The listed pages are the places we are asked about most, not the limit of where we drive. Send your addresses through the booking form or call (877) 609-1919.' },
   { question: 'Is the rate the same from every town?', answer: 'No — rates depend on distance and vehicle. Every trip is quoted as a flat rate before you book, and the rate is confirmed with you before your card is charged.' },
   { question: 'Do you track flights for Dulles pickups?', answer: 'Yes. Every airport pickup is flight-tracked, and airport pickups include 45 minutes of complimentary waiting time on domestic arrivals and 60 minutes on international arrivals.' },

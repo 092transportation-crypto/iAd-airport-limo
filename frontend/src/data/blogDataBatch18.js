@@ -4944,7 +4944,7 @@ const batch18 = [
       },
       {
         question: "Can we bring a group for a birthday or bachelor party?",
-        answer: "Yes. A Mercedes Sprinter seats up to 13 passengers, and a Chevrolet Suburban or Lincoln Navigator suits groups of five or six.",
+        answer: "Yes. A Mercedes Sprinter seats up to 13 passengers, and a Chevrolet Suburban suits groups of five and a Lincoln Navigator groups of six.",
       },
       {
         question: "What is your cancellation policy?",

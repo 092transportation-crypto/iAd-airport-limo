@@ -28,7 +28,7 @@ const batch3 = [
       {
         heading: 'The Fleet: Matching the Vehicle to the Trip',
         paragraphs: [
-          'A serious IAD limo service names its vehicles rather than promising a generic "luxury car." Executive sedans — Mercedes-Benz E-Class and S-Class, BMW 7 Series — carry up to three passengers with two or three checked bags, and suit solo business travelers or couples. Full-size SUVs such as the Lincoln Navigator and Chevrolet Suburban seat up to six with a full luggage load, the right call for families or small groups. Mercedes Sprinter vans move up to thirteen passengers for delegations, wedding parties, and conference groups, and a stretch limousine remains available for events where the occasion itself calls for one.',
+          'A serious IAD limo service names its vehicles rather than promising a generic "luxury car." Executive sedans — Mercedes-Benz E-Class and S-Class, BMW 7 Series — carry up to three passengers with two or three checked bags, and suit solo business travelers or couples. Full-size SUVs carry a full luggage load — the Lincoln Navigator seats six and the Chevrolet Suburban five — the right call for families or small groups. Mercedes Sprinter vans move up to thirteen passengers for delegations, wedding parties, and conference groups, and a stretch limousine remains available for events where the occasion itself calls for one.',
           'The common booking mistake is choosing by passenger count alone. Three travelers home from two weeks abroad with six suitcases will not fit in a sedan trunk regardless of how few people there are. A good dispatcher asks about luggage before confirming a vehicle — our fleet page breaks down passenger and bag capacity for every vehicle class if you want to check before you call.',
         ],
       },
@@ -770,7 +770,7 @@ const batch3 = [
       {
         heading: 'Step Two: Choose Your Vehicle',
         paragraphs: [
-          'Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV like the Lincoln Navigator or Chevrolet Suburban fits up to six with a full luggage load. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.',
+          'Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV takes a full luggage load: the Lincoln Navigator fits up to six and the Chevrolet Suburban up to five. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.',
           'If you are unsure which class fits your trip, describe your group and luggage to dispatch rather than guessing — matching the vehicle correctly the first time avoids a last-minute swap on travel day.',
         ],
       },

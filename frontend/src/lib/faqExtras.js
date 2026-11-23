@@ -22,12 +22,12 @@ const POOL = [
   {
     topic: /delay|late|flight track/i,
     q: () => 'What happens if my flight is delayed?',
-    a: 'Every airport pickup is flight-tracked, so your chauffeur is dispatched against the actual arrival time rather than the schedule. You never need to call from the tarmac.',
+    a: 'Every airport pickup is flight-tracked, so your chauffeur is dispatched against the actual arrival time rather than the schedule. An early or late landing is absorbed automatically, with no extra charge and no need to phone us when you land.',
   },
   {
     topic: /pay|charge|card|price|cost|rate/i,
     q: () => 'When is my card charged?',
-    a: 'Your flat rate is confirmed before you book, and your card is charged only after the reservation and the rate are confirmed with you — never at the time of the online request.',
+    a: 'Your flat rate is quoted and confirmed with you before anything is charged. The card is charged once the reservation and the rate are confirmed, not at the moment you submit an online request.',
   },
 ];
 

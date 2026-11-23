@@ -11,8 +11,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -79,7 +79,7 @@ export const MARYLAND_BATCH10 = [
       { q: "Can you handle a multi-stop roadshow across several Tysons office buildings?", a: "Yes. Hourly, as-directed service keeps one vehicle and chauffeur with your team for the whole day across multiple stops." },
       { q: "Do you offer direct corporate billing?", a: "Yes. We set up direct billing and monthly invoicing for Tysons companies that book regularly, rather than per-ride expense reports." },
       { q: "Can you coordinate arrival times with our building's front desk?", a: "Yes, we regularly confirm visitor arrival windows directly with front-desk and security teams at Tysons office buildings." },
-      { q: "What vehicle is right for a visiting team of six?", a: "A luxury SUV comfortably covers six passengers with luggage; for larger teams a Mercedes Sprinter van seats up to 14." },
+      { q: "What vehicle is right for a visiting team of six?", a: "A luxury SUV comfortably covers six passengers with luggage; for larger teams a Mercedes Sprinter van seats up to 13." },
     ],
     related: [
       { label: "Tysons Limo Service", to: "/tysons-limo-service" },
@@ -314,7 +314,7 @@ export const MARYLAND_BATCH10 = [
     metaDescription:
       "Safe, licensed prom limo and party bus service in Leesburg, VA — group pricing, strict no-alcohol policy and parent-confirmed schedules. Call (877) 609-1919.",
     stats: [
-      { label: "Group size", value: "Sedans up to Sprinter vans (14 passengers)" },
+      { label: "Group size", value: "Sedans up to Sprinter vans (13 passengers)" },
       { label: "Pricing", value: "Hourly, confirmed in writing before you book" },
       { label: "Policy", value: "Strict no-alcohol policy, enforced" },
     ],
@@ -339,7 +339,7 @@ export const MARYLAND_BATCH10 = [
       {
         h2: "Vehicle choice for Leesburg prom groups",
         paragraphs: [
-          "A stretch limousine comfortably covers six to eight students. Larger groups of ten to fourteen are better served by a Mercedes Sprinter van, which keeps everyone together for every stop rather than splitting into two vehicles with two separate pickup times — a common cause of a late arrival at the dance.",
+          "A stretch limousine comfortably covers six to eight students. Larger groups of ten to thirteen are better served by a Mercedes Sprinter van, which keeps everyone together for every stop rather than splitting into two vehicles with two separate pickup times — a common cause of a late arrival at the dance.",
         ],
       },
       {
@@ -383,7 +383,7 @@ export const MARYLAND_BATCH10 = [
     metaDescription:
       "Safe, licensed prom limo and party bus service in Reston, VA — group pricing, strict no-alcohol policy and parent-confirmed schedules. Call (877) 609-1919.",
     stats: [
-      { label: "Group size", value: "Sedans up to Sprinter vans (14 passengers)" },
+      { label: "Group size", value: "Sedans up to Sprinter vans (13 passengers)" },
       { label: "Pricing", value: "Hourly, confirmed in writing before you book" },
       { label: "Policy", value: "Strict no-alcohol policy, enforced" },
     ],
@@ -409,7 +409,7 @@ export const MARYLAND_BATCH10 = [
       {
         h2: "Vehicle choice for Reston prom groups",
         paragraphs: [
-          "A stretch limousine comfortably covers six to eight students; larger groups of ten to fourteen are better served by a Mercedes Sprinter van, which keeps the whole group together for every stop instead of splitting across two vehicles with two pickup times.",
+          "A stretch limousine comfortably covers six to eight students; larger groups of ten to thirteen are better served by a Mercedes Sprinter van, which keeps the whole group together for every stop instead of splitting across two vehicles with two pickup times.",
         ],
       },
       {

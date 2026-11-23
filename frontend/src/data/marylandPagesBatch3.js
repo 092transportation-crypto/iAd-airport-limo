@@ -5,8 +5,8 @@ const VEHICLES = [
   { name: "Mercedes-Benz E-Class", cls: "Business sedan", seats: 3, best: "solo executives and couples" },
   { name: "BMW 7 Series", cls: "First-class sedan", seats: 3, best: "VIP and executive travel" },
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
-  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 6, best: "airport runs with beach or golf luggage" },
-  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 14, best: "wedding parties, corporate teams and groups" },
+  { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
+  { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
   { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
 ];
 
@@ -141,7 +141,7 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Events, groups and nights out",
         paragraphs: [
-          "Beyond airport work, Sterling clients book us for weddings and receptions at Loudoun venues, birthday and anniversary dinners in Leesburg or Reston Town Center, concerts at Wolf Trap and Jiffy Lube Live, and family trips into Washington. A Sprinter van seats 14 for a group evening, and a stretch limousine covers proms and milestone celebrations. Car seats are available on request for family bookings.",
+          "Beyond airport work, Sterling clients book us for weddings and receptions at Loudoun venues, birthday and anniversary dinners in Leesburg or Reston Town Center, concerts at Wolf Trap and Jiffy Lube Live, and family trips into Washington. A Sprinter van seats 13 for a group evening, and a stretch limousine covers proms and milestone celebrations. Car seats are available on request for family bookings.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event reservations.",
         ],
       },
@@ -166,7 +166,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "What vehicles are available in Sterling?",
-        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 14-passenger Mercedes Sprinter vans and stretch limousines.",
+        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines.",
       },
     ],
     related: [
@@ -225,7 +225,7 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Wine country, weddings and estate events",
         paragraphs: [
-          "Loudoun's wineries and farm breweries are spread across narrow rural roads, and a designated chauffeur is the sensible way to visit them. Hourly bookings let you set the route: Stone Tower Winery on Hogback Mountain, Bluemont Vineyard on the ridge, Breaux Vineyards near Hillsboro, Sunset Hills in Purcellville or Fabbioli Cellars north of town. Sprinter vans carry up to 14 for group tastings.",
+          "Loudoun's wineries and farm breweries are spread across narrow rural roads, and a designated chauffeur is the sensible way to visit them. Hourly bookings let you set the route: Stone Tower Winery on Hogback Mountain, Bluemont Vineyard on the ridge, Breaux Vineyards near Hillsboro, Sunset Hills in Purcellville or Fabbioli Cellars north of town. Sprinter vans carry up to 13 for group tastings.",
           "For weddings at Lansdowne, Morven Park, Oatlands or a private farm, we run the getting-ready pickups, the ceremony-to-reception move and the getaway car under one reservation. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
           "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",
         ],
@@ -243,7 +243,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Do you run wine tours from Leesburg?",
-        a: "Yes. Hourly, as-directed service covers any combination of Loudoun wineries and breweries, with the chauffeur waiting at each stop. Sedans, SUVs and 14-passenger Sprinter vans are available.",
+        a: "Yes. Hourly, as-directed service covers any combination of Loudoun wineries and breweries, with the chauffeur waiting at each stop. Sedans, SUVs and 13-passenger Sprinter vans are available.",
       },
       {
         q: "Can you provide wedding transportation at Lansdowne Resort or Morven Park?",
@@ -396,7 +396,7 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Events, groups and family travel",
         paragraphs: [
-          "Local clients book us for the annual Herndon Festival weekend, dinners in Reston Town Center, shows at Wolf Trap and Capital One Hall, proms at Herndon High and South Lakes, and family days in Washington. Sprinter vans carry up to 14 for a group evening, and SUVs handle airport runs with strollers and car seats, which we install on request.",
+          "Local clients book us for the annual Herndon Festival weekend, dinners in Reston Town Center, shows at Wolf Trap and Capital One Hall, proms at Herndon High and South Lakes, and family days in Washington. Sprinter vans carry up to 13 for a group evening, and SUVs handle airport runs with strollers and car seats, which we install on request.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event bookings.",
         ],
       },
@@ -500,7 +500,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you move a conference group between Tysons hotels and an office campus?",
-        a: "Yes. Sprinter vans carry up to 14, and multiple vehicles can run under one reservation for larger delegations, with dispatch coordinating timing.",
+        a: "Yes. Sprinter vans carry up to 13, and multiple vehicles can run under one reservation for larger delegations, with dispatch coordinating timing.",
       },
       {
         q: "Can you pick me up at Reagan National and take me straight to a Tysons meeting?",
@@ -672,7 +672,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you carry a family group from Fairfax to the airport?",
-        a: "Yes. Lincoln Navigator and Chevrolet Suburban SUVs seat six with luggage, and Mercedes Sprinter vans carry up to 14. Car seats are available on request.",
+        a: "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, with luggage, and Mercedes Sprinter vans carry up to 13. Car seats are available on request.",
       },
       {
         q: "Do you serve Fair Oaks, Fair Lakes and the Mosaic District as part of Fairfax?",
@@ -848,7 +848,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Do you provide wedding transportation in Alexandria?",
-        a: "Yes. Sedans, SUVs, 14-passenger Sprinter vans and stretch limousines are coordinated under one reservation for wedding parties and guests at Old Town, waterfront, Carlyle and Mount Vernon-area venues.",
+        a: "Yes. Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines are coordinated under one reservation for wedding parties and guests at Old Town, waterfront, Carlyle and Mount Vernon-area venues.",
       },
       {
         q: "Do you serve Kingstowne and Mount Vernon as part of Alexandria?",
@@ -935,7 +935,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you carry a group to Capital One Hall?",
-        a: "Yes. SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight. Larger parties ride in multiple coordinated vehicles that arrive together.",
+        a: "Yes. SUVs seat six, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight. Larger parties ride in multiple coordinated vehicles that arrive together.",
       },
       {
         q: "Do you serve Capital One Hall from Dulles or Reagan National?",
@@ -1017,7 +1017,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Is there room for display cases and samples?",
-        a: "Yes. Lincoln Navigator and Chevrolet Suburban SUVs carry six passengers with cargo, and Mercedes Sprinter vans carry up to 14 with space for cases and banner stands. Tell us what you are bringing when you book.",
+        a: "Yes. The Lincoln Navigator carries six passengers and the Chevrolet Suburban five, with cargo, and Mercedes Sprinter vans carry up to 13 with space for cases and banner stands. Tell us what you are bringing when you book.",
       },
       {
         q: "Where does the chauffeur pick up after the show?",
@@ -1103,7 +1103,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Do you carry groups for galas and opening nights?",
-        a: "Yes. SUVs seat six, Mercedes Sprinter vans carry up to 14 and stretch limousines seat eight, and larger parties ride in multiple coordinated vehicles that arrive together.",
+        a: "Yes. SUVs seat six, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight, and larger parties ride in multiple coordinated vehicles that arrive together.",
       },
     ],
     related: [
@@ -1178,7 +1178,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you run a shuttle between our hotel in Virginia and the convention center?",
-        a: "Yes. Sprinter vans carry up to 14 and run on a fixed morning and evening schedule from Tysons, Arlington, Alexandria or any other hotel location, with additional runs added as needed.",
+        a: "Yes. Sprinter vans carry up to 13 and run on a fixed morning and evening schedule from Tysons, Arlington, Alexandria or any other hotel location, with additional runs added as needed.",
       },
       {
         q: "Where will the chauffeur pick us up after the session?",
@@ -1244,7 +1244,7 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Groups, hospitality and the full evening",
         paragraphs: [
-          "Supporters' groups, corporate suites and birthday parties ride in Sprinter vans for up to 14 or in coordinated multiple vehicles. Many clients build the evening around the match: pickup in Arlington, Alexandria or Fairfax, dinner at the Wharf or Navy Yard, the game, and the ride home, all on one hourly reservation with the chauffeur waiting nearby. Visiting fans can combine a Dulles or Reagan National arrival with the match and a hotel drop-off.",
+          "Supporters' groups, corporate suites and birthday parties ride in Sprinter vans for up to 13 or in coordinated multiple vehicles. Many clients build the evening around the match: pickup in Arlington, Alexandria or Fairfax, dinner at the Wharf or Navy Yard, the game, and the ride home, all on one hourly reservation with the chauffeur waiting nearby. Visiting fans can combine a Dulles or Reagan National arrival with the match and a hotel drop-off.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
         ],
       },
@@ -1265,7 +1265,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you carry a supporters' group or a suite party?",
-        a: "Yes. Mercedes Sprinter vans carry up to 14, SUVs seat six and stretch limousines seat eight; larger groups ride in multiple coordinated vehicles that arrive together.",
+        a: "Yes. Mercedes Sprinter vans carry up to 13, SUVs seat six and stretch limousines seat eight; larger groups ride in multiple coordinated vehicles that arrive together.",
       },
       {
         q: "How long is the ride from Northern Virginia to Audi Field?",
@@ -1330,7 +1330,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Family visits, sightseeing and evenings out",
         paragraphs: [
           "When parents or in-laws fly into Dulles, an hourly booking lets you show them the region without a parking strategy: the Lincoln Memorial and the Mall, the changing of the guard at Arlington National Cemetery, George Washington's Mount Vernon, Great Falls Park, lunch in Old Town Alexandria and back to Ashburn or McLean by dinner. Evenings work the same way, with dinner in Georgetown followed by the Kennedy Center or Capital One Hall and the car waiting at the door.",
-          "SUVs carry six with room for strollers and car seats, which we install on request, and Sprinter vans carry up to 14 for a full family outing. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines.",
+          "SUVs carry six with room for strollers and car seats, which we install on request, and Sprinter vans carry up to 13 for a full family outing. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines.",
         
           "Chauffeurs assigned to Northern Virginia Hourly Chauffeur Service trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives. Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Northern Virginia Hourly Chauffeur Service trips are always welcome to be recognized.",],
@@ -1465,7 +1465,7 @@ export const MARYLAND_BATCH3 = [
       "Graduation limo and family car service in Northern Virginia: George Mason, Georgetown, GW, UVA, Virginia Tech and high schools. Sprinters. Call (877) 609-1919.",
     stats: [
       { label: "Coverage", value: "Northern Virginia · DC · Charlottesville · Blacksburg" },
-      { label: "Fleet", value: "Sedans · SUVs · 14-passenger Sprinters · Limousines" },
+      { label: "Fleet", value: "Sedans · SUVs · 13-passenger Sprinters · Limousines" },
       { label: "Pricing", value: "Flat rate or hourly, confirmed in writing" },
     ],
     intro: [
@@ -1473,7 +1473,7 @@ export const MARYLAND_BATCH3 = [
       "Graduation weekends compress a lot of people into a few venues on the same day. George Mason fills EagleBank Arena and the Fairfax campus, Georgetown covers Healy Lawn, George Washington University gathers on the National Mall, and Fairfax County and Loudoun County high schools stagger their ceremonies across arenas, campus halls and school stadiums through late spring. We plan pickups around the venue's traffic pattern, confirm the rate in writing, and coordinate the airport transfers for relatives arriving from out of town.",
     ],
     highlights: [
-      "Family groups of up to 14 in a Mercedes Sprinter van, with multiple vehicles coordinated for larger parties",
+      "Family groups of up to 13 in a Mercedes Sprinter van, with multiple vehicles coordinated for larger parties",
       "George Mason commencement and EagleBank Arena ceremonies with pickup points set away from the campus crush",
       "Georgetown, George Washington, American and Howard commencements in Washington, DC",
       "Long-distance days to UVA in Charlottesville and Virginia Tech in Blacksburg, quoted in advance",
@@ -1510,7 +1510,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "How many people fit in one vehicle?",
-        a: "Sedans seat three, Lincoln Navigator and Chevrolet Suburban SUVs seat six, stretch limousines seat eight and Mercedes Sprinter vans carry up to 14. Larger families ride in multiple coordinated vehicles.",
+        a: "Sedans seat three, the Lincoln Navigator seats six and the Chevrolet Suburban five, stretch limousines seat eight and Mercedes Sprinter vans carry up to 13. Larger families ride in multiple coordinated vehicles.",
       },
       {
         q: "Can you handle a George Mason commencement at EagleBank Arena?",

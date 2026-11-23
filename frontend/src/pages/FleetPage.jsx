@@ -5,12 +5,13 @@ import Footer from '../components/Footer';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
 import { Users, Briefcase } from 'lucide-react';
+import { fleetImageAlt } from '../lib/fleetImageAlt';
 
 const fleetFaqs = [
   {
     question: 'What vehicles can I book for a Dulles airport transfer?',
     answer:
-      'Business and First Class sedans (Mercedes-Benz E-Class, BMW 7 Series, Mercedes S-Class), luxury SUVs (Lincoln Nautilus, Chevrolet Suburban, Lincoln Navigator), and Mercedes Sprinter shuttles, executive vans and limos for up to 13 passengers.',
+      'Business and First Class sedans cover one to three riders: the Mercedes-Benz E-Class, BMW 7 Series and Mercedes S-Class. Our SUVs are the Lincoln Nautilus (three passengers), Chevrolet Suburban (five) and Lincoln Navigator (six). Groups of up to 13 ride in a Mercedes Sprinter shuttle or executive van.',
   },
   {
     question: 'Which vehicle fits a family of five with checked luggage?',
@@ -25,7 +26,7 @@ const fleetFaqs = [
   {
     question: 'Can I request a specific vehicle model?',
     answer:
-      'Yes — request a specific sedan, SUV, or Sprinter when booking online or by calling (877) 609-1919, and we will confirm availability for your date.',
+      'Yes. Ask for a specific sedan, SUV or Sprinter when you book online or call (877) 609-1919. Dispatch confirms availability for your date and puts the vehicle class in writing before you travel.',
   },
 ];
 
@@ -38,8 +39,8 @@ const FleetPage = () => {
     eclass: '/images/mercedes-e-class.webp',
     bmw7: '/images/bmw-7-series.webp',
     nautilus: '/images/lincoln-nautilus.webp',
-    suburban: '/images/chevy-suburban.webp',
-    escalade: '/images/cadillac-escalade.webp',
+    suburban: '/images/chevrolet-suburban.webp',
+    navigator: '/images/lincoln-navigator.webp',
     sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
     sprinterExecutive: '/images/mercedes-sprinter.webp',
     sprinterLimo: '/images/limousine.webp',
@@ -50,7 +51,7 @@ const FleetPage = () => {
     { id: 2, name: 'First Class Sedan', subtitle: 'BMW 7 Series / Mercedes S-Class 2023+ or similar', category: 'sedans', pax: 3, luggage: 2, image: fleetImages.bmw7 },
     { id: 3, name: 'Midsize SUV', subtitle: 'Lincoln Nautilus 2023+ or similar', category: 'suv', pax: 3, luggage: 4, image: fleetImages.nautilus },
     { id: 4, name: 'Luxury SUV', subtitle: 'Chevrolet Suburban 2023+ or similar', category: 'suv', pax: 5, luggage: 5, image: fleetImages.suburban },
-    { id: 5, name: 'Premium SUV', subtitle: '2026 Lincoln Navigator or similar', category: 'suv', pax: 6, luggage: 5, image: fleetImages.escalade },
+    { id: 5, name: 'Premium SUV', subtitle: '2026 Lincoln Navigator or similar', category: 'suv', pax: 6, luggage: 5, image: fleetImages.navigator },
     { id: 6, name: 'Sprinter Shuttle', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterShuttle },
     { id: 7, name: 'Sprinter Executive', subtitle: 'Mercedes Sprinter 2023+ or similar', category: 'vans', pax: 13, luggage: 13, image: fleetImages.sprinterExecutive },
   ];
@@ -87,7 +88,7 @@ const FleetPage = () => {
             {filteredVehicles.map((v) => (
               <div key={v.id} className="luxury-card group overflow-hidden border border-white/10">
                 <div className="h-48 overflow-hidden">
-                  <img src={v.image} alt={`${v.name} — Dulles airport car service and Northern Virginia chauffeur service`} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                  <img src={v.image} alt={fleetImageAlt(v.image, v.name)} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                 </div>
                 <div className="p-4 bg-black">
                   <div className="text-white/40 text-xs uppercase tracking-widest mb-1">{v.category}</div>

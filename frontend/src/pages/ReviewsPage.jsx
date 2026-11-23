@@ -9,12 +9,12 @@ const reviewsFaqs = [
   {
     question: 'Where do your customer reviews come from?',
     answer:
-      'The reviews on this page were shared by clients after airport transfers, corporate trips, and special-event service across the DC, Maryland, and Virginia area.',
+      'The reviews on this page were shared by clients after their trips with us. They cover airport transfers, corporate travel, and special-event service across the DC, Maryland, and Virginia area.',
   },
   {
     question: 'How can I leave a review after my trip?',
     answer:
-      'We welcome feedback by email at limoiadairport@gmail.com or by phone at (877) 609-1919 — and reviews on Google help other travelers find us.',
+      'We welcome feedback by email at limoiadairport@gmail.com or by phone at (877) 609-1919. Reviews on Google also help other travelers find us.',
   },
   {
     question: 'How do I book the same service these reviews describe?',

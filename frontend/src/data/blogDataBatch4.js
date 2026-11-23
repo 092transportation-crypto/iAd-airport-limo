@@ -1056,7 +1056,7 @@ const batch4 = [
       {
         heading: 'The Full-Size SUV',
         paragraphs: [
-          'A Lincoln Navigator or Chevrolet Suburban seats up to six passengers with a full luggage load, making it the right choice for a family of four or five with a realistic amount of luggage, or a small group of colleagues traveling together with laptop bags and roller boards. It is also the practical choice for anyone who simply wants more room than a sedan offers, even with fewer passengers.',
+          'A Lincoln Navigator seats up to six passengers and a Chevrolet Suburban up to five, each with a full luggage load, making it the right choice for a family of four or five with a realistic amount of luggage, or a small group of colleagues traveling together with laptop bags and roller boards. It is also the practical choice for anyone who simply wants more room than a sedan offers, even with fewer passengers.',
         ],
       },
       {
@@ -1094,7 +1094,7 @@ const batch4 = [
       {
         question: 'What is the passenger limit for an SUV?',
         answer:
-          'Up to six passengers with a full luggage load in a Lincoln Navigator or Chevrolet Suburban.',
+          'Up to six passengers with a full luggage load in a Lincoln Navigator, or five in a Chevrolet Suburban.',
       },
       {
         question: 'When should I book a Sprinter van instead of an SUV?',
