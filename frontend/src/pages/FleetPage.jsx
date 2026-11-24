@@ -62,7 +62,7 @@ const FleetPage = () => {
     <div className="min-h-screen bg-black">
       <Seo
         title="Luxury Fleet | Dulles Airport Limo Sedans & SUVs"
-        description="Explore the IAD Airport Limo fleet — Mercedes S-Class, BMW 7 Series, Navigator, Suburban & Sprinter vans. Reserve your vehicle now or call (877) 609-1919."
+        description="IAD Airport Limo fleet for Dulles and Northern Virginia: Mercedes S-Class, BMW 7 Series, Navigator, Suburban & Sprinter vans. Call (877) 609-1919."
         path="/fleet"
         faqs={fleetFaqs}
       />
@@ -107,16 +107,16 @@ const FleetPage = () => {
           <h2 className="font-display text-2xl sm:text-3xl text-white mb-6">Choosing a Vehicle Class</h2>
           <div className="space-y-4">
             <p className="text-white/70 leading-relaxed">
-              Every vehicle in this fleet is dispatched from the same licensed and insured Virginia and Maryland carrier authority, with the same flight tracking, professional chauffeur and 24/7 dispatch behind it — the difference between classes is capacity and finish, not service quality. Sedans fit one to three riders with two checked bags; SUVs handle three to six with four to five bags; Sprinter vans keep groups of up to 13 together in one vehicle.
+              Whichever class you pick, the same licensed and insured Virginia and Maryland carrier stands behind the ride: live flight tracking at Dulles, a professional chauffeur and dispatch that answers 24/7. What changes between classes is how many people and bags fit and how the cabin is finished. Sedans take one to three riders with two checked bags, SUVs three to six riders with four or five bags, and a Sprinter van keeps up to 13 people together.
             </p>
             <p className="text-white/70 leading-relaxed">
-              For a closer look at any single class — Sedans, SUVs or Sprinters — the <Link to="/vehicles/sedans" className="text-[#c9a227] hover:text-white transition-colors">vehicles</Link> pages break down which model fits which trip, from a solo executive pickup at Dulles to a full wedding party moving between venues.
+              For a closer look at any single class — Sedans, SUVs or Sprinters — the <Link to="/vehicles/sedans" className="text-[#c9a227] hover:text-white transition-colors">vehicles</Link> pages break down which model fits which trip, from a solo executive heading from Dulles to a Tysons or Reston office to a wedding party moving between venues around Leesburg and Ashburn.
             </p>
             <p className="text-white/70 leading-relaxed">
-              Every model in the fleet is detailed between trips and follows a scheduled inspection program covering brakes, tires and safety systems rather than a reactive one, and every vehicle operates under our commercial Virginia and Maryland carrier authority — DOT-mandated inspections and commercial liability coverage well above a personal auto policy, the same standard regardless of whether you book a Business Sedan or a Sprinter Executive.
+              Each vehicle is detailed between trips and runs on a scheduled inspection program for brakes, tires and safety systems, not just repairs after something breaks. All of them operate under our commercial Virginia and Maryland carrier authority, with DOT-mandated inspections and commercial liability coverage well above a personal auto policy, whether you book a Business Sedan for a Fairfax meeting or a Sprinter Executive for a Herndon team.
             </p>
             <p className="text-white/70 leading-relaxed">
-              Reserving a specific model is simple: request it by name when you book online or call <a href="tel:+18776091919" className="text-[#c9a227] hover:text-white transition-colors">(877) 609-1919</a>, and dispatch confirms availability and the vehicle class in writing before your travel date. Specific models — particularly the Mercedes S-Class and our Sprinter vans — are the most limited inventory on the fleet, so book those a few days ahead whenever the date matters, such as a wedding, a VIP arrival or a holiday travel week.
+              To reserve a particular model, name it when you book online or call <a href="tel:+18776091919" className="text-[#c9a227] hover:text-white transition-colors">(877) 609-1919</a>, and dispatch confirms availability and the vehicle class in writing before your travel date. The Mercedes S-Class and the Sprinter vans are the scarcest vehicles we have, so reserve them a few days early for a wedding, a VIP arrival at IAD or a holiday travel week.
             </p>
           </div>
         </div>

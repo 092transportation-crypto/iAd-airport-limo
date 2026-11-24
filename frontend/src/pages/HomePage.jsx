@@ -47,7 +47,7 @@ const homeFaqs = [
   {
     question: 'What is your cancellation policy?',
     answer:
-      'Free cancellation on a sedan or SUV is available until 3 hours before pickup. For Sprinter vans, limousines and special-event bookings, that free window closes 12 hours before pickup. Later changes may carry a fee, so phone (877) 609-1919 as soon as your plans shift.',
+      'A sedan or SUV can be cancelled at no charge up to 3 hours before pickup. Sprinters, limousines and event bookings need 12 hours\' notice to cancel for free. Later changes may carry a fee, so call (877) 609-1919 as soon as your plans move.',
   },
   {
     question: 'Do you serve DCA and BWI airports too?',
@@ -135,7 +135,7 @@ const HomePage = () => {
           <img src={logo} alt="IAD Airport Limo" className="w-40 sm:w-52 md:w-64 mx-auto mb-5 md:mb-6" style={{background:'transparent'}} data-testid="hero-logo" />
           <p className="font-accent text-white/60 text-xs sm:text-sm tracking-[0.2em] uppercase mb-4">IAD Dulles, Virginia, USA</p>
           <h1 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white font-medium leading-tight mb-4 px-4">IAD Airport Limo - Premium Transportation</h1>
-          <p className="font-body text-white/60 text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-6 px-4">Arrive on time and in style with your trusted partner for executive travel.</p>
+          <p className="font-body text-white/60 text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-6 px-4">Chauffeured rides between Dulles and Reston, Tysons, Herndon, Ashburn, Leesburg and Fairfax, at any hour.</p>
 
           {/* Big phone CTA */}
           <div className="mb-6">
@@ -189,9 +189,9 @@ const HomePage = () => {
           <p className="font-accent text-white/40 text-xs tracking-widest uppercase mb-3">Flat-Rate Pricing</p>
           <h2 className="font-display text-3xl sm:text-4xl md:text-5xl text-white mb-4">Get Your Free Quote</h2>
           <p className="text-white/60 text-base sm:text-lg max-w-2xl mx-auto mb-8">
-            Every trip is a flat, all-inclusive rate tailored to your route, vehicle, and schedule —
-            no surge pricing, no hidden fees. Call us now or request your quote online and we&apos;ll
-            confirm your exact rate in writing within 15 minutes.
+            Whether the pickup is a Dulles arrival, a Reston office or a house in Leesburg, you get one
+            flat rate set by route, vehicle and timing, with no surge pricing and no hidden fees. Call us
+            or request a quote online and we&apos;ll confirm the exact rate in writing within 15 minutes.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <a href="tel:+18776091919" data-testid="quote-cta-call"
@@ -383,8 +383,8 @@ const HomePage = () => {
             There is no surge pricing, no guessing which rideshare will turn up, and no standing at the curb.
           </p>
           <p className="text-white/70 leading-relaxed">
-            Heading home to Reston, Herndon, Tysons or Ashburn, or leaving one of them before dawn? Our Dulles black
-            car service keeps it simple: one all-inclusive flat rate, licensed and insured chauffeurs, and dispatch
+            Heading home to Reston, Herndon, Tysons, Ashburn or Leesburg, or leaving one of them before dawn? Our Dulles black
+            car service keeps Northern Virginia trips simple: one all-inclusive flat rate, licensed and insured chauffeurs, and dispatch
             that never closes, covering Virginia, Maryland and Washington DC. Reserve online in a few minutes or phone
             us at any hour.
           </p>
