@@ -52,7 +52,7 @@ const BlogPostPage = ({ slug, guideSlug }) => {
         <div className="max-w-3xl mx-auto px-4 sm:px-6 -mt-6 md:-mt-8">
           <img
             src={post.image}
-            alt={post.title}
+            alt={post.imageAlt || post.title}
             className="w-full h-56 sm:h-72 md:h-96 object-cover border border-white/10"
             loading="eager"
           />
