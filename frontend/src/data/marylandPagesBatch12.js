@@ -80,10 +80,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Crystal City to Reagan National?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. At 3 miles, it's one of our shortest and most predictable airport runs — call (877) 609-1919 for exact pricing." },
-      { q: "How far is Crystal City from Dulles Airport?", a: "About 24 miles and 35–45 minutes via the Dulles Toll Road and I-66, depending on traffic." },
+      { q: "How far is Crystal City from Dulles Airport?", a: "About 24 miles and 35–45 minutes via the Dulles Toll Road and I-66, depending on traffic. The run gets the same flight tracking, meet and greet and written flat rate as the much shorter trip to Reagan National. BWI is also available, at about 40 miles." },
       { q: "Do you serve Amazon HQ2 and the Crystal Drive office corridor?", a: "Yes. We run daily corporate pickups and roadshow transportation for National Landing's offices, including Amazon's HQ2 campus and the Crystal Drive corridor." },
       { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. Curbside pickup is also available." },
-      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines. Sedans seat up to three passengers, the Chevrolet Suburban up to five, and a Sprinter van keeps a corporate team or group of up to 13 in one vehicle. For Amazon HQ2 and Crystal Drive roadshows, hourly service keeps the same car with you between meetings." },
     ],
     related: [
       { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
@@ -146,10 +146,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Pentagon City to Reagan National?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing on this short, predictable run." },
-      { q: "Do you pick up at the Ritz-Carlton and Fashion Centre hotels?", a: "Yes, we run regular pickups at all of Pentagon City's hotel towers and can coordinate directly with the concierge desk." },
-      { q: "How long does Pentagon visitor screening typically add to a pickup?", a: "It varies by appointment type; tell us your host's instructions when you book and we'll build the buffer into your schedule." },
-      { q: "How far is Pentagon City from Dulles?", a: "About 23 miles, typically 35 to 45 minutes via the Dulles Toll Road and I-66." },
-      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines." },
+      { q: "Do you pick up at the Ritz-Carlton and Fashion Centre hotels?", a: "Yes, we run regular pickups at all of Pentagon City's hotel towers and can coordinate directly with the concierge desk. That includes the Ritz-Carlton Pentagon City, the Residence Inn and the Fashion Centre's hotel row. Reagan National is only 2 miles away, an 8-to-12-minute ride." },
+      { q: "How long does Pentagon visitor screening typically add to a pickup?", a: "It varies by appointment type; tell us your host's instructions when you book and we'll build the buffer into your schedule. Our chauffeurs are familiar with the Pentagon-adjacent security checkpoints. If you are flying out afterward, the buffer is planned around your departure time as well." },
+      { q: "How far is Pentagon City from Dulles?", a: "About 23 miles, typically 35 to 45 minutes via the Dulles Toll Road and I-66. The trip gets the same flight tracking, meet and greet and written flat rate as the short run to Reagan National. BWI is also served, at about 39 miles." },
+      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines. Sedans seat up to three passengers and the Chevrolet Suburban up to five, while a Sprinter van carries a group of up to 13 from the Fashion Centre hotels in one trip. Every vehicle is commercially insured and driven by a licensed, background-checked chauffeur." },
     ],
     related: [
       { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
@@ -212,10 +212,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Rosslyn to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing to IAD, DCA or BWI." },
-      { q: "How far is Rosslyn from Reagan National?", a: "About 6 miles, typically 15 to 20 minutes depending on traffic." },
-      { q: "Can you take us from Rosslyn to Georgetown for dinner or an event?", a: "Yes, it's one of our most common short runs — a two-minute crossing over Key Bridge, timed around rush-hour backups." },
+      { q: "How far is Rosslyn from Reagan National?", a: "About 6 miles, typically 15 to 20 minutes depending on traffic. Chauffeurs plan around Key Bridge and Rosslyn-Ballston corridor rush-hour backups. Meet and greet at baggage claim includes 45 minutes of complimentary waiting on domestic arrivals and 60 on international." },
+      { q: "Can you take us from Rosslyn to Georgetown for dinner or an event?", a: "Yes, it's one of our most common short runs — a two-minute crossing over Key Bridge, timed around rush-hour backups. A return pickup after dinner or the event can be set at booking. For a longer evening, hourly service keeps the car with you." },
       { q: "Do you serve Rosslyn's law firms and association offices?", a: "Yes. We run standing corporate accounts for client travel, depositions and multi-stop roadshows from Rosslyn's office towers." },
-      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines." },
+      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines. The E-Class and 7 Series sedans seat up to three and are the usual choice for law-firm and association client travel. A Sprinter van seats up to 13 for a team heading to Dulles or a group dinner across Key Bridge in Georgetown." },
     ],
     related: [
       { label: "Clarendon & Ballston Limo Service", to: "/clarendon-ballston-limo-service" },
@@ -278,10 +278,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you handle a group night out along the Clarendon bar strip?", a: "Yes — this is one of our most common group bookings. A Sprinter van or SUV keeps the whole group together for pickup and drop-off along Wilson and Clarendon Boulevards." },
-      { q: "How far is Clarendon/Ballston from Reagan National?", a: "About 7 miles, typically 18 to 25 minutes depending on traffic." },
+      { q: "How far is Clarendon/Ballston from Reagan National?", a: "About 7 miles, typically 18 to 25 minutes depending on traffic. Each arrival is flight-tracked, and meet and greet puts your chauffeur at baggage claim. The rate is flat and confirmed before you ride." },
       { q: "Do you serve the office towers around Ballston Quarter?", a: "Yes. We run standing corporate accounts for Ballston-area offices, including client visits and multi-stop roadshows." },
-      { q: "How far is the corridor from Dulles?", a: "About 21 miles, typically 30 to 40 minutes via I-66 and the Dulles Toll Road." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
+      { q: "How far is the corridor from Dulles?", a: "About 21 miles, typically 30 to 40 minutes via I-66 and the Dulles Toll Road. The Dulles run gets the same flight tracking and written flat rate as the shorter trip to Reagan National. Complimentary wait time is 45 minutes domestic and 60 international." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups. The Sprinter keeps everyone together for pickup and drop-off along Wilson and Clarendon Boulevards. Nobody in the group has to drive home." },
     ],
     related: [
       { label: "Rosslyn Limo Service", to: "/rosslyn-limo-service" },
@@ -347,10 +347,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Fredericksburg to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride, with no surge pricing. Call (877) 609-1919 for exact pricing to IAD, DCA or BWI." },
-      { q: "How long is the drive from Fredericksburg to Dulles?", a: "About 65 miles and 70 to 85 minutes via the Prince William Parkway and I-66 or Route 28, depending on I-95 traffic." },
-      { q: "Do you provide wedding transportation for Fredericksburg venues?", a: "Yes, including historic downtown and riverside estate venues — Sprinter vans and stretch limousines for the wedding party, point-to-point service for guests." },
-      { q: "Do you serve University of Mary Washington events?", a: "Yes — move-in day, graduation and parent-weekend transportation are among our most common Fredericksburg bookings." },
-      { q: "Why does the Fredericksburg-to-airport drive take longer than other cities you serve?", a: "Distance is the main factor, and I-95 through Fredericksburg is known for congestion at peak travel times — we build buffer into every pickup and track flights from wheels-up." },
+      { q: "How long is the drive from Fredericksburg to Dulles?", a: "About 65 miles and 70 to 85 minutes via the Prince William Parkway and I-66 or Route 28, depending on I-95 traffic. The flat rate is confirmed in writing before you ride, so delays on the way do not change it. Reagan National is a little closer, at about 55 miles." },
+      { q: "Do you provide wedding transportation for Fredericksburg venues?", a: "Yes, including historic downtown and riverside estate venues, with Sprinter vans and stretch limousines for the wedding party and point-to-point service for guests. Riverside estates along the Rappahannock are among the venues we serve. Guests flying in can be picked up at Dulles, Reagan National or BWI." },
+      { q: "Do you serve University of Mary Washington events?", a: "Yes — move-in day, graduation and parent-weekend transportation are among our most common Fredericksburg bookings. Families flying in can book a flat-rate airport transfer straight to campus. Those peak weekends are worth booking early." },
+      { q: "Why does the Fredericksburg-to-airport drive take longer than other cities you serve?", a: "Distance is the main factor, and I-95 through Fredericksburg is known for congestion at peak travel times, so we build buffer into every pickup and track flights from wheels-up. Our chauffeurs know the Fredericksburg bottleneck well. Your flat rate stays the same however long the drive takes." },
     ],
     related: [
       { label: "IAD to Richmond, VA", to: "/iad-to-richmond-va" },
@@ -413,9 +413,9 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Winchester to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing." },
-      { q: "How long is the drive from Winchester to Dulles?", a: "About 70 miles and 75 to 90 minutes via Route 7 or Route 50 into Loudoun County and the Dulles Toll Road." },
-      { q: "Do you provide wedding transportation for Shenandoah Valley venues?", a: "Yes, including orchard and vineyard estate venues around Winchester — Sprinter vans and stretch limousines for the wedding party." },
-      { q: "Do you serve Shenandoah University?", a: "Yes — move-in day, graduation and campus event transportation are regular Winchester bookings." },
+      { q: "How long is the drive from Winchester to Dulles?", a: "About 70 miles and 75 to 90 minutes via Route 7 or Route 50 into Loudoun County and the Dulles Toll Road. It is a longer run than most of our Virginia coverage, but it still includes flight tracking and meet and greet. The flat rate is confirmed in writing before you ride." },
+      { q: "Do you provide wedding transportation for Shenandoah Valley venues?", a: "Yes, including orchard and vineyard estate venues around Winchester, with Sprinter vans and stretch limousines for the wedding party. Guests flying in can be picked up at Dulles and brought out to the valley. A combined Loudoun wine-country day can be added for visiting family." },
+      { q: "Do you serve Shenandoah University?", a: "Yes — move-in day, graduation and campus event transportation are regular Winchester bookings. Families flying into Dulles can be taken straight to campus at a flat rate. Booking early for graduation weekend is a good idea." },
       { q: "Can I combine a Winchester trip with Loudoun wine country?", a: "Yes. Winchester sits close to Loudoun's wineries along Route 50, and we regularly run combined wine-country day trips for Winchester-area guests." },
     ],
     related: [
@@ -478,9 +478,9 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from Dulles to Charlottesville cost?", a: "We quote a flat rate by vehicle for the full one-way or round trip, confirmed in writing before you book. Call (877) 609-1919 for exact pricing — see our full cost breakdown for the IAD-to-Charlottesville run." },
-      { q: "How long is the drive from Dulles to Charlottesville?", a: "About 110 miles, typically 2 hours to 2 hours 15 minutes via I-66 and US-29, depending on traffic." },
-      { q: "How far ahead should I book for UVA graduation or move-in?", a: "As early as possible — Finals Weekend and move-in dates are our highest-demand Charlottesville bookings and vehicles sell out weeks ahead." },
-      { q: "Do you provide wedding transportation for Charlottesville venues?", a: "Yes, including Downtown Mall and Monticello-area estate venues — Sprinter vans and sedans for the wedding party and guests." },
+      { q: "How long is the drive from Dulles to Charlottesville?", a: "About 110 miles, typically 2 hours to 2 hours 15 minutes via I-66 and US-29, depending on traffic. It is the farthest city we publish a dedicated page for, so we run it as a pre-booked, flat-rate reservation. Flight tracking and meet and greet at Dulles are included." },
+      { q: "How far ahead should I book for UVA graduation or move-in?", a: "As early as possible — Finals Weekend and move-in dates are our highest-demand Charlottesville bookings and vehicles sell out weeks ahead. Send the date, pickup airport and group size to lock in the flat rate. Parents' weekend also fills quickly." },
+      { q: "Do you provide wedding transportation for Charlottesville venues?", a: "Yes, including Downtown Mall and Monticello-area estate venues, with Sprinter vans and sedans for the wedding party and guests. Out-of-town guests can be picked up at Dulles for the drive down. A wine-country day for the wedding party can be booked as well." },
       { q: "Can you run a Charlottesville wine-country day trip?", a: "Yes. A Sprinter van or SUV with a chauffeur who waits between tastings is the most common format for a Charlottesville-area wine day." },
     ],
     related: [
@@ -560,10 +560,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from Dulles to Richmond cost?", a: "We quote a flat rate by vehicle for the full trip, confirmed in writing before you book — see our full IAD-to-Richmond cost breakdown. Call (877) 609-1919 for exact pricing." },
-      { q: "How long is the drive from Dulles to Richmond?", a: "About 105 miles, typically 1 hour 45 minutes to 2 hours via I-66 and I-95, depending on traffic." },
+      { q: "How long is the drive from Dulles to Richmond?", a: "About 105 miles, typically 1 hour 45 minutes to 2 hours via I-66 and I-95, depending on traffic. Because of that distance, most Richmond trips are pre-scheduled with a confirmed flat rate and an assigned chauffeur. Flights are tracked so the pickup adjusts to the actual arrival." },
       { q: "Do you serve Richmond's corporate and state government offices?", a: "Yes. We run standing accounts for executive travel between Richmond and the DC metro area — see our dedicated Richmond corporate car service page for account setup." },
-      { q: "Do you provide transportation for VCU graduation and move-in?", a: "Yes — campus event, graduation and parents' weekend transportation are regular Richmond bookings." },
-      { q: "Do you provide wedding transportation in Richmond?", a: "Yes, including downtown and James River estate venues — Sprinter vans and sedans for wedding parties and guests." },
+      { q: "Do you provide transportation for VCU graduation and move-in?", a: "Yes — campus event, graduation and parents' weekend transportation are regular Richmond bookings. Families flying into Dulles can book the full run to the VCU campus at a flat rate. Those dates fill early, so pre-booking is recommended." },
+      { q: "Do you provide wedding transportation in Richmond?", a: "Yes, including downtown and James River estate venues, with Sprinter vans and sedans for wedding parties and guests. Guests flying into Dulles or Reagan National can be booked on pre-scheduled transfers. Rates are confirmed in writing before the date is booked." },
     ],
     related: [
       { label: "IAD to Richmond, VA", to: "/iad-to-richmond-va" },
@@ -627,10 +627,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Culpeper to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing." },
-      { q: "How long is the drive from Culpeper to Dulles?", a: "About 55 miles and 60 to 75 minutes via US-29 through Warrenton." },
+      { q: "How long is the drive from Culpeper to Dulles?", a: "About 55 miles and 60 to 75 minutes via US-29 through Warrenton. That is far enough to need a pre-booked reservation but close enough to pair easily with a Dulles arrival or departure. Your flat rate is confirmed in writing before you ride." },
       { q: "Can you run a wine-country day trip from Culpeper?", a: "Yes. A Sprinter van or SUV with a chauffeur who waits between tastings is the standard format for a Piedmont wine-country day." },
-      { q: "Do you provide wedding transportation for Culpeper farm venues?", a: "Yes, including farm and estate venues around Culpeper — Sprinter vans and stretch limousines for the wedding party." },
-      { q: "Is Culpeper close enough to Loudoun wine country to combine both?", a: "Yes, several Piedmont and Loudoun wineries sit within a reasonable drive of each other, and we regularly run combined day trips." },
+      { q: "Do you provide wedding transportation for Culpeper farm venues?", a: "Yes, including farm and estate venues around Culpeper, with Sprinter vans and stretch limousines for the wedding party. Guests flying into Dulles can be brought down US-29 on a flat-rate transfer. A Piedmont wine-country day can be added for visiting family." },
+      { q: "Is Culpeper close enough to Loudoun wine country to combine both?", a: "Yes, several Piedmont and Loudoun wineries sit within a reasonable drive of each other, and we regularly run combined day trips. A Sprinter van or SUV with a chauffeur who waits between tastings is the usual format. Our chauffeurs know the US-29 corridor between Culpeper and Loudoun." },
     ],
     related: [
       { label: "Warrenton Limo Service", to: "/warrenton-limo-service" },
@@ -696,10 +696,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Ellicott City to BWI?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing to BWI, Dulles or Reagan National." },
-      { q: "How long is the drive from Ellicott City to BWI?", a: "About 15 miles and 20 to 25 minutes via US-29 and I-195." },
+      { q: "How long is the drive from Ellicott City to BWI?", a: "About 15 miles and 20 to 25 minutes via US-29 and I-195. It is the fastest airport run from Ellicott City, quoted as a flat rate before you ride. Dulles and Reagan National are also served with the same flight tracking and meet and greet." },
       { q: "Do you serve Dulles and Reagan National from Ellicott City too?", a: "Yes. Dulles is 50 miles (60–75 minutes) and Reagan National is 45 miles (55–70 minutes)." },
-      { q: "Can your vehicles navigate Main Street's historic district?", a: "Yes, our chauffeurs know Main Street's narrow one-way sections and coordinate pickup points that work for the vehicle you book." },
-      { q: "Do you provide wedding transportation in Ellicott City?", a: "Yes, including historic Main Street venues and the Turf Valley Resort — Sprinter vans and stretch limousines for the wedding party." },
+      { q: "Can your vehicles navigate Main Street's historic district?", a: "Yes, our chauffeurs know Main Street's narrow one-way sections and coordinate pickup points that work for the vehicle you book. Tell us the venue or restaurant when you book and we will confirm the meeting point in advance." },
+      { q: "Do you provide wedding transportation in Ellicott City?", a: "Yes, including historic Main Street venues and the Turf Valley Resort, with Sprinter vans and stretch limousines for the wedding party. Out-of-town guests can be picked up at BWI, just 20 to 25 minutes away. Pickup points on Main Street are planned around the vehicle you book." },
     ],
     related: [
       { label: "Columbia, MD Limo Service", to: "/columbia-md-limo-service" },
@@ -762,9 +762,9 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Catonsville to BWI?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing." },
-      { q: "How long is the drive from Catonsville to BWI?", a: "About 12 miles and 18 to 25 minutes via I-695 and I-195." },
+      { q: "How long is the drive from Catonsville to BWI?", a: "About 12 miles and 18 to 25 minutes via I-695 and I-195. That makes it one of the fastest airport connections in our Maryland coverage. Each arrival is flight-tracked, and the rate is flat and confirmed in writing." },
       { q: "Do you serve UMBC and the research park?", a: "Yes. We run corporate accounts and campus event transportation for the UMBC research corridor." },
-      { q: "Do you provide recurring medical-appointment transportation?", a: "Yes, including recurring rides for senior residents and medical-center appointments in the Catonsville area." },
+      { q: "Do you provide recurring medical-appointment transportation?", a: "Yes, including recurring rides for senior residents and medical-center appointments in the Catonsville area. Recurring rides can be arranged around a regular appointment schedule, with each trip quoted at a flat rate. Chauffeurs are licensed and background-checked." },
       { q: "Do you serve Dulles and Reagan National from Catonsville too?", a: "Yes. Dulles is 48 miles (60–70 minutes) and Reagan National is 42 miles (50–65 minutes)." },
     ],
     related: [
@@ -828,10 +828,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Upper Marlboro to Reagan National?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing to DCA, BWI or Dulles." },
-      { q: "How long is the drive from Upper Marlboro to BWI?", a: "About 22 miles and 30 to 40 minutes via US-301 and MD-32." },
+      { q: "How long is the drive from Upper Marlboro to BWI?", a: "About 22 miles and 30 to 40 minutes via US-301 and MD-32. Reagan National is a similar distance, about 20 miles, so you can book whichever airport fits your flight. Both are quoted as flat rates confirmed in writing." },
       { q: "Do you provide court and county-government appointment transportation?", a: "Yes. We regularly run attorney and litigant transportation to the Prince George's County courthouse complex." },
-      { q: "Do you serve Show Place Arena and Six Flags America?", a: "Yes, including group and event-day transportation for both venues." },
-      { q: "How far is Upper Marlboro from Dulles?", a: "About 45 miles, typically 55 to 70 minutes via the Capital Beltway and the Dulles Toll Road." },
+      { q: "Do you serve Show Place Arena and Six Flags America?", a: "Yes, including group and event-day transportation for both venues. Sprinter vans keep a group together, and the return pickup time is agreed in advance. The rate is confirmed in writing before you book." },
+      { q: "How far is Upper Marlboro from Dulles?", a: "About 45 miles, typically 55 to 70 minutes via the Capital Beltway and the Dulles Toll Road. The longer run still gets flight tracking, meet and greet and a written flat rate. Reagan National and BWI are both closer if your airline flies there." },
     ],
     related: [
       { label: "Bowie Limo Service", to: "/bowie-limo-service" },
@@ -896,10 +896,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you handle pickup after a Nationals game or DC United match?", a: "Yes — this is one of our most common Navy Yard bookings. We coordinate a meeting point by text before the game ends so you avoid the post-event rideshare surge and parking-lot backup entirely." },
-      { q: "How far is the Navy Yard from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic and event-day closures." },
+      { q: "How far is the Navy Yard from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic and event-day closures. Our chauffeurs know the South Capitol Street corridor and plan around Nationals Park and Audi Field closures. The rate is flat and confirmed before you ride." },
       { q: "Do you serve Navy Yard corporate offices?", a: "Yes. We run standing accounts for the Capitol Riverfront's office towers and nearby federal agencies." },
-      { q: "How far is the Navy Yard from Dulles?", a: "About 28 miles, typically 40 to 50 minutes via I-295 and the Southeast-Southwest Freeway to the Dulles Toll Road." },
-      { q: "What vehicles work best for a group heading to a game?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
+      { q: "How far is the Navy Yard from Dulles?", a: "About 28 miles, typically 40 to 50 minutes via I-295 and the Southeast-Southwest Freeway to the Dulles Toll Road. The run gets the same flight tracking and meet and greet as the shorter Reagan trip. BWI is also available, at about 38 miles." },
+      { q: "What vehicles work best for a group heading to a game?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups. We text a meeting point before the game ends so the group skips the post-game rideshare surge. Larger groups can be split across more than one vehicle." },
     ],
     related: [
       { label: "Nationals Park Transportation", to: "/nationals-park-transportation" },
@@ -962,9 +962,9 @@ export const MARYLAND_BATCH12 = [
     faqs: [
       { q: "How much is a car service from Foggy Bottom to Reagan National?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing." },
       { q: "Do you serve the State Department and World Bank?", a: "Yes. We coordinate diplomatic and institutional pickups with host-office instructions and any required security screening." },
-      { q: "Do you provide GWU move-in and graduation transportation?", a: "Yes — move-in day, graduation and parents' weekend are regular Foggy Bottom bookings." },
+      { q: "Do you provide GWU move-in and graduation transportation?", a: "Yes — move-in day, graduation and parents' weekend are regular Foggy Bottom bookings. Our chauffeurs know GWU's campus streets, and families flying in can be met at baggage claim. Reagan National is about 10 to 15 minutes away." },
       { q: "Can you time a pickup around a Kennedy Center performance?", a: "Yes. We build the schedule around curtain time rather than a fixed window, including a return pickup after the show." },
-      { q: "How far is Foggy Bottom from Dulles?", a: "About 26 miles, typically 35 to 50 minutes depending on traffic." },
+      { q: "How far is Foggy Bottom from Dulles?", a: "About 26 miles, typically 35 to 50 minutes depending on traffic. The Dulles run includes flight tracking, meet and greet and a written flat rate. Reagan National is much closer, at about 4 miles." },
     ],
     related: [
       { label: "Kennedy Center Transportation", to: "/kennedy-center-transportation" },
@@ -1042,10 +1042,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you handle a group dinner reservation along 14th Street?", a: "Yes. We coordinate the pickup and return around your reservation time rather than a fixed clock window, and can run multiple stops for a group bar crawl or progressive dinner." },
-      { q: "How far is Logan Circle from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic." },
-      { q: "Is parking difficult in Logan Circle — does that affect pickup?", a: "Street parking is limited, which is exactly why a pre-booked pickup point works better here than trying to flag a car at the curb during busy dinner hours." },
-      { q: "Can you book a reliable return ride after a late dinner on 14th Street?", a: "Yes, we confirm the return pickup around your reservation time so you are not competing for a rideshare car with the rest of the corridor at closing time." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
+      { q: "How far is Logan Circle from Reagan National?", a: "About 5 miles, typically 12 to 18 minutes depending on traffic. Each arrival is flight-tracked, and meet and greet puts your chauffeur at baggage claim. The flat rate is confirmed in writing before you ride." },
+      { q: "Is parking difficult in Logan Circle — does that affect pickup?", a: "Street parking is limited, which is exactly why a pre-booked pickup point works better here than trying to flag a car at the curb during busy dinner hours. We confirm that point with you in advance. Our chauffeurs know the historic rowhouse streets and 14th Street's weekend foot traffic." },
+      { q: "Can you book a reliable return ride after a late dinner on 14th Street?", a: "Yes, we confirm the return pickup around your reservation time so you are not competing for a rideshare car with the rest of the corridor at closing time. The return is quoted as part of your written rate, and dispatch is reachable 24/7 at (877) 609-1919 if plans change." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups. The Sprinter can run multiple stops for a 14th Street bar crawl or progressive dinner. Pickup and return are timed around your reservations." },
     ],
     related: [
       { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
@@ -1108,10 +1108,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you handle a group night out in Adams Morgan?", a: "Yes — this is one of our most common Adams Morgan bookings. We coordinate a specific meeting point by text rather than trying to stop directly on a crowded 18th Street." },
-      { q: "How far is Adams Morgan from Reagan National?", a: "About 6 miles, typically 15 to 22 minutes depending on traffic." },
-      { q: "Why not just flag a car on 18th Street?", a: "Weekend pedestrian crowds and limited curb space make 18th Street itself a poor pickup point — we arrange a nearby meeting spot that's easier for both you and the chauffeur." },
-      { q: "How far is Adams Morgan from Dulles?", a: "About 28 miles, typically 40 to 50 minutes depending on traffic." },
-      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups." },
+      { q: "How far is Adams Morgan from Reagan National?", a: "About 6 miles, typically 15 to 22 minutes depending on traffic. Each pickup is flight-tracked, and the rate is flat and confirmed before you ride. Our chauffeurs know Columbia Road and the neighborhood's one-way grid." },
+      { q: "Why not just flag a car on 18th Street?", a: "Weekend pedestrian crowds and limited curb space make 18th Street itself a poor pickup point, so we arrange a nearby meeting spot that's easier for both you and the chauffeur. We text you the exact spot ahead of time. That keeps the group together instead of scattering to separate rideshares." },
+      { q: "How far is Adams Morgan from Dulles?", a: "About 28 miles, typically 40 to 50 minutes depending on traffic. The Dulles run gets the same flight tracking, meet and greet and written flat rate as the shorter Reagan trip. BWI is also served, at about 36 miles." },
+      { q: "What vehicles work best for a bachelorette or birthday group?", a: "A Lincoln Navigator for up to six or a Chevrolet Suburban for up to five, or a 13-passenger Mercedes Sprinter van for larger groups. We text a meeting point near 18th Street instead of stopping in the crowds. The whole group rides together, and nobody has to drive." },
     ],
     related: [
       { label: "Logan Circle Limo Service", to: "/logan-circle-limo-service" },
@@ -1173,11 +1173,11 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How much does a car service from BWI to Laurel cost?", a: "We quote a flat rate based on your exact address and vehicle choice, confirmed in writing before you ride — call (877) 609-1919 for an instant quote." },
-      { q: "How long is the drive from BWI to Laurel?", a: "About 15 miles and 20 to 30 minutes via MD-32 and the Baltimore-Washington Parkway." },
-      { q: "Will my chauffeur meet me inside the terminal at BWI?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign and helps with luggage." },
-      { q: "Do you serve Fort Meade and the NSA area from BWI?", a: "Yes, this is one of our most common BWI-to-Laurel bookings, including short-notice business travel." },
-      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge." },
+      { q: "How much does a car service from BWI to Laurel cost?", a: "We quote a flat rate based on your exact address and vehicle choice, confirmed in writing before you ride; call (877) 609-1919 for an instant quote. There is no surge pricing and no hidden fees. Sedans, SUVs and Sprinter vans are all available on this run." },
+      { q: "How long is the drive from BWI to Laurel?", a: "About 15 miles and 20 to 30 minutes via MD-32 and the Baltimore-Washington Parkway. It is one of the shortest airport runs in our Maryland coverage. Your chauffeur is staged before you land." },
+      { q: "Will my chauffeur meet me inside the terminal at BWI?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign and helps with luggage. Curbside pickup is also available if you prefer. Domestic arrivals include 45 minutes of complimentary waiting and international arrivals 60." },
+      { q: "Do you serve Fort Meade and the NSA area from BWI?", a: "Yes, this is one of our most common BWI-to-Laurel bookings, including short-notice business travel. Dispatch runs 24/7, so pre-dawn departures and late arrivals are covered. The flat rate is confirmed in writing before you ride." },
+      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge. You also get 45 minutes of complimentary waiting on domestic arrivals and 60 on international. That is useful on a short run where you want to get home without waiting on a rideshare." },
     ],
     related: [
       { label: "Laurel Limo Service", to: "/laurel-limo-service" },
@@ -1237,10 +1237,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from BWI to Silver Spring cost?", a: "We quote a flat rate based on your exact address and vehicle choice, confirmed in writing before you ride. Call (877) 609-1919 for an instant quote." },
-      { q: "How long is the drive from BWI to Silver Spring?", a: "About 32 miles and 35 to 50 minutes via the Baltimore-Washington Parkway and the Capital Beltway." },
-      { q: "Do you serve downtown Silver Spring restaurants and theaters?", a: "Yes, downtown Silver Spring is one of our regular drop-off areas, including evening and weekend pickups." },
-      { q: "Will my chauffeur meet me inside the terminal at BWI?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign and helps with luggage." },
-      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge." },
+      { q: "How long is the drive from BWI to Silver Spring?", a: "About 32 miles and 35 to 50 minutes via the Baltimore-Washington Parkway and the Capital Beltway. The flat rate is confirmed in writing before you ride, so Beltway traffic does not change it. Drop-off is at your door in downtown Silver Spring, Woodmoor or Four Corners." },
+      { q: "Do you serve downtown Silver Spring restaurants and theaters?", a: "Yes, downtown Silver Spring is one of our regular drop-off areas, including evening and weekend pickups. A return ride after dinner or a show can be scheduled when you book. Dispatch is available 24/7 at (877) 609-1919." },
+      { q: "Will my chauffeur meet me inside the terminal at BWI?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign and helps with luggage. If you would rather meet at the curb, curbside pickup is also available. Complimentary waiting is 45 minutes domestic and 60 international." },
+      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge. On a late Southwest arrival into BWI, the car is still waiting. Complimentary waiting starts from the actual arrival." },
     ],
     related: [
       { label: "Silver Spring Limo Service", to: "/silver-spring-limo-service" },
@@ -1300,10 +1300,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from BWI to Columbia cost?", a: "We quote a flat rate based on your exact address and vehicle choice, confirmed in writing before you ride. Call (877) 609-1919 for an instant quote." },
-      { q: "How long is the drive from BWI to Columbia?", a: "About 14 miles and 18 to 25 minutes via MD-175 and I-95." },
-      { q: "Can you pick me up for a Merriweather Post Pavilion show?", a: "Yes, we regularly run both airport arrivals and direct concert transportation to Merriweather Post Pavilion." },
-      { q: "Will my chauffeur meet me inside the terminal at BWI?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign." },
-      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge." },
+      { q: "How long is the drive from BWI to Columbia?", a: "About 14 miles and 18 to 25 minutes via MD-175 and I-95. That makes it one of the fastest airport connections in Howard County. Drop-off is at your door in Town Center, Dorsey's Search, Oakland Mills or Long Reach." },
+      { q: "Can you pick me up for a Merriweather Post Pavilion show?", a: "Yes, we regularly run both airport arrivals and direct concert transportation to Merriweather Post Pavilion. If you are flying in for a show, the BWI pickup and the concert ride can be planned together. The rate is flat and confirmed in writing before you ride." },
+      { q: "Will my chauffeur meet me inside the terminal at BWI?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. Curbside pickup is available too if you would rather go straight to the car. Domestic arrivals include 45 minutes of complimentary waiting and international arrivals 60." },
+      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge. Complimentary waiting is 45 minutes on domestic flights and 60 on international. Dispatch runs 24/7, so late-night arrivals are covered." },
     ],
     related: [
       { label: "Columbia, MD Limo Service", to: "/columbia-md-limo-service" },
@@ -1363,10 +1363,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from DCA to National Harbor cost?", a: "We quote a flat rate based on your exact destination and vehicle choice, confirmed in writing before you ride. Call (877) 609-1919 for an instant quote." },
-      { q: "How long is the drive from DCA to National Harbor?", a: "About 9 miles and 20 to 30 minutes via I-295 and the Woodrow Wilson Bridge, depending on bridge traffic." },
-      { q: "Can you drop off directly at MGM National Harbor or the Gaylord?", a: "Yes, we drop off at the main entrance of either property, as well as anywhere along the waterfront promenade." },
-      { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign." },
-      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge." },
+      { q: "How long is the drive from DCA to National Harbor?", a: "About 9 miles and 20 to 30 minutes via I-295 and the Woodrow Wilson Bridge, depending on bridge traffic. Because the rate is flat and confirmed in writing, bridge backups do not change your price. That is the main advantage over rideshare pricing on the Wilson Bridge crossing." },
+      { q: "Can you drop off directly at MGM National Harbor or the Gaylord?", a: "Yes, we drop off at the main entrance of either property, as well as anywhere along the waterfront promenade. That works well for MGM weekend guests and Gaylord National convention attendees alike. The chauffeur unloads your luggage at the door." },
+      { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. You can choose curbside pickup instead if you prefer. Either way, your arrival is flight-tracked." },
+      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge. Domestic arrivals include 45 minutes of complimentary waiting and international arrivals 60. Your flat rate to National Harbor stays the same." },
     ],
     related: [
       { label: "National Harbor Transportation", to: "/national-harbor-transportation" },
@@ -1426,10 +1426,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a car service from DCA to Tysons cost?", a: "We quote a flat rate based on your exact destination and vehicle choice, confirmed in writing before you ride. Call (877) 609-1919 for an instant quote." },
-      { q: "How long is the drive from DCA to Tysons?", a: "About 16 miles and 25 to 40 minutes via the GW Parkway, the Capital Beltway and the Dulles Toll Road." },
-      { q: "Can you drop off at a specific Tysons office tower or hotel?", a: "Yes, we drop off at any address in Tysons, including every major office tower and hotel." },
-      { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign." },
-      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge." },
+      { q: "How long is the drive from DCA to Tysons?", a: "About 16 miles and 25 to 40 minutes via the GW Parkway, the Capital Beltway and the Dulles Toll Road. The flat rate is confirmed in writing before you ride, so traffic on the Beltway does not change it. Your chauffeur is staged before you land." },
+      { q: "Can you drop off at a specific Tysons office tower or hotel?", a: "Yes, we drop off at any address in Tysons, including every major office tower and hotel. Tysons Corner Center and Tysons Galleria are common drop-offs too. Just give us the exact address or entrance when you book." },
+      { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. Curbside pickup is also available for travelers who want to head straight to the car. Complimentary wait time is 45 minutes on domestic arrivals and 60 on international." },
+      { q: "What happens if my flight is delayed?", a: "Every airport pickup is flight-tracked, so your chauffeur adjusts to the actual arrival time automatically at no extra charge. For business travelers heading to a Tysons meeting, that means the car is there whenever the flight actually lands. Complimentary waiting is included on top of that." },
     ],
     related: [
       { label: "Tysons Limo Service", to: "/tysons-limo-service" },
@@ -1492,10 +1492,10 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Which FBOs at Dulles do you serve?", a: "We coordinate pickup and drop-off at any of Dulles' fixed-base operators — tell us which one when you book and we'll confirm access directly with their ramp staff." },
-      { q: "Do you track private and charter flight schedules?", a: "Yes, we stay in direct contact with your flight department, broker or the FBO as departure and arrival times firm up, since private aviation schedules shift more than commercial flights." },
-      { q: "Can you handle flight-crew transportation as well as passengers?", a: "Yes, including crew transportation between the FBO and nearby hotels on multi-day trips." },
-      { q: "Is this different from your regular airport transfer service?", a: "Yes — FBO transportation meets you at the ramp or FBO lobby rather than commercial baggage claim, with flexible timing built around your aircraft's actual schedule." },
+      { q: "Which FBOs at Dulles do you serve?", a: "We coordinate pickup and drop-off at any of Dulles' fixed-base operators; tell us which one when you book and we'll confirm access directly with their ramp staff. Pickup is ramp-side or in the FBO lobby by arrangement. That keeps you out of the commercial terminals entirely." },
+      { q: "Do you track private and charter flight schedules?", a: "Yes, we stay in direct contact with your flight department, broker or the FBO as departure and arrival times firm up, since private aviation schedules shift more than commercial flights. Wait time is flexible and built around the aircraft's actual schedule. The vehicle is staged before your wheels stop." },
+      { q: "Can you handle flight-crew transportation as well as passengers?", a: "Yes, including crew transportation between the FBO and nearby hotels on multi-day trips. Sedans, SUVs and Sprinter vans are available for passengers, luggage and crew. Dispatch is available 24/7 for early departures and late arrivals." },
+      { q: "Is this different from your regular airport transfer service?", a: "Yes — FBO transportation meets you at the ramp or FBO lobby rather than commercial baggage claim, with flexible timing built around your aircraft's actual schedule. We coordinate with your flight department or broker before the flight. Chauffeurs are discreet and experienced with VIP travelers." },
       { q: "Do you offer standing accounts for corporate flight departments?", a: "Yes. Call (877) 609-1919 to set up a recurring arrangement so every trip is booked consistently." },
     ],
     related: [
@@ -1556,11 +1556,11 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Can you coordinate arrival timing for a gender-reveal moment?", a: "Yes, we work closely with your planner or photographer so the vehicle arrives exactly when your reveal is choreographed to happen." },
-      { q: "Do you provide round-trip service for a baby shower?", a: "Yes, pickup, wait at the venue, and return home can all be booked as a single hourly reservation." },
-      { q: "What vehicle is best for a multi-generational family group?", a: "A 13-passenger Mercedes Sprinter van is the most common choice for grandparents, siblings and close friends traveling together." },
-      { q: "Is pricing hourly or a flat point-to-point rate?", a: "Either, depending on your plans — we quote both so you can choose what fits your day, confirmed in writing before you book." },
-      { q: "How far in advance should we book?", a: "As soon as your date and venue are set, especially for weekend dates during peak baby-shower season in spring and fall." },
+      { q: "Can you coordinate arrival timing for a gender-reveal moment?", a: "Yes, we work closely with your planner or photographer so the vehicle arrives exactly when your reveal is choreographed to happen. Many families make the ride part of the moment, with a planned arrival or a short scenic drive first. Tell us the timeline when you book." },
+      { q: "Do you provide round-trip service for a baby shower?", a: "Yes, pickup, wait at the venue, and return home can all be booked as a single hourly reservation. The guest of honor never has to think about parking or driving. The rate is confirmed in writing before you book." },
+      { q: "What vehicle is best for a multi-generational family group?", a: "A 13-passenger Mercedes Sprinter van is the most common choice for grandparents, siblings and close friends traveling together. Sedans and SUVs suit the guest of honor and close family. Larger families can use more than one vehicle." },
+      { q: "Is pricing hourly or a flat point-to-point rate?", a: "Either, depending on your plans — we quote both so you can choose what fits your day, confirmed in writing before you book. Hourly suits a round trip with waiting at the venue. Point-to-point works for a simple drop-off and pickup." },
+      { q: "How far in advance should we book?", a: "As soon as your date and venue are set, especially for weekend dates during peak baby-shower season in spring and fall. Share the venue and timeline so we can coordinate arrival timing with your planner. Free cancellation applies up to 3 hours before pickup for sedans and SUVs, and 12 hours for Sprinter vans and special events." },
     ],
     related: [
       { label: "Birthday Limo Service", to: "/birthday-limo" },
@@ -1621,10 +1621,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you run a multi-stop bar crawl or wine tasting itinerary?", a: "Yes. Hourly, as-directed service means the chauffeur follows your itinerary — including changes on the day — rather than a fixed route." },
-      { q: "What's the best vehicle for a group of 8–10?", a: "A 13-passenger Mercedes Sprinter van is the most common choice for groups that size, keeping everyone together for the whole night." },
-      { q: "Can you pick up guests flying in for the weekend?", a: "Yes, we coordinate group airport pickups at Dulles, Reagan National or BWI and deliver everyone to the same starting point." },
-      { q: "Do you run bachelor/bachelorette transportation to Loudoun wineries?", a: "Yes, a full-day wine-country itinerary with multiple tasting stops is one of our most popular bachelorette bookings." },
-      { q: "How far in advance should we book for a weekend date?", a: "As early as possible — spring, summer and fall weekends are our busiest, and vehicles for large groups book up first." },
+      { q: "What's the best vehicle for a group of 8–10?", a: "A 13-passenger Mercedes Sprinter van is the most common choice for groups that size, keeping everyone together for the whole night. One hourly reservation covers every stop, so nobody gets split into separate rides. The chauffeur stays with the group from first pickup to the ride home." },
+      { q: "Can you pick up guests flying in for the weekend?", a: "Yes, we coordinate group airport pickups at Dulles, Reagan National or BWI and deliver everyone to the same starting point. Each flight is tracked, so staggered arrivals are handled. The airport runs can be added to the same weekend booking." },
+      { q: "Do you run bachelor/bachelorette transportation to Loudoun wineries?", a: "Yes, a full-day wine-country itinerary with multiple tasting stops is one of our most popular bachelorette bookings. The chauffeur follows your itinerary and waits between tastings. Everyone gets a safe, sober ride home at the end of the day." },
+      { q: "How far in advance should we book for a weekend date?", a: "As early as possible — spring, summer and fall weekends are our busiest, and vehicles for large groups book up first. Sprinter vans are usually the first to go. Send the date, group size and rough itinerary for a written hourly quote." },
     ],
     related: [
       { label: "Clarendon & Ballston Limo Service", to: "/clarendon-ballston-limo-service" },
@@ -1684,11 +1684,11 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How many people fit in a quinceañera court vehicle?", a: "A stretch limousine seats up to 8; a 13-passenger Mercedes Sprinter van fits a full court of damas and chambelanes together." },
-      { q: "Can you coordinate a multi-stop day — church, photos and reception?", a: "Yes, this is one of our most common quinceañera bookings, run as a single hourly reservation with the chauffeur staying with your group throughout." },
-      { q: "Can the chauffeur time our arrival for the grand entrance?", a: "Yes, we coordinate with your planner, hall or photographer so the vehicle arrives exactly when your entrance is scheduled." },
-      { q: "Is pricing hourly or a flat rate?", a: "Hourly, as-directed service for the full celebration, confirmed in writing before you book." },
-      { q: "How far ahead should we book for a Saturday in spring?", a: "As early as possible — spring and early-summer Saturdays are our highest-demand quinceañera and sweet sixteen dates." },
+      { q: "How many people fit in a quinceañera court vehicle?", a: "A stretch limousine seats up to 8; a 13-passenger Mercedes Sprinter van fits a full court of damas and chambelanes together. We size the vehicle to your court so everyone can arrive together. Parents and family can ride separately in a sedan or SUV." },
+      { q: "Can you coordinate a multi-stop day — church, photos and reception?", a: "Yes, this is one of our most common quinceañera bookings, run as a single hourly reservation with the chauffeur staying with your group throughout. The route can cover the church, a photo stop and the reception hall. Timing is coordinated with your planner or photographer." },
+      { q: "Can the chauffeur time our arrival for the grand entrance?", a: "Yes, we coordinate with your planner, hall or photographer so the vehicle arrives exactly when your entrance is scheduled. Share the schedule when you book and we build the day around it. The chauffeur stays with the court between stops." },
+      { q: "Is pricing hourly or a flat rate?", a: "Hourly, as-directed service for the full celebration, confirmed in writing before you book. That covers every stop, from the church to photos and the reception. The rate is set before the day, with no surge pricing." },
+      { q: "How far ahead should we book for a Saturday in spring?", a: "As early as possible — spring and early-summer Saturdays are our highest-demand quinceañera and sweet sixteen dates. Once the church and hall are booked, send us the timeline and court size. Special-event bookings can be cancelled free of charge up to 12 hours before pickup." },
     ],
     related: [
       { label: "Prom Limo Service", to: "/prom-limo" },
@@ -1749,9 +1749,9 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does transportation from Dulles to UVA for graduation cost?", a: "We quote a flat round-trip or one-way rate by vehicle, confirmed in writing before you book. Call (877) 609-1919 for exact pricing." },
-      { q: "How far ahead should we book for Finals Weekend?", a: "As early as possible — ideally as soon as your travel dates are confirmed, since Finals Weekend is our highest-demand Charlottesville booking of the year." },
-      { q: "How long is the drive from Dulles to Charlottesville?", a: "About 110 miles, typically 2 hours to 2 hours 15 minutes via I-66 and US-29." },
-      { q: "Can you provide transportation for move-in day with lots of luggage?", a: "Yes, a Lincoln Navigator or Chevrolet Suburban handles a typical move-in load, and a Sprinter van is available for larger families or multiple students." },
+      { q: "How far ahead should we book for Finals Weekend?", a: "As early as possible — ideally as soon as your travel dates are confirmed, since Finals Weekend is our highest-demand Charlottesville booking of the year. Rental cars are scarce that weekend and rideshare thins out fast. One flat-rate reservation covers the airport pickup and the full round trip." },
+      { q: "How long is the drive from Dulles to Charlottesville?", a: "About 110 miles, typically 2 hours to 2 hours 15 minutes via I-66 and US-29. We track your Dulles arrival and build buffer into the drive down. Drop-off can be at Grounds, the Corner or a Charlottesville hotel." },
+      { q: "Can you provide transportation for move-in day with lots of luggage?", a: "Yes, a Lincoln Navigator or Chevrolet Suburban handles a typical move-in load, and a Sprinter van is available for larger families or multiple students. Tell us the bag and box count at booking so we send the right vehicle. Move-in dates fill early, so reserve ahead." },
       { q: "Do you serve regular family weekend visits, not just graduation?", a: "Yes. We run UVA family-weekend and football-game-day transportation throughout the school year, not just Finals Weekend and move-in." },
     ],
     related: [
@@ -1813,10 +1813,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does transportation from the airport to Georgetown cost?", a: "We quote a flat rate by vehicle for either airport, confirmed in writing before you book. Call (877) 609-1919 for exact pricing." },
-      { q: "Is Georgetown easier to reach from Dulles or Reagan National?", a: "Reagan National is closer — about 5 miles, 15 to 20 minutes — but we serve both airports with the same flat-rate, flight-tracked standard." },
-      { q: "Can you help with parking and loading during move-in?", a: "Yes, we handle the drop-off and luggage so your family doesn't have to find parking on Georgetown's narrow streets." },
+      { q: "Is Georgetown easier to reach from Dulles or Reagan National?", a: "Reagan National is closer — about 5 miles, 15 to 20 minutes — but we serve both airports with the same flat-rate, flight-tracked standard. Dulles is about 25 miles and 35 to 50 minutes away. Choose whichever airport fits your flights." },
+      { q: "Can you help with parking and loading during move-in?", a: "Yes, we handle the drop-off and luggage so your family doesn't have to find parking on Georgetown's narrow streets. Our chauffeurs know M Street and Wisconsin Avenue traffic and coordinate pickups at Healy Hall and the residence halls. Sprinter vans are available for larger families or multiple students." },
       { q: "Do you provide transportation for the full graduation weekend, not just the airport leg?", a: "Yes. Most families book the airport transfer plus campus and DC transportation for the length of their stay as one package." },
-      { q: "How far ahead should we book for commencement weekend?", a: "As early as possible — commencement and move-in weekends are Georgetown's highest-demand dates." },
+      { q: "How far ahead should we book for commencement weekend?", a: "As early as possible — commencement and move-in weekends are Georgetown's highest-demand dates. Most families book the airport transfer plus campus and DC transportation for the whole stay as one package. Rates are confirmed in writing before you book." },
     ],
     related: [
       { label: "Georgetown Limo Service", to: "/georgetown-limo-service" },
@@ -1877,10 +1877,10 @@ export const MARYLAND_BATCH12 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do I need a special pass to visit Fort Belvoir?", a: "If you don't already have a DoD ID or current base access credential, you'll need to stop at the visitor control center for ID verification and a background check before a day pass is issued. We route you there first if needed." },
-      { q: "Can you help coordinate the visitor-pass process?", a: "We ask for your visit purpose and any sponsor information when you book, so your chauffeur can take you to the correct visitor center and gate." },
-      { q: "Do you serve military families during a PCS move?", a: "Yes, this is a common booking — transportation around the area while household goods and a personal vehicle are still in transit." },
-      { q: "How far is Fort Belvoir from Dulles?", a: "About 35 miles, typically 45 to 55 minutes." },
-      { q: "Do you serve Belvoir Community Hospital appointments?", a: "Yes, including recurring medical-appointment transportation for retirees and dependents." },
+      { q: "Can you help coordinate the visitor-pass process?", a: "We ask for your visit purpose and any sponsor information when you book, so your chauffeur can take you to the correct visitor center and gate. Visitors without a DoD ID or base credential stop at the visitor control center for a background check and pass. Our chauffeurs are familiar with the base access points and procedures." },
+      { q: "Do you serve military families during a PCS move?", a: "Yes, this is a common booking — transportation around the area while household goods and a personal vehicle are still in transit. Sedans, SUVs and Sprinter vans are available for families. Child seats can be requested at booking." },
+      { q: "How far is Fort Belvoir from Dulles?", a: "About 35 miles, typically 45 to 55 minutes. Reagan National is closer, at about 18 miles and 25 to 35 minutes. Either airport transfer is a flat point-to-point rate confirmed in writing." },
+      { q: "Do you serve Belvoir Community Hospital appointments?", a: "Yes, including recurring medical-appointment transportation for retirees and dependents. We handle the base-access coordination as part of each trip. Rates are flat and confirmed before you ride." },
     ],
     related: [
       { label: "Mount Vernon Transportation", to: "/mount-vernon-transportation" },
@@ -1940,11 +1940,11 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Do you charge extra for traveling with a pet?", a: "No surprise fees — your flat rate is confirmed in writing before you book, and we ask about your pet when you reserve so the right vehicle is assigned." },
+      { q: "Do you charge extra for traveling with a pet?", a: "No surprise fees — your flat rate is confirmed in writing before you book, and we ask about your pet when you reserve so the right vehicle is assigned. Nothing extra is added at pickup. Sedans and SUVs suit a single pet, and Sprinter vans handle several." },
       { q: "Can you take my pet to the cargo facility for an international flight?", a: "Yes. Tell us the specific airline or cargo building and we route the pickup or drop-off there rather than the passenger terminal." },
-      { q: "Does my pet need to stay in a carrier?", a: "Yes, pets travel in an appropriate carrier or a secured harness for everyone's safety, including the pet's." },
-      { q: "Can you handle more than one pet at a time?", a: "Yes, a Mercedes Sprinter van comfortably handles multiple carriers for a household move or a breeder/rescue transport." },
-      { q: "Do you serve routine vet or boarding trips, not just airport runs?", a: "Yes, recurring vet, grooming and boarding transportation is a regular booking, not just one-time airport trips." },
+      { q: "Does my pet need to stay in a carrier?", a: "Yes, pets travel in an appropriate carrier or a secured harness for everyone's safety, including the pet's. Let us know which one when you book. Vehicles are cleaned between trips." },
+      { q: "Can you handle more than one pet at a time?", a: "Yes, a Mercedes Sprinter van comfortably handles multiple carriers for a household move or a breeder/rescue transport. Tell us how many animals and carriers to expect when you book. The flat rate is confirmed in writing before the trip." },
+      { q: "Do you serve routine vet or boarding trips, not just airport runs?", a: "Yes, recurring vet, grooming and boarding transportation is a regular booking, not just one-time airport trips. Your pet rides in a carrier or secured harness, the same as on an airport run. Each trip is quoted at a flat rate before you ride." },
     ],
     related: [
       { label: "Airport Transfers", to: "/airport-transfer" },

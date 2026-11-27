@@ -119,7 +119,7 @@ const batch5 = [
       {
         question: 'Does a Maryland limo company need to specifically cover my suburb?',
         answer:
-          'Confirm the company regularly runs your specific corridor, whether that is Bethesda, Rockville, Silver Spring, Columbia, Annapolis, or Baltimore, rather than just technically listing it as within their service area.',
+          'Confirm the company regularly runs your specific corridor, whether that is Bethesda, Rockville, Silver Spring, Columbia, Annapolis, or Baltimore, rather than just technically listing it as within their service area. A company that knows the route can give you a realistic pickup time and plan around local traffic, instead of learning the drive on the day of your trip.',
       },
     ],
     relatedLinks: [
@@ -219,22 +219,22 @@ const batch5 = [
       {
         question: 'Does complimentary wait time cover a delayed flight before a business meeting?',
         answer:
-          'Yes — airport pickups include flight tracking with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international, so a normal delay does not turn into a missed pickup or an added charge.',
+          'Yes — airport pickups include flight tracking with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international, so a normal delay does not turn into a missed pickup or an added charge. Your chauffeur adjusts to the actual landing time automatically, so you can head straight from the gate to the meeting without calling ahead.',
       },
       {
         question: 'Can I get a corporate invoice instead of individual receipts?',
         answer:
-          'Yes — ask about setting up a corporate account for centralized billing across multiple trips and travelers, rather than submitting separate receipts for each ride.',
+          'Yes — ask about setting up a corporate account for centralized billing across multiple trips and travelers, rather than submitting separate receipts for each ride. Each trip then appears on one consolidated invoice, which makes it easier to match rides to travelers and projects at the end of the month.',
       },
       {
         question: 'What is hourly, as-directed service and why does it fit a roadshow day?',
         answer:
-          'It reserves the vehicle and chauffeur for a block of time rather than a single point-to-point trip, letting the schedule flex as meetings run long or end early — exactly the structure a multi-stop business day needs.',
+          'It reserves the vehicle and chauffeur for a block of time rather than a single point-to-point trip, letting the schedule flex as meetings run long or end early — exactly the structure a multi-stop business day needs. Your rate for the block is confirmed in writing before the day, so a meeting running long does not mean a new booking or a changed price.',
       },
       {
         question: 'Do you regularly service Rockville, Bethesda, Columbia, and Baltimore for business travel?',
         answer:
-          'Yes — as a licensed Virginia and Maryland carrier, we run these corridors regularly and can advise on realistic drive times from Dulles for your specific meeting location.',
+          'Yes — as a licensed Virginia and Maryland carrier, we run these corridors regularly and can advise on realistic drive times from Dulles for your specific meeting location. Share your meeting address and time when you book, and the pickup is planned with the drive and any rush-hour traffic in mind.',
       },
     ],
     relatedLinks: [
@@ -348,7 +348,7 @@ const batch5 = [
       {
         question: 'Which pricing model is better for a multi-stop day in Maryland?',
         answer:
-          'Hourly, as-directed service is almost always the better structure for more than two stops, since it keeps one vehicle and chauffeur with you for the day rather than re-dispatching separate point-to-point trips for each leg.',
+          'Hourly, as-directed service is almost always the better structure for more than two stops, since it keeps one vehicle and chauffeur with you for the day rather than re-dispatching separate point-to-point trips for each leg. Point-to-point still makes sense for a single transfer, such as an airport run. Either way, the rate is flat and confirmed in writing before the ride.',
       },
     ],
     relatedLinks: [
@@ -446,12 +446,12 @@ const batch5 = [
       {
         question: 'How many people fit in a Sprinter van?',
         answer:
-          'Up to thirteen passengers, with matching capacity for gear or luggage, which comfortably covers most prom groups, bachelor and bachelorette parties, and milestone birthday celebrations in a single vehicle.',
+          'Up to thirteen passengers, with matching capacity for gear or luggage, which comfortably covers most prom groups, bachelor and bachelorette parties, and milestone birthday celebrations in a single vehicle. Groups larger than that can book more than one vehicle on the same reservation, so everyone still travels on one plan.',
       },
       {
         question: 'Is Sprinter service booked hourly or point-to-point for a group night out?',
         answer:
-          'Typically hourly, as-directed service, which keeps the vehicle and chauffeur with your group for a reserved block of time, moving between stops as the night actually unfolds rather than a single fixed transfer.',
+          'Typically hourly, as-directed service, which keeps the vehicle and chauffeur with your group for a reserved block of time, moving between stops as the night actually unfolds rather than a single fixed transfer. The chauffeur waits nearby between venues, and the flat rate for the reserved block is confirmed before the night begins.',
       },
       {
         question: 'What is the cancellation policy for a Sprinter van or limo booking?',
@@ -565,12 +565,12 @@ const batch5 = [
       {
         question: 'How many people fit in your largest group vehicle?',
         answer:
-          'Our Sprinter Shuttle and Sprinter Executive each seat up to thirteen passengers with a professional chauffeur, which covers most prom, bachelor/bachelorette, and birthday groups in a single vehicle.',
+          'Our Sprinter Shuttle and Sprinter Executive each seat up to thirteen passengers with a professional chauffeur, which covers most prom, bachelor/bachelorette, and birthday groups in a single vehicle. For a multi-stop day, those groups are usually booked hourly, so the same vehicle and chauffeur stay with you between every stop. Larger groups can book more than one vehicle on the same reservation.',
       },
       {
         question: 'Is a Sprinter Executive or a party bus better for prom?',
         answer:
-          'A Sprinter Executive generally fits prom well, since most prom groups are sized within its thirteen-passenger capacity and a seated, chaperoned ride is typically what parents and schools expect.',
+          'A Sprinter Executive generally fits prom well, since most prom groups are sized within its thirteen-passenger capacity and a seated, chaperoned ride is typically what parents and schools expect. Parents can confirm the pickup addresses, timing and chauffeur details with dispatch before the night, and our licensed, background-checked chauffeurs follow that plan from the first pickup to the last drop-off.',
       },
       {
         question: 'What if my group is larger than thirteen people?',

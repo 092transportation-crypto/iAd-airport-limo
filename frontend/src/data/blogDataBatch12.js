@@ -56,27 +56,27 @@ const batch12 = [
       {
         question: 'Is gratuity included in IAD Airport Limo\'s rates?',
         answer:
-          'Your booking confirmation states whether gratuity is included in your quoted flat rate — ask us directly when you book if it is not clear, and we will tell you plainly.',
+          'Your booking confirmation states whether gratuity is included in your quoted flat rate — ask us directly when you book if it is not clear, and we will tell you plainly. That confirmation comes in writing before the ride, so you can check it well before the chauffeur arrives.',
       },
       {
         question: 'How much should I tip if gratuity is not included?',
         answer:
-          'A common range is 15 to 20 percent of the fare, similar to a restaurant tip, adjusted for exceptional service or extra help with luggage.',
+          'A common range is 15 to 20 percent of the fare, similar to a restaurant tip, adjusted for exceptional service or extra help with luggage. If gratuity is already included in your rate, anything extra is entirely at your discretion.',
       },
       {
         question: 'Do I need to tip extra for airport meet and greet?',
         answer:
-          'It is not required, but many passengers add a bit more when a chauffeur helps significantly with luggage or accommodates a flight delay smoothly.',
+          'It is not required, but many passengers add a bit more when a chauffeur helps significantly with luggage or accommodates a flight delay smoothly. Flight tracking and complimentary waiting time are already part of every airport pickup, so any extra is simply a thank-you.',
       },
       {
         question: 'How does tipping work for a full wedding-day booking?',
         answer:
-          'It is usually addressed in your transportation vendor contract the same way as other wedding vendors — read it, and ask directly if the policy is not clear.',
+          'It is usually addressed in your transportation vendor contract the same way as other wedding vendors — read it, and ask directly if the policy is not clear. Settling it before the wedding means no one has to think about cash or tips on the day itself.',
       },
       {
         question: 'Can I tip in cash or does it need to be added to the card payment?',
         answer:
-          'Cash handed directly to the chauffeur at the end of the ride is the simplest method and ensures the full amount reaches them.',
+          'Cash handed directly to the chauffeur at the end of the ride is the simplest method and ensures the full amount reaches them. If you would rather use a card, ask when you book how gratuity can be added, since methods vary.',
       },
     ],
     relatedLinks: [
@@ -137,17 +137,17 @@ const batch12 = [
       {
         question: 'Do town cars still exist?',
         answer:
-          'The Lincoln Town Car, the vehicle that popularized the term, was discontinued years ago. "Town car" booking requests today are generally fulfilled with a comparable full-size luxury sedan.',
+          'The Lincoln Town Car, the vehicle that popularized the term, was discontinued years ago. "Town car" booking requests today are generally fulfilled with a comparable full-size luxury sedan. Our own sedans are the Mercedes-Benz E-Class and BMW 7 Series, so ask which is available if you want that classic black-car look.',
       },
       {
         question: 'What should I ask for if I want a stretch vehicle?',
         answer:
-          'Ask specifically for a "stretch limousine" or "stretch SUV" — this is the one term of the three that reliably describes an extended vehicle rather than a standard sedan.',
+          'Ask specifically for a "stretch limousine" or "stretch SUV" — this is the one term of the three that reliably describes an extended vehicle rather than a standard sedan. Our fleet is made up of sedans, SUVs and Mercedes Sprinter vans, so for a larger group we would point you to the Sprinter, which seats up to 13 passengers.',
       },
       {
         question: 'What vehicles does IAD Airport Limo offer?',
         answer:
-          'Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup.',
+          'Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup. Your written confirmation names the vehicle class you booked.',
       },
       {
         question: 'Does it matter which term I use when I book?',
@@ -208,27 +208,27 @@ const batch12 = [
       {
         question: 'What is a rough estimate for IAD to Charlottesville?',
         answer:
-          'Pricing for this roughly 110-mile, 2-hour-plus trip is quoted as a dedicated flat rate based on your exact addresses and vehicle choice — call (877) 609-1919 or request a quote online for an exact number.',
+          'Pricing for this roughly 110-mile, 2-hour-plus trip is quoted as a dedicated flat rate based on your exact addresses and vehicle choice — call (877) 609-1919 or request a quote online for an exact number. The quote is confirmed in writing before you ride, and the card is charged only once the reservation and rate are confirmed.',
       },
       {
         question: 'Does the price change for Finals Weekend or move-in day?',
         answer:
-          'The rate itself is not higher for peak dates, but vehicle availability is tightest then — book as early as possible once your travel dates are confirmed.',
+          'The rate itself is not higher for peak dates, but vehicle availability is tightest then — book as early as possible once your travel dates are confirmed. Flight tracking still applies on those weekends, so an arrival at Dulles is picked up at the actual landing time.',
       },
       {
         question: 'Is it cheaper to book one-way or round trip?',
         answer:
-          'Many families find round-trip booking simpler to schedule, since it covers the arrival, the stay and the return as one reservation rather than two separate bookings.',
+          'Many families find round-trip booking simpler to schedule, since it covers the arrival, the stay and the return as one reservation rather than two separate bookings. If you book one way, the return can be added later as a separate reservation with its own rate confirmed before that ride.',
       },
       {
         question: 'Does the price include tolls and fees?',
         answer:
-          'Your flat rate is confirmed in writing before you ride and reflects the total cost for your specific trip — ask directly what is included when you request your quote.',
+          'Your flat rate is confirmed in writing before you ride and reflects the total cost for your specific trip — ask directly what is included when you request your quote. There is no surge pricing on peak dates, and asking about tolls up front avoids any surprise on a route this long.',
       },
       {
         question: 'What vehicle should I book for a family move-in trip?',
         answer:
-          'A Lincoln Navigator or Chevrolet Suburban handles a typical move-in load for one student; a Sprinter van is available if multiple students or a larger family group are traveling together.',
+          'A Lincoln Navigator or Chevrolet Suburban handles a typical move-in load for one student; a Sprinter van is available if multiple students or a larger family group are traveling together. Tell us how much luggage and how many boxes are coming when you book so the right vehicle is assigned; the Sprinter seats up to 13 passengers.',
       },
     ],
     relatedLinks: [
@@ -438,7 +438,7 @@ const batch12 = [
       {
         question: 'What should be on a car service receipt for an expense report?',
         answer:
-          'Date, pickup/drop-off details, vehicle type, the fare, any itemized gratuity or fees, and the company\'s name and contact information — standard information any legitimate provider includes.',
+          'Date, pickup/drop-off details, vehicle type, the fare, any itemized gratuity or fees, and the company\'s name and contact information — standard information any legitimate provider includes. Our corporate accounts also receive consolidated monthly invoicing that lists trips by traveler and route.',
       },
       {
         question: 'Can I get gratuity itemized separately on my receipt?',
@@ -453,12 +453,12 @@ const batch12 = [
       {
         question: 'Is a car service generally reimbursable under standard corporate travel policies?',
         answer:
-          'Ground transportation is typically an allowed expense category under most corporate travel policies, though specifics vary by employer — check your own policy for any caps or preferred-vendor requirements.',
+          'Ground transportation is typically an allowed expense category under most corporate travel policies, though specifics vary by employer — check your own policy for any caps or preferred-vendor requirements. A flat rate confirmed in writing before the ride also makes the expense easier to approve, since the amount is known in advance.',
       },
       {
         question: 'Can executive assistants book and receive receipts on behalf of a traveler?',
         answer:
-          'Yes, this is common for our corporate accounts — the assistant books and manages billing while the traveler simply rides.',
+          'Yes, this is common for our corporate accounts — the assistant books and manages billing while the traveler simply rides. The assistant can add each traveler\'s flight number to the booking, so every airport pickup is tracked without the traveler having to manage it.',
       },
     ],
     relatedLinks: [
@@ -514,27 +514,27 @@ const batch12 = [
       {
         question: 'Is a car service actually cheaper than renting for a DC trip?',
         answer:
-          'Once downtown parking fees are factored in, a car service for the airport leg plus scheduled bookings for specific outings is often comparable or cheaper than a kept rental, especially for a trip centered on walkable downtown neighborhoods.',
+          'Once downtown parking fees are factored in, a car service for the airport leg plus scheduled bookings for specific outings is often comparable or cheaper than a kept rental, especially for a trip centered on walkable downtown neighborhoods. The airport leg is a flat rate confirmed before the ride, which makes it easy to compare against a rental\'s daily rate plus parking.',
       },
       {
         question: 'Is it hard to drive and park in downtown DC?',
         answer:
-          'Yes, relative to many cities — the one-way grid, traffic circles and aggressive parking enforcement catch out-of-town drivers off guard regularly.',
+          'Yes, relative to many cities — the one-way grid, traffic circles and aggressive parking enforcement catch out-of-town drivers off guard regularly. With a chauffeur, the route and the drop-off are handled for you, so you step out at the door instead of circling for a space.',
       },
       {
         question: 'When does a rental car make more sense than a car service?',
         answer:
-          'When your itinerary genuinely requires independent, unscheduled day trips to multiple distant locations with no fixed plan.',
+          'When your itinerary genuinely requires independent, unscheduled day trips to multiple distant locations with no fixed plan. For a trip with only a few set outings, hourly as-directed service covers those days without keeping a car parked for the rest of the stay.',
       },
       {
         question: 'What is hourly as-directed service?',
         answer:
-          'A vehicle and chauffeur reserved for a block of hours, with you directing the stops as the day goes — flexible like a rental car, but without parking or driving yourself.',
+          'A vehicle and chauffeur reserved for a block of hours, with you directing the stops as the day goes — flexible like a rental car, but without parking or driving yourself. It suits a day of museum visits, meetings or several stops across the region, with the chauffeur waiting between them.',
       },
       {
         question: 'Can I just book the airport legs and handle the rest on foot or by Metro?',
         answer:
-          'Yes, many visitors do exactly this for a downtown-centered trip — book the airport transfer and let Metro and walking cover a compact itinerary.',
+          'Yes, many visitors do exactly this for a downtown-centered trip — book the airport transfer and let Metro and walking cover a compact itinerary. Flight tracking on the arrival means the pickup adjusts to when you actually land, with 45 minutes of complimentary wait for domestic flights and 60 for international.',
       },
     ],
     relatedLinks: [
@@ -595,22 +595,22 @@ const batch12 = [
       {
         question: 'What information does my ground transportation provider need?',
         answer:
-          'Your specific FBO, tail number, and estimated arrival or departure time, confirmed well in advance of the flight rather than at the last minute.',
+          'Your specific FBO, tail number, and estimated arrival or departure time, confirmed well in advance of the flight rather than at the last minute. Pass on any schedule change as soon as you know it, since private-flight timing can shift at short notice; dispatch is reachable 24/7 at (877) 609-1919.',
       },
       {
         question: 'Why does private-aviation timing seem less predictable than commercial flights?',
         answer:
-          'Crew duty-time limits, weather holds specific to smaller aircraft, and last-minute itinerary changes affect private flights differently than scheduled airline service.',
+          'Crew duty-time limits, weather holds specific to smaller aircraft, and last-minute itinerary changes affect private flights differently than scheduled airline service. Keeping your ground transportation provider updated as the plan changes is the best way to make sure the car is there when you land.',
       },
       {
         question: 'Can ground transportation access the ramp directly?',
         answer:
-          'Often yes, depending on the specific FBO\'s policy — this is arranged in advance between your provider and the FBO\'s ramp staff.',
+          'Often yes, depending on the specific FBO\'s policy — this is arranged in advance between your provider and the FBO\'s ramp staff. Share the FBO name and tail number when you book so that arrangement can be confirmed before the flight.',
       },
       {
         question: 'Do you handle flight-crew transportation as well?',
         answer:
-          'Yes, including crew transportation between the FBO and nearby hotels on multi-day trips.',
+          'Yes, including crew transportation between the FBO and nearby hotels on multi-day trips. Crew trips are quoted and confirmed in writing the same way as passenger transfers.',
       },
     ],
     relatedLinks: [
@@ -666,22 +666,22 @@ const batch12 = [
       {
         question: 'What is the worst time to drive to Dulles on a weekday?',
         answer:
-          'Generally 6:30–9:30 a.m. and 4–7 p.m. on the Toll Road, Route 28 and the Beltway approaches, with the Beltway\'s slow window often extending closer to 3:30–7 p.m.',
+          'Generally 6:30–9:30 a.m. and 4–7 p.m. on the Toll Road, Route 28 and the Beltway approaches, with the Beltway\'s slow window often extending closer to 3:30–7 p.m. For a departure in those windows, allow extra time; we set pickup times against live traffic and your flight, not an average drive time.',
       },
       {
         question: 'Is midday traffic around Dulles actually light?',
         answer:
-          'It is lighter than rush hour but not always as fast as visitors expect, especially on the Beltway near the American Legion Bridge and I-66 interchange.',
+          'It is lighter than rush hour but not always as fast as visitors expect, especially on the Beltway near the American Legion Bridge and I-66 interchange. It is worth keeping some buffer even at midday rather than assuming an empty road.',
       },
       {
         question: 'Does weekend traffic follow the same pattern?',
         answer:
-          'Weekend traffic is generally lighter overall, but can spike unpredictably around specific events — games, concerts or holiday travel weekends.',
+          'Weekend traffic is generally lighter overall, but can spike unpredictably around specific events — games, concerts or holiday travel weekends. If you are flying on a game day or a holiday weekend, check the event calendar and allow extra time.',
       },
       {
         question: 'How do you account for traffic when scheduling a pickup?',
         answer:
-          'We plan departure and pickup times against live traffic conditions and your actual flight status, not a fixed average drive time.',
+          'We plan departure and pickup times against live traffic conditions and your actual flight status, not a fixed average drive time. For departures, that means a pickup time with buffer for the hour you travel; for arrivals, the pickup follows your tracked flight.',
       },
       {
         question: 'Should I build extra time into my own departure for a flight at Dulles?',
@@ -742,27 +742,27 @@ const batch12 = [
       {
         question: 'Is bottled water standard in a chauffeured car?',
         answer:
-          'Yes, it is close to universal across professional car services, including every ride with IAD Airport Limo.',
+          'Yes, it is close to universal across professional car services, including every ride with IAD Airport Limo. It comes standard alongside a clean, well-maintained vehicle and a professional chauffeur.',
       },
       {
         question: 'Do all chauffeured cars have WiFi?',
         answer:
-          'It is increasingly common but not universal — ask when you book if it matters for your trip.',
+          'It is increasingly common but not universal — ask when you book if it matters for your trip. If you need to work on the way, a phone hotspot is a dependable backup in any vehicle.',
       },
       {
         question: 'Are car seats included for traveling with children?',
         answer:
-          'Infant, convertible and booster seats are available on request — tell us your child\'s age when you book and the seat is installed before the vehicle arrives.',
+          'Infant, convertible and booster seats are available on request — tell us your child\'s age when you book and the seat is installed before the vehicle arrives. Mention how many children are traveling and their ages so the right seats are fitted for the trip.',
       },
       {
         question: 'Is gratuity included in the rate?',
         answer:
-          'Check your booking confirmation or ask directly — policies differ, and your confirmation should state clearly whether gratuity is already included.',
+          'Check your booking confirmation or ask directly — policies differ, and your confirmation should state clearly whether gratuity is already included. If anything is unclear, call (877) 609-1919 before the ride and dispatch will tell you plainly.',
       },
       {
         question: 'What happens to amenities on a longer, hourly booking vs. a short transfer?',
         answer:
-          'Hourly bookings sometimes include additional amenities like snacks on request; a short point-to-point transfer typically includes the vehicle, chauffeur and water as standard.',
+          'Hourly bookings sometimes include additional amenities like snacks on request; a short point-to-point transfer typically includes the vehicle, chauffeur and water as standard. If something specific matters to you on a longer booking, ask when you reserve so it can be confirmed in advance.',
       },
     ],
     relatedLinks: [
@@ -824,27 +824,27 @@ const batch12 = [
       {
         question: 'What\'s the easiest way to split a group limo cost?',
         answer:
-          'An even per-person split of the total cost, including tax and gratuity, is the simplest and most common method for groups traveling together on the same itinerary.',
+          'An even per-person split of the total cost, including tax and gratuity, is the simplest and most common method for groups traveling together on the same itinerary. Because the rate is a flat price confirmed in writing before the trip, everyone knows their share before the day.',
       },
       {
         question: 'Should couples pay double what a single rider pays?',
         answer:
-          'Not necessarily — many groups split by couple or household rather than strict headcount, since a couple riding together doesn\'t meaningfully add to the cost.',
+          'Not necessarily — many groups split by couple or household rather than strict headcount, since a couple riding together doesn\'t meaningfully add to the cost. Whatever method you choose, agree on it before booking so no one is surprised afterward.',
       },
       {
         question: 'Who should actually book and pay for the vehicle?',
         answer:
-          'One person booking and paying upfront, then collecting shares afterward via a payment app, is simpler than trying to split a single transaction at booking.',
+          'One person booking and paying upfront, then collecting shares afterward via a payment app, is simpler than trying to split a single transaction at booking. The card is charged once the reservation and rate are confirmed, so that is a natural point for the booker to collect everyone\'s share.',
       },
       {
         question: 'What if some riders are doing a shorter leg of the trip?',
         answer:
-          'A weighted split, where shorter-leg riders pay somewhat less, is more equitable — though many groups find an even split simpler for a one-time event.',
+          'A weighted split, where shorter-leg riders pay somewhat less, is more equitable — though many groups find an even split simpler for a one-time event. Settling on the method before the trip, and noting who rides which legs, avoids awkward math at the end of the night.',
       },
       {
         question: 'What vehicle fits a group of 10–13?',
         answer:
-          'A 13-passenger Mercedes Sprinter van is the standard choice for groups that size, keeping everyone together in one vehicle.',
+          'A 13-passenger Mercedes Sprinter van is the standard choice for groups that size, keeping everyone together in one vehicle. A group larger than 13 needs a second vehicle, and the cost of both can be split the same way.',
       },
     ],
     relatedLinks: [

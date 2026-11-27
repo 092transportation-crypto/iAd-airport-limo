@@ -80,7 +80,7 @@ const batch10 = [
       {
         question: 'Can you pick up a team of six from a data center campus in Ashburn?',
         answer:
-          'Yes. A luxury SUV covers up to six passengers with luggage; for larger teams, a Mercedes Sprinter van seats up to 13.',
+          'Yes. A Lincoln Navigator covers up to six passengers with luggage; for larger teams, a Mercedes Sprinter van seats up to 13.',
       },
     ],
     relatedLinks: [
@@ -144,17 +144,17 @@ const batch10 = [
       {
         question: 'How far is Chantilly from Dulles Airport?',
         answer:
-          'About 15–20 minutes via Route 28, making it one of the closest towns to the airport in our service area.',
+          'About 15–20 minutes via Route 28, making it one of the closest towns to the airport in our service area. Even on a short run, every arrival is flight-tracked and the flat rate is confirmed before the ride.',
       },
       {
         question: 'How far is South Riding from Dulles Airport?',
         answer:
-          'About 20–25 minutes via the Dulles Greenway, depending on traffic.',
+          'About 20–25 minutes via the Dulles Greenway, depending on traffic. Allow more time during weekday rush hours, and share your flight number so the pickup follows your actual landing.',
       },
       {
         question: 'Is it worth booking a car service if I live this close to the airport?',
         answer:
-          'Often yes, especially for trips longer than a few days — long-term parking costs add up quickly, and a flat-rate ride removes the airport-parking-lot walk and the return trip to retrieve your car.',
+          'Often yes, especially for trips longer than a few days — long-term parking costs add up quickly, and a flat-rate ride removes the airport-parking-lot walk and the return trip to retrieve your car. Meet-and-greet and child seats are available on request, which helps for a family heading out on a longer trip.',
       },
       {
         question: 'Can I set up a standing account for repeat trips?',
@@ -232,12 +232,12 @@ const batch10 = [
       {
         question: 'How much wait time is built in for international arrivals?',
         answer:
-          '60 minutes of complimentary wait time, timed from actual touchdown rather than the printed schedule, to account for customs and immigration.',
+          '60 minutes of complimentary wait time, timed from actual touchdown rather than the printed schedule, to account for customs and immigration. Domestic arrivals receive 45 minutes, and in both cases the flight is tracked so the clock starts only once you land.',
       },
       {
         question: 'Does a chauffeur service help with bags after a long-haul flight?',
         answer:
-          'Yes, with meet-and-greet service the chauffeur meets you at baggage claim and helps carry bags to the vehicle, rather than you carrying everything to a rideshare pickup lot.',
+          'Yes, with meet-and-greet service the chauffeur meets you at baggage claim and helps carry bags to the vehicle, rather than you carrying everything to a rideshare pickup lot. You can request meet-and-greet when you book, which is well worth it after a long-haul flight with several bags.',
       },
       {
         question: 'How is this different from your general Uber-vs-limo comparison for Dulles departures?',
@@ -247,7 +247,7 @@ const batch10 = [
       {
         question: 'What should I do if I am not sure which company sent my driver?',
         answer:
-          'Confirm the name and vehicle in advance by text or email before you fly, and do not get into any vehicle at the airport that was not pre-arranged and does not match that confirmation.',
+          'Confirm the name and vehicle in advance by text or email before you fly, and do not get into any vehicle at the airport that was not pre-arranged and does not match that confirmation. If anything seems off, call our dispatch at (877) 609-1919, staffed 24/7, before getting in.',
       },
     ],
     relatedLinks: [
@@ -316,7 +316,7 @@ const batch10 = [
       {
         question: 'Can rideshare receipts satisfy a government contract expense audit?',
         answer:
-          'They can be submitted, but variable surge pricing and inconsistent documentation make them harder to reconcile than a confirmed flat-rate invoice billed directly to a corporate account.',
+          'They can be submitted, but variable surge pricing and inconsistent documentation make them harder to reconcile than a confirmed flat-rate invoice billed directly to a corporate account. A corporate account adds consolidated monthly invoicing with trip-level detail, which is easier to match against a contract.',
       },
       {
         question: 'Do you support GSA SmartPay or direct corporate billing?',
@@ -326,7 +326,7 @@ const batch10 = [
       {
         question: 'Can you coordinate with a facility\'s visitor and security desk?',
         answer:
-          'Yes, we routinely confirm arrival windows and driver details directly with front-desk and security teams at campuses that require visitor logging or escort.',
+          'Yes, we routinely confirm arrival windows and driver details directly with front-desk and security teams at campuses that require visitor logging or escort. Share the facility\'s visitor requirements when you book so those details are sent ahead of the pickup.',
       },
       {
         question: 'Is a licensed chauffeur really held to a different standard than a rideshare driver?',
@@ -336,7 +336,7 @@ const batch10 = [
       {
         question: 'What should go into a transportation vendor RFP for a government contractor?',
         answer:
-          'Proof of licensing and insurance, a named dispatch contact, billing compatibility with your finance system, flight tracking, and a documented driver background-check standard.',
+          'Proof of licensing and insurance, a named dispatch contact, billing compatibility with your finance system, flight tracking, and a documented driver background-check standard. We can supply licensing and insurance documentation on request for that kind of vendor review.',
       },
     ],
     relatedLinks: [
@@ -410,17 +410,17 @@ const batch10 = [
       {
         question: 'How far in advance should I book an elopement car?',
         answer:
-          'As early as you can once you have a date, especially for a weekend in Loudoun\'s April-through-November wedding season, though we can often accommodate shorter notice than a full wedding party requires.',
+          'As early as you can once you have a date, especially for a weekend in Loudoun\'s April-through-November wedding season, though we can often accommodate shorter notice than a full wedding party requires. Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, so holding a car early carries little risk.',
       },
       {
         question: 'Can you pick up at the Fairfax, Loudoun or Arlington County courthouse?',
         answer:
-          'Yes, this is a route we run regularly, with timing built around the clerk\'s office schedule rather than a fixed drop-off window.',
+          'Yes, this is a route we run regularly, with timing built around the clerk\'s office schedule rather than a fixed drop-off window. Share the appointment time and where you want to go afterward, whether a restaurant, a photo spot or home.',
       },
       {
         question: 'What if our "small" wedding actually has 25-30 guests arriving separately?',
         answer:
-          'At that size you are better served by guest-shuttle planning with a Sprinter van rather than a single-car elopement booking — call and we will scope it as a small event instead.',
+          'At that size you are better served by guest-shuttle planning with a Sprinter van rather than a single-car elopement booking — call and we will scope it as a small event instead. Each Sprinter seats up to 13 passengers, so a group that size usually needs more than one vehicle or a loop schedule.',
       },
     ],
     relatedLinks: [
@@ -488,7 +488,7 @@ const batch10 = [
       {
         question: 'Is it worth hiring a car for a concert or sports event instead of driving?',
         answer:
-          'Usually yes for the exit alone — stadium and arena parking lots take longer to clear than the event itself, and a pre-booked pickup staged for your actual exit time avoids that entirely.',
+          'Usually yes for the exit alone — stadium and arena parking lots take longer to clear than the event itself, and a pre-booked pickup staged for your actual exit time avoids that entirely. The rate is confirmed before the event, with none of the surge pricing that rideshare apps add when a crowd leaves at once.',
       },
       {
         question: 'When is the best time to see the cherry blossoms in DC?',
@@ -503,7 +503,7 @@ const batch10 = [
       {
         question: 'Do you serve both DC monuments and Northern Virginia attractions in one booking?',
         answer:
-          'Yes, there is no distinction on our end — one reservation can cover stops across DC, Virginia and Maryland in the same day.',
+          'Yes, there is no distinction on our end — one reservation can cover stops across DC, Virginia and Maryland in the same day. Hourly as-directed service is the easiest way to do it, with the chauffeur waiting between stops.',
       },
     ],
     relatedLinks: [
@@ -566,17 +566,17 @@ const batch10 = [
       {
         question: 'Why is Dulles better than Reagan National for international flights?',
         answer:
-          "Reagan's federal perimeter rule excludes nearly all international routes outright, while Dulles is the region's primary international gateway with direct service to Europe, the Middle East, Asia and Latin America.",
+          "Reagan's federal perimeter rule excludes nearly all international routes outright, while Dulles is the region's primary international gateway with direct service to Europe, the Middle East, Asia and Latin America. Our Dulles pickups for international arrivals include 60 minutes of complimentary waiting time to allow for customs.",
       },
       {
         question: 'Does BWI offer international flights at all?',
         answer:
-          'Yes, some seasonal European leisure routes via a limited set of carriers, but it is not built as a business-traveler international hub the way Dulles is.',
+          'Yes, some seasonal European leisure routes via a limited set of carriers, but it is not built as a business-traveler international hub the way Dulles is. If you are weighing the two, check the specific route and schedule you need, since BWI\'s international options vary by season.',
       },
       {
         question: 'Is Global Entry worth it for someone flying internationally out of Dulles regularly?',
         answer:
-          'Generally yes — Dulles processes high daily volumes of international arrivals, and Global Entry meaningfully shortens the return-trip customs process for enrolled travelers.',
+          'Generally yes — Dulles processes high daily volumes of international arrivals, and Global Entry meaningfully shortens the return-trip customs process for enrolled travelers. Your pickup is tied to your tracked flight, so a quicker trip through customs simply means a shorter walk to a waiting car.',
       },
       {
         question: 'How much connection buffer should I build for an international flight through Dulles?',
@@ -586,7 +586,7 @@ const batch10 = [
       {
         question: 'Can you arrange ground transportation for a connecting international itinerary?',
         answer:
-          'Yes — tell us both flight numbers and we build in realistic timing between the arriving and departing legs, including the extra buffer international connections need.',
+          'Yes — tell us both flight numbers and we build in realistic timing between the arriving and departing legs, including the extra buffer international connections need. Every leg is flight-tracked, so a delay on the arriving flight adjusts the pickup automatically.',
       },
     ],
     relatedLinks: [
@@ -653,17 +653,17 @@ const batch10 = [
       {
         question: 'Do you serve Bethesda, Rockville, Potomac and Olney for prom?',
         answer:
-          'Yes, these are among the Montgomery County towns we book prom transportation for most regularly.',
+          'Yes, these are among the Montgomery County towns we book prom transportation for most regularly. Hourly booking covers photos, dinner and the dance in one reservation, with the rate confirmed in writing before the night.',
       },
       {
         question: "What about groups from Laurel, Bowie or Greenbelt in Prince George's County?",
         answer:
-          "Yes, we serve Prince George's County groups as well, including the slightly longer drives into DC for dinner that are common on that side of the region.",
+          "Yes, we serve Prince George's County groups as well, including the slightly longer drives into DC for dinner that are common on that side of the region. Pickup addresses and the dinner stop are planned in advance, so the longer drive is built into the evening's schedule.",
       },
       {
         question: 'What alcohol and safety policies should parents ask about?',
         answer:
-          'Ask for a strict no-alcohol policy inside the vehicle, a fixed pickup and drop-off window, and a direct phone number parents can call during the night.',
+          'Ask for a strict no-alcohol policy inside the vehicle, a fixed pickup and drop-off window, and a direct phone number parents can call during the night. Our chauffeurs are licensed and background-checked, and parents can reach dispatch 24/7 at (877) 609-1919 to check in during the night.',
       },
       {
         question: 'How far in advance should a Maryland prom group book?',
@@ -730,12 +730,12 @@ const batch10 = [
       {
         question: 'How much buffer should I build between an international flight landing and my first meeting?',
         answer:
-          'At least two to three hours, to account for customs and immigration processing time, not just the flight landing on schedule.',
+          'At least two to three hours, to account for customs and immigration processing time, not just the flight landing on schedule. Booking hourly for that first day can keep one chauffeur with you from the airport to the meeting and beyond.',
       },
       {
         question: 'Is meet-and-greet worth it for a business trip?',
         answer:
-          'For an international arrival, yes — it removes the longest and most disorienting part of the trip, the walk from the gate through customs, and gets you straight to a waiting vehicle.',
+          'For an international arrival, yes — it removes the longest and most disorienting part of the trip, the walk from the gate through customs, and gets you straight to a waiting vehicle. Your chauffeur waits with a name sign and helps with bags, so you can head straight to the car.',
       },
       {
         question: 'Does flight tracking work across time zones for an international arrival?',
@@ -745,7 +745,7 @@ const batch10 = [
       {
         question: 'Can you handle a same-day international connection?',
         answer:
-          'Yes — provide both flight numbers on one booking and we build in realistic ground time between the arriving and departing legs.',
+          'Yes — provide both flight numbers on one booking and we build in realistic ground time between the arriving and departing legs. If the first flight is delayed, call dispatch at (877) 609-1919 at any hour and the plan can be reworked around the new arrival.',
       },
       {
         question: 'Can our company set up recurring international travel support with you?',
@@ -812,27 +812,27 @@ const batch10 = [
       {
         question: 'Can I book a solo airport ride the same day I need it?',
         answer:
-          'Usually yes, outside of holiday travel weekends and severe weather, when demand spikes and vehicles already committed elsewhere cannot be reassigned on short notice.',
+          'Usually yes, outside of holiday travel weekends and severe weather, when demand spikes and vehicles already committed elsewhere cannot be reassigned on short notice. Booking even a day ahead removes most of that risk and locks in a flat rate confirmed in writing.',
       },
       {
         question: 'How far ahead should I book a wedding car?',
         answer:
-          'Six to twelve months ahead, especially for a Saturday during Loudoun\'s April-through-November peak wedding season and for larger vehicles like Sprinter vans or stretch limousines.',
+          'Six to twelve months ahead, especially for a Saturday during Loudoun\'s April-through-November peak wedding season and for larger vehicles like Sprinter vans or stretch limousines. Special-event bookings, including Sprinter vans, can be cancelled free of charge up to 12 hours before pickup.',
       },
       {
         question: 'How much notice does a corporate roadshow need?',
         answer:
-          'One to two weeks generally; three to four weeks during major conference weeks or Dulles Expo Center events to guarantee the specific fleet mix you need.',
+          'One to two weeks generally; three to four weeks during major conference weeks or Dulles Expo Center events to guarantee the specific fleet mix you need. Share the full itinerary when you book so an hourly reservation can be built around the day\'s stops.',
       },
       {
         question: 'Which weeks of the year should I book earlier than usual, regardless of trip type?',
         answer:
-          'Thanksgiving week, the week before Christmas through New Year\'s, DC cherry blossom season, and regional university graduation weeks.',
+          'Thanksgiving week, the week before Christmas through New Year\'s, DC cherry blossom season, and regional university graduation weeks. On those dates vehicles across the region fill early, so book as soon as your travel plans are set.',
       },
       {
         question: 'What happens if I need a vehicle on very short notice?',
         answer:
-          'Call (877) 609-1919 directly rather than booking online — dispatch can check real-time fleet availability faster than the booking form, especially for solo transfers.',
+          'Call (877) 609-1919 directly rather than booking online — dispatch can check real-time fleet availability faster than the booking form, especially for solo transfers. Dispatch is staffed 24/7, so a short-notice call is answered by a person at any hour.',
       },
     ],
     relatedLinks: [

@@ -1,4 +1,4 @@
-// Keyword-rich "Limo, Car & Chauffeur Service in <Place>" section appended to
+// "Limo, Car & Chauffeur Service in <Place>" section appended to
 // every place/venue landing page. Wording rotates through a pool keyed by slug
 // so neighbouring pages don't read identically, and every variant works the
 // search phrases ("limo service", "car service", "chauffeur service", "black
@@ -12,8 +12,8 @@ const POOL = [
   (p, at) => ({
     h2: `Limo Service, Car Service and Chauffeur Service ${at}`,
     text: [
-      `Whether you search for a ${p} limo service, ${p} car service or a private chauffeur ${at}, the ride is the same: a licensed, background-checked chauffeur in a commercially insured vehicle, with the rate confirmed before you book.`,
-      `${SITE.brand} runs airport transfers to ${SITE.airports}, black car service for business travel, and hourly chauffeur service for weddings, events and nights out — 24 hours a day, 365 days a year.`,
+      `Every ride ${at} comes with a licensed, background-checked chauffeur in a commercially insured vehicle, and the rate is confirmed before you book.`,
+      `From ${p}, ${SITE.brand} runs airport transfers to ${SITE.airports}, black car service for business travel, and hourly chauffeur service for weddings, events and nights out, 24 hours a day.`,
     ],
   }),
   (p, at) => ({
@@ -27,7 +27,7 @@ const POOL = [
     h2: `Chauffeur Service ${at}: Airport, Corporate and Special Occasions`,
     text: [
       `A professional chauffeur service ${at} covers more than the airport run. ${SITE.brand} handles corporate car service and roadshows, wedding and prom limo service, and point-to-point black car rides across the region.`,
-      `Airport car service to and from ${SITE.airports} is quoted as a flat rate and confirmed before you ride, with dispatch reachable around the clock at ${SITE.phone}.`,
+      `Airport rides between ${p} and ${SITE.airports} are quoted as a flat rate and confirmed before you ride, with dispatch reachable around the clock at ${SITE.phone}.`,
     ],
   }),
   (p, at) => ({
@@ -47,7 +47,7 @@ const POOL = [
   (p, at) => ({
     h2: `Booking Chauffeured Car Service ${at}`,
     text: [
-      `Request a quote online or call ${SITE.phone} with your pickup address, date and passenger count. Airport transfers to ${SITE.airports} are flat-rate; hourly chauffeur service covers multi-stop days and evenings out.`,
+      `To book a ride ${at}, request a quote online or call ${SITE.phone} with your pickup address, date and passenger count. Airport transfers to ${SITE.airports} are flat-rate; hourly chauffeur service covers multi-stop days and evenings out.`,
       `${SITE.brand} confirms the rate before you ride, tracks every inbound flight, and keeps dispatch staffed 24/7 so a change of plans ${at} is a phone call, not a problem.`,
     ],
   }),

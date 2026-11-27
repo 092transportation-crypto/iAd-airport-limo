@@ -80,27 +80,27 @@ const batch6 = [
       {
         question: 'Can a chauffeur handle multiple stops around Reston Town Center in one evening?',
         answer:
-          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group, moving between dinner, a Pavilion event, or a nearby bar on a schedule you set rather than a fixed point-to-point trip.',
+          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group, moving between dinner, a Pavilion event, or a nearby bar on a schedule you set rather than a fixed point-to-point trip. Tell dispatch roughly when you expect to wrap up, and the chauffeur stays close by between stops so there is no garage to re-enter or rideshare to summon for each leg.',
       },
       {
         question: 'Is this a good option after a Pavilion concert when the garages fill up?',
         answer:
-          'It is one of the most useful times to book — your pickup is scheduled directly at the Pavilion entrance, so you skip the post-concert crush of everyone leaving the garages at once.',
+          'It is one of the most useful times to book — your pickup is scheduled directly at the Pavilion entrance, so you skip the post-concert crush of everyone leaving the garages at once. The chauffeur already knows the Pavilion’s access points and a good staging spot for the post-show pickup, so your group walks out to a waiting car instead of a long garage line.',
       },
       {
         question: 'Can you combine a Wiehle-Reston East Metro pickup with a Reston Town Center dinner?',
         answer:
-          'Yes — dispatch can plan a Metro station pickup followed by a drop at your restaurant, coordinated as one reservation instead of two separate arrangements.',
+          'Yes — dispatch can plan a Metro station pickup followed by a drop at your restaurant, coordinated as one reservation instead of two separate arrangements. That clean handoff matters most at rush hour, when a rideshare pickup from a Metro platform can turn into its own small ordeal before dinner has even started.',
       },
       {
         question: 'What vehicle works best for a corporate happy hour group heading to Reston Town Center?',
         answer:
-          'An SUV fits a small team comfortably, and a Sprinter van consolidates a full office group into one vehicle so everyone arrives and leaves together.',
+          'An SUV fits a small team comfortably, and a Sprinter van consolidates a full office group into one vehicle so everyone arrives and leaves together. Keeping everyone in one vehicle also helps with a reservation that has a set start time, since nobody is left waiting on a rideshare that shows up late.',
       },
       {
         question: 'Do rates change on busy Reston Town Center event nights?',
         answer:
-          'No — our rates are flat and confirmed before you book, regardless of how busy a particular Pavilion concert night or holiday weekend happens to be.',
+          'No — our rates are flat and confirmed before you book, regardless of how busy a particular Pavilion concert night or holiday weekend happens to be. Your rate is confirmed in writing before the evening, so a sold-out Pavilion show or an ice-rink opening weekend does not change what you pay.',
       },
     ],
     relatedLinks: [
@@ -192,27 +192,27 @@ const batch6 = [
       {
         question: 'Can you handle long private driveways and gated communities in Great Falls?',
         answer:
-          'Yes — collect your gate code and preferred entry point at booking and it stays on file for every future trip, so the chauffeur already knows the property before arriving.',
+          'Yes — collect your gate code and preferred entry point at booking and it stays on file for every future trip, so the chauffeur already knows the property before arriving. Any specific instructions, such as calling ahead or a preferred turnaround spot, are saved with the gate code, so the same details carry over to every booking from that address.',
       },
       {
         question: 'How discreet is a private chauffeur service compared to a rideshare?',
         answer:
-          'Our chauffeurs are trained to treat every address and passenger with consistent discretion — no unsolicited conversation about the trip and no social media activity referencing a pickup or address.',
+          'Our chauffeurs are trained to treat every address and passenger with consistent discretion — no unsolicited conversation about the trip and no social media activity referencing a pickup or address. For households that host visiting associates or family, that same standard applies to every chauffeur sent to the property, not just the one you know best.',
       },
       {
         question: 'Do you handle early morning airport pickups from McLean or Great Falls estates?',
         answer:
-          'Yes — a scheduled chauffeur pickup tied to your flight and your known driveway removes the risk of a confused early-morning arrival at a gate the driver has never seen.',
+          'Yes — a scheduled chauffeur pickup tied to your flight and your known driveway removes the risk of a confused early-morning arrival at a gate the driver has never seen. Arriving a few minutes early with the gate code already on file means a pre-dawn departure starts quietly, with luggage handled and no time lost at the end of the driveway.',
       },
       {
         question: 'What vehicle is best for a single passenger heading to a business dinner?',
         answer:
-          'A Business or First Class sedan is the standard choice for one or two passengers; an SUV or Sprinter van is available for a family or group heading to the same event.',
+          'A Business or First Class sedan is the standard choice for one or two passengers; an SUV or Sprinter van is available for a family or group heading to the same event. A sedan keeps the evening simple, with the chauffeur waiting or returning at a set time, so nobody needs to think about valet lines or driving home after wine with dinner.',
       },
       {
         question: 'Can I request the same chauffeur for recurring trips?',
         answer:
-          'We do our best to match regular clients with a familiar chauffeur when scheduling allows, which builds a level of consistency and familiarity with your property and preferences over time.',
+          'We do our best to match regular clients with a familiar chauffeur when scheduling allows, which builds a level of consistency and familiarity with your property and preferences over time. Even when a different chauffeur is assigned, your gate code, entry point and preferences stay on file, so the pickup runs the same way every time.',
       },
     ],
     relatedLinks: [
@@ -294,27 +294,27 @@ const batch6 = [
       {
         question: 'Can hourly service handle a day of meetings across several campuses in the corridor?',
         answer:
-          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your team for the reserved block, moving between campuses on your schedule instead of one fixed trip.',
+          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your team for the reserved block, moving between campuses on your schedule instead of one fixed trip. That suits a visiting team with back-to-back meetings across several Herndon campuses, since the chauffeur handles the confusing access roads and parking lots while you stay focused on the next meeting.',
       },
       {
         question: 'Do you serve government contractor office parks along the corridor?',
         answer:
-          'Yes — we regularly serve corridor office parks that host government contractors and cleared-employee facilities, and can confirm pickup and drop-off points in advance for sites with specific visitor procedures.',
+          'Yes — we regularly serve corridor office parks that host government contractors and cleared-employee facilities, and can confirm pickup and drop-off points in advance for sites with specific visitor procedures. Tell dispatch about any visitor sign-in, badge or gate procedure when you book, so the chauffeur arrives at the right entrance at the time the site expects.',
       },
       {
         question: 'Can you combine a Dulles airport arrival with a same-day corridor meeting?',
         answer:
-          'Yes — flight-tracked pickup followed by a direct transfer to your corridor meeting can be booked as one coordinated itinerary rather than two separate arrangements.',
+          'Yes — flight-tracked pickup followed by a direct transfer to your corridor meeting can be booked as one coordinated itinerary rather than two separate arrangements. If the flight runs late, the meeting pickup is adjusted to the actual landing time, and the chauffeur meets you with complimentary waiting time instead of leaving you to sort out a rental car at the curb.',
       },
       {
         question: 'What vehicle fits a visiting team of four or five?',
         answer:
-          'A full-size SUV comfortably seats a small team, and a Sprinter van fits a larger group while keeping everyone together for the whole day.',
+          'A full-size SUV comfortably seats a small team, and a Sprinter van fits a larger group while keeping everyone together for the whole day. Our Chevrolet Suburban seats up to five passengers, which suits a small visiting team, while the Sprinter carries up to 13 for a larger group.',
       },
       {
         question: 'How far in advance should we book a multi-stop corporate day in the corridor?',
         answer:
-          'As soon as your meeting schedule is set — booking early gives dispatch the most flexibility to plan routing and confirm the right vehicle for your group size.',
+          'As soon as your meeting schedule is set — booking early gives dispatch the most flexibility to plan routing and confirm the right vehicle for your group size. Share the full list of campuses and meeting times up front, and the chauffeur’s routing between stops is planned before the day rather than improvised between meetings.',
       },
     ],
     relatedLinks: [
@@ -395,27 +395,27 @@ const batch6 = [
       {
         question: 'Can a chauffeur take us between Tysons Galleria and Tysons Corner Center in one trip?',
         answer:
-          'Yes — hourly, as-directed service moves your group between both properties without re-entering a garage, dropping you at whichever entrance you need each time.',
+          'Yes — hourly, as-directed service moves your group between both properties without re-entering a garage, dropping you at whichever entrance you need each time. The chauffeur waits nearby while you shop, so moving from one property to the other takes a quick phone call rather than a walk back to a parking level.',
       },
       {
         question: 'Can the vehicle hold our shopping bags while we continue browsing?',
         answer:
-          'Yes — the vehicle can securely store bags and purchases between stops, so you are not carrying an accumulating pile of shopping from store to store.',
+          'Yes — the vehicle can securely store bags and purchases between stops, so you are not carrying an accumulating pile of shopping from store to store. Your hands stay free for browsing, and purchases are waiting in the car when you head on to the next store, the other property, or dinner.',
       },
       {
         question: 'Is this a good option during the holiday shopping season?',
         answer:
-          'It is one of the most useful times to book — holiday weekends bring the heaviest garage congestion of the year at both Tysons properties, which is exactly when a drop-off and pickup saves the most time.',
+          'It is one of the most useful times to book — holiday weekends bring the heaviest garage congestion of the year at both Tysons properties, which is exactly when a drop-off and pickup saves the most time. Booking early for those weekends is worth it, since vehicle availability tightens around the holidays at the same time the garages fill up.',
       },
       {
         question: 'Can we combine a shopping trip with dinner afterward?',
         answer:
-          'Yes — book the full block as one hourly reservation covering shopping and a dinner stop afterward, all on a single flat rate with no re-parking required.',
+          'Yes — book the full block as one hourly reservation covering shopping and a dinner stop afterward, all on a single flat rate with no re-parking required. Let dispatch know your restaurant ahead of time, and the chauffeur moves you and your bags from the last store straight to the table without anyone driving after dinner.',
       },
       {
         question: 'What vehicle works best for a bridal party or large group shopping trip?',
         answer:
-          'An SUV comfortably fits a small group, and a Sprinter van keeps a larger bridal party or event-shopping group together for the whole day.',
+          'An SUV comfortably fits a small group, and a Sprinter van keeps a larger bridal party or event-shopping group together for the whole day. A single vehicle also keeps the group’s bags in one place between stores, which matters on a long day of dress fittings or event shopping.',
       },
     ],
     relatedLinks: [
@@ -495,27 +495,27 @@ const batch6 = [
       {
         question: 'Can you accommodate a deposition or closing that runs longer than scheduled?',
         answer:
-          'Yes — hourly, as-directed service is built for exactly this, with the vehicle and chauffeur adjusting to your actual meeting length rather than requiring a fresh booking each time plans shift.',
+          'Yes — hourly, as-directed service is built for exactly this, with the vehicle and chauffeur adjusting to your actual meeting length rather than requiring a fresh booking each time plans shift. The chauffeur stays nearby for the reserved block, so a partner leaving a long deposition walks out to a waiting car rather than starting a new request from the curb.',
       },
       {
         question: 'Do you offer corporate accounts with consolidated billing for law firms?',
         answer:
-          'Yes — firms that book regularly can set up an account with clean, consolidated monthly invoicing, which simplifies matching transportation charges to the correct client matter.',
+          'Yes — firms that book regularly can set up an account with clean, consolidated monthly invoicing, which simplifies matching transportation charges to the correct client matter. Each trip shows up as an itemized line on a single monthly invoice, which is much easier to defend on an expense report than a stack of rideshare receipts.',
       },
       {
         question: 'Can you pick up an out-of-town client directly from Dulles for a closing or meeting?',
         answer:
-          'Yes — flight-tracked airport pickup with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international ensures a client arrives to a waiting chauffeur, not an empty curb.',
+          'Yes — flight-tracked airport pickup with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international ensures a client arrives to a waiting chauffeur, not an empty curb. Your client’s flight is tracked automatically, so a late arrival shifts the pickup to the actual landing time instead of putting the meeting itself at risk.',
       },
       {
         question: 'How discreet is the service for sensitive client matters?',
         answer:
-          'Our chauffeurs are trained to maintain consistent professional discretion on every trip, regardless of the matter or the client, with no unsolicited conversation about the reservation.',
+          'Our chauffeurs are trained to maintain consistent professional discretion on every trip, regardless of the matter or the client, with no unsolicited conversation about the reservation. Every chauffeur is licensed and background-checked, which gives a firm the same level of confidence for a sensitive matter as for a routine client dinner.',
       },
       {
         question: 'What vehicle is best for moving a trial team between a Tysons office and a DC courthouse?',
         answer:
-          'A sedan works for an individual partner, while an SUV or Sprinter van keeps a full trial team together for coordinated arrivals and departures.',
+          'A sedan works for an individual partner, while an SUV or Sprinter van keeps a full trial team together for coordinated arrivals and departures. Our Sprinter seats up to 13, so associates, paralegals and trial boxes can travel together and arrive at the courthouse at the same time.',
       },
     ],
     relatedLinks: [
@@ -596,27 +596,27 @@ const batch6 = [
       {
         question: 'Do you offer flight-tracked pickup from Dulles for family weekend visits?',
         answer:
-          'Yes — inbound flights are tracked automatically with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international, so your family weekend starts on schedule.',
+          'Yes — inbound flights are tracked automatically with 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international, so your family weekend starts on schedule. If the flight is delayed, the chauffeur adjusts to the new landing time automatically, so nobody has to call from the gate to rearrange the pickup.',
       },
       {
         question: 'Can you drop us directly at EagleBank Arena for a concert or game?',
         answer:
-          'Yes — a chauffeured drop-off at the arena entrance skips the pre-event traffic crawl, and pickup is scheduled to match when the event actually ends.',
+          'Yes — a chauffeured drop-off at the arena entrance skips the pre-event traffic crawl, and pickup is scheduled to match when the event actually ends. Agree on a pickup point near the arena before the event, so your group walks out to a known spot instead of searching for a car in the departing crowd.',
       },
       {
         question: 'What vehicle works for a multi-generational family visiting for commencement?',
         answer:
-          'A full-size SUV fits most families comfortably, and a Sprinter van keeps a larger group together while providing extra cargo room for move-out weekend.',
+          'A full-size SUV fits most families comfortably, and a Sprinter van keeps a larger group together while providing extra cargo room for move-out weekend. For a commencement weekend with grandparents in tow, keeping everyone in one vehicle also means one arrival at the ceremony rather than several cars searching for parking.',
       },
       {
         question: 'Can a chauffeur take us to multiple Northern Virginia campuses on the same trip?',
         answer:
-          'Yes — hourly, as-directed service can move your family between several campus visits on one reserved block instead of arranging separate transportation for each stop.',
+          'Yes — hourly, as-directed service can move your family between several campus visits on one reserved block instead of arranging separate transportation for each stop. That works well for a family comparing schools, since the chauffeur handles the drive and parking between campuses while you focus on tours and conversations.',
       },
       {
         question: 'How far is George Mason’s Fairfax campus from Dulles Airport?',
         answer:
-          'The Fairfax campus is a short, direct drive from Dulles, typically well under an hour outside peak traffic, making a same-day airport-to-campus arrival straightforward to plan.',
+          'The Fairfax campus is a short, direct drive from Dulles, typically well under an hour outside peak traffic, making a same-day airport-to-campus arrival straightforward to plan. Flight tracking on the arrival means the pickup adjusts if the plane is late, so a same-day campus event can still be planned with some confidence.',
       },
     ],
     relatedLinks: [
@@ -698,27 +698,27 @@ const batch6 = [
       {
         question: 'Can you find data center facilities that don’t show up clearly on mapping apps?',
         answer:
-          'Yes — our chauffeurs who regularly serve the corridor know which access roads and gates actually correspond to which facility, which avoids the wrong-entrance confusion a generic address lookup often causes.',
+          'Yes — our chauffeurs who regularly serve the corridor know which access roads and gates actually correspond to which facility, which avoids the wrong-entrance confusion a generic address lookup often causes. That matters at large campuses where several buildings share one road and the public address leads to a gate that visitors cannot use.',
       },
       {
         question: 'Do you accommodate facilities with specific visitor security procedures?',
         answer:
-          'Yes — share any known procedures, such as advance vehicle information or a designated waiting area, at booking so they can be coordinated ahead of your visit.',
+          'Yes — share any known procedures, such as advance vehicle information or a designated waiting area, at booking so they can be coordinated ahead of your visit. The chauffeur then arrives with that information ready, which keeps a check-in at a security-conscious facility from becoming the first delay of the visit.',
       },
       {
         question: 'Can you pick up a visiting technical team directly from Dulles and take them to a facility?',
         answer:
-          'Yes — flight-tracked airport pickup followed by a direct transfer to your facility can be booked as one coordinated itinerary.',
+          'Yes — flight-tracked airport pickup followed by a direct transfer to your facility can be booked as one coordinated itinerary. If the inbound flight runs late, the chauffeur adjusts to the actual landing time, so the team arrives at the facility without having to rearrange the pickup from the terminal.',
       },
       {
         question: 'Do your chauffeurs undergo background checks given the security-conscious nature of this industry?',
         answer:
-          'Yes — our chauffeurs are professionally employed and background-checked, which fits the vetted-access expectations common across the data center industry.',
+          'Yes — our chauffeurs are professionally employed and background-checked, which fits the vetted-access expectations common across the data center industry. Every vehicle is also commercially insured, which matters to companies that need a vendor’s credentials on file before booking site visits.',
       },
       {
         question: 'Can you set up standing transportation for recurring site visits?',
         answer:
-          'Yes — companies that send teams to the corridor regularly can set up a standing arrangement so routing and access details only need to be confirmed once.',
+          'Yes — companies that send teams to the corridor regularly can set up a standing arrangement so routing and access details only need to be confirmed once. That suits teams flying in through Dulles on a regular cycle, since each new visit can be booked with a call to dispatch rather than a fresh round of instructions.',
       },
     ],
     relatedLinks: [
@@ -800,27 +800,27 @@ const batch6 = [
       {
         question: 'Do you provide flight-tracked pickup for international arrivals at Dulles?',
         answer:
-          'Yes — international arrivals include 60 minutes of complimentary wait time, and the pickup is planned around the actual flight rather than a fixed time, accounting for customs and immigration processing.',
+          'Yes — international arrivals include 60 minutes of complimentary wait time, and the pickup is planned around the actual flight rather than a fixed time, accounting for customs and immigration processing. Domestic arrivals receive 45 minutes of complimentary waiting time. For a visiting delegation, the chauffeur can also meet the party inside the terminal on request.',
       },
       {
         question: 'Can you coordinate transportation for a delegation traveling together?',
         answer:
-          'Yes — multiple vehicles can be coordinated to arrive and depart in sequence for a group, rather than as separate, uncoordinated individual pickups.',
+          'Yes — multiple vehicles can be coordinated to arrive and depart in sequence for a group, rather than as separate, uncoordinated individual pickups. Each vehicle is matched to its passengers and luggage, and dispatch keeps the sequence of arrivals and departures in order so the delegation moves as one group.',
       },
       {
         question: 'How discreet is your service for diplomatic or sensitive travel?',
         answer:
-          'Chauffeurs maintain consistent professional discretion on every trip — no unsolicited conversation about the passenger or itinerary, and no social media activity referencing a pickup or route.',
+          'Chauffeurs maintain consistent professional discretion on every trip — no unsolicited conversation about the passenger or itinerary, and no social media activity referencing a pickup or route. Every chauffeur is licensed and background-checked, and the same standard applies whether the trip is a single official or a full delegation.',
       },
       {
         question: 'Can you handle a multi-day itinerary with a changing schedule?',
         answer:
-          'Yes — hourly, as-directed service or a standing daily arrangement adjusts to a shifting schedule far better than a series of individually booked point-to-point trips.',
+          'Yes — hourly, as-directed service or a standing daily arrangement adjusts to a shifting schedule far better than a series of individually booked point-to-point trips. When the schedule shifts, dispatch adjusts the pickups through a single point of contact instead of rebooking each leg separately.',
       },
       {
         question: 'Can a foreign mission set up a standing account for recurring visitors?',
         answer:
-          'Yes — missions that host delegations regularly can establish a standing arrangement so routing preferences and protocol expectations only need to be communicated once.',
+          'Yes — missions that host delegations regularly can establish a standing arrangement so routing preferences and protocol expectations only need to be communicated once. Protocol expectations, preferred routes and contact details stay on file, so each new visit starts from what the mission has already told us.',
       },
     ],
     relatedLinks: [
@@ -906,22 +906,22 @@ const batch6 = [
       {
         question: 'Does the rate increase on New Year’s Eve like rideshare surge pricing?',
         answer:
-          'No — your rate is flat and confirmed at booking, regardless of how much demand spikes elsewhere in the region that night.',
+          'No — your rate is flat and confirmed at booking, regardless of how much demand spikes elsewhere in the region that night. No surge pricing applies to any reservation, so the busiest night of the year costs the same as the rate on your written confirmation.',
       },
       {
         question: 'Can one vehicle take our group to dinner, a party, and then home after midnight?',
         answer:
-          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group for the whole night, moving between stops on your schedule.',
+          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group for the whole night, moving between stops on your schedule. On New Year’s Eve that means the car waits through dinner, a party and the midnight countdown, rather than leaving your group to find a ride on the busiest night for transportation.',
       },
       {
         question: 'Can you book a round trip into DC and back to Northern Virginia for New Year’s Eve?',
         answer:
-          'Yes — both the DC drop-off and the late-night pickup for your return trip can be confirmed together at booking, so you are not trying to summon a ride at 1 a.m. from a crowded DC sidewalk.',
+          'Yes — both the DC drop-off and the late-night pickup for your return trip can be confirmed together at booking, so you are not trying to summon a ride at 1 a.m. from a crowded DC sidewalk. Agree on the pickup point and time when you book, and the chauffeur is waiting there at the end of the night with the flat rate already settled.',
       },
       {
         question: 'What vehicle should a larger New Year’s Eve group book?',
         answer:
-          'A Sprinter van comfortably keeps a full party together for the night; an SUV suits a smaller group of four to six.',
+          'A Sprinter van comfortably keeps a full party together for the night; an SUV suits a smaller group of four to six. The Sprinter carries up to 13 passengers, and for a smaller group our Chevrolet Suburban seats up to five, so tell dispatch your headcount and the right vehicle is matched to the night.',
       },
     ],
     relatedLinks: [
@@ -1007,17 +1007,17 @@ const batch6 = [
       {
         question: 'Do I need to know my exact guest count when I first book?',
         answer:
-          'No — a deposit secures your date, and most providers, including ours, allow adjustments to vehicle count and timing as your headcount and timeline firm up closer to the wedding.',
+          'No — a deposit secures your date, and most providers, including ours, allow adjustments to vehicle count and timing as your headcount and timeline firm up closer to the wedding. Your rate is confirmed in writing at booking, so changes to vehicle count or timing later are made against a known starting point rather than a fresh quote.',
       },
       {
         question: 'Can transportation be arranged for the rehearsal dinner and wedding day together?',
         answer:
-          'Yes — bundling rehearsal dinner, wedding day, and next-day brunch transportation with one provider is typically more efficient than arranging each separately, and worth discussing at the four-to-six-month stage.',
+          'Yes — bundling rehearsal dinner, wedding day, and next-day brunch transportation with one provider is typically more efficient than arranging each separately, and worth discussing at the four-to-six-month stage. One reservation covering all three events keeps the plan consistent, and the rehearsal dinner and brunch often need different vehicles than the wedding day itself.',
       },
       {
         question: 'When should I finalize the day-of transportation timeline?',
         answer:
-          'About six to eight weeks before the wedding, once hair and makeup, photography, and venue timing are settled, so the chauffeur schedule can be built around your actual day.',
+          'About six to eight weeks before the wedding, once hair and makeup, photography, and venue timing are settled, so the chauffeur schedule can be built around your actual day. That is also the stage to confirm pickup addresses, venue driveway details and any guest shuttling, so the chauffeur arrives with the full plan in hand.',
       },
       {
         question: 'What happens if my headcount or timeline changes close to the wedding?',
@@ -1102,27 +1102,27 @@ const batch6 = [
       {
         question: 'Can a Sprinter van fit a full dorm room’s worth of belongings in one trip?',
         answer:
-          'Yes — a Sprinter van’s cargo capacity typically handles a standard dorm move-in in a single trip, avoiding the need for two vehicles or multiple runs.',
+          'Yes — a Sprinter van’s cargo capacity typically handles a standard dorm move-in in a single trip, avoiding the need for two vehicles or multiple runs. It also lets the student and a parent or two ride along with the boxes instead of following in a separate car.',
       },
       {
         question: 'Can you pick our family up from Dulles for move-in weekend?',
         answer:
-          'Yes — flight-tracked airport pickup can be combined with vehicle availability for local shopping days and the move-in itself as one coordinated weekend arrangement.',
+          'Yes — flight-tracked airport pickup can be combined with vehicle availability for local shopping days and the move-in itself as one coordinated weekend arrangement. Your flight is tracked, with complimentary waiting time on arrival, so a delay does not cost you the first afternoon of the weekend.',
       },
       {
         question: 'How early should we book for move-in weekend?',
         answer:
-          'As early as possible — move-in weekends are predictable, high-demand dates for larger vehicles, so booking ahead of the semester keeps the widest range of options available.',
+          'As early as possible — move-in weekends are predictable, high-demand dates for larger vehicles, so booking ahead of the semester keeps the widest range of options available. Booking early also gives dispatch time to plan the pickup around your school’s move-in schedule and loading procedures.',
       },
       {
         question: 'Can the vehicle handle multiple stops, including a post-move-in family meal?',
         answer:
-          'Yes — the same reservation can continue to a nearby restaurant after move-in wraps up, with no need to relocate a car from a cleared loading zone.',
+          'Yes — the same reservation can continue to a nearby restaurant after move-in wraps up, with no need to relocate a car from a cleared loading zone. That means the family can sit down to dinner together without anyone returning to the loading area to move a car first.',
       },
       {
         question: 'Does the driver know the campus move-in traffic pattern?',
         answer:
-          'Our chauffeurs are familiar with the region’s major campuses and their move-in day loading procedures, and follow posted campus directions and volunteer guidance the same as any other vehicle in the loop.',
+          'Our chauffeurs are familiar with the region’s major campuses and their move-in day loading procedures, and follow posted campus directions and volunteer guidance the same as any other vehicle in the loop. Share your school’s move-in instructions and your assigned time slot when you book, so the chauffeur plans the arrival around them.',
       },
     ],
     relatedLinks: [
@@ -1201,27 +1201,27 @@ const batch6 = [
       {
         question: 'Do you know how to navigate DC’s Fourth of July road closures?',
         answer:
-          'Yes — our chauffeurs who run this specific day regularly have a realistic sense of which approach roads stay open longest and where a practical drop-off point is once the closest streets are shut down.',
+          'Yes — our chauffeurs who run this specific day regularly have a realistic sense of which approach roads stay open longest and where a practical drop-off point is once the closest streets are shut down. Expect the drop-off to be a short walk from the Mall rather than at its edge, since the closest streets shut down well before the fireworks begin.',
       },
       {
         question: 'Can you pick us up from Dulles the same day as the fireworks?',
         answer:
-          'Yes — flight-tracked pickup with complimentary wait time handles holiday travel delays, and airport pickup can be coordinated with a same-evening trip into DC as one reservation.',
+          'Yes — flight-tracked pickup with complimentary wait time handles holiday travel delays, and airport pickup can be coordinated with a same-evening trip into DC as one reservation. Your flight is monitored automatically, with 45 minutes of complimentary waiting time on domestic arrivals and 60 on international, so a holiday delay does not unravel the evening plan.',
       },
       {
         question: 'How does pickup work after the fireworks end and the Mall crowd disperses?',
         answer:
-          'Hourly, as-directed service includes a scheduled late pickup at a point agreed on in advance, rather than trying to summon a ride from inside a departing crowd once the display ends.',
+          'Hourly, as-directed service includes a scheduled late pickup at a point agreed on in advance, rather than trying to summon a ride from inside a departing crowd once the display ends. The chauffeur waits at that agreed point a short walk from the crowd, so your group heads straight to a known meeting spot instead of searching a packed sidewalk for a car.',
       },
       {
         question: 'Do you serve smaller local Fourth of July celebrations in Northern Virginia?',
         answer:
-          'Yes — many families prefer a local NoVA celebration over the Mall crowds, and the same drop-off and scheduled pickup approach works for either option.',
+          'Yes — many families prefer a local NoVA celebration over the Mall crowds, and the same drop-off and scheduled pickup approach works for either option. A local celebration often means a shorter evening and an easier exit, and an hourly booking keeps the vehicle close by if the family wants to leave early with tired kids.',
       },
       {
         question: 'How far ahead should we book Fourth of July transportation?',
         answer:
-          'Book as early as your plans are set — it is one of the busiest evenings of the summer for transportation demand region-wide, similar in pattern to New Year’s Eve.',
+          'Book as early as your plans are set — it is one of the busiest evenings of the summer for transportation demand region-wide, similar in pattern to New Year’s Eve. Waiting until the last week can leave fewer vehicle choices, especially for a Sprinter carrying a larger family or group into DC for the evening.',
       },
     ],
     relatedLinks: [
@@ -1302,27 +1302,27 @@ const batch6 = [
       {
         question: 'Is black car service actually cheaper than renting a car for a weekend?',
         answer:
-          'It depends on the trip, but once hotel parking, valet, insurance, and fuel are factored into a rental car’s true cost, a flat-rate chauffeured weekend is often closer in price than the daily rental rate alone suggests.',
+          'It depends on the trip, but once hotel parking, valet, insurance, and fuel are factored into a rental car’s true cost, a flat-rate chauffeured weekend is often closer in price than the daily rental rate alone suggests. The flat rate is confirmed in writing before the ride, so the comparison can be made against a known number rather than an estimate that changes with parking and fuel.',
       },
       {
         question: 'Is Northern Virginia’s highway system difficult for a first-time visitor to navigate?',
         answer:
-          'Yes — the Beltway, Dulles Toll Road, and connecting parkways can be disorienting for a first-time driver, and a wrong exit can add significant time to a trip during rush hour.',
+          'Yes — the Beltway, Dulles Toll Road, and connecting parkways can be disorienting for a first-time driver, and a wrong exit can add significant time to a trip during rush hour. With a chauffeur, the routing and the rush-hour detours are someone else’s concern, which leaves a first-time visitor free to work or rest between stops.',
       },
       {
         question: 'When does a rental car still make more sense than a chauffeured trip?',
         answer:
-          'For genuinely open-ended exploring with no fixed schedule and frequent spontaneous stops, a rental car’s independence can outweigh the convenience of a chauffeur.',
+          'For genuinely open-ended exploring with no fixed schedule and frequent spontaneous stops, a rental car’s independence can outweigh the convenience of a chauffeur. Even then, many travelers book a chauffeur for the airport legs and keep a rental car only for the free days in between.',
       },
       {
         question: 'Does black car service include insurance the way a rental car requires?',
         answer:
-          'Yes — liability sits with the transportation provider rather than the passenger, which removes the rental car insurance decision entirely.',
+          'Yes — liability sits with the transportation provider rather than the passenger, which removes the rental car insurance decision entirely. Our vehicles are commercially insured and driven by licensed, background-checked chauffeurs, so the coverage question is settled before you get in the car.',
       },
       {
         question: 'What kind of trip benefits most from a chauffeured weekend?',
         answer:
-          'A trip with a defined itinerary — a business schedule, a wedding weekend, or a handful of set restaurants and hotels — benefits most, since it removes parking, navigation, and insurance concerns entirely.',
+          'A trip with a defined itinerary — a business schedule, a wedding weekend, or a handful of set restaurants and hotels — benefits most, since it removes parking, navigation, and insurance concerns entirely. Hourly service covers multi-stop days, and flight-tracked airport pickups bookend the trip, so the whole weekend can be planned as one set of reservations.',
       },
     ],
     relatedLinks: [
@@ -1402,22 +1402,22 @@ const batch6 = [
       {
         question: 'What should a limo service contract say about the quoted rate?',
         answer:
-          'It should state plainly whether gratuity, tolls, and any surcharges are included in the flat rate, so the final invoice matches what was discussed at booking.',
+          'It should state plainly whether gratuity, tolls, and any surcharges are included in the flat rate, so the final invoice matches what was discussed at booking. Our own rates are flat and confirmed in writing before the ride, with no surge pricing, which is the standard worth looking for in any contract.',
       },
       {
         question: 'How is overtime typically calculated if an event runs long?',
         answer:
-          'A trustworthy contract states the per-hour or per-fifteen-minute overtime rate and how it is communicated on the day, rather than leaving the charge to be discovered on the final invoice.',
+          'A trustworthy contract states the per-hour or per-fifteen-minute overtime rate and how it is communicated on the day, rather than leaving the charge to be discovered on the final invoice. If a contract is vague on overtime, ask for the rate in writing before you sign, especially for a wedding or prom where the evening is likely to run past the planned end time.',
       },
       {
         question: 'What is a fair cancellation policy for a limo service contract?',
         answer:
-          'Our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation — any reputable contract should state its equivalent terms clearly.',
+          'Our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation — any reputable contract should state its equivalent terms clearly. Whatever the exact windows, they should appear in the written confirmation, along with what happens to any payment if you cancel inside them.',
       },
       {
         question: 'What happens if my specifically requested vehicle is unavailable on the day?',
         answer:
-          'A well-written contract includes a substitution clause guaranteeing a comparable or upgraded vehicle, and should specify whether you would be notified in advance of any change.',
+          'A well-written contract includes a substitution clause guaranteeing a comparable or upgraded vehicle, and should specify whether you would be notified in advance of any change. It is also fair to ask how often substitutions happen and who would contact you about one. A clear answer before you sign is a good sign of how the provider runs the day itself.',
       },
       {
         question: 'Should I be concerned if a contract is vague about pricing details?',
@@ -1507,7 +1507,7 @@ const batch6 = [
       {
         question: 'What happens if I book an unlicensed operator and something goes wrong?',
         answer:
-          'You could be left with limited or no recourse for injury or loss connected to the trip if the driver was not properly licensed and insured for commercial passenger transport.',
+          'You could be left with limited or no recourse for injury or loss connected to the trip if the driver was not properly licensed and insured for commercial passenger transport. That is why it is worth asking any operator, before booking, whether they hold commercial passenger authority and the commercial insurance that comes with it. A personal auto policy is generally not written to cover paid passenger transport.',
       },
       {
         question: 'How can I check if a limo company is properly licensed before booking?',
@@ -1522,7 +1522,7 @@ const batch6 = [
       {
         question: 'Is IAD Airport Limo a licensed and insured carrier?',
         answer:
-          'Yes — we operate as a licensed and insured passenger carrier in Virginia and Maryland, with commercial insurance covering every passenger and background-checked, directly employed or contracted chauffeurs.',
+          'Yes — we operate as a licensed and insured passenger carrier in Virginia and Maryland, with commercial insurance covering every passenger and background-checked, directly employed or contracted chauffeurs. Our dispatch team is reachable 24/7 at (877) 609-1919 if you would like to confirm any of these details before you book.',
       },
     ],
     relatedLinks: [
@@ -1603,7 +1603,7 @@ const batch6 = [
       {
         question: 'How much notice do I need to give to cancel without losing my deposit?',
         answer:
-          'Our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation to avoid forfeiting the deposit.',
+          'Our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation to avoid forfeiting the deposit. Our free cancellation applies up to 3 hours before pickup for sedans and SUVs and up to 12 hours for Sprinter vans and special-event bookings. The windows are stated in your booking confirmation.',
       },
       {
         question: 'Why do deposits exist for limo service bookings?',
@@ -1613,17 +1613,17 @@ const batch6 = [
       {
         question: 'Is changing my pickup time treated the same as a cancellation?',
         answer:
-          'No — a reasonable adjustment like a small time change or a vehicle upgrade is typically handled as a normal change rather than a cancellation, as long as it is communicated with reasonable notice.',
+          'No — a reasonable adjustment like a small time change or a vehicle upgrade is typically handled as a normal change rather than a cancellation, as long as it is communicated with reasonable notice. A quick call to dispatch at (877) 609-1919 is usually all a small change takes, and the confirmation is updated to match.',
       },
       {
         question: 'What happens to my airport transfer reservation if my flight is delayed or cancelled?',
         answer:
-          'Flight tracking already builds in complimentary wait time, and a cancelled or rebooked flight is generally treated as a schedule adjustment rather than a standard cancellation if communicated promptly.',
+          'Flight tracking already builds in complimentary wait time, and a cancelled or rebooked flight is generally treated as a schedule adjustment rather than a standard cancellation if communicated promptly. Let dispatch know as soon as your airline changes the flight, and the pickup is moved to the new arrival rather than charged as a missed trip.',
       },
       {
         question: 'What should I confirm before paying a deposit?',
         answer:
-          'Confirm the specific cancellation notice windows, what portion of the deposit is refundable, how date or vehicle changes are handled, and how flight delays or severe weather are treated — ideally in writing.',
+          'Confirm the specific cancellation notice windows, what portion of the deposit is refundable, how date or vehicle changes are handled, and how flight delays or severe weather are treated — ideally in writing. Our own rate is flat and confirmed in writing before the ride, which gives you something concrete to compare against any provider’s terms.',
       },
     ],
     relatedLinks: [
@@ -1703,27 +1703,27 @@ const batch6 = [
       {
         question: 'Can a stretch limo access a winery venue with a gravel driveway?',
         answer:
-          'It depends on the specific driveway — a stretch limo needs considerably more turnaround room than an SUV or Sprinter van, so confirming your venue’s driveway width in advance helps determine the best vehicle.',
+          'It depends on the specific driveway — a stretch limo needs considerably more turnaround room than an SUV or Sprinter van, so confirming your venue’s driveway width in advance helps determine the best vehicle. Many Loudoun winery weddings are simply better served by an SUV or a Sprinter, which handle gravel and tighter turnarounds more comfortably. Share your venue at booking so the vehicle is matched to the driveway before the day, not discovered on arrival.',
       },
       {
         question: 'How do you handle a photo session that runs past its scheduled time for sunset light?',
         answer:
-          'We build flexibility into the transportation timeline for golden-hour photography, since vineyard weddings often bend the schedule around natural light rather than a fixed clock time.',
+          'We build flexibility into the transportation timeline for golden-hour photography, since vineyard weddings often bend the schedule around natural light rather than a fixed clock time. Let dispatch know at booking that a golden-hour session is planned, so the chauffeur expects the shoot to run long and the departure for the reception shifts with the light rather than against it.',
       },
       {
         question: 'Can you shuttle guests from an overflow parking field to the ceremony site?',
         answer:
-          'Yes — a Sprinter van running a continuous shuttle loop between parking and the venue is a common and effective solution for winery venues with field parking.',
+          'Yes — a Sprinter van running a continuous shuttle loop between parking and the venue is a common and effective solution for winery venues with field parking. The loop keeps guests from walking a gravel field in formal shoes, and it can run before the ceremony and again at the end of the night so nobody waits long for the next pickup.',
       },
       {
         question: 'Do you coordinate directly with the winery’s event team on transportation logistics?',
         answer:
-          'Yes — we coordinate staging, drop-off points, and timing directly with a venue’s event coordinator when needed, since preferences vary meaningfully from one winery to another.',
+          'Yes — we coordinate staging, drop-off points, and timing directly with a venue’s event coordinator when needed, since preferences vary meaningfully from one winery to another. Share the coordinator’s contact details when you book, and staging spots and drop-off times are settled with the venue ahead of the wedding instead of worked out on the day.',
       },
       {
         question: 'What vehicle is typically best for a Loudoun County winery wedding?',
         answer:
-          'A well-appointed SUV or Sprinter Executive generally handles gravel driveways and tighter turnarounds more comfortably than a traditional stretch limo, while a Sprinter van covers guest shuttling.',
+          'A well-appointed SUV or Sprinter Executive generally handles gravel driveways and tighter turnarounds more comfortably than a traditional stretch limo, while a Sprinter van covers guest shuttling. For the couple and the wedding party, an SUV keeps the arrival polished, while the Sprinter runs the guest loop between parking and the ceremony site. Tell dispatch your guest count and venue, and the mix of vehicles is built around that winery’s actual layout.',
       },
     ],
     relatedLinks: [
@@ -1804,27 +1804,27 @@ const batch6 = [
       {
         question: 'Should we book separate transportation for the rehearsal dinner, or just the wedding day?',
         answer:
-          'Booking the full weekend together is generally more efficient — a rehearsal dinner shuttle is worth planning specifically, since it often involves alcohol and a venue with limited parking of its own.',
+          'Booking the full weekend together is generally more efficient — a rehearsal dinner shuttle is worth planning specifically, since it often involves alcohol and a venue with limited parking of its own. One provider handling the rehearsal dinner, the wedding day and the brunch means guests see the same polished service all weekend, and nobody plans to drive after the toasts.',
       },
       {
         question: 'Can you shuttle out-of-town guests between their hotel and the wedding events?',
         answer:
-          'Yes — a scheduled group shuttle for guests without a rental car is a common and appreciated addition, particularly for elderly relatives or guests unfamiliar with rideshare apps.',
+          'Yes — a scheduled group shuttle for guests without a rental car is a common and appreciated addition, particularly for elderly relatives or guests unfamiliar with rideshare apps. The shuttle runs on a set schedule from the hotel to each event, so guests know exactly when to be in the lobby rather than trying to arrange their own rides.',
       },
       {
         question: 'Do you provide transportation for a post-wedding brunch?',
         answer:
-          'Yes — a scheduled hotel-to-brunch shuttle handles the morning after the wedding cleanly, and can extend to an airport drop-off for a couple departing on their honeymoon.',
+          'Yes — a scheduled hotel-to-brunch shuttle handles the morning after the wedding cleanly, and can extend to an airport drop-off for a couple departing on their honeymoon. The morning after a late reception is when guests most appreciate not having to drive, and a set shuttle time keeps the brunch running on schedule.',
       },
       {
         question: 'Is it cheaper to book rehearsal dinner, wedding day, and brunch transportation together?',
         answer:
-          'Bundling the full weekend with one provider typically results in more coordinated service and simpler planning, and is worth discussing when you first book your wedding-day transportation.',
+          'Bundling the full weekend with one provider typically results in more coordinated service and simpler planning, and is worth discussing when you first book your wedding-day transportation. Planning every event together also lets dispatch match vehicles to each event’s guest count rather than booking the same vehicle for every leg. Your flat rate for each event is confirmed in writing before the weekend.',
       },
       {
         question: 'How far in advance should we plan rehearsal dinner and brunch transportation?',
         answer:
-          'Raise it at the same time you book your main wedding-day transportation, so the full weekend is planned as one arrangement rather than added later as an afterthought.',
+          'Raise it at the same time you book your main wedding-day transportation, so the full weekend is planned as one arrangement rather than added later as an afterthought. Rehearsal dinner and brunch venues often have parking of their own to think about, and planning them early gives the most choice of vehicles for a busy wedding weekend.',
       },
     ],
     relatedLinks: [
@@ -1907,27 +1907,27 @@ const batch6 = [
       {
         question: 'How do you plan transportation for a wedding celebration that spans multiple days?',
         answer:
-          'We start by mapping every event, venue, and expected guest count across the full weekend, then build vehicle and shuttle assignments around the entire schedule rather than a single ceremony-to-reception trip.',
+          'We start by mapping every event, venue, and expected guest count across the full weekend, then build vehicle and shuttle assignments around the entire schedule rather than a single ceremony-to-reception trip. Every event across the weekend is then confirmed together, so families and guests know which vehicle is meeting them at each venue.',
       },
       {
         question: 'Can you accommodate multiple outfit or venue changes during one event?',
         answer:
-          'Yes — our chauffeurs are experienced with formal and traditional attire requiring careful handling, and vehicles are selected with enough room to accommodate elaborate outfits comfortably.',
+          'Yes — our chauffeurs are experienced with formal and traditional attire requiring careful handling, and vehicles are selected with enough room to accommodate elaborate outfits comfortably. If the day includes a venue change between ceremonies, the chauffeur builds in extra time at each stop so nobody feels rushed.',
       },
       {
         question: 'Can transportation be coordinated between two different families for the same celebration?',
         answer:
-          'Yes — we can work with a single point of contact, such as a wedding planner, representing both families to ensure the plan reflects everyone’s needs consistently across every event.',
+          'Yes — we can work with a single point of contact, such as a wedding planner, representing both families to ensure the plan reflects everyone’s needs consistently across every event. Having one contact keeps the details from drifting between families, and every change is confirmed back in writing so both sides see the same plan.',
       },
       {
         question: 'Do you accommodate elderly guests or guests with mobility needs across a multi-day event?',
         answer:
-          'Yes — let us know in advance so we can assign a vehicle that accommodates each guest comfortably, rather than a generic assignment that may not work for everyone.',
+          'Yes — let us know in advance so we can assign a vehicle that accommodates each guest comfortably, rather than a generic assignment that may not work for everyone. Share any mobility needs at booking, along with which events each guest is attending, so the right vehicle is ready at every stop of the weekend.',
       },
       {
         question: 'What vehicles work best for a large, multi-day wedding celebration?',
         answer:
-          'A mix of sedans, SUVs, stretch limos, and Sprinter vans typically covers a multi-day celebration well, matched to each specific event’s guest count and formality.',
+          'A mix of sedans, SUVs, stretch limos, and Sprinter vans typically covers a multi-day celebration well, matched to each specific event’s guest count and formality. Sedans suit the couple and close family, SUVs fit smaller groups, and the Sprinter carries up to 13 guests for shuttles between hotels and venues. Share each event’s guest count, and dispatch builds the mix of vehicles around the full schedule.',
       },
     ],
     relatedLinks: [
@@ -2019,7 +2019,7 @@ const batch6 = [
       {
         question: 'How does complimentary wait time work for a delayed flight?',
         answer:
-          'Our policy includes 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international, tracked automatically against your actual flight rather than a fixed pickup time.',
+          'Our policy includes 45 minutes of complimentary wait time on domestic arrivals and 60 minutes on international, tracked automatically against your actual flight rather than a fixed pickup time. That tracking means a delayed flight does not cost extra waiting charges, and it is one of the most useful questions to ask any Dulles provider before booking. Ask too how they handle a flight that is cancelled or rebooked on the day.',
       },
       {
         question: 'What should I know about a company’s cancellation policy before booking?',
@@ -2029,7 +2029,7 @@ const batch6 = [
       {
         question: 'How do I reach my car service if my flight changes on the day of travel?',
         answer:
-          'Ask whether a live dispatcher answers the phone on the day of your trip — this matters far more than a text-only or email-only support option when a flight actually changes.',
+          'Ask whether a live dispatcher answers the phone on the day of your trip — this matters far more than a text-only or email-only support option when a flight actually changes. Our dispatch line at (877) 609-1919 is answered 24/7, so a gate change or rebooked flight can be sorted with a real person rather than an inbox.',
       },
     ],
     relatedLinks: [

@@ -58,7 +58,7 @@ const batch14 = [
       {
         question: 'How long does customs actually take at Dulles without Global Entry?',
         answer:
-          'It ranges widely, roughly 15 to 75 minutes depending on how many international flights landed in the same arrival bank and how CBP is staffed that shift.',
+          'It ranges widely, roughly 15 to 75 minutes depending on how many international flights landed in the same arrival bank and how CBP is staffed that shift. Since that window is so unpredictable, contact your chauffeur once you clear customs rather than guessing at a pickup time in advance.',
       },
       {
         question: 'Does Global Entry skip the baggage claim wait too?',
@@ -73,12 +73,12 @@ const batch14 = [
       {
         question: 'How much free wait time is included for an international arrival?',
         answer:
-          'Most car services, including ours, include about 60 minutes of free wait time on international arrivals specifically because customs timing is this unpredictable.',
+          'Most car services, including ours, include about 60 minutes of free wait time on international arrivals specifically because customs timing is this unpredictable. Domestic arrivals include 45 minutes, and because every pickup is flight-tracked, that time follows your actual landing rather than the schedule.',
       },
       {
         question: 'What should I do the moment I clear customs?',
         answer:
-          'Call or text your chauffeur immediately rather than waiting until you reach the curb — that call is usually what triggers the vehicle to stage for pickup.',
+          'Call or text your chauffeur immediately rather than waiting until you reach the curb — that call is usually what triggers the vehicle to stage for pickup. If you booked a meet-and-greet, your chauffeur will already be waiting inside with a name sign.',
       },
     ],
     relatedLinks: [
@@ -134,7 +134,7 @@ const batch14 = [
       {
         question: 'How long is the drive from Dulles to the Baltimore cruise terminal?',
         answer:
-          'About 70 to 80 minutes outside of rush hour, longer during a weekday commute window.',
+          'About 70 to 80 minutes outside of rush hour, longer during a weekday commute window. Your inbound flight is tracked and the transfer is quoted as a flat rate in writing before the ride, so heavier traffic on the way to the port never changes the price.',
       },
       {
         question: 'Is it better to fly into BWI instead of Dulles for a Baltimore cruise?',
@@ -144,17 +144,17 @@ const batch14 = [
       {
         question: 'What happens if my flight into Dulles is delayed before a cruise departure?',
         answer:
-          'We track your flight and adjust the pickup time automatically, and recommend building real buffer into your schedule given how tight cruise check-in windows can be.',
+          'We track your flight and adjust the pickup time automatically, and recommend building real buffer into your schedule given how tight cruise check-in windows can be. Complimentary waiting of 45 minutes on domestic arrivals and 60 on international also absorbs a modest delay at no extra charge.',
       },
       {
         question: 'Can you also handle the return trip from the cruise terminal to Dulles?',
         answer:
-          'Yes, we book Baltimore-to-Dulles return transfers in advance so you are not arranging a ride at the terminal with everyone else disembarking.',
+          'Yes, we book Baltimore-to-Dulles return transfers in advance so you are not arranging a ride at the terminal with everyone else disembarking. Both legs can be quoted together as flat rates confirmed in writing before the trip, so the ride home is settled before you sail.',
       },
       {
         question: 'Is a car service cheaper than parking at the cruise terminal for a week?',
         answer:
-          'Often yes, once you account for extended-stay parking fees, and it avoids the hassle of a shuttle and parking-garage walk with luggage.',
+          'Often yes, once you account for extended-stay parking fees, and it avoids the hassle of a shuttle and parking-garage walk with luggage. The flat rate is confirmed in writing before you book, so you can compare it directly against a week of parking before you decide.',
       },
     ],
     relatedLinks: [
@@ -210,27 +210,27 @@ const batch14 = [
       {
         question: 'Is wedding transportation traditionally the groom\'s family\'s responsibility?',
         answer:
-          'Older etiquette guides list it that way, but most modern couples pay for core wedding-day transportation out of the overall budget rather than assigning it to one family.',
+          'Older etiquette guides list it that way, but most modern couples pay for core wedding-day transportation out of the overall budget rather than assigning it to one family. Whoever ends up paying, the rate is confirmed in writing before the day, which makes it easier to agree on who covers what.',
       },
       {
         question: 'Who typically pays for a guest shuttle?',
         answer:
-          'It varies — some couples add it to their own budget, others ask a parent to cover it, especially when the venue has limited on-site parking.',
+          'It varies — some couples add it to their own budget, others ask a parent to cover it, especially when the venue has limited on-site parking. If a parent or relative is covering the shuttle, mention it when you book so the invoice is addressed to the right person.',
       },
       {
         question: 'Can transportation costs be split across multiple people or cards?',
         answer:
-          'Yes, tell us how the booking should be split or billed when you reserve, and we will set the invoice up accordingly.',
+          'Yes, tell us how the booking should be split or billed when you reserve, and we will set the invoice up accordingly. The rate is confirmed in writing first, so everyone sharing the cost knows the exact figure before any card is charged.',
       },
       {
         question: 'What is the most cost-effective way to book wedding transportation?',
         answer:
-          'A single hourly, as-directed reservation covering getting-ready, ceremony and reception stops, rather than separate one-way bookings for each leg of the day.',
+          'A single hourly, as-directed reservation covering getting-ready, ceremony and reception stops, rather than separate one-way bookings for each leg of the day. One reservation keeps the same vehicle and chauffeur with you all day, and the rate is quoted flat and in writing before the wedding.',
       },
       {
         question: 'Does the wedding party ever pay for their own limo?',
         answer:
-          'Occasionally, especially for a bachelor or bachelorette event booked separately from the wedding day itself, but the wedding-day vehicle is typically part of the couple\'s core budget.',
+          'Occasionally, especially for a bachelor or bachelorette event booked separately from the wedding day itself, but the wedding-day vehicle is typically part of the couple\'s core budget. When the party books its own night out, it is simply a separate reservation with its own written rate.',
       },
     ],
     relatedLinks: [
@@ -290,22 +290,22 @@ const batch14 = [
       {
         question: 'Is a Sprinter van better than a party bus for a smaller group?',
         answer:
-          'For a group of 10 to 13, yes — a Sprinter van is more cost-effective and still comfortable, while a party bus is built for a larger, more social-format group.',
+          'For a group of 10 to 13, yes — a Sprinter van is more cost-effective and still comfortable, while a party bus is built for a larger, more social-format group. Our Mercedes Sprinter seats up to 13 passengers, so a group that size stays together in a single vehicle.',
       },
       {
         question: 'Which option is best for a corporate group?',
         answer:
-          'A charter bus for a large group traveling together to one destination, or multiple Sprinter vans when the group needs to split into separate meetings or schedules.',
+          'A charter bus for a large group traveling together to one destination, or multiple Sprinter vans when the group needs to split into separate meetings or schedules. Our Mercedes Sprinter vans each seat up to 13 passengers, and larger groups simply use more than one vehicle.',
       },
       {
         question: 'Can I book multiple vehicles for one event?',
         answer:
-          'Yes, we regularly coordinate two or more Sprinter vans or limousines for a single wedding, corporate event or group outing running on overlapping schedules.',
+          'Yes, we regularly coordinate two or more Sprinter vans or limousines for a single wedding, corporate event or group outing running on overlapping schedules. Each vehicle gets its own pickup times, and dispatch keeps them coordinated throughout the day.',
       },
       {
         question: 'What should I tell you when booking group transportation?',
         answer:
-          'Your group size, the kind of event, and the stops on your itinerary — we will recommend the right vehicle type rather than defaulting to the largest option.',
+          'Your group size, the kind of event, and the stops on your itinerary — we will recommend the right vehicle type rather than defaulting to the largest option. We then confirm a flat, written rate for the vehicle we recommend before you book.',
       },
     ],
     relatedLinks: [
@@ -371,22 +371,22 @@ const batch14 = [
       {
         question: 'Where should I stay for a lobbying or government-affairs trip?',
         answer:
-          'Capitol Hill is the most convenient for congressional-office meetings; downtown is the better choice if you also have K Street meetings on the same trip.',
+          'Capitol Hill is the most convenient for congressional-office meetings; downtown is the better choice if you also have K Street meetings on the same trip. If your schedule moves between both areas, an hourly, as-directed reservation keeps one chauffeur with you instead of rebooking between Hill offices and downtown meetings.',
       },
       {
         question: 'Is Georgetown a good base for business travel?',
         answer:
-          'It works well for law-firm or embassy-related meetings and client dinners, but narrow streets and limited parking make it the slowest neighborhood for quick car-service pickups.',
+          'It works well for law-firm or embassy-related meetings and client dinners, but narrow streets and limited parking make it the slowest neighborhood for quick car-service pickups. If you do stay there, build a few extra minutes into pickup times and give your chauffeur the exact entrance ahead of time.',
       },
       {
         question: 'Should I book a car for the whole day instead of individual rides?',
         answer:
-          'If your meetings span more than one neighborhood, yes — an hourly, as-directed reservation removes the need to arrange a new ride between every stop.',
+          'If your meetings span more than one neighborhood, yes — an hourly, as-directed reservation removes the need to arrange a new ride between every stop. The chauffeur waits between stops, so materials can stay in the vehicle, and dispatch is reachable 24/7 at (877) 609-1919 if the day\'s schedule shifts.',
       },
       {
         question: 'Which neighborhood is fastest to Dulles Airport?',
         answer:
-          'Downtown and the West End tend to run slightly faster to Dulles than Capitol Hill or Georgetown, though traffic on the Dulles Toll Road affects all of them similarly.',
+          'Downtown and the West End tend to run slightly faster to Dulles than Capitol Hill or Georgetown, though traffic on the Dulles Toll Road affects all of them similarly. We set the departure pickup around your flight and the time of day rather than assuming a fixed drive time from any one neighborhood.',
       },
     ],
     relatedLinks: [
@@ -441,7 +441,7 @@ const batch14 = [
       {
         question: 'How long do summer thunderstorm delays at Dulles typically last?',
         answer:
-          'It varies widely, from under an hour for a fast-moving storm line to several hours if the ground stop causes a backlog of arrivals once it lifts.',
+          'It varies widely, from under an hour for a fast-moving storm line to several hours if the ground stop causes a backlog of arrivals once it lifts. Because every airport pickup is flight-tracked, your chauffeur\'s arrival moves with the actual landing time rather than the original schedule.',
       },
       {
         question: 'Does a car service charge extra for a thunderstorm delay?',
@@ -451,12 +451,12 @@ const batch14 = [
       {
         question: 'Should I call my car service if I see a ground stop announced?',
         answer:
-          'It does not hurt to give a heads-up, but flight tracking should already be adjusting your pickup time in the background.',
+          'It does not hurt to give a heads-up, but flight tracking should already be adjusting your pickup time in the background. If the delay changes your plans, such as a rebooked connection or a later flight, dispatch is available 24/7 at (877) 609-1919.',
       },
       {
         question: 'Do thunderstorm delays affect customs wait times too?',
         answer:
-          'Yes, a backlog of delayed international arrivals landing close together after a ground stop can lengthen the customs line beyond its normal range.',
+          'Yes, a backlog of delayed international arrivals landing close together after a ground stop can lengthen the customs line beyond its normal range. Our 60 minutes of complimentary waiting on international arrivals exists precisely to absorb this kind of customs backlog.',
       },
       {
         question: 'Is there a way to avoid summer storm delays at Dulles entirely?',
@@ -516,27 +516,27 @@ const batch14 = [
       {
         question: 'Can a company set up a standing account for new-hire airport pickups?',
         answer:
-          'Yes, we set up standing corporate accounts that HR or a relocation vendor can book against directly, with the invoice routed to the company.',
+          'Yes, we set up standing corporate accounts that HR or a relocation vendor can book against directly, with the invoice routed to the company. Every pickup is flight-tracked, so HR does not have to watch for delays on the new hire\'s arrival day.',
       },
       {
         question: 'Does the new hire need to pay and get reimbursed?',
         answer:
-          'No, a standing account bills the company directly, so the new hire never has to pay out of pocket or submit an expense report for the pickup.',
+          'No, a standing account bills the company directly, so the new hire never has to pay out of pocket or submit an expense report for the pickup. Each trip\'s rate is confirmed in writing in advance, so the company knows the cost before the pickup happens.',
       },
       {
         question: 'Can transportation be included beyond the initial airport pickup?',
         answer:
-          'Yes, many companies extend it to neighborhood tours, temporary-housing visits or initial HR appointments under the same account.',
+          'Yes, many companies extend it to neighborhood tours, temporary-housing visits or initial HR appointments under the same account. Hourly, as-directed service suits these days well, since the chauffeur stays with the new hire between stops.',
       },
       {
         question: 'How does billing work for a relocation account?',
         answer:
-          'Consolidated monthly invoicing with trip-level detail is available, which keeps relocation transportation easy to track for HR or finance.',
+          'Consolidated monthly invoicing with trip-level detail is available, which keeps relocation transportation easy to track for HR or finance. Each trip still carries a flat rate confirmed in advance, so the monthly invoice matches what was quoted.',
       },
       {
         question: 'What information do you need to book a new-hire pickup?',
         answer:
-          'The new hire\'s flight number, name and destination is typically all that is needed once a standing account is set up.',
+          'The new hire\'s flight number, name and destination is typically all that is needed once a standing account is set up. With the flight number on file the arrival is tracked, and a meet-and-greet can be added so the chauffeur is waiting with a name sign.',
       },
     ],
     relatedLinks: [
@@ -597,7 +597,7 @@ const batch14 = [
       {
         question: 'Do chauffeurs need a special license beyond a regular driver\'s license?',
         answer:
-          'Yes, legitimate chauffeurs hold commercial driving credentials required by the state, separate from a standard license.',
+          'Yes, legitimate chauffeurs hold commercial driving credentials required by the state, separate from a standard license. Our own chauffeurs are licensed and background-checked before they drive for us, and the vehicles they drive are commercially insured.',
       },
       {
         question: 'Do limo companies background-check every driver?',
@@ -607,17 +607,17 @@ const batch14 = [
       {
         question: 'What does chauffeur training actually cover?',
         answer:
-          'Typically defensive driving, regional route and venue knowledge, and customer-service standards for handling delays, luggage and schedule pressure.',
+          'Typically defensive driving, regional route and venue knowledge, and customer-service standards for handling delays, luggage and schedule pressure. That last part matters most on airport runs, where a delayed flight or extra bags can change the plan at the curb.',
       },
       {
         question: 'How do I know a car service\'s vehicles are properly insured?',
         answer:
-          'Ask directly about their commercial insurance coverage and vehicle inspection schedule — a legitimate company answers this clearly and specifically.',
+          'Ask directly about their commercial insurance coverage and vehicle inspection schedule — a legitimate company answers this clearly and specifically. We carry commercial insurance on our fleet and will answer that question directly if you call (877) 609-1919.',
       },
       {
         question: 'Is it rude to ask a car service about their vetting process?',
         answer:
-          'No, it is a reasonable question for any service responsible for your safety, and a professional company expects and welcomes it.',
+          'No, it is a reasonable question for any service responsible for your safety, and a professional company expects and welcomes it. Our chauffeurs are licensed and background-checked, and we are glad to walk you through that process before you book.',
       },
     ],
     relatedLinks: [
@@ -672,27 +672,27 @@ const batch14 = [
       {
         question: 'How early should I leave for Dulles if I want to use an airport lounge?',
         answer:
-          'Budget your standard pre-flight arrival time plus 45 minutes to an hour inside the lounge itself, and tell your car service that earlier target time directly.',
+          'Budget your standard pre-flight arrival time plus 45 minutes to an hour inside the lounge itself, and tell your car service that earlier target time directly. Your pickup time is then worked backward from that target, with traffic toward Dulles factored in.',
       },
       {
         question: 'Can my car service pick me up earlier specifically for lounge time?',
         answer:
-          'Yes, tell us the time you want to arrive at the airport rather than just your flight\'s boarding time, and we will plan the pickup around it.',
+          'Yes, tell us the time you want to arrive at the airport rather than just your flight\'s boarding time, and we will plan the pickup around it. If you are unsure what that time should be, call dispatch at (877) 609-1919 and we can talk through the timing with you.',
       },
       {
         question: 'Do all Dulles lounges require the same amount of walk time from security?',
         answer:
-          'No, location varies by terminal and concourse, so it is worth checking your specific lounge\'s location relative to your departure gate before you plan the visit.',
+          'No, location varies by terminal and concourse, so it is worth checking your specific lounge\'s location relative to your departure gate before you plan the visit. If your lounge sits in a different concourse from your gate, allow extra time and mention it when you book so the pickup reflects it.',
       },
       {
         question: 'Is lounge access included with every car service booking?',
         answer:
-          'No, lounge access depends on your airline status, credit card benefits or a day pass — our role is purely getting you to the airport with the time to use it.',
+          'No, lounge access depends on your airline status, credit card benefits or a day pass — our role is purely getting you to the airport with the time to use it. Tell us roughly how long you want in the lounge when you book, and we will set the pickup to leave room for it.',
       },
       {
         question: 'Does international travel change the lounge timing math?',
         answer:
-          'Yes, international departures often need additional time for check-in and security, so build that in alongside the lounge-visit time itself.',
+          'Yes, international departures often need additional time for check-in and security, so build that in alongside the lounge-visit time itself. Give us your flight number when you book so the pickup accounts for both the international check-in and your lounge plans.',
       },
     ],
     relatedLinks: [
@@ -753,27 +753,27 @@ const batch14 = [
       {
         question: 'What percentage of a wedding budget should go to transportation?',
         answer:
-          'It is usually a modest single-digit percentage for a standard hourly reservation, more if a guest shuttle or multiple vehicles are added for a larger wedding party.',
+          'It is usually a modest single-digit percentage for a standard hourly reservation, more if a guest shuttle or multiple vehicles are added for a larger wedding party. Because every rate is confirmed in writing before you book, you can set the real figure into your budget early instead of estimating.',
       },
       {
         question: 'What is the biggest factor in the actual cost?',
         answer:
-          'How many hours of hourly, as-directed service you book, and whether a guest shuttle is added — more than vehicle type alone.',
+          'How many hours of hourly, as-directed service you book, and whether a guest shuttle is added — more than vehicle type alone. Mapping out the day\'s timeline first helps you book only the hours you actually need.',
       },
       {
         question: 'Do couples typically overspend on wedding transportation?',
         answer:
-          'The most common overspend is booking separate one-off rides for each part of the day instead of one coordinated hourly reservation.',
+          'The most common overspend is booking separate one-off rides for each part of the day instead of one coordinated hourly reservation. A single reservation keeps one vehicle with you from getting ready to the send-off, which is usually simpler as well as more economical.',
       },
       {
         question: 'How can we save on wedding transportation without cutting corners?',
         answer:
-          'Combine the wedding-party vehicle and any guest shuttle into one coordinated reservation with a single vendor rather than booking them separately.',
+          'Combine the wedding-party vehicle and any guest shuttle into one coordinated reservation with a single vendor rather than booking them separately. Working with one coordinator for every vehicle also means one timeline and one written quote rather than several to reconcile.',
       },
       {
         question: 'How do I get an accurate transportation quote for my wedding?',
         answer:
-          'Call or book online with your venue, guest count and timeline, and we provide a confirmed, written rate rather than a rough estimate.',
+          'Call or book online with your venue, guest count and timeline, and we provide a confirmed, written rate rather than a rough estimate. The rate is flat with no surge pricing, and the card is charged once the reservation and rate are confirmed.',
       },
     ],
     relatedLinks: [

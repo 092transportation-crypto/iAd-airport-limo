@@ -64,12 +64,12 @@ const batch9 = [
       {
         question: 'Does the price change depending on which DC neighborhood I am going to?',
         answer:
-          'The quoted flat rate does not change by neighborhood on this route, though drive time can vary — Georgetown and Capitol Hill can run a bit longer than Downtown or Penn Quarter during rush hour.',
+          'The quoted flat rate does not change by neighborhood on this route, though drive time can vary — Georgetown and Capitol Hill can run a bit longer than Downtown or Penn Quarter during rush hour. If you have a tight arrival time, share the exact address when you book so the pickup can be planned with that neighborhood’s rush-hour traffic in mind.',
       },
       {
         question: 'Is it cheaper to split a Sprinter van for a group than to book several rideshares?',
         answer:
-          'For groups of six or more, usually yes, especially once rideshare surge pricing is factored in — and you avoid splitting the group across multiple vehicles.',
+          'For groups of six or more, usually yes, especially once rideshare surge pricing is factored in — and you avoid splitting the group across multiple vehicles. The Sprinter seats up to 13, and the rate is flat and confirmed in writing before the ride, so the group knows the full cost up front.',
       },
       {
         question: 'Are tolls included in the Dulles to DC quote?',
@@ -149,7 +149,7 @@ const batch9 = [
       {
         question: 'Why do Sprinter vans and limousines book up faster than sedans?',
         answer:
-          'Fewer of those vehicles exist in any standing fleet, and the same vehicles serve both weddings and group airport transfers, so wedding-season Saturdays pull from the same limited pool.',
+          'Fewer of those vehicles exist in any standing fleet, and the same vehicles serve both weddings and group airport transfers, so wedding-season Saturdays pull from the same limited pool. Booking as soon as your date is set gives you the best chance of getting the vehicle your group needs on a busy weekend.',
       },
       {
         question: 'Does booking early get me a better rate?',
@@ -159,7 +159,7 @@ const batch9 = [
       {
         question: 'Should I book differently for GMU move-in versus GMU commencement?',
         answer:
-          'Both benefit from early booking, but move-in favors SUVs and Sprinter vans for luggage volume, while commencement weekend often needs several coordinated pickups across a family arriving on different flights.',
+          'Both benefit from early booking, but move-in favors SUVs and Sprinter vans for luggage volume, while commencement weekend often needs several coordinated pickups across a family arriving on different flights. For commencement, share every family member’s flight when you book so each pickup is tracked against its own arrival.',
       },
     ],
     relatedLinks: [

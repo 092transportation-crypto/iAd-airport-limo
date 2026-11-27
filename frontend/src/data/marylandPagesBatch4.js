@@ -318,7 +318,7 @@ export const MARYLAND_BATCH4 = [
     faqs: [
       {
         q: "Which hotels near Dulles do you serve?",
-        a: "All of them: the airport-area properties in Herndon, Sterling and Chantilly, the conference hotels in Reston Town Center and Tysons, and every hotel in Washington, DC, Arlington, Alexandria, Bethesda and National Harbor.",
+        a: "All of them: the airport-area properties in Herndon, Sterling and Chantilly, the conference hotels in Reston Town Center and Tysons, and every hotel in Washington, DC, Arlington, Alexandria, Bethesda and National Harbor. Each transfer is a flat rate by vehicle and hotel address. The chauffeur drives straight to your lobby instead of looping past other properties like a shuttle.",
       },
       {
         q: "Is a chauffeur worth it for a hotel that is close to the airport?",
@@ -334,7 +334,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "How early should the return pickup to Dulles be?",
-        a: "We schedule it backward from your flight time using the airline's check-in guidance and live traffic on the Toll Road and Route 28, and we confirm the pickup time in writing the day before.",
+        a: "We schedule it backward from your flight time using the airline's check-in guidance and live traffic on the Toll Road and Route 28, and we confirm the pickup time in writing the day before. Drop-off is at your airline's door on the departures level. Dispatch runs 24/7 for early flights.",
       },
     ],
     related: [
@@ -402,7 +402,7 @@ export const MARYLAND_BATCH4 = [
     faqs: [
       {
         q: "Where does the chauffeur meet international arrivals at Dulles?",
-        a: "Either at the arrivals curb, with the vehicle description and door number sent by text, or with optional meet and greet just outside the customs exit doors in the International Arrivals Building, holding a name sign.",
+        a: "Either at the arrivals curb, with the vehicle description and door number sent by text, or with optional meet and greet just outside the customs exit doors in the International Arrivals Building, holding a name sign. International arrivals include 60 minutes of complimentary waiting to cover immigration, baggage and customs. The chauffeur is dispatched against your actual landing time.",
       },
       {
         q: "What if immigration and customs take longer than an hour?",
@@ -492,7 +492,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Where will the chauffeur drop me at Dulles?",
-        a: "At the upper-level departures curb at the door closest to your airline's check-in counters, with the luggage unloaded to the curb.",
+        a: "At the upper-level departures curb at the door closest to your airline's check-in counters, with the luggage unloaded to the curb. The pickup time is set from your flight, the airline's check-in guidance and live traffic. Dispatch confirms it in writing the day before.",
       },
       {
         q: "How much is a car to Dulles from Washington, DC or Bethesda?",
@@ -649,7 +649,7 @@ export const MARYLAND_BATCH4 = [
     faqs: [
       {
         q: "Which Fairfax County communities do you serve?",
-        a: "All of them, including Tysons, McLean, Vienna, Oakton, Great Falls, Reston, Herndon, Chantilly, Centreville, Fairfax, Fair Lakes, Annandale, Falls Church, Springfield, Burke, Lorton and Fort Belvoir.",
+        a: "All of them, including Tysons, McLean, Vienna, Oakton, Great Falls, Reston, Herndon, Chantilly, Centreville, Fairfax, Fair Lakes, Annandale, Falls Church, Springfield, Burke, Lorton and Fort Belvoir. Dulles and Reagan National are both everyday runs from the county. Rates are flat or hourly and confirmed before you ride.",
       },
       {
         q: "Which airport is closer for Fairfax County?",
@@ -731,7 +731,7 @@ export const MARYLAND_BATCH4 = [
     faqs: [
       {
         q: "Which Prince William County communities do you serve?",
-        a: "All of them, including Manassas, Manassas Park, Gainesville, Haymarket, Bristow, Nokesville, Woodbridge, Lake Ridge, Occoquan, Dale City, Dumfries, Triangle and the Quantico area.",
+        a: "All of them, including Manassas, Manassas Park, Gainesville, Haymarket, Bristow, Nokesville, Woodbridge, Lake Ridge, Occoquan, Dale City, Dumfries, Triangle and the Quantico area. Dulles is the county's natural airport, with Reagan National a straightforward run on I-95 or I-66. Late-night options are limited here, so a reserved chauffeur covers pre-dawn departures and late arrivals.",
       },
       {
         q: "How much is car service from Manassas or Gainesville to Dulles?",

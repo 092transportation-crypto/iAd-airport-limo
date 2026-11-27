@@ -88,7 +88,7 @@ export const GUIDES = [
       {
         question: 'When is rideshare the better choice around Dulles?',
         answer:
-          'Short daytime trips with little luggage, spontaneous plans with no fixed departure time, and solo travel where a delay would be an inconvenience rather than a missed flight.',
+          'Short daytime trips with little luggage, spontaneous plans with no fixed departure time, and solo travel where a delay would be an inconvenience rather than a missed flight. For an early flight, a tight connection or a group with luggage, a pre-booked chauffeur with a flat rate confirmed in advance is usually the safer choice.',
       },
       {
         question: 'How does an airport pickup work with a chauffeured car?',
@@ -103,7 +103,7 @@ export const GUIDES = [
       {
         question: 'What is the cancellation policy for a chauffeured booking?',
         answer:
-          'Cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans, limousines and special events.',
+          'Cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans, limousines and special events. To cancel or change a booking, call dispatch around the clock at (877) 609-1919.',
       },
     ],
   },
@@ -399,12 +399,12 @@ export const GUIDES = [
       {
         question: 'What does a corporate account include?',
         answer:
-          'Monthly invoicing with trips listed by traveler and route, flat rates confirmed before each ride, 24/7 dispatch, and the ability to request specific chauffeurs and vehicles for standing bookings.',
+          'Monthly invoicing with trips listed by traveler and route, flat rates confirmed before each ride, 24/7 dispatch, and the ability to request specific chauffeurs and vehicles for standing bookings. Every ride is driven by a licensed, background-checked chauffeur in a commercially insured vehicle, and every airport pickup is flight-tracked. Call (877) 609-1919 to set up an account.',
       },
       {
         question: 'How does corporate car service support duty of care?',
         answer:
-          'Chauffeurs are licensed and background-checked, vehicles are commercially insured, and a dispatch office monitors each booked trip around the clock.',
+          'Chauffeurs are licensed and background-checked, vehicles are commercially insured, and a dispatch office monitors each booked trip around the clock. Every airport pickup is also flight-tracked, so the chauffeur\'s timing follows the actual arrival rather than the original schedule.',
       },
       {
         question: 'Can executive assistants book on behalf of travelers?',
@@ -712,7 +712,7 @@ export const GUIDES = [
       {
         question: 'What is the driving route from Dulles into Washington DC?',
         answer:
-          'The direct route uses the Dulles Airport Access Highway east to the Beltway, then I-66 inside the Beltway to the Theodore Roosevelt Bridge, which delivers traffic onto Constitution Avenue at the west end of the National Mall.',
+          'The direct route uses the Dulles Airport Access Highway east to the Beltway, then I-66 inside the Beltway to the Theodore Roosevelt Bridge, which delivers traffic onto Constitution Avenue at the west end of the National Mall. How long it takes depends heavily on the hour you land, which is why the pickup is tied to your tracked flight and the fare is a flat rate confirmed before you travel.',
       },
       {
         question: 'Does Metro go from Dulles to downtown?',
@@ -960,7 +960,7 @@ export const GUIDES = [
       {
         question: 'How far is Dulles from Annapolis?',
         answer:
-          'About 55 miles, typically 65 to 85 minutes depending on traffic via US-50, the Beltway and the Dulles Toll Road.',
+          'About 55 miles, typically 65 to 85 minutes depending on traffic via US-50, the Beltway and the Dulles Toll Road. Your flight is tracked on every Dulles pickup, so the drive starts from your actual landing time, and the flat rate stays the same however the traffic behaves.',
       },
       {
         question: 'Is BWI cheaper than Dulles for an Annapolis trip?',
@@ -975,7 +975,7 @@ export const GUIDES = [
       {
         question: 'What vehicle should I book for a family trip to Annapolis?',
         answer:
-          'A Luxury SUV (Chevrolet Suburban) or Premium SUV (Lincoln Navigator) fits most families with checked luggage; a Sprinter van is the better choice for a larger group or a Naval Academy event with extended family.',
+          'A Luxury SUV (Chevrolet Suburban) or Premium SUV (Lincoln Navigator) fits most families with checked luggage; a Sprinter van is the better choice for a larger group or a Naval Academy event with extended family. The Sprinter seats up to 13 passengers, which keeps a larger group in one vehicle; a group bigger than that is split across more than one vehicle.',
       },
       {
         question: 'Should I book a round trip if I am flying back through Dulles?',
@@ -1069,7 +1069,7 @@ export const GUIDES = [
       {
         question: 'How does flight tracking actually work at Dulles?',
         answer:
-          'A chauffeur service tracks your flight from departure and adjusts the pickup time against the actual landing time, not the printed schedule, so complimentary wait time is not quietly consumed by a delay before you even reach baggage claim.',
+          'A chauffeur service tracks your flight from departure and adjusts the pickup time against the actual landing time, not the printed schedule, so complimentary wait time is not quietly consumed by a delay before you even reach baggage claim. With IAD Airport Limo, that complimentary wait is 45 minutes for domestic arrivals and 60 minutes for international flights, counted from when you actually land.',
       },
       {
         question: 'Should I ask about the vehicle model before booking?',
@@ -1079,7 +1079,7 @@ export const GUIDES = [
       {
         question: 'What cancellation policy should I expect?',
         answer:
-          'A clear, written window — commonly a few hours before pickup for sedans and SUVs, longer for Sprinter vans and special events — rather than a vague "contact us" policy.',
+          'A clear, written window — commonly a few hours before pickup for sedans and SUVs, longer for Sprinter vans and special events — rather than a vague "contact us" policy. Our own policy is free cancellation up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings.',
       },
     ],
     relatedLinks: [
@@ -1162,7 +1162,7 @@ export const GUIDES = [
       {
         question: 'Where can I find the full breakdown by holiday, weather and trip type?',
         answer:
-          'See our complete booking-window guide, "The Best Time to Book Airport Car Service for Dulles (IAD)," which covers peak periods, weather, and departures versus arrivals in more detail than this quick-reference page.',
+          'See our complete booking-window guide, "The Best Time to Book Airport Car Service for Dulles (IAD)," which covers peak periods, weather, and departures versus arrivals in more detail than this quick-reference page. This page gives the short answer, while that guide is the place to look if your trip falls on a holiday week or during winter weather.',
       },
     ],
     relatedLinks: [
@@ -1326,7 +1326,7 @@ export const GUIDES = [
       {
         question: 'How does this differ for a service animal?',
         answer:
-          'A documented service animal is generally not subject to the same carrier or restriction rules as a pet, both on the airline and in ground transportation, though it is still worth mentioning when you book so the chauffeur knows what to expect.',
+          'A documented service animal is generally not subject to the same carrier or restriction rules as a pet, both on the airline and in ground transportation, though it is still worth mentioning when you book so the chauffeur knows what to expect. Mentioning it at booking also lets dispatch suggest an SUV if a larger animal would be more comfortable with the extra interior room.',
       },
       {
         question: 'Should I build in extra time if my pet is flying as checked or cargo?',
@@ -1397,7 +1397,7 @@ export const GUIDES = [
       {
         question: 'Will the chauffeur help with a transfer into the vehicle?',
         answer:
-          'Chauffeurs can assist in some situations, but the level of assistance varies and should be discussed specifically when you book — be clear about what kind of help is needed so expectations match on pickup day.',
+          'Chauffeurs can assist in some situations, but the level of assistance varies and should be discussed specifically when you book — be clear about what kind of help is needed so expectations match on pickup day. A hand to steady someone and physical lifting are very different requests, and a good dispatcher will tell you plainly what the chauffeur can and cannot do. A pickup that involves a transfer also takes longer than a standard curb pickup, so mentioning it in advance lets that time be scheduled.',
       },
       {
         question: 'Does Dulles provide wheelchair assistance inside the terminal?',
@@ -1463,7 +1463,7 @@ export const GUIDES = [
       {
         question: 'Can the chauffeur walk my family member to the door of the medical office?',
         answer:
-          'In most cases, yes — tell dispatch when you book that door-to-door assistance is needed so the chauffeur plans for it rather than treating it as an unexpected request on pickup day.',
+          'In most cases, yes — tell dispatch when you book that door-to-door assistance is needed so the chauffeur plans for it rather than treating it as an unexpected request on pickup day. It also helps to give the exact building and entrance of the medical office, since many medical campuses have several buildings and a confusing layout for a first-time pickup.',
       },
       {
         question: 'What if the appointment runs long or finishes early?',
@@ -1478,7 +1478,7 @@ export const GUIDES = [
       {
         question: 'Do you accommodate a passenger with a walker or wheelchair?',
         answer:
-          'Yes in most cases — describe the specific mobility equipment when you book so the right vehicle and any needed assistance are arranged in advance.',
+          'Yes in most cases — describe the specific mobility equipment when you book so the right vehicle and any needed assistance are arranged in advance. A folding wheelchair or walker usually stows in the trunk or cargo area of an SUV once the passenger is seated, while a non-folding power chair or scooter may need a specific vehicle and advance coordination.',
       },
       {
         question: 'What does this kind of medical appointment transportation cost?',
@@ -1549,7 +1549,7 @@ export const GUIDES = [
       {
         question: 'Can the chauffeur drive more gently than usual with a newborn aboard?',
         answer:
-          'Yes — ask explicitly and your chauffeur will avoid hard stops and quick lane changes, driving at a calmer pace appropriate for a days-old infant and a recovering parent.',
+          'Yes — ask explicitly and your chauffeur will avoid hard stops and quick lane changes, driving at a calmer pace appropriate for a days-old infant and a recovering parent. Building in extra time for loading the car seat and settling a recovering parent also means the chauffeur never needs to hurry.',
       },
       {
         question: 'Can I book this same car service for early pediatrician visits?',
@@ -1630,7 +1630,7 @@ export const GUIDES = [
       {
         question: 'How far is the Pentagon from Reagan National Airport?',
         answer:
-          'Just a few miles — typically a short ride, which makes same-day Pentagon meetings and Reagan National arrivals a common combination for official and diplomatic visitors.',
+          'Just a few miles — typically a short ride, which makes same-day Pentagon meetings and Reagan National arrivals a common combination for official and diplomatic visitors. An hourly booking can keep one chauffeur available for the airport pickup, the Pentagon visit and the onward trip to a hotel, rather than arranging each leg separately.',
       },
       {
         question: 'What does Pentagon or Fort Belvoir visitor transportation cost?',
@@ -1691,7 +1691,7 @@ export const GUIDES = [
       {
         question: 'How do I know when peak bloom will happen?',
         answer:
-          'The National Park Service issues and refines a peak bloom prediction as the date approaches, but the actual window is weather-dependent and can shift by a week or more — check the current prediction close to your travel dates rather than relying on a prior year.',
+          'The National Park Service issues and refines a peak bloom prediction as the date approaches, but the actual window is weather-dependent and can shift by a week or more — check the current prediction close to your travel dates rather than relying on a prior year. If you are flying into Dulles for the festival, compare the bloom window with your flight dates, since a trip planned around a calendar week rather than the actual bloom can miss it.',
       },
       {
         question: 'Is parking near the Tidal Basin realistic during the festival?',
@@ -1701,7 +1701,7 @@ export const GUIDES = [
       {
         question: 'What is the best time of day to see the blossoms with fewer crowds?',
         answer:
-          'Early morning, before most visitors arrive, is consistently the calmest time for photos and a quieter walk around the Basin.',
+          'Early morning, before most visitors arrive, is consistently the calmest time for photos and a quieter walk around the Basin. A chauffeur can get you to the Basin for sunrise and come back later for festival events, so you are not hunting for parking twice in one day.',
       },
       {
         question: 'Can you combine a Dulles arrival with a trip straight to the festival?',
@@ -1777,27 +1777,27 @@ export const GUIDES = [
       {
         question: 'How long does the drive from Dulles to Richmond take?',
         answer:
-          'About two hours and roughly 100 miles via I-95 or Route 1, depending on traffic and your exact Richmond-area address.',
+          'About two hours and roughly 100 miles via I-95 or Route 1, depending on traffic and your exact Richmond-area address. Because it is one of our longer routes, we build extra scheduling buffer into both the drive and the return leg by default.',
       },
       {
         question: 'Is the rate flat or based on a meter?',
         answer:
-          'Flat, confirmed in writing before you book, regardless of how traffic behaves on I-95 that day.',
+          'Flat, confirmed in writing before you book, regardless of how traffic behaves on I-95 that day. A construction slowdown or a delayed flight does not change the price you agreed to, and the same applies to the return leg.',
       },
       {
         question: 'Are tolls included in the quoted rate?',
         answer:
-          'Ask at the time of booking — this varies by reservation, and a transparent quote states clearly whether I-95 tolls are included or billed separately.',
+          'Ask at the time of booking — this varies by reservation, and a transparent quote states clearly whether I-95 tolls are included or billed separately. Settling it before you book means there is no ambiguity when the invoice arrives.',
       },
       {
         question: 'What vehicle should I book for a family trip to Richmond?',
         answer:
-          'A sedan suits one or two travelers; a Lincoln Navigator fits a family of up to six with luggage, a Chevrolet Suburban up to five; a Sprinter van is the right call for a larger group.',
+          'A sedan suits one or two travelers; a Lincoln Navigator fits a family of up to six with luggage, a Chevrolet Suburban up to five; a Sprinter van is the right call for a larger group. Sizing one vehicle to the whole family and its luggage is usually better than splitting a two-hour drive across two cars, which adds cost and coordination for no real benefit.',
       },
       {
         question: 'What happens if my flight into Dulles is delayed?',
         answer:
-          'Every arrival is flight-tracked, and the pickup time for your Richmond transfer adjusts automatically — no phone call required.',
+          'Every arrival is flight-tracked, and the pickup time for your Richmond transfer adjusts automatically — no phone call required. If you are spending a night in Richmond before flying home through Dulles, a round-trip booking with the return date confirmed up front is usually simpler than two separate one-way reservations.',
       },
     ],
   },
@@ -1856,7 +1856,7 @@ export const GUIDES = [
       {
         question: 'How far ahead should I book a routine Dulles transfer from Reston?',
         answer:
-          '24 hours is typically enough, and same-day booking often works depending on availability — call (877) 609-1919 directly for a same-day request.',
+          '24 hours is typically enough, and same-day booking often works depending on availability — call (877) 609-1919 directly for a same-day request. The exception is any date that overlaps a major regional event, a holiday travel period or severe weather, when it is worth booking further ahead.',
       },
       {
         question: 'When should Reston families book prom transportation?',
@@ -1866,7 +1866,7 @@ export const GUIDES = [
       {
         question: 'Is a corporate account worth it for occasional Reston business travel?',
         answer:
-          'If your company sends visitors through Dulles to Reston more than occasionally, an account with negotiated rates is worth setting up, even though single trips can still be booked individually without one.',
+          'If your company sends visitors through Dulles to Reston more than occasionally, an account with negotiated rates is worth setting up, even though single trips can still be booked individually without one. An account also brings consolidated monthly invoicing and a consistent point of contact, which matters more as visitor volume grows.',
       },
       {
         question: 'Does Reston\'s proximity to Dulles mean I can always book last minute?',
@@ -1876,7 +1876,7 @@ export const GUIDES = [
       {
         question: 'What is the busiest season for Reston wedding transportation?',
         answer:
-          'Spring and fall Saturdays, when Hyatt Regency Reston and Reston Town Center venues book the most weddings and the earliest-filling vehicles are Sprinter vans and stretch limousines.',
+          'Spring and fall Saturdays, when Hyatt Regency Reston and Reston Town Center venues book the most weddings and the earliest-filling vehicles are Sprinter vans and stretch limousines. For those dates, vehicles are typically reserved months in advance, so book as soon as the venue and date are set.',
       },
     ],
   },
@@ -1947,7 +1947,7 @@ export const GUIDES = [
       {
         question: 'How much can surge pricing actually add to an Uber ride to Dulles?',
         answer:
-          'Multipliers of 1.5x to 2.5x are common during predictable high-demand windows such as early-morning departure banks and holiday travel, which can meaningfully change the fare versus a confirmed flat rate.',
+          'Multipliers of 1.5x to 2.5x are common during predictable high-demand windows such as early-morning departure banks and holiday travel, which can meaningfully change the fare versus a confirmed flat rate. A pre-booked chauffeur has no surge pricing: the flat rate is quoted and confirmed in writing before the ride, so an early-morning departure costs the same as any other.',
       },
       {
         question: 'Does Uber track my flight for a Dulles pickup?',
@@ -1957,12 +1957,12 @@ export const GUIDES = [
       {
         question: 'Where do rideshare pickups happen at Dulles?',
         answer:
-          'In a designated pickup lot separate from the terminal doors, which can mean a genuine walk with luggage before your ride arrives, especially during busy periods.',
+          'In a designated pickup lot separate from the terminal doors, which can mean a genuine walk with luggage before your ride arrives, especially during busy periods. A pre-booked chauffeur with meet-and-greet can instead wait inside the terminal with a name sign and help with your bags.',
       },
       {
         question: 'What is the safest alternative for a flight you cannot afford to miss?',
         answer:
-          'A pre-booked, flight-tracked chauffeur with a flat rate confirmed in writing before you travel removes the surge-pricing, tracking and pickup-zone risks described above.',
+          'A pre-booked, flight-tracked chauffeur with a flat rate confirmed in writing before you travel removes the surge-pricing, tracking and pickup-zone risks described above. Booking early carries little risk, since sedans and SUVs can be cancelled free of charge up to 3 hours before pickup. Call (877) 609-1919 or book online with your flight number.',
       },
     ],
   },
@@ -2048,17 +2048,17 @@ export const GUIDES = [
       {
         question: 'Which venue on this list is closest to Dulles?',
         answer:
-          'Belmont Country Club in Ashburn, typically 10 to 20 minutes from Dulles — the shortest airport run of any venue on this list.',
+          'Belmont Country Club in Ashburn, typically 10 to 20 minutes from Dulles — the shortest airport run of any venue on this list. That makes it an easy venue for out-of-town guests flying into Dulles, with every airport pickup flight-tracked so arrivals are timed to the actual landing.',
       },
       {
         question: 'Which venues need a Sprinter van rather than a stretch limousine?',
         answer:
-          'The rural Loudoun and Fauquier venues — Morven Park, Airlie, Great Meadow, Stone Tower Winery and The Barns at Hamilton Station — all have gravel, grass or limited parking that favors a Sprinter van for the bridal party and any guest shuttle.',
+          'The rural Loudoun and Fauquier venues — Morven Park, Airlie, Great Meadow, Stone Tower Winery and The Barns at Hamilton Station — all have gravel, grass or limited parking that favors a Sprinter van for the bridal party and any guest shuttle. A Sprinter seats up to 13, which keeps most bridal parties in one vehicle, and a separate Sprinter can handle the hotel-to-venue guest shuttle.',
       },
       {
         question: 'Can you provide a guest shuttle for a venue with limited parking?',
         answer:
-          'Yes, a Sprinter van running a scheduled loop between a hotel and the venue is a common and recommended booking at any of the rural venues on this list.',
+          'Yes, a Sprinter van running a scheduled loop between a hotel and the venue is a common and recommended booking at any of the rural venues on this list. Share your hotel, guest count and the ceremony and reception times when you book so the loop matches when guests actually need to move. Sprinter vans and special-event bookings can be cancelled free of charge up to 12 hours before pickup.',
       },
       {
         question: 'Is a city venue like Old Town Alexandria transportation different from a rural venue?',
@@ -2068,7 +2068,7 @@ export const GUIDES = [
       {
         question: 'How far in advance should we book transportation for one of these venues?',
         answer:
-          '2 to 4 months ahead for a popular spring or fall Saturday, since Sprinter vans and stretch limousines for peak wedding season book out first.',
+          '2 to 4 months ahead for a popular spring or fall Saturday, since Sprinter vans and stretch limousines for peak wedding season book out first. Once the date and venue are set, share the full day\'s timeline so drive times and buffers between stops can be planned around that venue\'s access and parking.',
       },
     ],
   },
@@ -2139,22 +2139,22 @@ export const GUIDES = [
       {
         question: 'Which city in this corridor is closest to Dulles?',
         answer:
-          'Chantilly, typically 10 to 15 minutes from the airport, which makes same-day round-trip visits practical for executives flying in for a single meeting.',
+          'Chantilly, typically 10 to 15 minutes from the airport, which makes same-day round-trip visits practical for executives flying in for a single meeting. A visitor who also needs to reach Tysons or Reston should allow extra travel time on top of that, which is worth building into the day\'s schedule.',
       },
       {
         question: 'How should a multi-stop day across several cities be booked?',
         answer:
-          'Hourly, as-directed service with the full itinerary shared in advance, so one chauffeur and vehicle stay with the traveler across all the stops rather than booking separate point-to-point trips.',
+          'Hourly, as-directed service with the full itinerary shared in advance, so one chauffeur and vehicle stay with the traveler across all the stops rather than booking separate point-to-point trips. Sharing the itinerary lets a reservation coordinator build realistic time buffers around the corridor\'s traffic, particularly the Dulles Toll Road and Route 7 during rush windows.',
       },
       {
         question: 'Is monthly invoicing available across the whole corridor?',
         answer:
-          'Yes, consolidated monthly invoicing with trip-level detail is available for a corridor-wide corporate account, rather than separate invoices by city.',
+          'Yes, consolidated monthly invoicing with trip-level detail is available for a corridor-wide corporate account, rather than separate invoices by city. That detail lets a travel manager see which offices and visitor types drive spend across the corridor without reconciling invoices from city to city.',
       },
       {
         question: 'Do you serve government contractors in this corridor specifically?',
         answer:
-          'Yes, including NGA-adjacent Springfield business parks and the government-contracting and technology firms concentrated throughout Tysons, Reston and Herndon.',
+          'Yes, including NGA-adjacent Springfield business parks and the government-contracting and technology firms concentrated throughout Tysons, Reston and Herndon. Chauffeurs are licensed and background-checked and every vehicle is commercially insured, which matters for firms that vet each vendor coming on site.',
       },
     ],
   },

@@ -7,7 +7,7 @@ const POOL = [
   {
     topic: /wait/i,
     q: (n) => `How much waiting time is included${n ? ` on ${n} trips` : ''}?`,
-    a: 'Airport pickups include 45 minutes of complimentary waiting time on domestic arrivals and 60 minutes on international arrivals, timed from actual touchdown. All other pickups include 15 minutes.',
+    a: 'On a Dulles, Reagan National or BWI pickup, your chauffeur waits 45 minutes free of charge for a domestic flight and 60 minutes for an international one, counted from the moment the plane lands. All other pickups include 15 minutes.',
   },
   {
     topic: /cancel/i,

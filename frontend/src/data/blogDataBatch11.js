@@ -69,7 +69,7 @@ const batch11 = [
       {
         question: 'Is DCA faster to get through than Dulles?',
         answer:
-          'For domestic arrivals, generally yes — DCA is a smaller airport with a short walk to baggage claim and no international customs process to clear.',
+          'For domestic arrivals, generally yes — DCA is a smaller airport with a short walk to baggage claim and no international customs process to clear. Dulles remains the gateway for most international itineraries, and we serve both airports with flight-tracked pickups.',
       },
       {
         question: 'Can you track my flight if it changes gates or is delayed?',
@@ -141,7 +141,7 @@ const batch11 = [
       {
         question: 'Is BWI closer to Baltimore or Washington, DC?',
         answer:
-          'BWI sits roughly between the two but is noticeably closer to Baltimore and central Maryland — about 30 minutes from downtown DC and considerably less from Annapolis or Columbia.',
+          'BWI sits roughly between the two but is noticeably closer to Baltimore and central Maryland — about 30 minutes from downtown DC and considerably less from Annapolis or Columbia. We serve BWI with the same flight tracking and flat, written rates as Dulles and Reagan National.',
       },
       {
         question: 'Can you pick up a group of 10 or more at BWI?',
@@ -229,7 +229,7 @@ const batch11 = [
       {
         question: 'What if our flight has extra wait time because of an infant at customs?',
         answer:
-          'International arrivals include 60 minutes of complimentary wait time, which is built in specifically because families with young children often take longer through customs than solo travelers.',
+          'International arrivals include 60 minutes of complimentary wait time, which is built in specifically because families with young children often take longer through customs than solo travelers. Your chauffeur also tracks the flight, so that waiting time starts from the actual landing rather than the scheduled one.',
       },
     ],
     relatedLinks: [
@@ -301,12 +301,12 @@ const batch11 = [
       {
         question: 'What happens if my flight is delayed by holiday weather?',
         answer:
-          'Every pickup is flight-tracked from wheels-up, so a weather delay simply shifts your chauffeur\'s dispatch time automatically — you never need to call with an update.',
+          'Every pickup is flight-tracked from wheels-up, so a weather delay simply shifts your chauffeur\'s dispatch time automatically — you never need to call with an update. Domestic arrivals also include 45 minutes of complimentary waiting, and international arrivals 60.',
       },
       {
         question: 'Do you run extra vehicles for large holiday arrivals?',
         answer:
-          'Yes, our fleet scales from sedans to Sprinter vans seating up to 13, and we add dispatch capacity for the Thanksgiving and Christmas travel weeks specifically.',
+          'Yes, our fleet scales from sedans to Sprinter vans seating up to 13, and we add dispatch capacity for the Thanksgiving and Christmas travel weeks specifically. Booking early is still wise during these weeks, since the busiest travel days fill first.',
       },
     ],
     relatedLinks: [
@@ -382,7 +382,7 @@ const batch11 = [
       {
         question: 'Do you serve trips continuing on to the beach after landing at Dulles?',
         answer:
-          'Yes, we regularly run longer transfers connecting Dulles arrivals to onward destinations; call to discuss your specific route and we will quote it directly.',
+          'Yes, we regularly run longer transfers connecting Dulles arrivals to onward destinations; call to discuss your specific route and we will quote it directly. The rate for a longer transfer is still flat and confirmed in writing before the ride.',
       },
     ],
     relatedLinks: [
@@ -454,12 +454,12 @@ const batch11 = [
       {
         question: 'Do you serve communities in both Virginia and Maryland?',
         answer:
-          'Yes, we are a licensed and insured Virginia and Maryland carrier and regularly serve senior living communities across both.',
+          'Yes, we are a licensed and insured Virginia and Maryland carrier and regularly serve senior living communities across both. Our chauffeurs are background-checked, and pickups can be arranged right at the community\'s main entrance.',
       },
       {
         question: 'What is the wait time policy for a resident\'s airport pickup?',
         answer:
-          'The same generous policy as any traveler — 45 minutes complimentary on domestic arrivals and 60 on international, which is especially helpful for residents who may move at a slower pace through the terminal.',
+          'The same generous policy as any traveler — 45 minutes complimentary on domestic arrivals and 60 on international, which is especially helpful for residents who may move at a slower pace through the terminal. A meet-and-greet can also be added so the chauffeur is waiting inside with a name sign.',
       },
     ],
     relatedLinks: [
@@ -521,12 +521,12 @@ const batch11 = [
       {
         question: 'Can you provide a certificate of insurance before we book?',
         answer:
-          'Yes, this is a routine request for corporate and event bookings and we provide documentation promptly on request.',
+          'Yes, this is a routine request for corporate and event bookings and we provide documentation promptly on request. We are commercially insured, so ask when you request a quote and we will send the documentation along with your written rate.',
       },
       {
         question: 'How far ahead should we book transportation for a conference?',
         answer:
-          'As soon as attendee counts and the venue schedule are confirmed — several weeks ahead for a multi-day conference gives us time to confirm the full fleet mix you need.',
+          'As soon as attendee counts and the venue schedule are confirmed — several weeks ahead for a multi-day conference gives us time to confirm the full fleet mix you need. Each vehicle\'s rate is confirmed in writing before the event, so the transportation budget is settled early.',
       },
       {
         question: 'Can you run a hotel-to-venue shuttle on a schedule?',
@@ -541,7 +541,7 @@ const batch11 = [
       {
         question: 'What if a VIP\'s flight is delayed the morning of the event?',
         answer:
-          'Every airport-tied pickup is flight-tracked, and we build contingency into the run-of-show for exactly this kind of delay.',
+          'Every airport-tied pickup is flight-tracked, and we build contingency into the run-of-show for exactly this kind of delay. If it slips significantly, dispatch is available 24/7 at (877) 609-1919 to adjust the rest of the schedule.',
       },
     ],
     relatedLinks: [
@@ -602,22 +602,22 @@ const batch11 = [
       {
         question: 'Do you coordinate with one point of contact rather than each student?',
         answer:
-          'Yes, we work from a single coordinator — coach, band director or trip staffer — who confirms the roster and schedule, rather than booking individually.',
+          'Yes, we work from a single coordinator — coach, band director or trip staffer — who confirms the roster and schedule, rather than booking individually. That coordinator also receives the written rate confirmation and is the contact for any changes on the day.',
       },
       {
         question: 'Can you work around a tight turnaround between landing and a performance or game?',
         answer:
-          'Yes, we build that buffer into the pickup plan directly, and we flight-track the inbound trip so a delay is handled automatically rather than compressing your schedule further.',
+          'Yes, we build that buffer into the pickup plan directly, and we flight-track the inbound trip so a delay is handled automatically rather than compressing your schedule further. Tell us the call time at the venue when you book so the pickup plan works backward from it.',
       },
       {
         question: 'How many vehicles do we need for a 40-person group?',
         answer:
-          'It depends on equipment volume as much as headcount — tell us both and we will recommend the right mix of Sprinter vans.',
+          'It depends on equipment volume as much as headcount — tell us both and we will recommend the right mix of Sprinter vans. Each Mercedes Sprinter seats up to 13 passengers, so a group that size will use more than one van.',
       },
       {
         question: 'Can you bill the school or athletic department directly?',
         answer:
-          'Yes, direct billing is available for school, athletic department and student organization bookings.',
+          'Yes, direct billing is available for school, athletic department and student organization bookings. Each trip is confirmed at a flat, written rate, which keeps approval simple for the department.',
       },
     ],
     relatedLinks: [
@@ -673,7 +673,7 @@ const batch11 = [
       {
         question: 'Is this a standard hourly chauffeur booking, or something different?',
         answer:
-          'It is the same hourly, as-directed service we provide for corporate roadshows and other multi-stop days — just applied to a real estate showing schedule.',
+          'It is the same hourly, as-directed service we provide for corporate roadshows and other multi-stop days — just applied to a real estate showing schedule. The chauffeur waits at each property, and the rate is confirmed in writing before the day.',
       },
       {
         question: 'Can the showing order change during the day?',
@@ -683,17 +683,17 @@ const batch11 = [
       {
         question: 'Can you pick up an out-of-town buyer at the airport as part of the same booking?',
         answer:
-          'Yes, an airport pickup at Dulles or Reagan National can be combined with the showing day on one reservation.',
+          'Yes, an airport pickup at Dulles or Reagan National can be combined with the showing day on one reservation. The pickup is flight-tracked, so a late arrival does not cut into the showing schedule.',
       },
       {
         question: 'What vehicle is typical for a showing day?',
         answer:
-          'An executive sedan or SUV covers most agent-and-client showing days comfortably; let us know your group size if more than two people are touring together.',
+          'An executive sedan or SUV covers most agent-and-client showing days comfortably; let us know your group size if more than two people are touring together. Our sedans seat three passengers, and a Chevrolet Suburban seats five for a larger family.',
       },
       {
         question: 'Can agents set up a standing or repeat arrangement?',
         answer:
-          'Yes, agents and relocation specialists who book this regularly can set up direct billing and a preferred vehicle on file.',
+          'Yes, agents and relocation specialists who book this regularly can set up direct billing and a preferred vehicle on file. Each booking is still confirmed at a flat rate in writing, with no surge pricing.',
       },
     ],
     relatedLinks: [
@@ -754,7 +754,7 @@ const batch11 = [
       {
         question: 'How much extra time should I budget to return a rental car at Dulles?',
         answer:
-          'Most travelers should budget 30 to 45 minutes beyond the drive itself for the return process and shuttle bus to the terminal, more during busy departure periods.',
+          'Most travelers should budget 30 to 45 minutes beyond the drive itself for the return process and shuttle bus to the terminal, more during busy departure periods. With a car service, the chauffeur drops you at departures, so that extra return time comes off your schedule.',
       },
       {
         question: 'Does a chauffeured drop-off go straight to the terminal?',
@@ -769,7 +769,7 @@ const batch11 = [
       {
         question: 'Can you also handle a one-way drop-off if I am returning a rental elsewhere?',
         answer:
-          'Yes, call us with your specific itinerary and we will quote the leg you actually need covered.',
+          'Yes, call us with your specific itinerary and we will quote the leg you actually need covered. The rate is flat and confirmed in writing before the ride.',
       },
     ],
     relatedLinks: [

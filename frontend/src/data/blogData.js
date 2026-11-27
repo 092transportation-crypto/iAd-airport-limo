@@ -228,7 +228,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What is the cheapest way from Dulles Airport to downtown DC?',
         answer:
-          'The Metro Silver Line is the cheapest option, running directly from the airport station into the District in roughly an hour of train time, plus any transfers to your final stop.',
+          'The Metro Silver Line is the cheapest option, running directly from the airport station into the District in roughly an hour of train time, plus any transfers to your final stop. It suits light packers with time to spare, while a chauffeured transfer takes you and your luggage straight from the terminal to your door.',
       },
       {
         question: 'How early should I leave for a flight out of IAD?',
@@ -358,7 +358,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What does a corporate car service account at IAD include?',
         answer:
-          'Centralized booking for coordinators, consolidated monthly invoicing, fixed negotiated rates, automatic flight tracking, meet and greet options, and consistent vehicle standards across every trip.',
+          'Centralized booking for coordinators, consolidated monthly invoicing, fixed negotiated rates, automatic flight tracking, meet and greet options, and consistent vehicle standards across every trip. Every trip on the account also comes with a licensed, background-checked chauffeur in a commercially insured vehicle.',
       },
       {
         question: 'Can a car service handle multi-stop roadshows around DC?',
@@ -649,7 +649,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'How do corporate car service accounts simplify expensing?',
         answer:
-          'Trips are billed at fixed negotiated rates on a consolidated monthly invoice with per-trip and per-traveler detail — one vendor, one clean line for finance, no surge-priced receipts to justify.',
+          'Trips are billed at fixed negotiated rates on a consolidated monthly invoice with per-trip and per-traveler detail — one vendor, one clean line for finance, no surge-priced receipts to justify. Setting up an account takes a short conversation, and every trip after that is booked against the same agreed terms.',
       },
     ],
   },
@@ -708,7 +708,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What makes a car service at Dulles Airport the best in 2026?',
         answer:
-          'Verified carrier licensing and commercial insurance, automatic flight tracking with a no-fee delay policy, a named late-model fleet, professional chauffeurs, and flat all-inclusive written rates — evaluated together, not any single factor.',
+          'Verified carrier licensing and commercial insurance, automatic flight tracking with a no-fee delay policy, a named late-model fleet, professional chauffeurs, and flat all-inclusive written rates — evaluated together, not any single factor. Ask any provider about each of these before you book, and get the rate and cancellation terms in writing.',
       },
       {
         question: 'How do I verify a Dulles car service is licensed and insured?',
@@ -881,7 +881,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What happens if my early flight is cancelled overnight?',
         answer:
-          'Call (877) 609-1919 — dispatch is staffed around the clock and will move or cancel your pickup to match your rebooked flight.',
+          'Call (877) 609-1919 — dispatch is staffed around the clock and will move or cancel your pickup to match your rebooked flight. If you let dispatch know as soon as the airline rebooks you, the pickup moves to the new flight instead of being charged as a missed trip.',
       },
     ],
   },
@@ -944,7 +944,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Is a car service expensable for business travel?',
         answer:
-          'Ground transportation to and from the airport is a standard business expense at most companies, and consolidated monthly invoicing makes reconciliation simpler than per-trip rideshare receipts.',
+          'Ground transportation to and from the airport is a standard business expense at most companies, and consolidated monthly invoicing makes reconciliation simpler than per-trip rideshare receipts. Each trip is listed on the invoice, which makes it simple to match rides to travelers and projects at the end of the month.',
       },
       {
         question: 'How far in advance should corporate airport transfers be booked?',
@@ -959,7 +959,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Which vehicles suit executive travel from Dulles?',
         answer:
-          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Lincoln Navigators and Chevrolet Suburbans for small teams, and Mercedes Sprinters for delegations up to 13.',
+          'Mercedes-Benz S-Class and BMW 7 Series sedans for individual executives, Lincoln Navigators and Chevrolet Suburbans for small teams, and Mercedes Sprinters for delegations up to 13. Tell dispatch how many are travelling and how much luggage they have, and the vehicle is matched to the trip before the flight lands.',
       },
     ],
   },
@@ -1011,12 +1011,12 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Is a car service cheaper than parking at Dulles?',
         answer:
-          'For trips of roughly 5 to 7 days or longer, round-trip flat-rate car service is frequently comparable to or cheaper than daily garage parking plus fuel, tolls, and mileage — and it wins on time and hassle well before that.',
+          'For trips of roughly 5 to 7 days or longer, round-trip flat-rate car service is frequently comparable to or cheaper than daily garage parking plus fuel, tolls, and mileage — and it wins on time and hassle well before that. A door-to-door pickup also takes the economy-lot shuttle and the long walk with luggage out of both ends of the trip.',
       },
       {
         question: 'How much time does parking at IAD add to a trip?',
         answer:
-          'Plan on 30 to 45 minutes per direction for economy lots once you include the shuttle wait and terminal transfer — nearly an hour and a half round trip that a door-to-door pickup eliminates.',
+          'Plan on 30 to 45 minutes per direction for economy lots once you include the shuttle wait and terminal transfer — nearly an hour and a half round trip that a door-to-door pickup eliminates. With a chauffeured pickup, that time goes back to you, since the car meets you at the curb and drops you at your door.',
       },
       {
         question: 'What should I include when comparing parking vs a car service?',
@@ -1093,7 +1093,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Do you charge for waiting if customs is slow?',
         answer:
-          'International arrival bookings include generous complimentary wait time, and we track your flight’s actual arrival — slow customs never generates a surprise fee.',
+          'International arrival bookings include generous complimentary wait time, and we track your flight’s actual arrival — slow customs never generates a surprise fee. That includes 60 minutes of complimentary waiting time on international arrivals, counted from when your flight actually lands.',
       },
       {
         question: 'Can I book a pickup for a relative arriving from overseas?',
@@ -1686,7 +1686,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What does Dulles car service cost to Northern Virginia destinations?',
         answer:
-          'Typical 2026 sedan rates run $65–$90 to Reston and Herndon, $85–$115 to Tysons and McLean, $75–$110 into Loudoun County, and $100–$135 to Arlington and Alexandria — all flat and all-inclusive.',
+          'Typical 2026 sedan rates run $65–$90 to Reston and Herndon, $85–$115 to Tysons and McLean, $75–$110 into Loudoun County, and $100–$135 to Arlington and Alexandria — all flat and all-inclusive. Your exact rate is quoted and confirmed in writing before the ride, with no surge pricing, so the figure you agree to is the figure you pay.',
       },
       {
         question: 'Does the flat rate include tolls and wait time?',
@@ -2099,7 +2099,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'Why fly into Dulles instead of DCA?',
         answer:
-          'International and transcontinental routes, United’s hub network, more capacity and often lower fares, and proximity to the western suburbs — from Reston and Herndon to Ashburn and Loudoun County, IAD is the local airport.',
+          'International and transcontinental routes, United’s hub network, more capacity and often lower fares, and proximity to the western suburbs — from Reston and Herndon to Ashburn and Loudoun County, IAD is the local airport. Every Dulles pickup is flight-tracked, with complimentary waiting time on arrival, which takes much of the stress out of landing after a long-haul flight.',
       },
       {
         question: 'How do ground transportation costs compare from each airport?',
@@ -2501,7 +2501,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What is the cancellation policy for event transportation?',
         answer:
-          'Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before pickup; sedans and SUVs up to 3 hours before.',
+          'Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before pickup; sedans and SUVs up to 3 hours before. Event bookings are confirmed in writing, so the vehicle, timing and rate are settled well before the day.',
       },
     ],
   },
@@ -2582,7 +2582,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'How long is the walk from the Dulles concourses to baggage claim?',
         answer:
-          'Ten to twenty minutes via the AeroTrain or mobile lounges from the mid-field concourses to the main terminal, then down to baggage claim on the lower level.',
+          'Ten to twenty minutes via the AeroTrain or mobile lounges from the mid-field concourses to the main terminal, then down to baggage claim on the lower level. Your chauffeur tracks the flight and allows for that transfer, so you are not rushing between the train and the curb.',
       },
       {
         question: 'What is the Reagan National perimeter rule?',

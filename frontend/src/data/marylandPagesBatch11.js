@@ -77,11 +77,11 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Can our wedding day start at a Tysons hotel even if the ceremony is elsewhere?", a: "Yes, this is a common pattern — we stage at the hotel and run the full day's route to your ceremony and reception venue on one reservation." },
-      { q: "How far is Tysons from Dulles Airport?", a: "About 15 to 25 minutes depending on traffic, which makes group pickups for out-of-town wedding guests straightforward." },
+      { q: "Can our wedding day start at a Tysons hotel even if the ceremony is elsewhere?", a: "Yes, this is a common pattern — we stage at the hotel and run the full day's route to your ceremony and reception venue on one reservation. The vehicle stays with the wedding party between stops, and the rate is confirmed in writing in advance." },
+      { q: "How far is Tysons from Dulles Airport?", a: "About 15 to 25 minutes depending on traffic, which makes group pickups for out-of-town wedding guests straightforward. Each guest pickup follows the actual landing time, with 45 minutes of free waiting on domestic arrivals." },
       { q: "Can you shuttle guests to a venue with limited parking?", a: "Yes. A Mercedes Sprinter van is the most common choice for a guest shuttle route from a Tysons hotel to a nearby venue." },
-      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book." },
-      { q: "How far ahead should we book a Tysons wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season." },
+      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book. The vehicle and chauffeur stay with your party between the ceremony, photos and reception, so no one waits for a separate ride." },
+      { q: "How far ahead should we book a Tysons wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season. Booking early also leaves time to confirm the timeline and vehicles in writing well before the day." },
     ],
     related: [
       { label: "Tysons Limo Service", to: "/tysons-limo-service" },
@@ -147,10 +147,10 @@ export const MARYLAND_BATCH11 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Can you handle a wedding day that starts in downtown Bethesda and ends at a reception elsewhere?", a: "Yes. We build the full route into one hourly reservation, with the same chauffeur staying with the wedding party all day." },
-      { q: "How far is Bethesda from the three regional airports?", a: "Reagan National and Dulles both run roughly 30 to 50 minutes depending on the specific pickup point; BWI is a comparable distance to the north." },
+      { q: "How far is Bethesda from the three regional airports?", a: "Reagan National and Dulles both run roughly 30 to 50 minutes depending on the specific pickup point; BWI is a comparable distance to the north. All three are quoted at flat, written rates, and every airport pickup is flight-tracked." },
       { q: "Can you shuttle guests between a hotel and the ceremony venue?", a: "Yes. A Mercedes Sprinter van is the most common choice for a Bethesda guest shuttle, especially for venues with limited on-site parking." },
-      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book." },
-      { q: "How far in advance should we book a Bethesda wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season." },
+      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book. The vehicle and chauffeur stay with your party between the ceremony, photos and reception, so no one waits for a separate ride." },
+      { q: "How far in advance should we book a Bethesda wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season. Booking early also leaves time to confirm the timeline and vehicles in writing well before the day." },
     ],
     related: [
       { label: "Bethesda Limo Service", to: "/bethesda-limo-service" },
@@ -231,11 +231,11 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Can our wedding day cross between Arlington and DC venues?", a: "Yes, this is a common pattern for Arlington weddings — we build the full cross-river route into one hourly reservation, including bridge timing during rush hour." },
-      { q: "How far is Arlington from Reagan National Airport?", a: "About 10 to 20 minutes depending on traffic, making it one of the fastest airport connections for out-of-town wedding guests." },
-      { q: "Do you know the loading-dock and event-entrance procedures for Arlington's high-rise venues?", a: "Yes, we confirm the specific guest entrance with rooftop and high-rise venues in Crystal City, Rosslyn and Ballston ahead of time so the bridal party is never redirected." },
+      { q: "Can our wedding day cross between Arlington and DC venues?", a: "Yes, this is a common pattern for Arlington weddings — we build the full cross-river route into one hourly reservation, including bridge timing during rush hour. Tell us each venue address when you book, and the rate is confirmed in writing before the wedding." },
+      { q: "How far is Arlington from Reagan National Airport?", a: "About 10 to 20 minutes depending on traffic, making it one of the fastest airport connections for out-of-town wedding guests. Guest pickups are flight-tracked, so arrivals across the weekend are covered without anyone waiting at the curb." },
+      { q: "Do you know the loading-dock and event-entrance procedures for Arlington's high-rise venues?", a: "Yes, we confirm the specific guest entrance with rooftop and high-rise venues in Crystal City, Rosslyn and Ballston ahead of time so the bridal party is never redirected. That confirmation happens before the wedding day, so the chauffeur arrives knowing exactly where to go." },
       { q: "Can you shuttle guests between a hotel and the ceremony venue?", a: "Yes. A Mercedes Sprinter van is the most common choice for an Arlington guest shuttle, especially for venues with limited parking or a large hotel-based guest list." },
-      { q: "How far in advance should we book an Arlington wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season." },
+      { q: "How far in advance should we book an Arlington wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season. Booking early also leaves time to confirm the timeline and vehicles in writing well before the day." },
     ],
     related: [
       { label: "Arlington Limo Service", to: "/arlington-limo-service" },
@@ -302,11 +302,11 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Do your chauffeurs know how to find Potomac's estate and club venues?", a: "Yes, we run this area regularly and our chauffeurs know the entrances and drop-off points at Potomac's private venues, not just the main road address." },
+      { q: "Do your chauffeurs know how to find Potomac's estate and club venues?", a: "Yes, we run this area regularly and our chauffeurs know the entrances and drop-off points at Potomac's private venues, not just the main road address. Tell us the venue name and any gate details when you book, and we confirm the plan before the wedding." },
       { q: "Where do out-of-town guests usually stay for a Potomac wedding?", a: "Most commonly in nearby Bethesda or Rockville, since Potomac itself has limited hotel inventory. We build the guest shuttle from there into the same reservation." },
       { q: "Can you shuttle guests to a venue with limited on-site parking?", a: "Yes. A Mercedes Sprinter van is the most common choice for a Potomac guest shuttle." },
-      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book." },
-      { q: "How far in advance should we book a Potomac wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season." },
+      { q: "Is wedding transportation billed hourly or as a flat rate?", a: "Hourly, as-directed service for the wedding day, confirmed in writing before you book. The vehicle and chauffeur stay with your party between the ceremony, photos and reception, so no one waits for a separate ride." },
+      { q: "How far in advance should we book a Potomac wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season. Booking early also leaves time to confirm the timeline and vehicles in writing well before the day." },
     ],
     related: [
       { label: "Potomac Limo Service", to: "/potomac-limo-service" },
@@ -371,10 +371,10 @@ export const MARYLAND_BATCH11 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation for University of Maryland move-in day?", a: "Yes. Move-in weekends are among our busiest in College Park, and we recommend booking as early as possible once your move-in date is confirmed." },
-      { q: "How far is College Park from BWI and Reagan National?", a: "Both run about 25 to 35 minutes depending on traffic — College Park sits roughly equidistant between the two." },
-      { q: "Can you pick up a family for a graduation weekend?", a: "Yes, we regularly combine airport pickups with drop-offs directly at campus venues for graduation weekend, and recommend booking well ahead for the two annual ceremony dates." },
-      { q: "Do you serve game days at SECU Stadium or XFINITY Center?", a: "Yes, we run regular transportation for Terrapins football and basketball games, including group bookings in Sprinter vans." },
-      { q: "Is College Park served by both Virginia and Maryland chauffeurs?", a: "We are a licensed and insured Virginia and Maryland carrier and serve College Park as a routine part of our Prince George's County coverage." },
+      { q: "How far is College Park from BWI and Reagan National?", a: "Both run about 25 to 35 minutes depending on traffic — College Park sits roughly equidistant between the two. Both are quoted at flat rates confirmed in writing, so the choice can follow your flight." },
+      { q: "Can you pick up a family for a graduation weekend?", a: "Yes, we regularly combine airport pickups with drop-offs directly at campus venues for graduation weekend, and recommend booking well ahead for the two annual ceremony dates. Sprinter vans seat up to 13 passengers, so a large family can ride together." },
+      { q: "Do you serve game days at SECU Stadium or XFINITY Center?", a: "Yes, we run regular transportation for Terrapins football and basketball games, including group bookings in Sprinter vans. Tell us the game and your group size when you book, and the chauffeur will confirm the drop-off point." },
+      { q: "Is College Park served by both Virginia and Maryland chauffeurs?", a: "We are a licensed and insured Virginia and Maryland carrier and serve College Park as a routine part of our Prince George's County coverage. Trips between College Park and Dulles, Reagan National or BWI are quoted as a flat rate and confirmed in writing before you ride." },
     ],
     related: [
       { label: "University of Maryland Transportation", to: "/university-of-maryland-transportation" },
@@ -443,11 +443,11 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is National Harbor from Reagan National Airport?", a: "About 25 to 35 minutes depending on traffic, making it the faster airport option for most National Harbor conference attendees." },
+      { q: "How far is National Harbor from Reagan National Airport?", a: "About 25 to 35 minutes depending on traffic, making it the faster airport option for most National Harbor conference attendees. Arrivals are flight-tracked, so a delay into Reagan National does not leave anyone waiting at the curb." },
       { q: "Can you run a shuttle for a multi-day conference at Gaylord National?", a: "Yes. We build a shuttle schedule around your conference's attendee volume and session times, with contingency built in for delays." },
       { q: "Do you offer direct corporate billing?", a: "Yes. We set up direct billing and monthly invoicing for companies and event planners booking National Harbor transportation regularly." },
-      { q: "Should international attendees use Dulles instead of Reagan?", a: "Yes, Dulles is the practical choice for international itineraries even though it runs a longer drive — about 50 to 65 minutes from National Harbor." },
-      { q: "Can you handle a visiting team of six or more?", a: "Yes. A luxury SUV covers up to six passengers with luggage; for larger teams a Mercedes Sprinter van seats up to 13." },
+      { q: "Should international attendees use Dulles instead of Reagan?", a: "Yes, Dulles is the practical choice for international itineraries even though it runs a longer drive — about 50 to 65 minutes from National Harbor. International arrivals include 60 minutes of complimentary waiting to allow for customs." },
+      { q: "Can you handle a visiting team of six or more?", a: "Yes. A Lincoln Navigator covers up to six passengers with luggage; for larger teams a Mercedes Sprinter van seats up to 13." },
     ],
     related: [
       { label: "National Harbor Transportation", to: "/national-harbor-transportation" },
@@ -523,11 +523,11 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Silver Spring from Reagan National Airport?", a: "About 20 to 30 minutes depending on traffic — one of the faster airport connections in Montgomery County." },
-      { q: "Do you serve the FDA White Oak campus and its visitor badging process?", a: "Yes, we regularly coordinate visitor transportation to the FDA White Oak campus and nearby federal and contractor offices, confirming arrival timing with front-desk and security teams in advance." },
+      { q: "How far is Silver Spring from Reagan National Airport?", a: "About 20 to 30 minutes depending on traffic — one of the faster airport connections in Montgomery County. Pickups are flight-tracked, so a delayed arrival simply moves the chauffeur's timing." },
+      { q: "Do you serve the FDA White Oak campus and its visitor badging process?", a: "Yes, we regularly coordinate visitor transportation to the FDA White Oak campus and nearby federal and contractor offices, confirming arrival timing with front-desk and security teams in advance. Tell us the visitor's name and meeting time when you book, and the chauffeur handles the arrival from there." },
       { q: "Does the rate change if a Silver Spring meeting runs long?", a: "No. We quote a flat rate before you book and hold it regardless of traffic, demand or how long the meeting runs." },
-      { q: "Do you serve the Discovery District and downtown media companies, not just White Oak?", a: "Yes, we run the same flat-rate corporate process for downtown Silver Spring's media and professional-services firms, including single-meeting bookings for visiting executives and board members." },
-      { q: "Can our company set up a standing arrangement with saved addresses?", a: "Yes, companies that book this corridor regularly can set up saved pickup addresses and a preferred vehicle class on file." },
+      { q: "Do you serve the Discovery District and downtown media companies, not just White Oak?", a: "Yes, we run the same flat-rate corporate process for downtown Silver Spring's media and professional-services firms, including single-meeting bookings for visiting executives and board members. Executive sedans are the usual choice, with SUVs and Sprinter vans for larger groups." },
+      { q: "Can our company set up a standing arrangement with saved addresses?", a: "Yes, companies that book this corridor regularly can set up saved pickup addresses and a preferred vehicle class on file. Each trip is still confirmed at a flat, written rate before the pickup." },
     ],
     related: [
       { label: "Silver Spring Limo Service", to: "/silver-spring-limo-service" },
@@ -598,9 +598,9 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Do you serve the NIH campus and FDA offices directly?", a: "Yes, we regularly serve visitor and staff transportation to and from the NIH campus in Bethesda and FDA offices in Rockville and White Oak." },
+      { q: "Do you serve the NIH campus and FDA offices directly?", a: "Yes, we regularly serve visitor and staff transportation to and from the NIH campus in Bethesda and FDA offices in Rockville and White Oak. Share the building and visitor steps when you book so the chauffeur arrives within the expected window." },
       { q: "Can you handle a multi-site visit for a board member or investor in one day?", a: "Yes. Hourly, as-directed service keeps one vehicle and chauffeur with the group across multiple campuses on one reservation." },
-      { q: "Should I use Dulles or Reagan for a trip along this corridor?", a: "Reagan National is generally faster for Bethesda-end addresses; Dulles is often the better choice for Gaithersburg-end addresses and international travel." },
+      { q: "Should I use Dulles or Reagan for a trip along this corridor?", a: "Reagan National is generally faster for Bethesda-end addresses; Dulles is often the better choice for Gaithersburg-end addresses and international travel. Both are quoted at flat, written rates, and every airport pickup is flight-tracked." },
       { q: "Do you offer direct corporate billing?", a: "Yes. We set up direct billing and monthly invoicing for biotech and healthcare companies booking this corridor regularly." },
       { q: "Can you accommodate a visiting delegation of scientists or executives?", a: "Yes. SUVs cover small teams and a Mercedes Sprinter van seats up to 13 for larger visiting delegations." },
     ],
@@ -686,9 +686,9 @@ export const MARYLAND_BATCH11 = [
     faqs: [
       { q: "Do you provide transportation for embassy staff and delegations?", a: "Yes. We regularly serve embassies, missions and visiting delegations across Washington, DC with discreet, flight-tracked transportation." },
       { q: "Can you coordinate multiple vehicles for a visiting delegation?", a: "Yes. We plan a delegation's full vehicle group as one coordinated booking, confirmed against the schedule in advance." },
-      { q: "Can you handle a protocol event or official function with a fixed start time?", a: "Yes, we build extra buffer time and confirm the route in advance for a state dinner, protocol visit or official function that cannot slip." },
-      { q: "Can a mission set up a standing account?", a: "Yes, missions and consulates that book regularly can set up direct billing with saved pickup addresses and preferred vehicle classes." },
-      { q: "Is the service discreet near sensitive mission addresses?", a: "Yes, our chauffeurs who regularly serve this area plan pickup and drop-off to avoid unnecessary attention near chancery and mission buildings." },
+      { q: "Can you handle a protocol event or official function with a fixed start time?", a: "Yes, we build extra buffer time and confirm the route in advance for a state dinner, protocol visit or official function that cannot slip. Our chauffeurs are licensed and background-checked, and dispatch is available 24/7 at (877) 609-1919 if timing changes." },
+      { q: "Can a mission set up a standing account?", a: "Yes, missions and consulates that book regularly can set up direct billing with saved pickup addresses and preferred vehicle classes. Each trip is still quoted as a flat rate in writing before it is confirmed." },
+      { q: "Is the service discreet near sensitive mission addresses?", a: "Yes, our chauffeurs who regularly serve this area plan pickup and drop-off to avoid unnecessary attention near chancery and mission buildings. They are licensed and background-checked, and pickup details are confirmed with your office in advance." },
     ],
     related: [
       { label: "Embassy & Diplomatic Visitor Transportation at Dulles", to: "/blog/embassy-diplomatic-visitor-transportation-dulles" },
@@ -759,11 +759,11 @@ export const MARYLAND_BATCH11 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Can you drop us off right at Northwest Stadium?", a: "Yes, we drop off and pick up near the main gates, avoiding the general parking lot search." },
-      { q: "How do you handle the pickup after a Commanders game ends?", a: "Tell us the game's expected end time and we stage the vehicle to be waiting, rather than requiring a call from a crowded lot." },
-      { q: "How far is Northwest Stadium from Dulles Airport?", a: "About 50 to 65 minutes, depending on traffic." },
+      { q: "Can you drop us off right at Northwest Stadium?", a: "Yes, we drop off and pick up near the main gates, avoiding the general parking lot search. Tell us which gate you prefer when you book, and the chauffeur confirms the meeting spot before kickoff." },
+      { q: "How do you handle the pickup after a Commanders game ends?", a: "Tell us the game's expected end time and we stage the vehicle to be waiting, rather than requiring a call from a crowded lot. On an hourly booking, the chauffeur simply keeps waiting if the game runs long." },
+      { q: "How far is Northwest Stadium from Dulles Airport?", a: "About 50 to 65 minutes, depending on traffic. If you are flying in for a game, the pickup is flight-tracked and the rate is confirmed in writing." },
       { q: "Can you handle a tailgate group with coolers and gear?", a: "Yes. A Mercedes Sprinter van comfortably handles a tailgate group's gear along with the group itself." },
-      { q: "Can season-ticket holders set up a standing arrangement?", a: "Yes, we set up recurring game-day bookings on request so a regular group does not have to re-coordinate logistics before every home game." },
+      { q: "Can season-ticket holders set up a standing arrangement?", a: "Yes, we set up recurring game-day bookings on request so a regular group does not have to re-coordinate logistics before every home game. A Sprinter van seats up to 13, so a regular group can ride together to every home game." },
     ],
     related: [
       { label: "Washington Commanders Game Day Car Service", to: "/blog/washington-commanders-game-day-car-service" },

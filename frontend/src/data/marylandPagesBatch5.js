@@ -77,7 +77,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Can you pick up near the West Falls Church Metro station?",
-        a: "Yes, including connections for guests continuing into Washington, DC by rail, or a direct door-to-door transfer if you would rather skip the train.",
+        a: "Yes, including connections for guests continuing into Washington, DC by rail, or a direct door-to-door transfer if you would rather skip the train. Let us know which you prefer when you book, and the chauffeur will meet you at the station or at your door.",
       },
       {
         q: "Do you offer corporate accounts for Falls Church businesses?",
@@ -154,7 +154,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Is Reagan National closer to Woodbridge than Dulles?",
-        a: "Yes, Reagan National is about 22 miles and 30 to 40 minutes via I-95, somewhat closer than the 35-mile run to Dulles.",
+        a: "Yes, Reagan National is about 22 miles and 30 to 40 minutes via I-95, somewhat closer than the 35-mile run to Dulles. Whichever airport you fly from, the flat rate is confirmed in writing before the ride and every pickup is flight-tracked.",
       },
       {
         q: "Do you pick up near Potomac Mills?",
@@ -162,7 +162,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Can you serve Belmont Bay and the Occoquan waterfront?",
-        a: "Yes, including Belmont Bay, Lake Ridge, Dale City and the Occoquan riverfront communities just across the river.",
+        a: "Yes, including Belmont Bay, Lake Ridge, Dale City and the Occoquan riverfront communities just across the river. Give us the street address when you book and the chauffeur will come to your door rather than a general meeting point.",
       },
       {
         q: "Do you offer corporate accounts for Prince William County businesses?",
@@ -224,7 +224,7 @@ export const MARYLAND_BATCH5 = [
         paragraphs: [
           "Standing accounts serve the NGA campus and nearby contractors with recurring airport transfers and consolidated monthly invoicing — a single point of contact handles schedule changes without back-and-forth. Families and groups use SUVs and Sprinter vans for Springfield Town Center outings and school events.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event bookings.",
-          "Our chauffeurs plan around the Springfield Interchange Yes, including the Franconia-Springfield Metro station, the Springfield Town Center and surrounding neighborhoods, for both airport transfers and local trips.",
+          "Our chauffeurs plan around the Springfield Interchange and serve the Franconia-Springfield Metro station, the Springfield Town Center and surrounding neighborhoods, for both airport transfers and local trips.",
           "Weekend bookings around Springfield Town Center events and local youth sports tournaments are common, and we plan pickups around the Town Center's own internal traffic flow as well as the interchange.",
         ],
       },
@@ -241,15 +241,15 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Can you pick up at Springfield Town Center?",
-        a: "Yes, including the hotels and restaurants on the Town Center campus and nearby retail.",
+        a: "Yes, including the hotels and restaurants on the Town Center campus and nearby retail. Share the entrance or restaurant name when you book so your chauffeur meets you at the right spot.",
       },
       {
         q: "Do you serve the Franconia-Springfield Metro and VRE station?",
-        a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer.",
+        a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer. Tell us which train or departure you are connecting to, and we will time the pickup to match.",
       },
       {
         q: "Is Reagan National closer than Dulles from Springfield?",
-        a: "Yes, Reagan National is about 15 miles versus roughly 24 for Dulles, though both run comparably during rush hour depending on the exact route.",
+        a: "Yes, Reagan National is about 15 miles versus roughly 24 for Dulles, though both run comparably during rush hour depending on the exact route. We quote both at a flat rate confirmed in writing and set the pickup time around the traffic you are likely to meet.",
       }
     ],
     related: [
@@ -318,11 +318,11 @@ export const MARYLAND_BATCH5 = [
     faqs: [
       {
         q: "How long does it take to get from Annandale to Dulles Airport?",
-        a: "Usually 30 to 35 minutes, about 20 miles via I-495 and the Dulles Toll Road, depending on traffic.",
+        a: "Usually 30 to 35 minutes, about 20 miles via I-495 and the Dulles Toll Road, depending on traffic. On arrivals, the chauffeur follows your flight and waits up to 45 minutes free for domestic flights and 60 for international.",
       },
       {
         q: "Do you serve NOVA Community College's Annandale campus?",
-        a: "Yes, including airport pickups and drop-offs for students and visiting families around move-in, finals and graduation.",
+        a: "Yes, including airport pickups and drop-offs for students and visiting families around move-in, finals and graduation. Families can book a single trip or an hourly reservation for a busy weekend of errands and campus stops.",
       },
       {
         q: "Can you book a group ride to a Little River Turnpike restaurant or banquet hall?",
@@ -330,7 +330,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Is Reagan National closer than Dulles from Annandale?",
-        a: "Yes, Reagan National is about 12 miles versus roughly 20 for Dulles, though both are reasonable options depending on your flight.",
+        a: "Yes, Reagan National is about 12 miles versus roughly 20 for Dulles, though both are reasonable options depending on your flight. Either airport is quoted at a flat rate in writing, with Dulles usually the pick for international itineraries.",
       },
       {
         q: "Do you provide car seats for family trips?",
@@ -402,7 +402,7 @@ export const MARYLAND_BATCH5 = [
     faqs: [
       {
         q: "How long does it take to get from Burke to Dulles Airport?",
-        a: "Usually 30 to 40 minutes, about 22 miles via the Fairfax County Parkway and Route 28, depending on traffic.",
+        a: "Usually 30 to 40 minutes, about 22 miles via the Fairfax County Parkway and Route 28, depending on traffic. Your chauffeur tracks the flight on arrivals, so a late landing at Dulles moves the pickup time rather than the price.",
       },
       {
         q: "Can you handle an early-morning pickup from Burke?",
@@ -410,7 +410,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Do you serve the Burke Centre VRE station?",
-        a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to driving and parking at the station.",
+        a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to driving and parking at the station. Tell us your train time and we will schedule the pickup so you are not left waiting at the station.",
       },
       {
         q: "Can I get an SUV with a car seat for a family vacation trip?",
@@ -418,7 +418,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Do you serve BWI from Burke as well?",
-        a: "Yes, it is about 50 miles and 65 to 80 minutes around the Beltway, quoted as a flat rate confirmed before you book.",
+        a: "Yes, it is about 50 miles and 65 to 80 minutes around the Beltway, quoted as a flat rate confirmed before you book. BWI pickups are flight-tracked just like Dulles and Reagan National.",
       }],
     related: [
       { label: "IAD to Springfield, VA", to: "/iad-to-springfield-va" },
@@ -485,7 +485,7 @@ export const MARYLAND_BATCH5 = [
     faqs: [
       {
         q: "How long does it take to get from Clifton to Dulles Airport?",
-        a: "Usually 25 to 35 minutes, about 20 miles via Route 28 — closer than Clifton's rural setting suggests.",
+        a: "Usually 25 to 35 minutes, about 20 miles via Route 28 — closer than Clifton's rural setting suggests. Pickups are flight-tracked, with 45 minutes of complimentary waiting on domestic arrivals and 60 on international.",
       },
       {
         q: "Can you arrange a wine-tour day starting from Clifton Village?",
@@ -497,7 +497,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Is Dulles or Reagan National closer to Clifton?",
-        a: "Dulles is closer at about 20 miles versus roughly 22 for Reagan National, though both are reasonable depending on your flight and the time of day.",
+        a: "Dulles is closer at about 20 miles versus roughly 22 for Reagan National, though both are reasonable depending on your flight and the time of day. We quote both airports at a flat rate confirmed in writing, so the choice can come down to your airline and departure time.",
       },
       {
         q: "Can you handle Historic Clifton Day festival weekend traffic?",
@@ -569,7 +569,7 @@ export const MARYLAND_BATCH5 = [
     faqs: [
       {
         q: "How long does it take to get from Lorton to Dulles Airport?",
-        a: "Usually 35 to 45 minutes, about 28 miles via the Fairfax County Parkway and I-495, depending on traffic.",
+        a: "Usually 35 to 45 minutes, about 28 miles via the Fairfax County Parkway and I-495, depending on traffic. We plan the pickup time around your departure and the time of day, and the flat rate is confirmed before you book.",
       },
       {
         q: "Do you serve the Amtrak Auto Train terminal in Lorton?",
@@ -581,11 +581,11 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Do you pick up at the Workhouse Arts Center?",
-        a: "Yes, for gallery openings, exhibitions and the Workhouse's seasonal events throughout the year.",
+        a: "Yes, for gallery openings, exhibitions and the Workhouse's seasonal events throughout the year. For an evening event, an hourly booking keeps the car with you so the ride home is ready when the event ends.",
       },
       {
         q: "Is Reagan National closer to Lorton than Dulles?",
-        a: "Yes, Reagan National is about 18 miles versus roughly 28 for Dulles.",
+        a: "Yes, Reagan National is about 18 miles versus roughly 28 for Dulles. Both airports are quoted at flat, written rates, and Dulles is often the better fit for international flights.",
       }
     ],
     related: [
@@ -657,11 +657,11 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "How long does it take to get from Dumfries to Dulles Airport?",
-        a: "Usually 50 to 60 minutes, about 40 miles via I-66 and the Fairfax County Parkway, the longest of our regular Northern Virginia runs.",
+        a: "Usually 50 to 60 minutes, about 40 miles via I-66 and the Fairfax County Parkway, the longest of our regular Northern Virginia runs. Because the drive is long, we set the pickup around both your flight and the time of day, and the rate is confirmed in writing before you book.",
       },
       {
         q: "Is Reagan National closer to Dumfries than Dulles?",
-        a: "Yes, considerably — about 28 miles and 35 to 45 minutes via I-95, versus roughly 40 miles for Dulles.",
+        a: "Yes, considerably — about 28 miles and 35 to 45 minutes via I-95, versus roughly 40 miles for Dulles. We quote either airport at a flat, written rate, so you can choose based on your flight rather than the cost of getting there.",
       },
       {
         q: "Do you serve FBI Academy graduation weekends?",
@@ -727,7 +727,7 @@ export const MARYLAND_BATCH5 = [
         paragraphs: [
           "Attendees who need to leave campus mid-program — a client meeting in Leesburg, a dinner off-site, an early flight out ahead of the group — book individual trips through the same dispatch that handled the group's arrival, with billing routed to the same account if the organizer prefers.",
           "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and group bookings.",
-          "Yes. Group arrivals, daily shuttle runs between sessions and meals, and departure transfers back to Dulles are all handled under one coordinated booking rather than separate one-off trips. About 22 miles, typically 25 to 35 minutes via Route 7 and Route 15. We flight-track every arrival for group and individual bookings alike.",
+          "Yes. Group arrivals, daily shuttle runs between sessions and meals, and departure transfers back to Dulles are all handled under one coordinated booking rather than separate one-off trips. We flight-track every arrival for group and individual bookings alike.",
         ],
       },
     ],
@@ -748,12 +748,12 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Can you handle a large group departure at the end of a program?",
-        a: "Yes, with staggered departure times built around checkout and flight schedules rather than a single shared shuttle.",
+        a: "Yes, with staggered departure times built around checkout and flight schedules rather than a single shared shuttle. Vehicles range from sedans to Sprinter vans seating up to 13 passengers, and each departure is timed to its traveler's flight.",
       },
       
       {
         q: "How far is the National Conference Center from Dulles Airport?",
-        a: "It is a short, direct transfer — most conference attendees reach Lansdowne from Dulles in under 30 minutes, which makes same-day arrivals before an evening session easy to schedule.",
+        a: "It is a short, direct transfer — most conference attendees reach Lansdowne from Dulles in under 30 minutes, which makes same-day arrivals before an evening session easy to schedule. Arrivals are flight-tracked, so a delayed flight shifts the pickup instead of cutting into the session.",
       }
     ],
     related: [
@@ -905,11 +905,11 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Can we book a limousine or Sprinter van for the wedding party?",
-        a: "Yes, staged for getting-ready photos and timed to deliver the couple and attendants to the venue ahead of the ceremony.",
+        a: "Yes, staged for getting-ready photos and timed to deliver the couple and attendants to the venue ahead of the ceremony. A Mercedes Sprinter seats up to 13 passengers, so most wedding parties ride together, and larger parties use more than one vehicle.",
       },
       {
         q: "How far is the venue from Dulles Airport?",
-        a: "About 30 miles, typically 40 to 50 minutes via Route 7 and Route 9 — common for out-of-town guests flying in for the wedding.",
+        a: "About 30 miles, typically 40 to 50 minutes via Route 7 and Route 9 — common for out-of-town guests flying in for the wedding. Guest pickups are flight-tracked, so arrivals can be spread across the day without anyone waiting at the curb.",
       },
       {
         q: "Can you coordinate pickups for several guests arriving at Dulles the same day?",
@@ -995,7 +995,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "How far is the fairgrounds from Dulles Airport?",
-        a: "About 22 miles, typically 25 to 35 minutes via Route 7 and Route 15.",
+        a: "About 22 miles, typically 25 to 35 minutes via Route 7 and Route 15. Arrivals are flight-tracked, so out-of-town visitors can head straight from the terminal to the fairgrounds without anyone waiting at the curb.",
       },
       {
         q: "Should I book ahead for Loudoun County Fair week?",
@@ -1065,7 +1065,7 @@ export const MARYLAND_BATCH5 = [
     faqs: [
       {
         q: "How far is George Mason University from Dulles Airport?",
-        a: "About 23 miles, typically 30 to 40 minutes via the Dulles Toll Road and I-66, depending on traffic.",
+        a: "About 23 miles, typically 30 to 40 minutes via the Dulles Toll Road and I-66, depending on traffic. Campus pickups for students and visiting families are flight-tracked like every airport run, and the rate is confirmed in writing before the ride.",
       },
       {
         q: "Can you handle move-in or move-out weekend with a lot of luggage?",
@@ -1146,7 +1146,7 @@ export const MARYLAND_BATCH5 = [
     faqs: [
       {
         q: "How far is Dulles Town Center from the airport?",
-        a: "About 6 miles, typically 10 to 15 minutes — one of the shortest trips we run.",
+        a: "About 6 miles, typically 10 to 15 minutes — one of the shortest trips we run. Even on a trip this short, the pickup is flight-tracked, so your chauffeur is ready when you land rather than circling the terminal.",
       },
       {
         q: "Can I book a round trip that waits while I shop or have dinner?",
@@ -1154,7 +1154,7 @@ export const MARYLAND_BATCH5 = [
       },
       {
         q: "Do you pick up from the airport-area hotels near Dulles Town Center?",
-        a: "Yes, including the hotel corridor along Route 28 and Route 7.",
+        a: "Yes, including the hotel corridor along Route 28 and Route 7. Give us the hotel name and your flight number when you book, and the pickup follows your actual arrival.",
       },
       {
         q: "Can I combine this with my Dulles airport transfer?",

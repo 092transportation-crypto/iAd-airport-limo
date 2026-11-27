@@ -217,7 +217,7 @@ const routes = [
       {
         question: 'What vehicles are available for the IAD to Arlington route?',
         answer:
-          'Choose from executive sedans like the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs including the Lincoln Navigator and Chevrolet Suburban, or Mercedes Sprinter vans for groups up to 13.',
+          'Choose from executive sedans like the Mercedes-Benz S-Class and BMW 7 Series, luxury SUVs including the Lincoln Navigator and Chevrolet Suburban, or Mercedes Sprinter vans for groups up to 13. Every vehicle is detailed before pickup, and the fixed rate quoted at booking never surges, even at peak Dulles arrival times.',
       },
       {
         question: 'Can I set up a corporate account for regular Arlington–IAD travel?',
@@ -313,7 +313,7 @@ const routes = [
       {
         question: 'How far in advance should I book a Alexandria reservation?',
         answer:
-          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Alexandria trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Alexandria trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed. If you need extra stops, such as a hotel check-in before an Old Town dinner, mention them when you book and we add them to the reservation.',
       }],
   },
   {
@@ -437,7 +437,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Baltimore?',
         answer:
-          'The roughly 55-mile trip takes 60 to 85 minutes depending on traffic, typically via the Capital Beltway and the Baltimore-Washington Parkway or I-95.',
+          'The roughly 55-mile trip takes 60 to 85 minutes depending on traffic, typically via the Capital Beltway and the Baltimore-Washington Parkway or I-95. Our chauffeurs know when the BW Parkway beats I-95 and how to time the run around Fort Meade and NSA shift traffic.',
       },
       {
         question: 'Do you provide transfers from IAD to the Baltimore cruise terminal?',
@@ -478,7 +478,7 @@ const routes = [
       {
         question: 'How far in advance should I book a Baltimore reservation?',
         answer:
-          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Baltimore trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Baltimore trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed. Cruise passengers heading to the Port of Baltimore should book early too, since we schedule those transfers with conservative buffers before boarding.',
       },
       {
         question: 'Do you accept corporate accounts for recurring Baltimore travel?',
@@ -560,7 +560,7 @@ const routes = [
       {
         question: 'What size groups can you accommodate from IAD to Rockville?',
         answer:
-          'Sedans carry up to three passengers, SUVs up to six with luggage, and Mercedes Sprinter vans up to 13 — ideal for delegations or families traveling together.',
+          'Sedans carry up to three passengers, SUVs up to six with luggage, and Mercedes Sprinter vans up to 13 — ideal for delegations or families traveling together. Groups larger than 13 ride in more than one vehicle, dispatched together so everyone reaches Rockville on the same schedule.',
       },
     
       {
@@ -619,7 +619,7 @@ const routes = [
       {
         question: 'How far is Tysons Corner from Dulles Airport?',
         answer:
-          'About 13 miles — typically a 15-to-25-minute drive on the Dulles Toll Road, making Tysons the closest major business district to IAD.',
+          'About 13 miles — typically a 15-to-25-minute drive on the Dulles Toll Road, making Tysons the closest major business district to IAD. We cover both ends of the clock, from 5 a.m. pickups at Tysons hotels to midnight meets at baggage claim.',
       },
       {
         question: 'Do you offer corporate accounts for Tysons companies?',
@@ -702,7 +702,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Columbia MD?',
         answer:
-          'Typically 55 to 75 minutes for the roughly 45-mile trip, using the ICC (MD-200) to bypass the most congested stretches of the Capital Beltway.',
+          'Typically 55 to 75 minutes for the roughly 45-mile trip, using the ICC (MD-200) to bypass the most congested stretches of the Capital Beltway. Your chauffeur connects from the Dulles Toll Road up to US-29 or I-95 depending on where in Columbia\'s villages you\'re headed.',
       },
       {
         question: 'Do you serve Ellicott City, Clarksville, and the rest of Howard County?',
@@ -727,7 +727,7 @@ const routes = [
       {
         question: 'What vehicles are available for the IAD to Columbia route?',
         answer:
-          'Executive sedans for solo travelers, full-size SUVs seating six with luggage for families, and Mercedes Sprinter vans for groups up to 13 — all detailed before pickup and driven by professional chauffeurs.',
+          'Executive sedans for solo travelers, full-size SUVs seating six with luggage for families, and Mercedes Sprinter vans for groups up to 13 — all detailed before pickup and driven by professional chauffeurs. Visiting teams headed to Columbia Gateway or the Fort Meade area can be billed through a corporate account.',
       },
     
       {
@@ -787,7 +787,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Silver Spring?',
         answer:
-          'Most trips take 40 to 60 minutes for the roughly 31-mile drive across the top of the Capital Beltway, depending on traffic at the American Legion Bridge.',
+          'Most trips take 40 to 60 minutes for the roughly 31-mile drive across the top of the Capital Beltway, depending on traffic at the American Legion Bridge. Chauffeurs choose between the Beltway, the ICC and Georgia Avenue approaches in real time to keep your arrival in Silver Spring predictable.',
       },
       {
         question: 'Do you serve the FDA White Oak and NOAA campuses?',
@@ -955,7 +955,7 @@ const routes = [
       {
         question: 'How far is McLean from Dulles International Airport?',
         answer:
-          'About 16 miles — typically a 20-to-30-minute drive via the Dulles Toll Road and Route 123 or the Georgetown Pike.',
+          'About 16 miles — typically a 20-to-30-minute drive via the Dulles Toll Road and Route 123 or the Georgetown Pike. Our chauffeurs know which approach wins during the evening rush at Tysons, and for frequent travelers we keep gate codes and preferred entrances on file.',
       },
       {
         question: 'Do you serve Great Falls as well as McLean?',
@@ -1053,7 +1053,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Reston?',
         answer:
-          'Usually 15 to 20 minutes — Reston is about 8 miles from Dulles straight down the Toll Road, the shortest major transfer we run.',
+          'Usually 15 to 20 minutes — Reston is about 8 miles from Dulles straight down the Toll Road, the shortest major transfer we run. With a drive that short, the handoff matters most, so your chauffeur stages early and meets you at baggage claim or curbside.',
       },
       {
         question: 'Do you serve Reston Town Center hotels and offices?',
@@ -1155,7 +1155,7 @@ const routes = [
       {
         question: 'How far is Herndon from Dulles Airport?',
         answer:
-          'About 6 miles — typically a 10-to-15-minute drive, making Herndon the closest town we serve from IAD.',
+          'About 6 miles — typically a 10-to-15-minute drive, making Herndon the closest town we serve from IAD. If you\'re staying at a Herndon hotel before an early international flight, we can have you at your terminal minutes after pickup.',
       },
       {
         question: 'Do you pick up from Herndon hotels for early flights?',
@@ -1180,7 +1180,7 @@ const routes = [
       {
         question: 'Do you serve Herndon’s W&OD Trail area and historic downtown specifically?',
         answer:
-          'Yes — historic downtown Herndon around the W&OD Trail is a regular pickup and drop-off area for us, along with the Elden Street hotel corridor and the Route 28 business district.',
+          'Yes — historic downtown Herndon around the W&OD Trail is a regular pickup and drop-off area for us, along with the Elden Street hotel corridor and the Route 28 business district. Residential neighborhoods from Fox Mill to McNair are covered on the same flat-rate terms.',
       }
     ],
   },
@@ -1229,7 +1229,7 @@ const routes = [
       {
         question: 'How long does the trip from IAD to Fredericksburg take?',
         answer:
-          'Typically 70 to 100 minutes for the roughly 60-mile trip via the Fairfax County Parkway and I-95 South, depending heavily on corridor traffic.',
+          'Typically 70 to 100 minutes for the roughly 60-mile trip via the Fairfax County Parkway and I-95 South, depending heavily on corridor traffic. Because I-95 surge pricing can be brutal on rideshare, the flat rate confirmed at booking is what you pay, however the corridor behaves that day.',
       },
       {
         question: 'Do you serve Quantico and the FBI Academy?',
@@ -1332,7 +1332,7 @@ const routes = [
       {
         question: 'Is your service available for both airport pickups and drop-offs?',
         answer:
-          'Yes — both directions, 24/7, with flight tracking on arrivals and traffic-timed pickups for departures anywhere in Northern Virginia.',
+          'Yes — both directions, 24/7, with flight tracking on arrivals and traffic-timed pickups for departures anywhere in Northern Virginia. Many Loudoun residents book the reverse trip to IAD specifically because a flat-rate ride beats a week of parking fees.',
       },
     
       {
@@ -1392,7 +1392,7 @@ const routes = [
       {
         question: 'How long is the ride from Dulles Airport to Columbia, Maryland?',
         answer:
-          'Typically 55 to 75 minutes for the roughly 45-mile trip, using the ICC (MD-200) to avoid the worst of the Capital Beltway.',
+          'Typically 55 to 75 minutes for the roughly 45-mile trip, using the ICC (MD-200) to avoid the worst of the Capital Beltway. Families returning from abroad with a lot of luggage usually choose a Suburban or Navigator, and child seats are installed on request.',
       },
       {
         question: 'Can you install child seats for our family pickup at IAD?',
@@ -1484,7 +1484,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Ocean City?',
         answer:
-          'Plan on 2.5 to 3.5 hours for the roughly 145-mile trip via US-50 and the Bay Bridge, with summer weekend traffic at the upper end of that range.',
+          'Plan on 2.5 to 3.5 hours for the roughly 145-mile trip via US-50 and the Bay Bridge, with summer weekend traffic at the upper end of that range. Because the rate is flat and confirmed in writing, a Bay Bridge backup costs you patience but never money.',
       },
       {
         question: 'How much does a car from IAD to Ocean City cost?',
@@ -1557,7 +1557,7 @@ const routes = [
       {
         question: 'How long does it take from Dulles Airport to the Inner Harbor?',
         answer:
-          'Typically 60 to 85 minutes for the roughly 55-mile trip via the Beltway and the Baltimore-Washington Parkway, depending on traffic in both metro areas.',
+          'Typically 60 to 85 minutes for the roughly 55-mile trip via the Beltway and the Baltimore-Washington Parkway, depending on traffic in both metro areas. On Orioles and Ravens game days we plan earlier departures and alternate approaches into the stadium district, and the flat rate stays the same either way.',
       },
       {
         question: 'Do you drop off at the Baltimore Convention Center?',
@@ -1572,7 +1572,7 @@ const routes = [
       {
         question: 'Which downtown Baltimore hotels do you serve?',
         answer:
-          'All of them — the Marriott Waterfront, Four Seasons, Hilton, Hyatt Regency, Lord Baltimore, and the boutique hotels of Harbor East, Fells Point, and Mount Vernon.',
+          'All of them — the Marriott Waterfront, Four Seasons, Hilton, Hyatt Regency, Lord Baltimore, and the boutique hotels of Harbor East, Fells Point, and Mount Vernon. If you are headed to the Baltimore Convention Center instead, we drop you at the right entrance for badge pickup, not just the address on the map.',
       },
       {
         question: 'Is the IAD to downtown Baltimore rate fixed in advance?',
@@ -1639,7 +1639,7 @@ const routes = [
       {
         question: 'How long does the transfer from IAD to BWI take?',
         answer:
-          'Typically 55 to 80 minutes for the roughly 50-mile drive via the Beltway and the Baltimore-Washington Parkway, depending on traffic.',
+          'Typically 55 to 80 minutes for the roughly 50-mile drive via the Beltway and the Baltimore-Washington Parkway, depending on traffic. We build each booking around your actual itinerary, including customs time at IAD and your airline\'s bag-drop cutoff at BWI.',
       },
       {
         question: 'How much connection time do I need between an IAD arrival and a BWI departure?',
@@ -1680,7 +1680,7 @@ const routes = [
       {
         question: 'How far in advance should I book a BWI Airport reservation?',
         answer:
-          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for BWI Airport trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for BWI Airport trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed. Give us both flight numbers when you book so we can plan the connection against your onward departure.',
       },
       {
         question: 'Do you accept corporate accounts for recurring BWI Airport travel?',
@@ -1751,7 +1751,7 @@ const routes = [
       {
         question: 'Is a car service cheaper than parking at Dulles for a long trip?',
         answer:
-          'For trips of a week or more, round-trip chauffeured service is frequently comparable to or cheaper than long-term parking plus the drive — and you skip four hours behind the wheel.',
+          'For trips of a week or more, round-trip chauffeured service is frequently comparable to or cheaper than long-term parking plus the drive — and you skip four hours behind the wheel. Both legs are quoted flat in writing, and the return pickup is flight-tracked, so a late inbound from abroad doesn\'t change the price.',
       },
       {
         question: 'Do you serve Short Pump, Glen Allen, and Midlothian?',
@@ -1810,7 +1810,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Philadelphia?',
         answer:
-          'Plan on 2.5 to 3.5 hours for the roughly 150-mile trip up I-95 through Baltimore and Wilmington, depending on traffic and time of day.',
+          'Plan on 2.5 to 3.5 hours for the roughly 150-mile trip up I-95 through Baltimore and Wilmington, depending on traffic and time of day. Chauffeurs plan around the corridor\'s known choke points, such as the Fort McHenry Tunnel and the Delaware toll plazas, and time the trip to avoid the worst of both cities\' rush hours where your schedule allows.',
       },
       {
         question: 'How much does a car service from IAD to Philadelphia cost?',
@@ -1896,7 +1896,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Gaithersburg?',
         answer:
-          'Typically 30 to 50 minutes for the roughly 24-mile trip, routed via Route 28 or the Dulles Toll Road, the Beltway, and I-270 depending on live traffic.',
+          'Typically 30 to 50 minutes for the roughly 24-mile trip, routed via Route 28 or the Dulles Toll Road, the Beltway, and I-270 depending on live traffic. Chauffeurs watch conditions at the American Legion Bridge and the I-270 spurs before choosing, and visitors bound for NIST get pickups timed around its gate lines.',
       },
       {
         question: 'Do you provide car service to the NIST campus in Gaithersburg?',
@@ -1986,7 +1986,7 @@ const routes = [
       {
         question: 'How far is Leesburg from Dulles Airport?',
         answer:
-          'About 12 miles straight up the Dulles Greenway — typically a 15-to-25-minute drive, making Leesburg one of the closest towns to IAD.',
+          'About 12 miles straight up the Dulles Greenway — typically a 15-to-25-minute drive, making Leesburg one of the closest towns to IAD. For departures, we time the pickup against the Greenway\'s rhythms so an early international check-in never starts with waiting at the curb.',
       },
       {
         question: 'Is a car service worth it for such a short trip from IAD?',
@@ -2072,7 +2072,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Winchester?',
         answer:
-          'Typically 55 to 75 minutes for the roughly 50-mile trip, primarily on Route 7 West over the Blue Ridge at Snickers Gap.',
+          'Typically 55 to 75 minutes for the roughly 50-mile trip, primarily on Route 7 West over the Blue Ridge at Snickers Gap. When winter weather on the mountain makes Route 50 through Paris and Ashby Gap the smarter crossing, our chauffeurs switch routes so your arrival stays predictable.',
       },
       {
         question: 'Do rideshares serve the IAD to Winchester route?',
@@ -2248,7 +2248,7 @@ const routes = [
       {
         question: 'How far is Ashburn from Dulles Airport?',
         answer:
-          'About 8 miles — typically a 12-to-20-minute drive via the Dulles Greenway and Loudoun County Parkway, making Ashburn one of the closest communities to IAD.',
+          'About 8 miles — typically a 12-to-20-minute drive via the Dulles Greenway and Loudoun County Parkway, making Ashburn one of the closest communities to IAD. On a trip that short, the chauffeur is staged before your flight lands, so the handoff at baggage claim is what you notice, not the drive.',
       },
       {
         question: 'Do you serve the Ashburn data center campuses?',
@@ -2284,7 +2284,7 @@ const routes = [
       {
         question: 'How far in advance should I book a Ashburn reservation?',
         answer:
-          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Ashburn trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Ashburn trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed. Data-center teams with recurring site visits can also set up a corporate account so repeat bookings move faster.',
       }],
   },
   {
@@ -2334,7 +2334,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Frederick MD?',
         answer:
-          'Typically 50 to 70 minutes for the roughly 42-mile trip, routed via Route 28 and US-15 at Point of Rocks or via I-270, whichever live traffic favors.',
+          'Typically 50 to 70 minutes for the roughly 42-mile trip, routed via Route 28 and US-15 at Point of Rocks or via I-270, whichever live traffic favors. The right choice changes by the hour, which is why our chauffeurs decide it live rather than trusting a static estimate.',
       },
       {
         question: 'Do you provide car service to Fort Detrick?',
@@ -2423,7 +2423,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Manassas?',
         answer:
-          'Typically 25 to 40 minutes for the roughly 20-mile trip down Route 28, with alternate routing via the Fairfax County Parkway when the corridor backs up.',
+          'Typically 25 to 40 minutes for the roughly 20-mile trip down Route 28, with alternate routing via the Fairfax County Parkway when the corridor backs up. Braddock Road is another fallback when Route 28 jams at Westfields or the railroad crossings.',
       },
       {
         question: 'Do you serve the Micron campus and Innovation Park?',
@@ -2469,7 +2469,7 @@ const routes = [
       {
         question: 'How far in advance should I book a Manassas reservation?',
         answer:
-          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Manassas trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed.',
+          'Same-day bookings are often possible, but we recommend reserving 24 to 48 hours ahead for Manassas trips during peak travel periods, holidays and graduation or event weekends so your preferred vehicle is guaranteed. Concert nights at Jiffy Lube Live and youth sports tournament weekends are good times to book early, especially if your group needs an SUV or Sprinter van.',
       },
       {
         question: 'Do you accept corporate accounts for recurring Manassas travel?',
@@ -2526,7 +2526,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to National Harbor?',
         answer:
-          'Typically 45 to 70 minutes for the roughly 40-mile trip around the southern Beltway and across the Woodrow Wilson Bridge, depending on traffic.',
+          'Typically 45 to 70 minutes for the roughly 40-mile trip around the southern Beltway and across the Woodrow Wilson Bridge, depending on traffic. Chauffeurs time the run around convention arrival waves and the Wilson Bridge merges, and drop you at the Gaylord\'s porte cochère or the MGM\'s entrance.',
       },
       {
         question: 'Do you provide transfers to the Gaylord National for conventions?',
@@ -2593,7 +2593,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Falls Church?',
         answer:
-          'Usually 25 to 35 minutes, about 18 miles via Route 7 and the Dulles Toll Road, depending on traffic.',
+          'Usually 25 to 35 minutes, about 18 miles via Route 7 and the Dulles Toll Road, depending on traffic. Because Falls Church sits almost exactly between Dulles and Reagan National, we can also tell you honestly which airport suits your flight.',
       },
       {
         question: 'Should I fly into Dulles or Reagan National for a Falls Church trip?',
@@ -2603,7 +2603,7 @@ const routes = [
       {
         question: 'Do you serve the Eden Center and State Theatre?',
         answer:
-          'Yes, both are regular pickup and drop-off points for dinner, shopping and shows.',
+          'Yes, both are regular pickup and drop-off points for dinner, shopping and shows. The Eden Center is on Wilson Boulevard and the State Theatre on North Washington Street, and we serve both at a flat rate confirmed before you ride.',
       },
       {
         question: 'Can you handle an early-morning departure from Falls Church?',
@@ -2618,7 +2618,7 @@ const routes = [
       {
         question: 'Is Falls Church close enough to Dulles for an easy standing pickup arrangement?',
         answer:
-          'Yes — at 18 miles and 25 to 35 minutes via Route 7 and the Dulles Toll Road, Falls Church is a straightforward transfer, which is why it is a popular standing-pickup arrangement for frequent business travelers.',
+          'Yes — at 18 miles and 25 to 35 minutes via Route 7 and the Dulles Toll Road, Falls Church is a straightforward transfer, which is why it is a popular standing-pickup arrangement for frequent business travelers. Every arrival is tracked automatically, so a delayed flight simply shifts the pickup with no phone call needed.',
       },
       {
         question: 'Do you serve both the City of Falls Church and the surrounding Fairfax County neighborhoods that share the name?',
@@ -2670,7 +2670,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Woodbridge?',
         answer:
-          'Usually 45 to 55 minutes, about 35 miles via the Fairfax County Parkway or I-66, depending on which side of the Beltway has lighter traffic.',
+          'Usually 45 to 55 minutes, about 35 miles via the Fairfax County Parkway or I-66, depending on which side of the Beltway has lighter traffic. The rate is confirmed before you book, so it holds whichever route the chauffeur takes.',
       },
       {
         question: 'Can you stop at Potomac Mills on the way?',
@@ -2690,7 +2690,7 @@ const routes = [
       {
         question: 'Do you serve Belmont Bay and the Occoquan waterfront?',
         answer:
-          'Yes, both are part of our standard Woodbridge service area.',
+          'Yes, both are part of our standard Woodbridge service area. Many travelers combine a Dulles arrival with a stop at Belmont Bay or the Occoquan waterfront on a single booking.',
       },
     
       {
@@ -2706,7 +2706,7 @@ const routes = [
       {
         question: 'Do you serve Belmont Bay and the Potomac Mills area of Woodbridge?',
         answer:
-          'Yes, including Belmont Bay, Potomac Mills and the rest of Woodbridge’s residential and retail areas, for both airport transfers and local trips.',
+          'Yes, including Belmont Bay, Potomac Mills and the rest of Woodbridge’s residential and retail areas, for both airport transfers and local trips. That covers Lake Ridge, Dale City and Featherstone, and the Stonebridge retail center too.',
       }],
   },
   {
@@ -2751,7 +2751,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Springfield?',
         answer:
-          'Usually 35 to 45 minutes, about 24 miles via the Fairfax County Parkway and the Dulles Toll Road, with routing planned around the Springfield Interchange.',
+          'Usually 35 to 45 minutes, about 24 miles via the Fairfax County Parkway and the Dulles Toll Road, with routing planned around the Springfield Interchange. The fare is a flat rate confirmed in writing before you ride, with no surge pricing.',
       },
       {
         question: 'Do you serve the NGA campus directly?',
@@ -2761,7 +2761,7 @@ const routes = [
       {
         question: 'Can you pick up at Springfield Town Center?',
         answer:
-          'Yes, including the hotels and restaurants on the Town Center campus.',
+          'Yes, including the hotels and restaurants on the Town Center campus. Include the hotel or restaurant name in your booking so dispatch has the exact pickup address.',
       },
       {
         question: 'Is the fare from IAD to Springfield fixed?',
@@ -2771,7 +2771,7 @@ const routes = [
       {
         question: 'Do you serve the Franconia-Springfield Metro and VRE station?',
         answer:
-          'Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer.',
+          'Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer. Share your train\'s arrival time when you book so your chauffeur is ready when you reach the station.',
       },
     
       {
@@ -2787,7 +2787,7 @@ const routes = [
       {
         question: 'Does the Springfield Interchange add time to this transfer?',
         answer:
-          'It can during rush hour — the Springfield Interchange (Mixing Bowl) where I-95, I-395 and I-495 meet is one of the busiest in the region, and chauffeurs build in extra time for it during peak commuting hours.',
+          'It can during rush hour. The Springfield Interchange (Mixing Bowl), where I-95, I-395 and I-495 meet, is one of the busiest in the region, so chauffeurs build in extra time and plan the route around it before the trip rather than discovering the backup mid-drive.',
       },
       {
         question: 'Can I book a standing pickup arrangement for regular Springfield-to-Dulles travel?',
@@ -2839,7 +2839,7 @@ const routes = [
       {
         question: 'How long does the transfer from Dulles to Reagan National take?',
         answer:
-          'Typically 40 to 55 minutes for the roughly 30-mile drive via the Dulles Toll Road and I-66, depending on traffic.',
+          'Typically 40 to 55 minutes for the roughly 30-mile drive via the Dulles Toll Road and I-66, depending on traffic. Give us both flight numbers when you book, and we build a buffer ahead of your departing flight\'s check-in and security window at DCA.',
       },
       {
         question: 'Do you track both of my flights for a connecting itinerary?',
@@ -2849,7 +2849,7 @@ const routes = [
       {
         question: 'What if my flight into Dulles is an international arrival?',
         answer:
-          'International arrivals include 60 minutes of complimentary wait time to clear customs and collect bags before we start the transfer to Reagan National.',
+          'International arrivals include 60 minutes of complimentary wait time to clear customs and collect bags before we start the transfer to Reagan National. The flight is tracked, so the waiting time starts from the actual landing even when the arrival runs late.',
       },
       {
         question: 'Can you do this transfer in the other direction, from DCA to IAD?',
@@ -2921,7 +2921,7 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Quantico?',
         answer:
-          'Usually 55 to 70 minutes, about 45 miles via I-66 and I-95 South, depending on traffic.',
+          'Usually 55 to 70 minutes, about 45 miles via I-66 and I-95 South, depending on traffic. If you are headed onto the base, tell us your gate when you book and we build the lead time security requires into the pickup schedule.',
       },
       {
         question: 'Can you pick up or drop off inside Marine Corps Base Quantico?',
@@ -2952,7 +2952,7 @@ const routes = [
       {
         question: 'Do you serve Marine Corps Base Quantico for family and official travel?',
         answer:
-          'Yes — PCS moves, family visits, graduations and official travel to and from Marine Corps Base Quantico are a regular part of our IAD to Quantico service.',
+          'Yes — PCS moves, family visits, graduations and official travel to and from Marine Corps Base Quantico are a regular part of our IAD to Quantico service. Families booking SUVs or Sprinter vans for a graduation weekend can combine multiple arrivals into one scheduled plan.',
       },
       {
         question: 'How far in advance should I book an IAD to Quantico transfer for a graduation weekend?',
@@ -3003,17 +3003,17 @@ const routes = [
       {
         question: 'How long does it take to get from IAD to Dumfries?',
         answer:
-          'Usually 50 to 60 minutes, about 40 miles via I-66 and the Fairfax County Parkway, one of our longer regional transfers.',
+          'Usually 50 to 60 minutes, about 40 miles via I-66 and the Fairfax County Parkway, one of our longer regional transfers. Like every transfer, it is quoted as a flat rate and confirmed in writing before the ride.',
       },
       {
         question: 'Can you pick up near Marine Corps Base Quantico?',
         answer:
-          'Yes, coordinated with base gate procedures and the lead time they require.',
+          'Yes, coordinated with base gate procedures and the lead time they require. Tell dispatch about any base access requirements when you book so the pickup time allows for them.',
       },
       {
         question: 'Do you serve Leesylvania State Park and the Potomac waterfront?',
         answer:
-          'Yes, both are part of our standard Dumfries service area.',
+          'Yes, both are part of our standard Dumfries service area. We also cover the historic town center and the Potomac Mills retail corridor shared with neighboring Woodbridge, all at a flat rate confirmed before you book.',
       },
       {
         question: 'Is the fare from IAD to Dumfries fixed?',
@@ -3039,7 +3039,7 @@ const routes = [
       {
         question: 'Is Dumfries close to Quantico for military family travel?',
         answer:
-          'Yes — Dumfries sits just north of Marine Corps Base Quantico, and we regularly combine the two in the same booking for families visiting both areas.',
+          'Yes — Dumfries sits just north of Marine Corps Base Quantico, and we regularly combine the two in the same booking for families visiting both areas. For pickups on base, we coordinate the gate visit with the lead time base security requires.',
       },
       {
         question: 'What is the typical drive time from Dulles to Dumfries?',
@@ -3095,7 +3095,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Vienna?',
         answer:
-          'About 13 miles via the Dulles Toll Road and typically 25 to 35 minutes, depending on traffic near the Beltway and Tysons Corner.',
+          'About 13 miles via the Dulles Toll Road and typically 25 to 35 minutes, depending on traffic near the Beltway and Tysons Corner. Our chauffeurs drive this stretch daily and know when a Wolf Trap performance or Tysons rush hour calls for a different route into Vienna.',
       },
       {
         question: 'Can you pick me up after a show at Wolf Trap and take me to Dulles?',
@@ -3162,7 +3162,7 @@ const routes = [
       {
         question: 'How long is the drive from Dulles Airport to Middleburg?',
         answer:
-          'About 32 miles via Route 28 and US-50 West, typically 40 to 50 minutes depending on traffic.',
+          'About 32 miles via Route 28 and US-50 West, typically 40 to 50 minutes depending on traffic. Many guests pair the airport transfer with a few hours of wine-country touring on the same reservation.',
       },
       {
         question: 'Can you combine the airport transfer with a wine-country day trip?',

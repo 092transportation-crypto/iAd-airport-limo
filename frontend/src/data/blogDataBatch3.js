@@ -116,7 +116,7 @@ const batch3 = [
       {
         question: 'Does IAD limo service reach into Maryland?',
         answer:
-          'Yes — we regularly run transfers into Bethesda, Rockville, Silver Spring, Annapolis, Columbia, and Baltimore, priced as a flat rate regardless of the distance.',
+          'Yes — we regularly run transfers into Bethesda, Rockville, Silver Spring, Annapolis, Columbia, and Baltimore, priced as a flat rate regardless of the distance. Airport pickups for those trips are flight-tracked like any other, and the rate is confirmed in writing before the ride.',
       },
       {
         question: 'What happens if my flight into Dulles is delayed?',
@@ -246,7 +246,7 @@ const batch3 = [
       {
         question: 'Should I book my return trip at the same time as my arrival?',
         answer:
-          'Yes — booking both legs together locks flat pricing for the whole itinerary and puts your return pickup on flight tracking automatically, so you have one less thing to manage while traveling.',
+          'Yes — booking both legs together locks flat pricing for the whole itinerary and puts your return pickup on flight tracking automatically, so you have one less thing to manage while traveling. If your return date changes, update the booking; sedans and SUVs can be cancelled free of charge up to 3 hours before pickup.',
       },
     ],
     relatedLinks: [
@@ -480,22 +480,22 @@ const batch3 = [
       {
         question: 'How far in advance should we book wedding transportation in Northern Virginia?',
         answer:
-          'Book as early as your other major vendors, especially for a Saturday during wedding season — Sprinter vans and limousines are the tightest inventory of the year since the same fleet also covers daily airport transfers.',
+          'Book as early as your other major vendors, especially for a Saturday during wedding season — Sprinter vans and limousines are the tightest inventory of the year since the same fleet also covers daily airport transfers. Once the date is set, share the full timeline so the right vehicle and enough time between stops are reserved.',
       },
       {
         question: 'What vehicle fits a full wedding party?',
         answer:
-          'A Mercedes Sprinter van seats up to thirteen and covers most wedding parties in one vehicle without splitting the group.',
+          'A Mercedes Sprinter van seats up to thirteen and covers most wedding parties in one vehicle without splitting the group. A larger party can be split across a Sprinter and a second vehicle, such as a sedan for the couple.',
       },
       {
         question: 'Can the same company handle guest airport arrivals and wedding-day transportation?',
         answer:
-          'Yes, but book them as separate reservations — guest arrivals need flight-tracked pickup timed to their flight, while wedding-day transportation runs on the ceremony and reception schedule.',
+          'Yes, but book them as separate reservations — guest arrivals need flight-tracked pickup timed to their flight, while wedding-day transportation runs on the ceremony and reception schedule. Share each guest\'s flight number for the arrival pickups so every landing is tracked.',
       },
       {
         question: 'Is wedding transportation priced as a flat rate?',
         answer:
-          'Yes — a reserved block of hours at a flat, all-inclusive rate covering the chauffeur and travel between your stops, confirmed in writing before the day.',
+          'Yes — a reserved block of hours at a flat, all-inclusive rate covering the chauffeur and travel between your stops, confirmed in writing before the day. Sprinter vans and special-event bookings can be cancelled free of charge up to 12 hours before pickup.',
       },
     ],
     relatedLinks: [
@@ -600,22 +600,22 @@ const batch3 = [
       {
         question: 'What should a corporate car service account include?',
         answer:
-          'Centralized booking for coordinators, consolidated monthly invoicing by traveler and cost center, fixed negotiated rates, automatic flight tracking, and consistent vehicle standards across every trip.',
+          'Centralized booking for coordinators, consolidated monthly invoicing by traveler and cost center, fixed negotiated rates, automatic flight tracking, and consistent vehicle standards across every trip. Every airport pickup is flight-tracked, and chauffeurs are licensed and background-checked.',
       },
       {
         question: 'Can a corporate account cover both DC and Northern Virginia offices?',
         answer:
-          'Yes — accounts are typically set up around a company’s actual travel patterns across the whole region, including downtown DC, Tysons, Reston, and the wider Northern Virginia corridor.',
+          'Yes — accounts are typically set up around a company’s actual travel patterns across the whole region, including downtown DC, Tysons, Reston, and the wider Northern Virginia corridor. One account means one set of negotiated rates and one monthly invoice, whichever office the traveler is visiting.',
       },
       {
         question: 'How does a corporate rate differ from a one-off quote?',
         answer:
-          'A corporate rate card is negotiated once for your common routes and stays fixed regardless of demand, with consolidated monthly billing rather than a per-trip charge.',
+          'A corporate rate card is negotiated once for your common routes and stays fixed regardless of demand, with consolidated monthly billing rather than a per-trip charge. Trips outside the rate card are still quoted as a flat rate confirmed in writing before the ride.',
       },
       {
         question: 'What vehicle is best for a multi-person client visit?',
         answer:
-          'A full-size SUV suits a small group with luggage; a Sprinter van is the better fit for a larger delegation or a roadshow team that needs one vehicle for a full day of stops.',
+          'A full-size SUV suits a small group with luggage; a Sprinter van is the better fit for a larger delegation or a roadshow team that needs one vehicle for a full day of stops. The Sprinter seats up to 13 passengers; a larger delegation is split across more than one vehicle.',
       },
     ],
     relatedLinks: [
@@ -736,7 +736,7 @@ const batch3 = [
       {
         question: 'What is the best option for a family with a lot of luggage?',
         answer:
-          'A private SUV or Sprinter van, sized to your group and luggage in advance, rather than a shared shuttle with limited per-passenger space.',
+          'A private SUV or Sprinter van, sized to your group and luggage in advance, rather than a shared shuttle with limited per-passenger space. Share the headcount and number of bags when you book; a Chevrolet Suburban seats up to five and a Sprinter seats up to 13.',
       },
     ],
     relatedLinks: [
@@ -863,12 +863,12 @@ const batch3 = [
       {
         question: 'Will I get a written rate before I book?',
         answer:
-          'Yes — a specific flat rate for your trip, confirmed in writing before you commit, covering the vehicle, chauffeur, tolls, and standard wait time.',
+          'Yes — a specific flat rate for your trip, confirmed in writing before you commit, covering the vehicle, chauffeur, tolls, and standard wait time. The card is charged only once the reservation and the rate are confirmed.',
       },
       {
         question: 'How does the chauffeur know when my flight lands?',
         answer:
-          'Your flight number is entered at booking, and dispatch tracks it automatically, adjusting your chauffeur’s arrival to your actual landing time rather than the printed schedule.',
+          'Your flight number is entered at booking, and dispatch tracks it automatically, adjusting your chauffeur’s arrival to your actual landing time rather than the printed schedule. If the flight lands early or late, the pickup moves with it, and the complimentary waiting time starts from the actual landing.',
       },
     ],
     relatedLinks: [
@@ -985,22 +985,22 @@ const batch3 = [
       {
         question: 'What vehicle fits a group of eight with luggage?',
         answer:
-          'A Mercedes Sprinter van comfortably seats up to thirteen with room for luggage, and is generally the right choice for any group above six passengers.',
+          'A Mercedes Sprinter van comfortably seats up to thirteen with room for luggage, and is generally the right choice for any group above six passengers. Groups above 13 passengers use more than one vehicle, coordinated to arrive together.',
       },
       {
         question: 'Can you track multiple flights for one group?',
         answer:
-          'Yes — share every traveler’s flight number at booking, and dispatch can track each arrival and stage pickups accordingly, whether that means one vehicle sequencing multiple pickups or several vehicles arriving together.',
+          'Yes — share every traveler’s flight number at booking, and dispatch can track each arrival and stage pickups accordingly, whether that means one vehicle sequencing multiple pickups or several vehicles arriving together. That way no one waits at the curb for a traveler whose flight is running late.',
       },
       {
         question: 'Is group transportation priced per person?',
         answer:
-          'No — group vehicles are priced as a flat rate for the vehicle and route, covering the whole group in one confirmed number rather than a per-seat charge.',
+          'No — group vehicles are priced as a flat rate for the vehicle and route, covering the whole group in one confirmed number rather than a per-seat charge. The rate is confirmed in writing before the trip, so the group can split it however it likes.',
       },
       {
         question: 'Can the same vehicle stay with our group for the whole day?',
         answer:
-          'Yes — hourly, as-directed service keeps one vehicle and chauffeur with your group for a reserved block of time, useful for airport pickup followed by a wine country day, event, or multi-stop itinerary.',
+          'Yes — hourly, as-directed service keeps one vehicle and chauffeur with your group for a reserved block of time, useful for airport pickup followed by a wine country day, event, or multi-stop itinerary. Share the day\'s plan in advance so the block of hours is sized to the itinerary.',
       },
     ],
     relatedLinks: [
@@ -1116,7 +1116,7 @@ const batch3 = [
       {
         question: 'How early should I leave for a flight out of Dulles?',
         answer:
-          'Plan two hours before domestic and three before international departures, then add realistic drive time for your hour — 35 to 45 minutes off-peak, well over an hour during weekday rush periods.',
+          'Plan two hours before domestic and three before international departures, then add realistic drive time for your hour — 35 to 45 minutes off-peak, well over an hour during weekday rush periods. Whatever the hour, the rate stays the flat price confirmed before the ride, regardless of traffic.',
       },
       {
         question: 'Do I need to text my chauffeur when I land at IAD?',
@@ -1131,7 +1131,7 @@ const batch3 = [
       {
         question: 'What is the biggest mistake frequent Dulles flyers make with ground transportation?',
         answer:
-          'Not attaching a flight number to the booking, which forces a fixed pickup time instead of one that adjusts automatically to delays or early arrivals.',
+          'Not attaching a flight number to the booking, which forces a fixed pickup time instead of one that adjusts automatically to delays or early arrivals. With the flight number attached, complimentary waiting time — 45 minutes domestic, 60 international — starts from your actual landing.',
       },
     ],
     relatedLinks: [
@@ -1247,12 +1247,12 @@ const batch3 = [
       {
         question: 'Do I need a reservation for a black car service at IAD?',
         answer:
-          'Yes — unlike a taxi, which is available at a curbside stand without booking, a black car is committed and flight-tracked in advance of your arrival.',
+          'Yes — unlike a taxi, which is available at a curbside stand without booking, a black car is committed and flight-tracked in advance of your arrival. Booking ahead also means a flat rate confirmed in writing rather than a metered fare.',
       },
       {
         question: 'What vehicle will a black car service send?',
         answer:
-          'The specific class you book — sedan, SUV, or Sprinter — from a maintained, late-model fleet, driven by a background-checked professional chauffeur.',
+          'The specific class you book — sedan, SUV, or Sprinter — from a maintained, late-model fleet, driven by a background-checked professional chauffeur. Our sedans are the Mercedes-Benz E-Class and BMW 7 Series, the SUVs are the Lincoln Navigator and Chevrolet Suburban, and the Sprinter seats up to 13 passengers.',
       },
       {
         question: 'Is a taxi receipt as useful for expensing as a black car receipt?',

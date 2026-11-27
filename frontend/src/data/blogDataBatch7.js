@@ -110,7 +110,7 @@ const batch7 = [
       {
         question: 'What happens if our reception runs longer than planned?',
         answer:
-          'Overtime is billed at the same confirmed hourly rate agreed to at booking — not a different, higher rate charged after the fact.',
+          'Overtime is billed at the same confirmed hourly rate agreed to at booking — not a different, higher rate charged after the fact. Your chauffeur can usually stay on if the dancing runs late, so the end of the night is not decided by the clock on the original booking.',
       },
       {
         question: 'How many cars do we actually need for the wedding party?',
@@ -120,12 +120,12 @@ const batch7 = [
       {
         question: 'Do you drive to rural or hard-to-find venues like vineyards and estate properties?',
         answer:
-          'Yes — venues like Ladew Topiary Gardens, Loudoun County vineyards, and Frederick County estate properties are regular bookings, and every wedding reservation includes a route review beforehand so the chauffeur already knows the approach before your wedding day.',
+          'Yes — venues like Ladew Topiary Gardens, Loudoun County vineyards, and Frederick County estate properties are regular bookings, and every wedding reservation includes a route review beforehand so the chauffeur already knows the approach before your wedding day. That review covers the venue’s driveway, turnaround space and the best drop-off point, so the wedding party arrives without any hunting for the entrance.',
       },
       {
         question: 'What is the cancellation policy for a wedding booking?',
         answer:
-          'Free cancellation up to 12 hours before pickup for wedding and special-event vehicles (Sprinter vans, limousines and similar) — longer than the 3-hour window on a standard sedan or SUV transfer.',
+          'Free cancellation up to 12 hours before pickup for wedding and special-event vehicles (Sprinter vans, limousines and similar) — longer than the 3-hour window on a standard sedan or SUV transfer. Plans for a wedding day usually involve more vehicles and more coordination, which is why the longer notice window applies. Your cancellation terms are stated in your booking confirmation.',
       },
       {
         question: 'Can you provide guest shuttle service between our hotel block and the venue?',
@@ -135,17 +135,17 @@ const batch7 = [
       {
         question: 'Are red carpet, "Just Married" signage and bottled water included?',
         answer:
-          'These are standard touches on wedding bookings; confirm what is included in your specific quote when you book so there are no surprises on the day.',
+          'These are standard touches on wedding bookings; confirm what is included in your specific quote when you book so there are no surprises on the day. If there is something specific you would like for the day, mention it at booking so it can be noted on your reservation.',
       },
       {
         question: 'What should we ask before booking any wedding transportation company?',
         answer:
-          'Confirm they hold commercial (not personal) insurance, ask whether your chauffeur is confirmed by name in advance, ask how overtime is billed, and get the vehicle, hours and total rate in writing before any deposit changes hands.',
+          'Confirm they hold commercial (not personal) insurance, ask whether your chauffeur is confirmed by name in advance, ask how overtime is billed, and get the vehicle, hours and total rate in writing before any deposit changes hands. Our own chauffeurs are licensed and background-checked, every vehicle is commercially insured, and your rate is flat and confirmed in writing before the day.',
       },
       {
         question: 'Do you handle rehearsal dinner and next-day brunch transportation too?',
         answer:
-          'Yes — rehearsal dinners, guest shuttles, and next-morning transportation for out-of-town family are commonly booked as part of the same wedding weekend, and booking them together usually secures better vehicle availability.',
+          'Yes — rehearsal dinners, guest shuttles, and next-morning transportation for out-of-town family are commonly booked as part of the same wedding weekend, and booking them together usually secures better vehicle availability. Planning the whole weekend together also lets dispatch match each event to the right vehicle, from a sedan for the couple to a Sprinter carrying up to 13 guests.',
       },
     ],
     relatedLinks: [

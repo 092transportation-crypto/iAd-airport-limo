@@ -69,17 +69,17 @@ const batch4 = [
       {
         question: 'How do you handle the post-concert exit crowd?',
         answer:
-          'Your chauffeur tracks the show’s actual end time, builds in a buffer for encores, and stages the pickup based on real-time flow rather than the printed schedule alone.',
+          'Your chauffeur tracks the show’s actual end time, builds in a buffer for encores, and stages the pickup based on real-time flow rather than the printed schedule alone. Agree on a pickup point before the show, so your group walks out to a known spot instead of joining the line of cars leaving the lot.',
       },
       {
         question: 'What vehicle works best for a group concert outing?',
         answer:
-          'A sedan suits a couple, an SUV fits a small group, and a Mercedes Sprinter van comfortably keeps a party of up to thirteen together for the whole evening.',
+          'A sedan suits a couple, an SUV fits a small group, and a Mercedes Sprinter van comfortably keeps a party of up to thirteen together for the whole evening. Groups larger than that can book more than one vehicle on the same reservation, and the flat rate is confirmed before the night.',
       },
       {
         question: 'Can we book a dinner stop before the show?',
         answer:
-          'Yes — hourly as-directed service reserves the vehicle and chauffeur for your full evening, covering a dinner stop and the concert in one flat-rate booking.',
+          'Yes — hourly as-directed service reserves the vehicle and chauffeur for your full evening, covering a dinner stop and the concert in one flat-rate booking. The chauffeur waits nearby during dinner and the concert, so nobody has to find parking twice or drive home after the show.',
       },
     ],
     relatedLinks: [
@@ -148,22 +148,22 @@ const batch4 = [
       {
         question: 'How early should we book car service for a Commanders game?',
         answer:
-          'Book as soon as your plans are set — game days are high-demand dates for larger vehicles specifically, so an SUV or Sprinter for a tailgate group benefits from earlier booking.',
+          'Book as soon as your plans are set — game days are high-demand dates for larger vehicles specifically, so an SUV or Sprinter for a tailgate group benefits from earlier booking. Larger groups can book more than one vehicle, and the flat rate is confirmed in writing well before game day.',
       },
       {
         question: 'Can a chauffeur handle tailgate gear like coolers and chairs?',
         answer:
-          'Yes — an SUV or Sprinter van comfortably carries tailgate gear for a group, and the vehicle drops you at the gate rather than requiring a walk from a distant lot.',
+          'Yes — an SUV or Sprinter van comfortably carries tailgate gear for a group, and the vehicle drops you at the gate rather than requiring a walk from a distant lot. That leaves your group free to carry the gear straight to the tailgate, and it all goes back in the vehicle for the ride home.',
       },
       {
         question: 'Do you pick up flying fans directly from Dulles for game weekends?',
         answer:
-          'Yes — flight-tracked airport pickup and stadium transportation can be booked together as one coordinated weekend itinerary.',
+          'Yes — flight-tracked airport pickup and stadium transportation can be booked together as one coordinated weekend itinerary. Each flight is tracked, with complimentary waiting time on arrival, so a late landing does not throw off the weekend’s game plan.',
       },
       {
         question: 'What happens if the post-game exit traffic is bad?',
         answer:
-          'Your pickup is confirmed at booking regardless of exit conditions, and a chauffeur who knows the corridor stages away from the worst congestion to get your group moving sooner.',
+          'Your pickup is confirmed at booking regardless of exit conditions, and a chauffeur who knows the corridor stages away from the worst congestion to get your group moving sooner. Agree on a meeting point before kickoff, so your group knows exactly where to walk once the game ends.',
       },
     ],
     relatedLinks: [
@@ -232,22 +232,22 @@ const batch4 = [
       {
         question: 'Can a chauffeur handle multiple stops in one holiday evening?',
         answer:
-          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group for the reserved block of time, moving between stops on a schedule you set.',
+          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group for the reserved block of time, moving between stops on a schedule you set. On a holiday lights evening, that lets the family move between displays, a dinner stop and a tree lighting without anyone parking or driving in the dark.',
       },
       {
         question: 'Is this a good option for a family flying in for the holidays?',
         answer:
-          'Yes — flight-tracked airport pickup and an evening light tour can be booked together, giving visiting relatives a fully arranged arrival and outing.',
+          'Yes — flight-tracked airport pickup and an evening light tour can be booked together, giving visiting relatives a fully arranged arrival and outing. The chauffeur meets the family on arrival, with flights tracked and complimentary waiting time built in, so a holiday delay does not cancel the evening.',
       },
       {
         question: 'What vehicle fits a multi-generational family group?',
         answer:
-          'A full-size SUV fits most families comfortably, and a Sprinter van keeps a larger multi-family group together for the whole evening.',
+          'A full-size SUV fits most families comfortably, and a Sprinter van keeps a larger multi-family group together for the whole evening. Riding together on a cold December night also keeps grandparents and young children warm between displays instead of walking back to a distant parking lot.',
       },
       {
         question: 'Does holiday season pricing change based on demand?',
         answer:
-          'No — our rates are flat and quoted before you book, regardless of how busy a particular weekend in December happens to be.',
+          'No — our rates are flat and quoted before you book, regardless of how busy a particular weekend in December happens to be. There is no surge pricing at any time of year, so the rate on your written confirmation is the rate you pay on even the busiest December weekend.',
       },
     ],
     relatedLinks: [
@@ -315,22 +315,22 @@ const batch4 = [
       {
         question: 'Can we book stops at multiple venues for a birthday night out?',
         answer:
-          'Yes — hourly as-directed service keeps the vehicle with your group for a reserved block of time, moving between as many stops as your evening includes.',
+          'Yes — hourly as-directed service keeps the vehicle with your group for a reserved block of time, moving between as many stops as your evening includes. Tell dispatch the rough order of the night, from dinner to a lounge or a late dessert stop, and the chauffeur waits nearby between each one so nobody in the group has to drive.',
       },
       {
         question: 'What vehicle works best for a milestone birthday group?',
         answer:
-          'A Sprinter van comfortably keeps a larger celebration group together for the night; a sedan or SUV suits a smaller party.',
+          'A Sprinter van comfortably keeps a larger celebration group together for the night; a sedan or SUV suits a smaller party. The Sprinter carries up to 13 passengers, so a bigger birthday crowd can ride together. Larger groups can be split across more than one vehicle on the same booking.',
       },
       {
         question: 'Can you help coordinate a surprise party pickup?',
         answer:
-          'Yes — share the timing and any cover story with dispatch in advance, and the pickup is timed to land the guest of honor exactly when and where the surprise needs them.',
+          'Yes — share the timing and any cover story with dispatch in advance, and the pickup is timed to land the guest of honor exactly when and where the surprise needs them. Dispatch can also keep the chauffeur’s arrival quiet and on schedule, so the guest of honor sees nothing unusual until the moment of the surprise.',
       },
       {
         question: 'Can out-of-town friends be picked up from Dulles for the celebration?',
         answer:
-          'Yes — flight-tracked airport pickup can be booked as part of the same weekend plan, taking visiting guests straight from baggage claim to the celebration.',
+          'Yes — flight-tracked airport pickup can be booked as part of the same weekend plan, taking visiting guests straight from baggage claim to the celebration. Each flight is tracked, with 45 minutes of complimentary waiting time on domestic arrivals and 60 on international, so a delayed friend still makes the party.',
       },
     ],
     relatedLinks: [
@@ -397,22 +397,22 @@ const batch4 = [
       {
         question: 'How far apart are Tysons and Old Town Alexandria?',
         answer:
-          'Roughly 20 miles by road, close enough to visit both in a single chauffeured day without the drive itself feeling like a major undertaking.',
+          'Roughly 20 miles by road, close enough to visit both in a single chauffeured day without the drive itself feeling like a major undertaking. Hourly service keeps the same vehicle and chauffeur with you across both stops, so moving from Tysons to Old Town takes no planning on your part.',
       },
       {
         question: 'Is hourly service the right way to book a touring day?',
         answer:
-          'Yes — hourly, as-directed service reserves the vehicle and chauffeur for a block of time, letting your itinerary flex rather than locking you into fixed pickup times.',
+          'Yes — hourly, as-directed service reserves the vehicle and chauffeur for a block of time, letting your itinerary flex rather than locking you into fixed pickup times. If lunch runs long or you decide to add a stop, the chauffeur simply adjusts, and the rate for the reserved block is confirmed before the day starts.',
       },
       {
         question: 'Can this touring day be added to an airport arrival or departure?',
         answer:
-          'Yes — a Dulles airport transfer and a Tysons or Old Town touring day can be booked as one continuous reservation.',
+          'Yes — a Dulles airport transfer and a Tysons or Old Town touring day can be booked as one continuous reservation. Your flight is tracked, with complimentary waiting time on arrival, so the touring day starts as soon as you land rather than after a separate trip to the hotel.',
       },
       {
         question: 'Is parking difficult in Old Town Alexandria?',
         answer:
-          'Street parking in the historic district is often limited, especially on weekends, which is part of why a drop-off and pickup arrangement works well there.',
+          'Street parking in the historic district is often limited, especially on weekends, which is part of why a drop-off and pickup arrangement works well there. Your chauffeur drops you near King Street and returns when you are ready, so the day is spent exploring rather than circling for a space.',
       },
     ],
     relatedLinks: [
@@ -487,22 +487,22 @@ const batch4 = [
       {
         question: 'Are prom limo chauffeurs background-checked?',
         answer:
-          'Yes, at a legitimate licensed operator — confirm this directly before booking, along with commercial insurance coverage for the vehicle.',
+          'Yes, at a legitimate licensed operator — confirm this directly before booking, along with commercial insurance coverage for the vehicle. Our own chauffeurs are licensed and background-checked, and every vehicle is commercially insured. Any prom provider should be able to confirm the same without hesitation.',
       },
       {
         question: 'What if our prom group grows after we book?',
         answer:
-          'Confirm your final headcount with dispatch as soon as it is settled, since vehicle capacity is set at booking — a larger combined group may need a Sprinter van rather than a smaller vehicle.',
+          'Confirm your final headcount with dispatch as soon as it is settled, since vehicle capacity is set at booking — a larger combined group may need a Sprinter van rather than a smaller vehicle. The Sprinter carries up to 13 passengers, and a larger group can book more than one vehicle on the same reservation.',
       },
       {
         question: 'How far in advance should we book prom transportation?',
         answer:
-          'As early as possible — prom dates cluster within a few spring weekends, making Sprinter vans and limousines the tightest inventory of the season.',
+          'As early as possible — prom dates cluster within a few spring weekends, making Sprinter vans and limousines the tightest inventory of the season. Booking early also gives parents time to confirm pickup addresses, timing and the drop-off plan with dispatch before the night.',
       },
       {
         question: 'Can parents confirm the pickup and drop-off plan directly with dispatch?',
         answer:
-          'Yes — we encourage the booking parent to confirm addresses, timing, and the chauffeur’s contact details directly, and to share that plan with all families involved.',
+          'Yes — we encourage the booking parent to confirm addresses, timing, and the chauffeur’s contact details directly, and to share that plan with all families involved. Dispatch is available 24/7 at (877) 609-1919, so parents can check on the plan before or during the evening.',
       },
     ],
     relatedLinks: [
@@ -569,22 +569,22 @@ const batch4 = [
       {
         question: 'Can one vehicle handle a large bachelor or bachelorette group?',
         answer:
-          'Yes — a Mercedes Sprinter van seats up to thirteen, which covers most groups without splitting into multiple vehicles or rideshares.',
+          'Yes — a Mercedes Sprinter van seats up to thirteen, which covers most groups without splitting into multiple vehicles or rideshares. That keeps the whole party arriving at each stop together, and nobody in the group has to stay sober to drive.',
       },
       {
         question: 'Can we book multiple stops in one night?',
         answer:
-          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group for the reserved hours, moving between venues on whatever order the night takes.',
+          'Yes — hourly, as-directed service keeps the vehicle and chauffeur with your group for the reserved hours, moving between venues on whatever order the night takes. That means the same car and chauffeur at every stop of the bachelor or bachelorette night, with no one in the group needing to drive or wait for a rideshare outside a bar.',
       },
       {
         question: 'Can you coordinate pickups for guests arriving on different flights?',
         answer:
-          'Yes — flight-tracked pickups can be arranged for each guest as they arrive through Dulles or Reagan, all delivered to the same accommodation.',
+          'Yes — flight-tracked pickups can be arranged for each guest as they arrive through Dulles or Reagan, all delivered to the same accommodation. Each flight is tracked, with complimentary waiting time built in, so a delayed arrival does not hold up the rest of the group’s weekend.',
       },
       {
         question: 'Can a wine tour day and a night out both be booked with the same provider?',
         answer:
-          'Yes — a full weekend, including a daytime wine country trip and evening bar transportation, can be booked as one coordinated plan.',
+          'Yes — a full weekend, including a daytime wine country trip and evening bar transportation, can be booked as one coordinated plan. Planning both together means one contact and one confirmation for the weekend, and the vehicle can be matched to the group for both the tasting rooms and the evening out.',
       },
     ],
     relatedLinks: [
@@ -662,7 +662,7 @@ const batch4 = [
       {
         question: 'Does a full wedding party need more than one vehicle?',
         answer:
-          'Usually not — a Mercedes Sprinter van seats up to thirteen, which covers most wedding parties in a single vehicle.',
+          'Usually not — a Mercedes Sprinter van seats up to thirteen, which covers most wedding parties in a single vehicle. Keeping everyone in one vehicle also means the whole party arrives for photos and the ceremony at the same moment. The couple can still ride separately in a sedan if you want a quieter arrival of your own.',
       },
       {
         question: 'Should the couple ride separately from the wedding party?',
@@ -672,12 +672,12 @@ const batch4 = [
       {
         question: 'How many shuttle vans do we need for guests?',
         answer:
-          'It depends on guest count and venue distance from the hotel block — a single van often covers 100 to 150 guests running continuous loops, while larger weddings may need two vans during peak windows.',
+          'It depends on guest count and venue distance from the hotel block — a single van often covers 100 to 150 guests running continuous loops, while larger weddings may need two vans during peak windows. Share your guest count, hotel block and venue addresses at booking, and dispatch works out the loop timing and how many vans the peak windows need.',
       },
       {
         question: 'Are guest airport pickups included in the wedding-day vehicle count?',
         answer:
-          'No — those are separate, flight-tracked bookings for individual arrivals, distinct from the vehicles reserved for the wedding day itself.',
+          'No — those are separate, flight-tracked bookings for individual arrivals, distinct from the vehicles reserved for the wedding day itself. Booking them separately lets each guest’s pickup follow their own flight, with complimentary waiting time on arrival, without tying up a wedding-day vehicle.',
       },
     ],
     relatedLinks: [
@@ -747,22 +747,22 @@ const batch4 = [
       {
         question: 'Should I share my full wedding day timeline with the transportation company?',
         answer:
-          'Yes — the complete sequence, not just addresses and pickup times, lets your provider build realistic buffers and adjust intelligently if the day runs behind.',
+          'Yes — the complete sequence, not just addresses and pickup times, lets your provider build realistic buffers and adjust intelligently if the day runs behind. Include vendor arrival times and the photographer’s plan as well, since they often decide when the wedding party actually needs to leave each location.',
       },
       {
         question: 'Who should be the point of contact for day-of transportation changes?',
         answer:
-          'Usually the wedding planner or a designated family member, so updates reach the chauffeur through one clear channel rather than several conflicting ones.',
+          'Usually the wedding planner or a designated family member, so updates reach the chauffeur through one clear channel rather than several conflicting ones. Share that person’s phone number with dispatch ahead of the day, so the chauffeur knows exactly who can approve a change to the schedule.',
       },
       {
         question: 'What if the ceremony or photos run late?',
         answer:
-          'A chauffeur who already has the full timeline can adjust without a lengthy explanation, since they understand the sequence and dependencies going into the day.',
+          'A chauffeur who already has the full timeline can adjust without a lengthy explanation, since they understand the sequence and dependencies going into the day. Because the chauffeur knows which stop comes next, a late ceremony shifts the schedule calmly rather than causing a rushed departure for the reception.',
       },
       {
         question: 'When should I send the final confirmed timeline?',
         answer:
-          'In the week before the wedding, once your other vendors have locked their own schedules, including any last-minute headcount changes for shuttle vehicles.',
+          'In the week before the wedding, once your other vendors have locked their own schedules, including any last-minute headcount changes for shuttle vehicles. Confirming everything then gives dispatch time to adjust shuttle counts and pickup times before the weekend instead of on the morning of the wedding.',
       },
     ],
     relatedLinks: [
@@ -829,22 +829,22 @@ const batch4 = [
       {
         question: 'Can the chauffeur time the drive to arrive at a specific moment?',
         answer:
-          'Yes — share your plan and any timing that needs to be precise when booking, and the route and arrival are built around it.',
+          'Yes — share your plan and any timing that needs to be precise when booking, and the route and arrival are built around it. The chauffeur can take a slower route or wait a few minutes nearby if the moment calls for it, so the arrival lands exactly as planned.',
       },
       {
         question: 'Is discretion available for a proposal evening?',
         answer:
-          'Yes — let dispatch know the evening involves a surprise, and your chauffeur handles the plan with the appropriate quiet professionalism.',
+          'Yes — let dispatch know the evening involves a surprise, and your chauffeur handles the plan with the appropriate quiet professionalism. Share only what the chauffeur needs to know, and they will keep the plan quiet and the ride calm until the moment arrives.',
       },
       {
         question: 'What is a good setting for a proposal drive in Northern Virginia?',
         answer:
-          'Loudoun wine country and the region’s scenic overlooks are popular choices for a quieter, more private backdrop than a busy restaurant.',
+          'Loudoun wine country and the region’s scenic overlooks are popular choices for a quieter, more private backdrop than a busy restaurant. A chauffeur waiting nearby means you can linger at the spot without watching the clock or worrying about the drive back. Share your chosen location at booking so the route and timing are planned ahead.',
       },
       {
         question: 'Can an anniversary evening include multiple stops?',
         answer:
-          'Yes — hourly, as-directed service keeps the vehicle with you for however the evening unfolds, from dinner through the drive home.',
+          'Yes — hourly, as-directed service keeps the vehicle with you for however the evening unfolds, from dinner through the drive home. That leaves room for a dinner, a scenic stop and a quiet drive home, without having to plan a separate ride for each part of the night.',
       },
     ],
     relatedLinks: [
@@ -918,22 +918,22 @@ const batch4 = [
       {
         question: 'How is as-directed service different from a regular point-to-point transfer?',
         answer:
-          'As-directed service reserves the chauffeur and vehicle for a block of time, holding between stops and moving on your schedule, rather than a single fixed trip between two addresses.',
+          'As-directed service reserves the chauffeur and vehicle for a block of time, holding between stops and moving on your schedule, rather than a single fixed trip between two addresses. That suits a roadshow with several meetings in one day, since the vehicle and your materials stay with you between every stop.',
       },
       {
         question: 'What happens if a meeting runs longer than expected?',
         answer:
-          'The chauffeur simply waits — as-directed billing is structured around a reserved block of hours, so a meeting running long does not require a phone call or a rebooking.',
+          'The chauffeur simply waits — as-directed billing is structured around a reserved block of hours, so a meeting running long does not require a phone call or a rebooking. Your rate for the reserved block is confirmed before the day starts, so a long meeting changes nothing about what you pay for that block.',
       },
       {
         question: 'Can the same chauffeur cover a multi-day roadshow?',
         answer:
-          'Yes, and it is generally the better approach — a consistent chauffeur across several days builds familiarity with your team’s pace and needs less direction as the roadshow continues.',
+          'Yes, and it is generally the better approach — a consistent chauffeur across several days builds familiarity with your team’s pace and needs less direction as the roadshow continues. The chauffeur learns the team’s preferred stops, timing and routines on the first day, which keeps the later days running more smoothly.',
       },
       {
         question: 'What vehicle suits a roadshow team of five?',
         answer:
-          'A full-size SUV comfortably fits a team of that size with room for presentation materials, while a Sprinter van suits a larger delegation traveling together.',
+          'A full-size SUV comfortably fits a team of that size with room for presentation materials, while a Sprinter van suits a larger delegation traveling together. Our Chevrolet Suburban seats up to five, and the Sprinter carries up to 13 for a bigger team with more equipment.',
       },
     ],
     relatedLinks: [
@@ -1001,22 +1001,22 @@ const batch4 = [
       {
         question: 'How far ahead should we book holiday party shuttle service?',
         answer:
-          'As early as your venue is confirmed — December is the busiest month of the year for group and Sprinter bookings, so earlier reservations have the best vehicle availability.',
+          'As early as your venue is confirmed — December is the busiest month of the year for group and Sprinter bookings, so earlier reservations have the best vehicle availability. Share your venue, expected headcount and the party’s start and end times when you book, so the shuttle plan is set before December’s calendar fills.',
       },
       {
         question: 'Can shuttle service run past the event’s official end time?',
         answer:
-          'Yes, and it is worth confirming this in advance — parties rarely end exactly on schedule, and coverage for stragglers matters as much as coverage for the main departure window.',
+          'Yes, and it is worth confirming this in advance — parties rarely end exactly on schedule, and coverage for stragglers matters as much as coverage for the main departure window. Planning a final late loop, or an hourly vehicle held after the official end, means the last guests leaving the party are not left looking for a ride home.',
       },
       {
         question: 'Can we arrange separate transportation for executives?',
         answer:
-          'Yes — a sedan can be booked separately from the general employee shuttle for executives with a different schedule, such as remarks or a presentation.',
+          'Yes — a sedan can be booked separately from the general employee shuttle for executives with a different schedule, such as remarks or a presentation. The executive car runs on its own timeline, so a speaker can arrive early or leave after remarks without changing the employee shuttle schedule.',
       },
       {
         question: 'Is a corporate account worth setting up for an annual holiday party?',
         answer:
-          'If the party recurs each year, a standing corporate account simplifies booking and moves billing to consolidated monthly invoicing rather than a one-off charge.',
+          'If the party recurs each year, a standing corporate account simplifies booking and moves billing to consolidated monthly invoicing rather than a one-off charge. Once the account is set up, next year’s party starts from what dispatch already knows about your venue, group size and timing.',
       },
     ],
     relatedLinks: [
@@ -1094,17 +1094,17 @@ const batch4 = [
       {
         question: 'What is the passenger limit for an SUV?',
         answer:
-          'Up to six passengers with a full luggage load in a Lincoln Navigator, or five in a Chevrolet Suburban.',
+          'Up to six passengers with a full luggage load in a Lincoln Navigator, or five in a Chevrolet Suburban. If your group has more luggage than usual, or more passengers than an SUV can carry, the Sprinter seats up to 13. Tell dispatch your headcount and bags when you book so the vehicle is matched correctly.',
       },
       {
         question: 'When should I book a Sprinter van instead of an SUV?',
         answer:
-          'Whenever your group exceeds six people, or when keeping a larger group together in one vehicle matters more than the marginal cost of upgrading from an SUV.',
+          'Whenever your group exceeds six people, or when keeping a larger group together in one vehicle matters more than the marginal cost of upgrading from an SUV. The Sprinter carries up to 13 passengers, and groups larger than that can book more than one vehicle on the same reservation.',
       },
       {
         question: 'Should I tell dispatch about child seats or oversized items?',
         answer:
-          'Yes — mention child seats, golf clubs, large strollers, or wheelchairs at booking, since these affect the right vehicle size as much as passenger count does.',
+          'Yes — mention child seats, golf clubs, large strollers, or wheelchairs at booking, since these affect the right vehicle size as much as passenger count does. Child seats are available on request, and knowing about bulky items ahead of time means the vehicle that arrives actually fits everything you are bringing.',
       },
     ],
     relatedLinks: [
@@ -1176,22 +1176,22 @@ const batch4 = [
       {
         question: 'How do you handle attendees arriving on many different flights?',
         answer:
-          'Individual flight-tracked pickups under a negotiated group rate work better than a fixed shuttle schedule, since attendees land throughout the day rather than in one predictable window.',
+          'Individual flight-tracked pickups under a negotiated group rate work better than a fixed shuttle schedule, since attendees land throughout the day rather than in one predictable window. Each pickup follows its own flight, with complimentary waiting time on arrival, so an attendee on a delayed flight is not left behind by a shuttle that kept to the clock.',
       },
       {
         question: 'Can shuttle frequency match our conference agenda?',
         answer:
-          'Yes — loop frequency between the hotel and venue can be tightened around session start and end times and reduced during longer midday blocks.',
+          'Yes — loop frequency between the hotel and venue can be tightened around session start and end times and reduced during longer midday blocks. Share the final agenda with dispatch before the conference, so loop timing follows the program rather than a generic schedule.',
       },
       {
         question: 'Should VIP speakers use the general attendee shuttle?',
         answer:
-          'Usually not — individual sedan service timed to a speaker’s arrival and speaking slot works better than a shared loop schedule for VIP guests.',
+          'Usually not — individual sedan service timed to a speaker’s arrival and speaking slot works better than a shared loop schedule for VIP guests. A dedicated sedan also means the speaker can be met inside the terminal on request and taken straight to the venue in time for their slot.',
       },
       {
         question: 'Is multi-day conference transportation billed per trip?',
         answer:
-          'Typically it is billed as a consolidated event package covering the full transportation plan, which is simpler for association finance teams to reconcile.',
+          'Typically it is billed as a consolidated event package covering the full transportation plan, which is simpler for association finance teams to reconcile. Rates are confirmed in writing before the event, which makes the package easier to budget and match to the conference’s final accounts.',
       },
     ],
     relatedLinks: [
@@ -1263,22 +1263,22 @@ const batch4 = [
       {
         question: 'Can a chauffeur time arrival precisely for a badge-in or security check-in?',
         answer:
-          'Yes — a chauffeur familiar with a specific campus’s check-in process can time the arrival to avoid both an early wait outside and a late arrival that complicates screening.',
+          'Yes — a chauffeur familiar with a specific campus’s check-in process can time the arrival to avoid both an early wait outside and a late arrival that complicates screening. Share the campus’s visitor procedure and your appointment time when booking, so the chauffeur plans the arrival around them.',
       },
       {
         question: 'Is meet and greet worth it for visiting government or defense-sector clients?',
         answer:
-          'Generally yes — for visitors on a tight, non-negotiable schedule, meet and greet removes any risk of a first-time regional visitor struggling to find the pickup zone.',
+          'Generally yes — for visitors on a tight, non-negotiable schedule, meet and greet removes any risk of a first-time regional visitor struggling to find the pickup zone. The chauffeur meets the visitor inside the terminal, and flight tracking means the pickup adjusts if their flight lands early or late.',
       },
       {
         question: 'Can staff be moved between multiple Tysons-area campuses in one day?',
         answer:
-          'Yes — as-directed hourly service keeps a chauffeur available for a block of time, covering multiple campus-to-campus trips without separate bookings for each leg.',
+          'Yes — as-directed hourly service keeps a chauffeur available for a block of time, covering multiple campus-to-campus trips without separate bookings for each leg. The chauffeur stays close between meetings, so a schedule change between campuses is a quick call rather than a new booking.',
       },
       {
         question: 'Do chauffeurs maintain discretion for sensitive corporate visits?',
         answer:
-          'Yes — professional discretion is standard, with no unnecessary conversation about a passenger’s business and a level of formality appropriate to executive and official visitors.',
+          'Yes — professional discretion is standard, with no unnecessary conversation about a passenger’s business and a level of formality appropriate to executive and official visitors. Every chauffeur is licensed and background-checked, which matters for visitors who are used to strict standards for anyone handling their travel.',
       },
     ],
     relatedLinks: [
@@ -1351,17 +1351,17 @@ const batch4 = [
       {
         question: 'Why do Dulles flights not arrive directly at the main terminal?',
         answer:
-          'Most flights use the mid-field concourses, separate buildings out on the airfield connected to the main terminal by the AeroTrain or mobile lounges rather than a direct walkway.',
+          'Most flights use the mid-field concourses, separate buildings out on the airfield connected to the main terminal by the AeroTrain or mobile lounges rather than a direct walkway. That extra step between the gate and baggage claim is part of why every Dulles pickup is tracked against your actual arrival rather than the printed time.',
       },
       {
         question: 'How long does the transfer from the concourse to baggage claim take?',
         answer:
-          'Typically ten to twenty minutes under normal conditions via the AeroTrain or mobile lounges, longer during a busy arrival bank.',
+          'Typically ten to twenty minutes under normal conditions via the AeroTrain or mobile lounges, longer during a busy arrival bank. Your chauffeur tracks the flight and allows for that transfer time, so you are not rushed between the train and the curb.',
       },
       {
         question: 'Where does a chauffeur wait for an international arrival?',
         answer:
-          'Near the customs exit doors in the International Arrivals Building, with an extended complimentary wait window built in for the customs and immigration process.',
+          'Near the customs exit doors in the International Arrivals Building, with an extended complimentary wait window built in for the customs and immigration process. International arrivals receive 60 minutes of complimentary waiting time, and the chauffeur can meet you inside with a name sign on request.',
       },
       {
         question: 'Do pickup zone locations at Dulles change over time?',
@@ -1433,22 +1433,22 @@ const batch4 = [
       {
         question: 'Can one Sprinter van pick up multiple family groups arriving separately?',
         answer:
-          'Yes, especially when flights land within a reasonable window of each other — the van can make a couple of trips or wait for a second group, consolidating what would otherwise be several separate rideshares.',
+          'Yes, especially when flights land within a reasonable window of each other — the van can make a couple of trips or wait for a second group, consolidating what would otherwise be several separate rideshares. Share every family’s flight and passenger count at booking, and dispatch works out whether one van can wait for both groups or a second trip makes more sense.',
       },
       {
         question: 'Should we flag car seats or mobility needs in advance?',
         answer:
-          'Yes — mention any car seat or mobility accommodations clearly at booking so the right vehicle and equipment are arranged before anyone lands.',
+          'Yes — mention any car seat or mobility accommodations clearly at booking so the right vehicle and equipment are arranged before anyone lands. Child seats are available on request, and knowing about a walker or wheelchair ahead of time means the right vehicle and enough room are arranged before the first flight lands.',
       },
       {
         question: 'Should one family member coordinate the whole group’s transportation?',
         answer:
-          'It helps considerably — a single point of contact sharing the full flight list and passenger counts lets dispatch build one coherent pickup plan rather than piecing together separate calls.',
+          'It helps considerably — a single point of contact sharing the full flight list and passenger counts lets dispatch build one coherent pickup plan rather than piecing together separate calls. That person can also be the contact for day-of changes, so a delayed flight is handled with one call rather than several relatives phoning in separately.',
       },
       {
         question: 'Can the return trip be booked at the same time as arrivals?',
         answer:
-          'Yes — booking both directions together, while the family’s travel plans are already being discussed, saves a second round of coordination closer to the reunion’s end.',
+          'Yes — booking both directions together, while the family’s travel plans are already being discussed, saves a second round of coordination closer to the reunion’s end. Departure flights can be tracked the same way, and having the return confirmed early means the last day of the reunion is spent with family rather than arranging rides.',
       },
     ],
     relatedLinks: [
@@ -1525,22 +1525,22 @@ const batch4 = [
       {
         question: 'Does complimentary wait time cover a weather delay?',
         answer:
-          'Yes — wait time is timed from actual touchdown, not the printed schedule, so an ordinary weather delay is already accounted for at no extra charge.',
+          'Yes — wait time is timed from actual touchdown, not the printed schedule, so an ordinary weather delay is already accounted for at no extra charge. Your flight is tracked throughout, and you get 45 minutes of complimentary waiting time on domestic arrivals and 60 minutes on international, counted from when you actually land.',
       },
       {
         question: 'What should I do if my flight is cancelled due to weather?',
         answer:
-          'Contact dispatch directly and as early as possible so your reservation can be updated to your new flight or travel day.',
+          'Contact dispatch directly and as early as possible so your reservation can be updated to your new flight or travel day. Dispatch is available 24/7 at (877) 609-1919, so a late-night cancellation can be sorted with a person rather than a voicemail.',
       },
       {
         question: 'Should I book earlier if a storm is forecast?',
         answer:
-          'Yes — demand for car service spikes ahead of a known storm, and booking early locks in a flat rate unaffected by any surge pricing on alternative options once the weather arrives.',
+          'Yes — demand for car service spikes ahead of a known storm, and booking early locks in a flat rate unaffected by any surge pricing on alternative options once the weather arrives. Booking ahead also gives dispatch your flight details before the storm hits, so the pickup is already tracked when delays begin to stack up.',
       },
       {
         question: 'Does winter weather affect the flat rate price?',
         answer:
-          'No — a flat rate confirmed at booking does not change because of weather, traffic, or demand on the day of travel.',
+          'No — a flat rate confirmed at booking does not change because of weather, traffic, or demand on the day of travel. Your rate is quoted and confirmed in writing before the ride, and a weather delay is handled through flight tracking rather than an added charge.',
       },
     ],
     relatedLinks: [
@@ -1606,22 +1606,22 @@ const batch4 = [
       {
         question: 'Can a chauffeur drop me directly at Union Station for an Amtrak connection?',
         answer:
-          'Yes — a direct transfer from Dulles to Union Station is a common booking, especially useful when the connection window to your train is tight.',
+          'Yes — a direct transfer from Dulles to Union Station is a common booking, especially useful when the connection window to your train is tight. The chauffeur follows your flight, so if your plane lands late the transfer leaves as soon as you reach the curb, with no separate booking to change.',
       },
       {
         question: 'Is the Metro Silver Line a good option with luggage?',
         answer:
-          'It works for light packers with time to spare, but a full suitcase on a crowded train, particularly during rush hour, is a real trade-off worth weighing against a direct chauffeured transfer.',
+          'It works for light packers with time to spare, but a full suitcase on a crowded train, particularly during rush hour, is a real trade-off worth weighing against a direct chauffeured transfer. A chauffeured transfer also takes you door to door, so there is no carrying bags between platforms or the last stretch from a station to your hotel.',
       },
       {
         question: 'What if my flight into Dulles is delayed and I have a train to catch?',
         answer:
-          'Your chauffeur tracks the actual flight status and adjusts the pickup and route accordingly, which a train schedule on its own cannot do.',
+          'Your chauffeur tracks the actual flight status and adjusts the pickup and route accordingly, which a train schedule on its own cannot do. Let dispatch know your train time when you book, so the route is planned with your connection in mind.',
       },
       {
         question: 'Can a group split between train and hotel be handled in one trip?',
         answer:
-          'Yes — a single vehicle can drop train-bound passengers at Union Station before continuing on with the rest of the group to a hotel or office.',
+          'Yes — a single vehicle can drop train-bound passengers at Union Station before continuing on with the rest of the group to a hotel or office. Share each person’s destination when you book, and the order of the drop-offs is planned so the train-bound passengers make their connection first.',
       },
     ],
     relatedLinks: [
@@ -1692,22 +1692,22 @@ const batch4 = [
       {
         question: 'Can you coordinate pickups for relatives arriving on different flights?',
         answer:
-          'Yes — flight-tracked pickups can be arranged for each arriving party, coordinated through one point of contact so the whole family’s arrivals stay organized.',
+          'Yes — flight-tracked pickups can be arranged for each arriving party, coordinated through one point of contact so the whole family’s arrivals stay organized. Share every arriving flight in one list, and each pickup follows its own flight, so an early arrival is not left waiting for a cousin landing hours later.',
       },
       {
         question: 'Does a chauffeured drop-off avoid campus graduation parking?',
         answer:
-          'Yes — a drop-off at the ceremony entrance and a staged pickup afterward skip both the pre-ceremony parking search and the slow post-ceremony exit.',
+          'Yes — a drop-off at the ceremony entrance and a staged pickup afterward skip both the pre-ceremony parking search and the slow post-ceremony exit. Agree on a pickup spot near the ceremony venue in advance, so the family walks out after the last photos to a waiting car rather than a long line out of a campus lot.',
       },
       {
         question: 'Can the ceremony pickup and celebration dinner be booked together?',
         answer:
-          'Yes — booking them as one continuous reservation means the chauffeur already knows the full plan and can adjust naturally if the ceremony runs long.',
+          'Yes — booking them as one continuous reservation means the chauffeur already knows the full plan and can adjust naturally if the ceremony runs long. The flat rate covers the whole block and is confirmed in writing, so a long ceremony or extra photos does not mean rebooking a ride to the restaurant.',
       },
       {
         question: 'What vehicle fits a larger extended family group?',
         answer:
-          'A Sprinter van keeps a larger family group together for the ceremony, photos, and dinner, rather than splitting across several cars.',
+          'A Sprinter van keeps a larger family group together for the ceremony, photos, and dinner, rather than splitting across several cars. The Sprinter seats up to 13, so grandparents, parents and siblings can ride together, and larger families can add a second vehicle on the same reservation.',
       },
     ],
     relatedLinks: [

@@ -81,7 +81,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Is Ashburn service available overnight?",
-        a: "Dispatch runs 24/7, so late arrivals, early departures and overnight cargo-schedule pickups are booked and monitored the same way as a midday trip.",
+        a: "Dispatch runs 24/7, so late arrivals, early departures and overnight cargo-schedule pickups are booked and monitored the same way as a midday trip. The rate is flat and confirmed in writing, with no premium for an overnight Ashburn pickup.",
       },
     ],
     related: [
@@ -166,7 +166,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "What vehicles are available in Sterling?",
-        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines.",
+        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup.",
       },
     ],
     related: [
@@ -588,7 +588,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can I keep the same chauffeur for a standing weekly booking?",
-        a: "We assign the same chauffeur to recurring reservations whenever scheduling allows, and you receive the chauffeur's name the day before each trip.",
+        a: "We assign the same chauffeur to recurring reservations whenever scheduling allows, and you receive the chauffeur's name the day before each trip. Standing arrangements are common in McLean, from a weekly airport run to a monthly board meeting downtown.",
       },
       {
         q: "Do you provide cars for dinners in Great Falls or Georgetown?",
@@ -1021,7 +1021,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Where does the chauffeur pick up after the show?",
-        a: "At a pre-arranged point at the edge of the Expo Center property, confirmed by text, so the vehicle stays clear of the surface-lot exit crawl onto Route 28.",
+        a: "At a pre-arranged point at the edge of the Expo Center property, confirmed by text, so the vehicle stays clear of the surface-lot exit crawl onto Route 28. For exhibitors with cases and banner stands, the chauffeur can stage at the loading side during move-out hours when the event permits.",
       },
     ],
     related: [
@@ -1182,7 +1182,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Where will the chauffeur pick us up after the session?",
-        a: "At a pre-arranged point on the 7th Street, 9th Street or L Street side, one block from the reserved shuttle curbs, matched to the hall you are leaving and confirmed by text.",
+        a: "At a pre-arranged point on the 7th Street, 9th Street or L Street side, one block from the reserved shuttle curbs, matched to the hall you are leaving and confirmed by text. During big shows the curbs nearest the doors are held for event shuttles and taxis, which is why the pickup is set a block away.",
       },
       {
         q: "Do you provide cars for speakers and sponsors during the event?",
@@ -1352,7 +1352,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Which areas does hourly service cover?",
-        a: "Northern Virginia from Loudoun to Alexandria, Washington, DC and the Maryland suburbs, with longer day trips to Charlottesville, Richmond, Annapolis or Baltimore quoted on request.",
+        a: "Northern Virginia from Loudoun to Alexandria, Washington, DC and the Maryland suburbs, with longer day trips to Charlottesville, Richmond, Annapolis or Baltimore quoted on request. Within the service area, the hourly rate does not change with the number of stops or the miles driven.",
       },
       {
         q: "Can I combine an airport pickup with hourly service?",
@@ -1522,7 +1522,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "How far in advance should we book for graduation season?",
-        a: "As early as the ceremony date is published, particularly for Sprinter vans and limousines on May and June weekends, which are the first vehicles to fill.",
+        a: "As early as the ceremony date is published, particularly for Sprinter vans and limousines on May and June weekends, which are the first vehicles to fill. If relatives are flying in, add their Dulles, Reagan National or BWI arrivals to the same booking so the airport pickups and the ceremony day are planned together.",
       },
     ],
     related: [

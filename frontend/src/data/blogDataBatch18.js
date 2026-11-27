@@ -229,7 +229,7 @@ const batch18 = [
       {
         question: "Are farm breweries harder to get to?",
         answer:
-          "They are farther apart and on narrow rural roads in western Loudoun that are unlit at night, which is one of the best reasons to have a professional driver rather than a designated friend.",
+          "They are farther apart and on narrow rural roads in western Loudoun that are unlit at night, which is one of the best reasons to have a professional driver rather than a designated friend. An hourly booking keeps the same chauffeur with your group from the first stop to the ride home.",
       },
     ],
   },
@@ -569,7 +569,7 @@ const batch18 = [
       {
         question: "What vehicle works best for a festival group?",
         answer:
-          "A Lincoln Navigator seats six, and a Mercedes Sprinter seats up to 13 passengers with room for chairs and blankets, keeping larger groups together all day.",
+          "A Lincoln Navigator seats six, and a Mercedes Sprinter seats up to 13 passengers with room for chairs and blankets, keeping larger groups together all day. Tell us your group size and what you are bringing when you book.",
       },
     ],
   },
@@ -668,7 +668,7 @@ const batch18 = [
       {
         question: "Where is Annandale's Koreatown?",
         answer:
-          "It is centered on Little River Turnpike (Route 236) in Annandale, with Korean restaurants, bakeries, cafes and markets spread across strip centers along the road and nearby side streets.",
+          "It is centered on Little River Turnpike (Route 236) in Annandale, with Korean restaurants, bakeries, cafes and markets spread across strip centers along the road and nearby side streets. With a chauffeur, the group can move between several stops without anyone worrying about parking.",
       },
       {
         question: "When is the best time to visit Eden Center?",
@@ -917,7 +917,7 @@ const batch18 = [
       {
         question: "Is the Soak City water park included?",
         answer:
-          "Soak City has generally been included with Kings Dominion admission during its summer season, but check the current ticket details on the park's official website before you go.",
+          "Soak City has generally been included with Kings Dominion admission during its summer season, but check the current ticket details on the park's official website before you go. Your chauffeur can drop you at the park and return at a set time, or stay with you on an hourly booking.",
       },
     ],
   },
@@ -1034,7 +1034,7 @@ const batch18 = [
       {
         question: "Where can I check whether a specific food is allowed?",
         answer:
-          "Use CBP's \"Know Before You Go\" guidance and the USDA APHIS travelers' pages, which explain current rules and how they depend on the item and country of origin.",
+          "Use CBP's \"Know Before You Go\" guidance and the USDA APHIS travelers' pages, which explain current rules and how they depend on the item and country of origin. Check those pages shortly before you travel, since the rules can change.",
       },
       {
         question: "Will a customs inspection make me miss my pickup?",
@@ -1280,7 +1280,7 @@ const batch18 = [
       {
         question: "How much waiting time is included with a chauffeur pickup?",
         answer:
-          "Domestic airport pickups include 45 minutes and international pickups 60 minutes of complimentary waiting, both counted from actual touchdown.",
+          "Domestic airport pickups include 45 minutes and international pickups 60 minutes of complimentary waiting, both counted from actual touchdown. Because flights are tracked, a delayed landing does not use up that time.",
       },
     ],
   },
@@ -1375,12 +1375,12 @@ const batch18 = [
       {
         question: "Where is Occoquan, Virginia?",
         answer:
-          "Occoquan is a small historic town in Prince William County on the Occoquan River, just west of I-95 via Route 123, near Woodbridge and Lorton.",
+          "Occoquan is a small historic town in Prince William County on the Occoquan River, just west of I-95 via Route 123, near Woodbridge and Lorton. A chauffeured trip there can be booked hourly, so the car stays with you while you explore.",
       },
       {
         question: "What is there to do in Occoquan?",
         answer:
-          "Browse independent shops and galleries, eat at riverside restaurants, walk the waterfront and parks, and visit the historical society's small museum about the town's mill history.",
+          "Browse independent shops and galleries, eat at riverside restaurants, walk the waterfront and parks, and visit the historical society's small museum about the town's mill history. An hourly booking lets your chauffeur wait while you walk the town, so the car is ready whenever you finish.",
       },
       {
         question: "Is parking difficult in Occoquan?",
@@ -1607,12 +1607,12 @@ const batch18 = [
       {
         question: "How do I help a relative who doesn't speak English arrive at Dulles?",
         answer:
-          "Explain the arrival process in their language, give them a card with addresses and phone numbers, and book a meet and greet so a chauffeur with a name sign is waiting at the international arrivals exit.",
+          "Explain the arrival process in their language, give them a card with addresses and phone numbers, and book a meet and greet so a chauffeur with a name sign is waiting at the international arrivals exit. Family members can also reach dispatch 24/7 at (877) 609-1919 if anything changes on the day.",
       },
       {
         question: "Where will the chauffeur meet my family?",
         answer:
-          "With the meet and greet add-on, the chauffeur waits inside the terminal at the international arrivals exit with a name sign, helps with luggage and walks your family to the vehicle.",
+          "With the meet and greet add-on, the chauffeur waits inside the terminal at the international arrivals exit with a name sign, helps with luggage and walks your family to the vehicle. Every airport pickup is flight-tracked, and international arrivals include 60 minutes of complimentary waiting.",
       },
       {
         question: "What if customs takes a long time?",
@@ -1729,7 +1729,7 @@ const batch18 = [
       {
         question: "Where is Signature Theatre?",
         answer:
-          "Signature Theatre is on Campbell Avenue in Shirlington Village in south Arlington, just off I-395, in a building it shares with the Shirlington branch library.",
+          "Signature Theatre is on Campbell Avenue in Shirlington Village in south Arlington, just off I-395, in a building it shares with the Shirlington branch library. A chauffeured drop-off at the door means no hunting for parking before curtain.",
       },
       {
         question: "Is there parking near Signature Theatre?",
@@ -2737,7 +2737,7 @@ const batch18 = [
       },
       {
         question: "Where is Big Cork Vineyards?",
-        answer: "In Rohrersville, Maryland, in Washington County's Pleasant Valley along Route 67, between South Mountain and Elk Ridge and a short drive from Harpers Ferry and Antietam.",
+        answer: "In Rohrersville, Maryland, in Washington County's Pleasant Valley along Route 67, between South Mountain and Elk Ridge and a short drive from Harpers Ferry and Antietam. An hourly booking keeps the chauffeur with you, so no one in the group has to drive after the tasting.",
       },
       {
         question: "Do I need a reservation at Big Cork Vineyards?",
@@ -3030,7 +3030,7 @@ const batch18 = [
       },
       {
         question: "Who organizes the Scottish Christmas Walk?",
-        answer: "The Campagna Center, an Alexandria nonprofit, organizes the weekend as a fundraiser for its programs.",
+        answer: "The Campagna Center, an Alexandria nonprofit, organizes the weekend as a fundraiser for its programs. Check the Campagna Center's website for this year's schedule before you plan your pickup times.",
       },
       {
         question: "Where should we watch the parade?",
@@ -3201,7 +3201,7 @@ const batch18 = [
       },
       {
         question: "Can the chauffeur wait while we're at GardenFest?",
-        answer: "Yes, with an hourly booking the vehicle and chauffeur stay with your group for the whole evening, including dinner and the drive home.",
+        answer: "Yes, with an hourly booking the vehicle and chauffeur stay with your group for the whole evening, including dinner and the drive home. Book once you have your GardenFest tickets, and the rate is confirmed in writing before the trip.",
       },
       {
         question: "Are tolls included if we use the I-95 Express Lanes?",
@@ -3815,7 +3815,7 @@ const batch18 = [
       },
       {
         question: "How long is the drive from Dulles to Mount Vernon?",
-        answer: "About 38 miles, typically 50 to 65 minutes depending on traffic, via the Dulles Toll Road, the Beltway and the George Washington Memorial Parkway.",
+        answer: "About 38 miles, typically 50 to 65 minutes depending on traffic, via the Dulles Toll Road, the Beltway and the George Washington Memorial Parkway. If you are heading there from a flight, the pickup is flight-tracked and the rate is confirmed in writing beforehand.",
       },
       {
         question: "Can we have dinner in Old Town Alexandria afterward?",
@@ -4396,7 +4396,7 @@ const batch18 = [
       },
       {
         question: "What if we need to cancel because of weather?",
-        answer: "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        answer: "Sedans and SUVs can be cancelled free of charge up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If the forecast looks doubtful for the parade, let us know early and we can talk through moving the date instead.",
       },
     ],
   },
@@ -4948,7 +4948,7 @@ const batch18 = [
       },
       {
         question: "What is your cancellation policy?",
-        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If your night at the track changes, let us know and we can move the pickup time rather than cancel.",
       },
     ],
   },
@@ -7226,7 +7226,7 @@ const batch18 = [
       },
       {
         question: "Can the chauffeur hold our shopping bags?",
-        answer: "With hourly service, the car and chauffeur stay with you, so you can leave purchases in the vehicle between stops.",
+        answer: "With hourly service, the car and chauffeur stay with you, so you can leave purchases in the vehicle between stops. Your chauffeur meets you at each stop, so you are not carrying bags across downtown.",
       },
       {
         question: "Can you pick up friends from different places?",
@@ -7330,11 +7330,11 @@ const batch18 = [
       },
       {
         question: "Which vehicle fits a family group of eight?",
-        answer: "A Mercedes Sprinter seats up to 13 passengers and keeps the group together in one vehicle.",
+        answer: "A Mercedes Sprinter seats up to 13 passengers and keeps the group together in one vehicle. Tell us your pickup address and service time when you book, and the rate is confirmed in writing in advance.",
       },
       {
         question: "What is your cancellation policy?",
-        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If your cathedral visit moves to another day, call (877) 609-1919 and we can shift the booking instead.",
       },
     ],
   },
@@ -7427,7 +7427,7 @@ const batch18 = [
       },
       {
         question: "Which vehicle fits a student with a lot of luggage?",
-        answer: "A Chevrolet Suburban seats five with room for five bags, which leaves plenty of space for extra luggage.",
+        answer: "A Chevrolet Suburban seats five with room for five bags, which leaves plenty of space for extra luggage. Every Dulles pickup is flight-tracked, so the car will be there when your student lands.",
       },
       {
         question: "Can we book the return trip to Dulles now?",
@@ -7524,7 +7524,7 @@ const batch18 = [
       },
       {
         question: "What is the cancellation policy?",
-        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If you decide to visit the show on a different day, dispatch can move the reservation rather than cancel it.",
       },
     ],
   },
@@ -7616,7 +7616,7 @@ const batch18 = [
       },
       {
         question: "What is the cancellation policy?",
-        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If the performance date changes, tell us as soon as you can and we will adjust the reservation.",
       },
     ],
   },
@@ -7714,7 +7714,7 @@ const batch18 = [
       },
       {
         question: "What is the cancellation policy?",
-        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before.",
+        answer: "Sedans and SUVs can be cancelled free up to 3 hours before pickup, and Sprinter vans and special-event bookings up to 12 hours before. If the meeting date or headcount shifts, dispatch can adjust the vehicles rather than cancelling the whole booking.",
       },
     ],
   },

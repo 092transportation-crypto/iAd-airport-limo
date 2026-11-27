@@ -65,8 +65,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Is there a Metro station in Georgetown?", a: "No. Georgetown is not served by Metrorail, which is one of the main reasons residents and hotel guests book a chauffeur rather than combining rail with a long walk on narrow streets with no parking." },
-      { q: "How far is Georgetown from Reagan National Airport?", a: "About 8 miles, usually 20 to 30 minutes depending on bridge traffic, making Reagan National the fastest airport option for most Georgetown trips." },
-      { q: "Do you provide transportation for Georgetown University events?", a: "Yes, including move-in weekends, parents' weekend and commencement, with Sprinter vans and SUVs for family groups and campus delegations." },
+      { q: "How far is Georgetown from Reagan National Airport?", a: "About 8 miles, usually 20 to 30 minutes depending on bridge traffic, making Reagan National the fastest airport option for most Georgetown trips. If your flight leaves from Dulles or BWI, those trips are quoted at a flat rate in writing too." },
+      { q: "Do you provide transportation for Georgetown University events?", a: "Yes, including move-in weekends, parents' weekend and commencement, with Sprinter vans and SUVs for family groups and campus delegations. Sprinter vans can be cancelled free up to 12 hours before pickup, so booking early for a busy campus weekend carries little risk." },
       { q: "Can you drop us off directly at a restaurant on M Street?", a: "Yes. Your chauffeur drops at the door and can be staged nearby for pickup when you text, avoiding Georgetown's scarce parking entirely." },
       { q: "What does a Georgetown to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -131,7 +131,7 @@ export const MARYLAND_BATCH8 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Capitol Hill from Reagan National Airport?", a: "About 6 miles, usually 15 to 25 minutes via I-395, making Reagan National the fastest and most commonly booked airport for Capitol Hill trips." },
+      { q: "How far is Capitol Hill from Reagan National Airport?", a: "About 6 miles, usually 15 to 25 minutes via I-395, making Reagan National the fastest and most commonly booked airport for Capitol Hill trips. The chauffeur tracks arriving flights, with complimentary waiting of 45 minutes domestic and 60 international." },
       { q: "Do you plan around Capitol complex security closures?", a: "Yes. Our chauffeurs monitor session days, committee hearings and motorcade-related closures and build buffer time into pickups scheduled on the Hill during active legislative periods." },
       { q: "Can you handle a visiting delegation with multiple stops?", a: "Yes. We regularly coordinate multi-stop itineraries across House and Senate office buildings, Union Station and the airport, booked as a single reservation with one dispatcher." },
       { q: "Do you offer accounts for government and law firm offices?", a: "Yes. Corporate and government accounts with consolidated monthly invoicing are available for recurring Capitol Hill travel." },
@@ -199,7 +199,7 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation for embassy and diplomatic staff?", a: "Yes. We regularly serve embassy staff and visiting diplomatic delegations along Dupont Circle's Embassy Row, with discreet meet and greet available for VIP travelers." },
-      { q: "How far is Dupont Circle from Reagan National Airport?", a: "About 7 miles, usually 20 to 30 minutes, making Reagan National the faster option for most domestic trips from Dupont Circle." },
+      { q: "How far is Dupont Circle from Reagan National Airport?", a: "About 7 miles, usually 20 to 30 minutes, making Reagan National the faster option for most domestic trips from Dupont Circle. Dulles and BWI are quoted at flat, written rates too, with flight tracking on every pickup." },
       { q: "Can you pick us up at a restaurant on 17th Street or P Street?", a: "Yes. Your chauffeur drops at the door and stages nearby for pickup when you text, avoiding the neighborhood's limited street parking." },
       { q: "Do you offer corporate accounts for think tanks and nonprofits?", a: "Yes. Corporate accounts with consolidated monthly invoicing are available for the think tanks, nonprofits and consulting firms headquartered around Dupont Circle." },
       { q: "What does a Dupont Circle to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
@@ -266,8 +266,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you coordinate pickups with Union Station Amtrak arrivals?", a: "Yes. We regularly combine a Union Station rail arrival with a continuing car ride to a NoMa office, hotel or airport, booked as one reservation." },
-      { q: "How far is NoMa from BWI Airport?", a: "About 32 miles, typically 40 to 50 minutes, often the closest major airport by drive time for NoMa given its position northeast of the city." },
-      { q: "Do you serve the office towers near the NoMa-Gallaudet Metro station?", a: "Yes, including the technology, association and federal contractor offices that have relocated to NoMa over the past decade." },
+      { q: "How far is NoMa from BWI Airport?", a: "About 32 miles, typically 40 to 50 minutes, often the closest major airport by drive time for NoMa given its position northeast of the city. BWI pickups are flight-tracked like any airport run, and the rate is confirmed before the ride." },
+      { q: "Do you serve the office towers near the NoMa-Gallaudet Metro station?", a: "Yes, including the technology, association and federal contractor offices that have relocated to NoMa over the past decade. Executive sedans and SUVs are available for single meetings or hourly days with several stops." },
       { q: "Do you offer corporate accounts for NoMa businesses?", a: "Yes. Corporate accounts with consolidated monthly invoicing are available for companies with recurring employee and client transportation." },
       { q: "What does a NoMa to Dulles or Reagan car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -333,9 +333,9 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation to concerts at The Anthem?", a: "Yes. We coordinate a pier-adjacent pickup point by text after the show, so you skip the crowd leaving through The Wharf's main walkways." },
-      { q: "How far is The Wharf from Reagan National Airport?", a: "About 6 miles, usually 15 to 25 minutes, making Reagan National the fastest airport option for most Wharf trips." },
+      { q: "How far is The Wharf from Reagan National Airport?", a: "About 6 miles, usually 15 to 25 minutes, making Reagan National the fastest airport option for most Wharf trips. Every pickup is flight-tracked, and the rate is confirmed in writing before the ride." },
       { q: "Can you pick us up at the InterContinental or Pendry hotel?", a: "Yes. Your chauffeur knows which Wharf pier entrance avoids the longest walk with luggage and can meet you curbside at either hotel." },
-      { q: "Do you handle corporate outings at Wharf restaurants or event spaces?", a: "Yes, including Sprinter vans for larger groups and flat, written rates confirmed before the event." },
+      { q: "Do you handle corporate outings at Wharf restaurants or event spaces?", a: "Yes, including Sprinter vans for larger groups and flat, written rates confirmed before the event. Tell us the group size when you book, and an hourly reservation can cover the whole evening." },
       { q: "What does a Wharf to Dulles or Reagan car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
     related: [
@@ -400,7 +400,7 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you offer wine-tour service around Hamilton?", a: "Yes. Hourly service covers the wineries and tasting rooms around Hamilton and along Route 7, with your chauffeur waiting at each stop and adjusting the schedule as needed." },
-      { q: "How far is Hamilton from Dulles Airport?", a: "About 18 miles, typically 25 to 30 minutes via Route 7 — one of the shorter airport runs in western Loudoun County." },
+      { q: "How far is Hamilton from Dulles Airport?", a: "About 18 miles, typically 25 to 30 minutes via Route 7 — one of the shorter airport runs in western Loudoun County. Pickups are flight-tracked, and the rate is set in writing before you book." },
       { q: "Can you combine an airport pickup with a winery day for visiting family?", a: "Yes. Many Hamilton-area travelers book an airport pickup, a few winery stops and a final hotel or airport drop-off as one reservation." },
       { q: "Do you charge extra mileage between wineries on an hourly booking?", a: "No. Hourly wine-tour service is quoted as a flat hourly rate with no surprise mileage charges for the rural distances between tasting rooms." },
       { q: "What does a Hamilton to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
@@ -467,8 +467,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation to the Waterford Fair?", a: "Yes. We plan a specific drop-off and pickup point near the fairgrounds in advance, which avoids the parking search that fair weekend creates inside the historic village." },
-      { q: "How far is Waterford from Dulles Airport?", a: "About 20 miles, typically 25 to 35 minutes via Route 7 and Loyalty Road." },
-      { q: "Is parking difficult inside the Waterford historic district?", a: "Yes, parking is limited year-round and especially tight during the Waterford Fair, which is why our chauffeurs plan drop-off points in advance rather than guessing at a curb." },
+      { q: "How far is Waterford from Dulles Airport?", a: "About 20 miles, typically 25 to 35 minutes via Route 7 and Loyalty Road. Arrivals are flight-tracked, so the pickup follows your actual landing time." },
+      { q: "Is parking difficult inside the Waterford historic district?", a: "Yes, parking is limited year-round and especially tight during the Waterford Fair, which is why our chauffeurs plan drop-off points in advance rather than guessing at a curb. Tell us where you are headed in the village and we will confirm the drop-off spot before the day." },
       { q: "Can you combine a Waterford stop with Leesburg or Purcellville on the same day?", a: "Yes. We regularly quote multi-stop Loudoun County day trips, including Waterford, as a single reservation." },
       { q: "What does a Waterford to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -534,9 +534,9 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide point-to-point hiking shuttles near Bluemont?", a: "Yes. We can drop your group at one Appalachian Trail access point near Bears Den and pick up at another, so a point-to-point hike does not require doubling back for a parked car." },
-      { q: "How far is Bluemont from Dulles Airport?", a: "About 30 miles, typically 40 to 50 minutes via Route 7." },
-      { q: "Do you serve the wineries near Bears Den and Bluemont?", a: "Yes, with hourly service that waits between tastings so nobody in the group has to be the designated driver." },
-      { q: "Is the drive time to Bluemont longer than the straight-line distance suggests?", a: "Often, yes — the winding, mountain-adjacent roads in this part of Loudoun County take longer than a map distance implies, which our chauffeurs account for when scheduling pickups." },
+      { q: "How far is Bluemont from Dulles Airport?", a: "About 30 miles, typically 40 to 50 minutes via Route 7. Arrivals are flight-tracked, and the rate is confirmed in writing before the ride, so a slower drive never changes the price." },
+      { q: "Do you serve the wineries near Bears Den and Bluemont?", a: "Yes, with hourly service that waits between tastings so nobody in the group has to be the designated driver. One reservation covers the whole day, and the chauffeur drives everyone home at the end." },
+      { q: "Is the drive time to Bluemont longer than the straight-line distance suggests?", a: "Often, yes — the winding, mountain-adjacent roads in this part of Loudoun County take longer than a map distance implies, which our chauffeurs account for when scheduling pickups. If you have a flight to catch, tell us the departure time and we will set the pickup with that in mind." },
       { q: "What does a Bluemont to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
     related: [
@@ -601,8 +601,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation to the Virginia Gold Cup?", a: "Yes. We regularly run Gold Cup tailgate groups to Great Meadow, with Sprinter vans for larger parties and a chauffeur who knows the grounds so you avoid a long walk back to parking at the end of the day." },
-      { q: "How far is The Plains from Dulles Airport?", a: "About 28 miles, typically 35 to 45 minutes via Route 66 and Route 245." },
-      { q: "Do you serve other Great Meadow events besides the Gold Cup?", a: "Yes, including polo matches and point-to-point steeplechase meets throughout the year." },
+      { q: "How far is The Plains from Dulles Airport?", a: "About 28 miles, typically 35 to 45 minutes via Route 66 and Route 245. Arrivals are flight-tracked, with 45 minutes of free waiting for domestic flights and 60 for international." },
+      { q: "Do you serve other Great Meadow events besides the Gold Cup?", a: "Yes, including polo matches and point-to-point steeplechase meets throughout the year. For event days, an hourly booking keeps the car with your group until you are ready to leave." },
       { q: "Can you combine a Dulles arrival with a horse-country day trip?", a: "Yes. We regularly quote multi-stop itineraries covering Middleburg, Great Meadow and The Plains as a single reservation." },
       { q: "What does a The Plains to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -668,9 +668,9 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation for the Upperville Colt & Horse Show?", a: "Yes. We run exhibitors and spectators between hotels, the show grounds and dinner reservations throughout show week each June, with pickup points planned around the grounds' parking layout." },
-      { q: "How far is Upperville from Dulles Airport?", a: "About 35 miles, typically 45 to 55 minutes via Route 50 — the longest airport run in our Fauquier County coverage area, but a manageable one with a flight-tracked pickup." },
+      { q: "How far is Upperville from Dulles Airport?", a: "About 35 miles, typically 45 to 55 minutes via Route 50 — the longest airport run in our Fauquier County coverage area, but a manageable one with a flight-tracked pickup. The rate is confirmed in writing before the ride, regardless of traffic on the way." },
       { q: "Can you find horse farms and estate venues without a formal street address?", a: "Yes. Many Upperville venues sit at the end of long gravel drives with little signage, so our chauffeurs confirm the exact entrance with you in advance of the trip." },
-      { q: "Do you provide guest shuttles for estate weddings in Upperville?", a: "Yes, including hotel pickup coordination so guests are not navigating unmarked driveways themselves after dark." },
+      { q: "Do you provide guest shuttles for estate weddings in Upperville?", a: "Yes, including hotel pickup coordination so guests are not navigating unmarked driveways themselves after dark. Sprinter vans seat up to 13 passengers, and larger guest lists use more than one vehicle." },
       { q: "What does an Upperville to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
     related: [
@@ -736,7 +736,7 @@ export const MARYLAND_BATCH8 = [
     faqs: [
       { q: "Is Manassas Park the same city as Manassas?", a: "No. Manassas Park is its own independent city, distinct from neighboring Manassas, with its own VRE station and city government — we confirm the exact jurisdiction when booking to avoid any address confusion." },
       { q: "Do you connect the Manassas Park VRE station with airport trips?", a: "Yes. We regularly run connections between the Manassas Park VRE station and Dulles or Reagan National for travelers combining a rail commute with an airport trip the same day." },
-      { q: "How far is Manassas Park from Dulles Airport?", a: "About 22 miles, typically 30 to 40 minutes via Route 28 and I-66." },
+      { q: "How far is Manassas Park from Dulles Airport?", a: "About 22 miles, typically 30 to 40 minutes via Route 28 and I-66. We set departure pickups around the time of day, and the flat rate is confirmed before you book." },
       { q: "Do you offer transfers for early-morning or late-night flights when VRE service is limited?", a: "Yes. Many Manassas Park travelers book a car specifically for the hours outside normal VRE service, when rail is not a practical option." },
       { q: "What does a Manassas Park to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -802,8 +802,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation to the Olney Theatre Center?", a: "Yes. We time pickups to curtain and intermission schedules so your group avoids the parking-lot wait after a show lets out." },
-      { q: "Which airport is closest to Olney?", a: "BWI and Reagan National are both about 28 to 30 miles and 40 to 50 minutes away, typically faster than Dulles at 38 miles and 50 to 65 minutes via the ICC." },
-      { q: "Do you serve the Olney Farmers and Artists Market area?", a: "Yes, along with the rest of the town center retail and the surrounding residential neighborhoods." },
+      { q: "Which airport is closest to Olney?", a: "BWI and Reagan National are both about 28 to 30 miles and 40 to 50 minutes away, typically faster than Dulles at 38 miles and 50 to 65 minutes via the ICC. Each airport is quoted at a flat rate in writing, and every airport pickup is flight-tracked." },
+      { q: "Do you serve the Olney Farmers and Artists Market area?", a: "Yes, along with the rest of the town center retail and the surrounding residential neighborhoods. Share the address when you book and the chauffeur will meet you right there." },
       { q: "Do you offer corporate accounts for Olney medical offices and small businesses?", a: "Yes. Corporate accounts with consolidated monthly invoicing are available for recurring employee and client transportation." },
       { q: "What does an Olney to Dulles, Reagan or BWI car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -869,8 +869,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you connect with the Wheaton Metro station on the Red Line?", a: "Yes. We regularly pick up and drop off travelers combining a Red Line Metro trip with an airport car service on the same itinerary." },
-      { q: "Which airport is closest to Wheaton?", a: "Reagan National and BWI are both about 22 to 28 miles and 35 to 45 minutes away, typically faster than Dulles at 32 miles and 45 to 60 minutes." },
-      { q: "Do you serve Westfield Wheaton and the Georgia Avenue retail corridor?", a: "Yes, along with the surrounding apartment towers and residential neighborhoods toward Wheaton Regional Park." },
+      { q: "Which airport is closest to Wheaton?", a: "Reagan National and BWI are both about 22 to 28 miles and 35 to 45 minutes away, typically faster than Dulles at 32 miles and 45 to 60 minutes. All three airports are quoted at flat, written rates, so you can choose by flight time rather than fare." },
+      { q: "Do you serve Westfield Wheaton and the Georgia Avenue retail corridor?", a: "Yes, along with the surrounding apartment towers and residential neighborhoods toward Wheaton Regional Park. Tell us the store entrance or building name when you book for a quick, easy pickup." },
       { q: "Can you handle multi-stop pickups across apartment complexes?", a: "Yes. Wheaton's dense residential layout means our chauffeurs regularly coordinate multi-stop pickups across apartment and office buildings in a single booking." },
       { q: "What does a Wheaton to Dulles, Reagan or BWI car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -936,8 +936,8 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you serve Kensington's Antique Row?", a: "Yes. We regularly pick up and drop off shoppers and dealers along Howard Avenue, with SUVs that offer real cargo space for transporting purchases." },
-      { q: "Which airport is closest to Kensington?", a: "Reagan National, about 18 miles and typically 30 to 40 minutes via Connecticut Avenue and the Beltway." },
-      { q: "Is parking difficult in downtown Kensington?", a: "Yes, parking along Howard Avenue and the town center is limited, which is why a chauffeured drop-off is often easier than circling for a spot." },
+      { q: "Which airport is closest to Kensington?", a: "Reagan National, about 18 miles and typically 30 to 40 minutes via Connecticut Avenue and the Beltway. Pickups are flight-tracked, and the chauffeur waits 45 minutes free on domestic arrivals." },
+      { q: "Is parking difficult in downtown Kensington?", a: "Yes, parking along Howard Avenue and the town center is limited, which is why a chauffeured drop-off is often easier than circling for a spot. Your chauffeur drops you at the door and can return at a set time, or wait for you on an hourly booking." },
       { q: "Can you combine an airport pickup with an Antique Row shopping stop?", a: "Yes. Many out-of-town dealers and buyers combine an airport arrival with a shopping stop on Howard Avenue as one itinerary." },
       { q: "What does a Kensington to Dulles, Reagan or BWI car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
@@ -1003,9 +1003,9 @@ export const MARYLAND_BATCH8 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you connect with the Takoma Metro station on the Red Line?", a: "Yes. We regularly pick up and drop off travelers combining a Red Line Metro trip with an airport car service on the same itinerary." },
-      { q: "Which airport is closest to Takoma Park?", a: "Reagan National, about 15 miles and typically 25 to 35 minutes via New Hampshire Avenue and the Beltway." },
-      { q: "Do you serve the Takoma Park Farmers Market and Old Town historic district?", a: "Yes, along with the rest of the city's residential neighborhoods and Victorian and Craftsman home streets." },
-      { q: "Are Takoma Park's streets different to navigate than a typical suburb?", a: "Yes — many streets are traffic-calmed and pedestrian-friendly, and our chauffeurs are familiar with the layout rather than treating it like a standard grid." },
+      { q: "Which airport is closest to Takoma Park?", a: "Reagan National, about 15 miles and typically 25 to 35 minutes via New Hampshire Avenue and the Beltway. Dulles and BWI are also quoted at flat, written rates if your airline flies from there." },
+      { q: "Do you serve the Takoma Park Farmers Market and Old Town historic district?", a: "Yes, along with the rest of the city's residential neighborhoods and Victorian and Craftsman home streets. Give us the exact address or market entrance when you book so the chauffeur meets you at the right spot." },
+      { q: "Are Takoma Park's streets different to navigate than a typical suburb?", a: "Yes — many streets are traffic-calmed and pedestrian-friendly, and our chauffeurs are familiar with the layout rather than treating it like a standard grid. Let us know about any tight spots near your home when you book, and we will plan the pickup point around them." },
       { q: "What does a Takoma Park to Dulles, Reagan or BWI car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
     ],
     related: [

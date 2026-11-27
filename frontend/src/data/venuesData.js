@@ -30,7 +30,7 @@ const venues = [
       {
         heading: 'Group Transportation for Concerts at Jiffy Lube Live',
         paragraphs: [
-          'Concerts are better with friends, and our fleet is built for groups. A luxury SUV handles up to six passengers with room to spare, and Sprinter vans carry larger parties in a single vehicle so nobody gets separated in traffic or loses cell signal trying to coordinate a meetup. We regularly run birthday groups, bachelor and bachelorette parties, and corporate outings to the amphitheater all summer long.',
+          'Concerts are better with friends, and our fleet is built for groups. A Lincoln Navigator handles up to six passengers with room to spare, and Sprinter vans carry larger parties in a single vehicle so nobody gets separated in traffic or loses cell signal trying to coordinate a meetup. We regularly run birthday groups, bachelor and bachelorette parties, and corporate outings to the amphitheater all summer long.',
           'Rates are quoted flat and confirmed in writing before you ride — no surge pricing when the show lets out, which is exactly when rideshare fares at Jiffy Lube Live spike the hardest and pickup queues stretch the longest.',
         ],
       },
@@ -55,7 +55,7 @@ const venues = [
       {
         question: 'Can you handle a large group for a concert at Jiffy Lube Live?',
         answer:
-          'Yes. Luxury SUVs seat up to six passengers, and Sprinter vans accommodate larger parties so your whole group travels together. For very large groups we can run multiple vehicles in a coordinated convoy.',
+          'Yes. Lincoln Navigator SUVs seat up to six passengers, and Sprinter vans accommodate larger parties so your whole group travels together. For very large groups we can run multiple vehicles in a coordinated convoy.',
       },
       {
         question: 'Can you pick us up at Dulles Airport and take us straight to the show?',
@@ -120,7 +120,7 @@ const venues = [
       {
         question: 'How far is Wolf Trap from Dulles Airport and from Washington DC?',
         answer:
-          'Wolf Trap sits about 10 miles from Dulles International Airport — a 15-to-20-minute ride via the Dulles Toll Road — and roughly 20 miles from downtown Washington DC, typically 30 to 45 minutes depending on traffic.',
+          'Wolf Trap sits about 10 miles from Dulles International Airport — a 15-to-20-minute ride via the Dulles Toll Road — and roughly 20 miles from downtown Washington DC, typically 30 to 45 minutes depending on traffic. For out-of-town guests, we can collect them at Dulles, stop for dinner and deliver everyone to the Filene Center on one reservation.',
       },
       {
         question: 'Can we bring a picnic in the vehicle?',
@@ -130,7 +130,7 @@ const venues = [
       {
         question: 'Where do you pick us up after a show at the Filene Center?',
         answer:
-          'Your chauffeur confirms a specific meeting point with you before the performance ends and stages the vehicle nearby, so you avoid the slow single-exit backup onto Trap Road that follows every sold-out show.',
+          'Your chauffeur confirms a specific meeting point with you before the performance ends and stages the vehicle nearby, so you avoid the slow single-exit backup onto Trap Road that follows every sold-out show. With hourly service the chauffeur waits on-site during the performance, so the time the show ends never matters.',
       },
       {
         question: 'Do you also serve shows at The Barns at Wolf Trap?',
@@ -197,7 +197,7 @@ const venues = [
       {
         question: 'Where does the chauffeur pick us up after an event?',
         answer:
-          'Your chauffeur texts you a specific meeting point near the arena before the event ends and stages the vehicle there, so you skip the long crawl out of the campus parking decks onto Braddock Road and Ox Road.',
+          'Your chauffeur texts you a specific meeting point near the arena before the event ends and stages the vehicle there, so you skip the long crawl out of the campus parking decks onto Braddock Road and Ox Road. The flat rate you booked doesn\'t change when thousands of fans reach for a rideshare app at the same moment.',
       },
       {
         question: 'Do you provide transportation for George Mason graduation ceremonies?',

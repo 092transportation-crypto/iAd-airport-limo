@@ -73,7 +73,7 @@ const batch13 = [
       {
         question: 'How much extra time should we build into a winter wedding timeline?',
         answer:
-          'A real buffer of 20 to 30 minutes between venue stops is a reasonable planning assumption for a winter date, on top of the normal drive time.',
+          'A real buffer of 20 to 30 minutes between venue stops is a reasonable planning assumption for a winter date, on top of the normal drive time. Share the full timeline with the reservation coordinator so the buffer is built into each stop rather than tacked on at the end.',
       },
       {
         question: 'What happens if a state of emergency is declared on our wedding date?',
@@ -83,7 +83,7 @@ const batch13 = [
       {
         question: 'Is winter wedding transportation priced differently?',
         answer:
-          'Rates are the same hourly, as-directed wedding-day pricing used year-round, confirmed in writing before you book.',
+          'Rates are the same hourly, as-directed wedding-day pricing used year-round, confirmed in writing before you book. If weather forces a change, Sprinter vans and special-event bookings can be cancelled free of charge up to 12 hours before pickup.',
       },
     ],
     relatedLinks: [
@@ -150,7 +150,7 @@ const batch13 = [
       {
         question: 'Does the invoice break out individual trips?',
         answer:
-          'Yes, each monthly invoice lists trip-level detail — date, rider or booking reference, pickup and drop-off points and the rate charged — so your team can code each ride without chasing down details afterward.',
+          'Yes, each monthly invoice lists trip-level detail — date, rider or booking reference, pickup and drop-off points and the rate charged — so your team can code each ride without chasing down details afterward. A corporate account can also keep an approved-traveler list, so every ride on the invoice ties back to someone authorized to book.',
       },
       {
         question: 'What do you need from us before finance approves a new account?',
@@ -160,7 +160,7 @@ const batch13 = [
       {
         question: 'Can we split one invoice across multiple cost centers or departments?',
         answer:
-          'Yes, trip-level detail allows your AP team to code individual rides to different cost centers or client matters from a single consolidated invoice.',
+          'Yes, trip-level detail allows your AP team to code individual rides to different cost centers or client matters from a single consolidated invoice. Ask about adding a project or client reference to each booking so it carries through to the invoice.',
       },
       {
         question: 'Who do we contact if there is a billing question or dispute?',
@@ -226,7 +226,7 @@ const batch13 = [
       {
         question: 'How far in advance should we request a COI?',
         answer:
-          'As soon as your venue or building confirms the requirement — most want it on file one to two weeks before the event, not the morning of.',
+          'As soon as your venue or building confirms the requirement — most want it on file one to two weeks before the event, not the morning of. Send us the venue\'s exact wording for the certificate holder when you request it so the document is right the first time.',
       },
       {
         question: 'Is a COI the same as proof of a driver\'s license?',
@@ -241,7 +241,7 @@ const batch13 = [
       {
         question: 'Does a COI cost extra?',
         answer:
-          'No, providing a certificate of insurance to a venue or building on request is a standard part of booking with a properly licensed and insured carrier.',
+          'No, providing a certificate of insurance to a venue or building on request is a standard part of booking with a properly licensed and insured carrier. Just tell us the name and address the venue needs on the certificate when you book.',
       },
     ],
     relatedLinks: [
@@ -303,27 +303,27 @@ const batch13 = [
       {
         question: 'Will I know who is picking me up before I land?',
         answer:
-          'Yes, your chauffeur, vehicle and license plate are confirmed ahead of time, and meet and greet puts them inside baggage claim with a name sign rather than in an unfamiliar parking structure.',
+          'Yes, your chauffeur, vehicle and license plate are confirmed ahead of time, and meet and greet puts them inside baggage claim with a name sign rather than in an unfamiliar parking structure. Do not get into any vehicle that does not match the details in your confirmation.',
       },
       {
         question: 'Are IAD Airport Limo chauffeurs background-checked?',
         answer:
-          'Yes, chauffeurs are vetted professionals, and we can provide documentation of our licensing and commercial insurance on request.',
+          'Yes, chauffeurs are vetted professionals, and we can provide documentation of our licensing and commercial insurance on request. Every chauffeur is licensed and background-checked, and every vehicle is commercially insured.',
       },
       {
         question: 'What if my flight is delayed and I am traveling alone at night?',
         answer:
-          'Every airport pickup is flight-tracked, so the pickup adjusts automatically, and a phone call to dispatch reaches an actual person, not an unmonitored app chat.',
+          'Every airport pickup is flight-tracked, so the pickup adjusts automatically, and a phone call to dispatch reaches an actual person, not an unmonitored app chat. A late landing is covered by the complimentary wait, 45 minutes for domestic flights and 60 for international ones, so you are not hurried through the terminal.',
       },
       {
         question: 'Is meet and greet available for a solo late-night arrival?',
         answer:
-          'Yes, meet and greet is available on any booking and is especially worth choosing for a solo arrival after dark.',
+          'Yes, meet and greet is available on any booking and is especially worth choosing for a solo arrival after dark. Your chauffeur waits inside baggage claim with a name sign, so you never have to search a parking structure alone.',
       },
       {
         question: 'How do I confirm a chauffeur service is legitimate before I book?',
         answer:
-          'Ask directly about licensing, insurance and chauffeur vetting — a legitimate company answers plainly and can provide documentation, including a certificate of insurance, on request.',
+          'Ask directly about licensing, insurance and chauffeur vetting — a legitimate company answers plainly and can provide documentation, including a certificate of insurance, on request. IAD Airport Limo is licensed and commercially insured, and we provide that documentation to anyone who asks.',
       },
     ],
     relatedLinks: [
@@ -392,7 +392,7 @@ const batch13 = [
       {
         question: 'Do I need to download an app to book with IAD Airport Limo?',
         answer:
-          'No, you can book online through our website or by calling (877) 609-1919 — no app or account is required.',
+          'No, you can book online through our website or by calling (877) 609-1919 — no app or account is required. Your flat rate is confirmed in writing before the ride, and the card is charged once the reservation and rate are confirmed.',
       },
       {
         question: 'When do I find out how much the ride costs?',
@@ -402,12 +402,12 @@ const batch13 = [
       {
         question: 'How do I know who is picking me up?',
         answer:
-          'You receive your chauffeur\'s name, the vehicle type and a contact number ahead of your pickup time, typically the day before or morning of your trip.',
+          'You receive your chauffeur\'s name, the vehicle type and a contact number ahead of your pickup time, typically the day before or morning of your trip. If anything changes, dispatch is reachable 24/7 at (877) 609-1919.',
       },
       {
         question: 'What happens if my flight is delayed?',
         answer:
-          'Your flight is tracked automatically, and your pickup adjusts to your actual arrival time — you do not need to call ahead.',
+          'Your flight is tracked automatically, and your pickup adjusts to your actual arrival time — you do not need to call ahead. Complimentary waiting time is 45 minutes for domestic flights and 60 minutes for international ones, counted from your actual landing.',
       },
       {
         question: 'Do I pay the chauffeur directly at drop-off?',
@@ -474,7 +474,7 @@ const batch13 = [
       {
         question: 'Do you provide transportation for Salamander Resort weddings?',
         answer:
-          'Yes, including on-property vehicle staging and coordination for weddings using the resort as both the ceremony venue and the getting-ready base.',
+          'Yes, including on-property vehicle staging and coordination for weddings using the resort as both the ceremony venue and the getting-ready base. Share the ceremony and reception times and the getting-ready location when you book so staging can be planned with the resort in advance.',
       },
       {
         question: 'Can a stretch limousine access Oatlands or Morven Park\'s historic grounds?',
@@ -484,7 +484,7 @@ const batch13 = [
       {
         question: 'Do these estates require a guest shuttle?',
         answer:
-          'Often, yes — many historic estates cap on-site guest parking, which makes a shuttle from a nearby hotel block a practical necessity for larger guest lists.',
+          'Often, yes — many historic estates cap on-site guest parking, which makes a shuttle from a nearby hotel block a practical necessity for larger guest lists. A Sprinter van seats up to 13 guests per run, so the number of vans depends on the guest list and how tightly arrivals are timed.',
       },
       {
         question: 'Is this different from a Loudoun vineyard wedding?',
@@ -494,7 +494,7 @@ const batch13 = [
       {
         question: 'How far ahead should we confirm transportation for an estate wedding?',
         answer:
-          'As soon as your venue is booked — the earlier we can confirm access and parking restrictions directly with the estate, the more accurately we can plan your day.',
+          'As soon as your venue is booked — the earlier we can confirm access and parking restrictions directly with the estate, the more accurately we can plan your day. Send the estate\'s vendor or access requirements along with your timeline, and we will plan the vehicle choice and staging around them.',
       },
     ],
     relatedLinks: [
@@ -562,7 +562,7 @@ const batch13 = [
       {
         question: 'Can you coordinate transportation for a PCS move with family arriving separately?',
         answer:
-          'Yes, we plan around the full household\'s actual arrival pattern, including separate flights for a service member and family members.',
+          'Yes, we plan around the full household\'s actual arrival pattern, including separate flights for a service member and family members. Share every flight number when you book, and each pickup is tracked separately and timed to its actual landing.',
       },
       {
         question: 'Do you know Quantico\'s base-gate and visitor-ID procedures?',
@@ -572,17 +572,17 @@ const batch13 = [
       {
         question: 'Can you handle group pickups for an OCS or TBS graduation weekend?',
         answer:
-          'Yes, including pickups timed to each traveler\'s individual flight so an extended family is not waiting on one fixed meeting time.',
+          'Yes, including pickups timed to each traveler\'s individual flight so an extended family is not waiting on one fixed meeting time. Each pickup includes complimentary waiting time of 45 minutes for domestic flights and 60 for international ones.',
       },
       {
         question: 'What vehicle works best for a family-day weekend with extended family?',
         answer:
-          'A 13-passenger Sprinter van is the most common choice for extended families sharing one schedule across an airport-area hotel and base events.',
+          'A 13-passenger Sprinter van is the most common choice for extended families sharing one schedule across an airport-area hotel and base events. A family larger than 13 can be split across a Sprinter and an SUV, and hourly booking keeps the vehicle available between the hotel and base events.',
       },
       {
         question: 'How far is Quantico from Dulles and Reagan National?',
         answer:
-          'Dulles is about 45 miles (55–70 minutes); Reagan National is about 32 miles (45–60 minutes), depending on traffic.',
+          'Dulles is about 45 miles (55–70 minutes); Reagan National is about 32 miles (45–60 minutes), depending on traffic. Airport pickups are flight-tracked, and the flat rate is confirmed before the ride regardless of traffic on the day.',
       },
     ],
     relatedLinks: [
@@ -638,7 +638,7 @@ const batch13 = [
       {
         question: 'Is IAD Airport Limo a local carrier or a national affiliate network?',
         answer:
-          'We are a locally based, licensed and insured Virginia and Maryland carrier dedicated to the Dulles and Northern Virginia region — not a dispatch platform routing your trip to an unfamiliar affiliate.',
+          'We are a locally based, licensed and insured Virginia and Maryland carrier dedicated to the Dulles and Northern Virginia region — not a dispatch platform routing your trip to an unfamiliar affiliate. Chauffeurs are licensed and background-checked, and you can reach our dispatch directly 24/7 at (877) 609-1919.',
       },
       {
         question: 'How do I know if a platform I\'m booking through dispatches to local affiliates?',
@@ -648,17 +648,17 @@ const batch13 = [
       {
         question: 'Is an affiliate-dispatch booking less reliable than booking a local company directly?',
         answer:
-          'Not necessarily, but accountability can be split between the platform and the affiliate when something goes wrong, which can slow down resolving a problem compared to one direct relationship.',
+          'Not necessarily, but accountability can be split between the platform and the affiliate when something goes wrong, which can slow down resolving a problem compared to one direct relationship. Booking directly with the carrier means one company is responsible for the vehicle, the chauffeur and the fix if something changes.',
       },
       {
         question: 'Does a national platform ever make sense over a local carrier?',
         answer:
-          'Yes, for travelers who need one consistent app and billing process across many cities, a national platform is a reasonable, conscious trade-off.',
+          'Yes, for travelers who need one consistent app and billing process across many cities, a national platform is a reasonable, conscious trade-off. For trips centered on Dulles and Northern Virginia, a local carrier usually offers stronger knowledge of the area and more direct accountability.',
       },
       {
         question: 'Does your company know specific Dulles-area venues and neighborhoods well?',
         answer:
-          'Yes, as a carrier dedicated to this region, our chauffeurs have direct, repeated experience with local pickup zones, estate venues and neighborhood access requirements.',
+          'Yes, as a carrier dedicated to this region, our chauffeurs have direct, repeated experience with local pickup zones, estate venues and neighborhood access requirements. That familiarity helps most at places with gated access or limited parking, where a first-time driver is more likely to get turned around.',
       },
     ],
     relatedLinks: [
@@ -727,27 +727,27 @@ const batch13 = [
       {
         question: 'Can you provide licensing and insurance documentation for a planner\'s vendor file?',
         answer:
-          'Yes, call (877) 609-1919 or email your request and we will provide our Virginia and Maryland motor-carrier documentation and a certificate of insurance naming your client\'s venue where required.',
+          'Yes, call (877) 609-1919 or email your request and we will provide our Virginia and Maryland motor-carrier documentation and a certificate of insurance naming your client\'s venue where required. It is a standard request from planners building a vendor file, not an extra.',
       },
       {
         question: 'Do you review the full wedding-day timeline before quoting a rate?',
         answer:
-          'Yes, we ask for the complete day-of schedule and confirm realistic drive times and buffers between stops rather than quoting a rate without engaging with the actual plan.',
+          'Yes, we ask for the complete day-of schedule and confirm realistic drive times and buffers between stops rather than quoting a rate without engaging with the actual plan. That review is also where extra time for photos or a venue with limited access gets built into the plan.',
       },
       {
         question: 'Is there a dedicated point of contact on the wedding day itself?',
         answer:
-          'Yes, every wedding booking has a reachable day-of contact in case the timeline shifts or a change is needed.',
+          'Yes, every wedding booking has a reachable day-of contact in case the timeline shifts or a change is needed. Dispatch also runs 24/7 at (877) 609-1919 as a backup if anything needs to change quickly.',
       },
       {
         question: 'Can planners see actual vehicle photos before recommending you?',
         answer:
-          'Yes, we can provide current photos of the specific vehicles available for a booking rather than stock marketing images.',
+          'Yes, we can provide current photos of the specific vehicles available for a booking rather than stock marketing images. Ask while you are putting together a proposal for a client, and say which vehicle classes the couple is considering.',
       },
       {
         question: 'Do you work with wedding and event planners directly?',
         answer:
-          'Yes, and we are glad to provide references from other planners we have worked with — call (877) 609-1919 to ask.',
+          'Yes, and we are glad to provide references from other planners we have worked with — call (877) 609-1919 to ask. We can send our licensing and insurance documentation for your vendor file at the same time.',
       },
     ],
     relatedLinks: [
@@ -803,27 +803,27 @@ const batch13 = [
       {
         question: 'Can you navigate Old Town Alexandria\'s one-way cobblestone streets for an event?',
         answer:
-          'Yes, our chauffeurs plan specific drop-off and pickup points for each Old Town venue in advance rather than treating it as a standard street-side stop.',
+          'Yes, our chauffeurs plan specific drop-off and pickup points for each Old Town venue in advance rather than treating it as a standard street-side stop. Share the venue names and the evening\'s schedule in advance so those points are set before the event.',
       },
       {
         question: 'Can one reservation cover a multi-venue corporate evening in Old Town?',
         answer:
-          'Yes, hourly as-directed service keeps one vehicle staged nearby so the chauffeur can reposition between a reception, dinner and a third stop without re-dispatching.',
+          'Yes, hourly as-directed service keeps one vehicle staged nearby so the chauffeur can reposition between a reception, dinner and a third stop without re-dispatching. The rate for the block of hours is confirmed in writing before the event.',
       },
       {
         question: 'Do you run shuttle service for a conference with attendees at multiple hotels?',
         answer:
-          'Yes, a Sprinter van shuttle loop between lodging and the event venue is a common and practical choice given Old Town\'s limited parking.',
+          'Yes, a Sprinter van shuttle loop between lodging and the event venue is a common and practical choice given Old Town\'s limited parking. Each Sprinter seats up to 13 passengers, and sharing the hotel list and session times lets the loop be timed to when attendees actually move.',
       },
       {
         question: 'How far is Old Town Alexandria from Reagan National?',
         answer:
-          'About 7 miles and 10 to 20 minutes, making it convenient for out-of-town attendees flying in for the event.',
+          'About 7 miles and 10 to 20 minutes, making it convenient for out-of-town attendees flying in for the event. Arrivals are flight-tracked, so an attendee\'s pickup adjusts automatically if the flight lands early or late.',
       },
       {
         question: 'Do you offer corporate accounts for recurring Old Town client events?',
         answer:
-          'Yes, standing corporate accounts with consolidated monthly invoicing are available for companies hosting recurring events in Old Town.',
+          'Yes, standing corporate accounts with consolidated monthly invoicing are available for companies hosting recurring events in Old Town. Accounts come with negotiated rates and a consistent point of contact, which keeps repeat events simple to book.',
       },
     ],
     relatedLinks: [

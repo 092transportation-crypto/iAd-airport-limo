@@ -64,7 +64,7 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Lansdowne from Dulles Airport?", a: "About 12 miles and 15 to 20 minutes via Route 7 and the Loudoun County Parkway, one of the shortest airport transfers in our Loudoun County service area." },
+      { q: "How far is Lansdowne from Dulles Airport?", a: "About 12 miles and 15 to 20 minutes via Route 7 and the Loudoun County Parkway, one of the shortest airport transfers in our Loudoun County service area. Pickups are flight-tracked, with 45 minutes of complimentary waiting on domestic flights." },
       { q: "Do you serve the Lansdowne Resort and Spa and the National Conference Center?", a: "Yes. We run regular pickups and drop-offs at both properties for conference attendees, wedding guests and corporate travelers." },
       { q: "What does a Lansdowne to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Can you handle a multi-stop day combining Lansdowne and downtown DC?", a: "Yes. Tell us the full itinerary when you book — resort, office, airport — and we quote the whole day as one flat rate or hourly booking." },
@@ -133,8 +133,8 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Stone Ridge from Dulles Airport?", a: "About 12 miles and 15 to 20 minutes via Loudoun County Parkway or Route 50, depending on traffic." },
-      { q: "Do you serve Kirkpatrick Farms and John Champe High School area?", a: "Yes, along with the rest of Stone Ridge — Stone Ridge Village Center, the Dulles South Rec Center and the surrounding neighborhoods." },
+      { q: "How far is Stone Ridge from Dulles Airport?", a: "About 12 miles and 15 to 20 minutes via Loudoun County Parkway or Route 50, depending on traffic. Arrivals are flight-tracked, with complimentary waiting of 45 minutes domestic and 60 international." },
+      { q: "Do you serve Kirkpatrick Farms and John Champe High School area?", a: "Yes, along with the rest of Stone Ridge — Stone Ridge Village Center, the Dulles South Rec Center and the surrounding neighborhoods. Give us the street address when you book and the chauffeur will pick up at your door." },
       { q: "What does a Stone Ridge to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Can you provide a car seat for a child riding with us?", a: "Yes. Infant, convertible and booster seats are available on request at no extra charge — note the ages of any children when you book." },
       { q: "Do you serve Reagan National and BWI from Stone Ridge as well?", a: "Yes. Reagan National is about 32 miles and BWI about 52 miles, both quoted as flat rates with the same flight tracking as our Dulles transfers." },
@@ -202,11 +202,11 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is the Dulles hotel corridor from the airport terminals?", a: "About three to five miles depending on the exact property — typically five to ten minutes door to door, the shortest regular transfer we run." },
+      { q: "How far is the Dulles hotel corridor from the airport terminals?", a: "About three to five miles depending on the exact property — typically five to ten minutes door to door, the shortest regular transfer we run. Even on a trip this short, the pickup is flight-tracked so the chauffeur is there when you land." },
       { q: "Do you serve the Route 28 data-center and office corridor?", a: "Yes. We run daily corporate and vendor transfers along Route 28 and Innovation Avenue, with standing accounts available for recurring visits." },
       { q: "Can you pick up crew or staff for an overnight hotel stay near Dulles?", a: "Yes. Overnight and early-morning hotel-to-terminal pickups are some of our most common bookings in this area, available 24/7." },
       { q: "What does a car service near Dulles Airport cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Is same-day booking easier near the airport than elsewhere in your service area?", a: "Often yes, given the short distances involved — call (877) 609-1919 for the fastest answer on same-day availability." },
+      { q: "Is same-day booking easier near the airport than elsewhere in your service area?", a: "Often yes, given the short distances involved — call (877) 609-1919 for the fastest answer on same-day availability. Booking ahead is still the surest way to get the vehicle you want." },
       
     ],
     related: [
@@ -270,9 +270,9 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Is Reagan National closer than Dulles from Merrifield?", a: "Yes — Reagan National is about 10 miles versus 16 for Dulles, though both run comparably during rush hour depending on the exact route." },
+      { q: "Is Reagan National closer than Dulles from Merrifield?", a: "Yes — Reagan National is about 10 miles versus 16 for Dulles, though both run comparably during rush hour depending on the exact route. Both are quoted at flat, written rates, so the choice can rest on your flight." },
       { q: "Do you serve Inova Fairfax Medical Campus for patients and family?", a: "Yes. We regularly handle hospital discharges, visiting family airport pickups and recurring appointment transportation at Inova Fairfax." },
-      { q: "Can you pick up at the Dunn Loring-Merrifield Metro station?", a: "Yes, along with the rest of Merrifield and the Mosaic District." },
+      { q: "Can you pick up at the Dunn Loring-Merrifield Metro station?", a: "Yes, along with the rest of Merrifield and the Mosaic District. Tell us whether you are heading to the airport, a train or dinner, and we will time the pickup to match." },
       { q: "What does a Merrifield to Dulles or Reagan car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Can a chauffeur accommodate a wheelchair transfer or slower boarding?", a: "Yes. Our chauffeurs are experienced with hospital-related pickups and will take the time needed for a comfortable, unhurried transfer." },
       
@@ -339,10 +339,10 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Is Reagan National closer than Dulles from Kingstowne?", a: "Yes — Reagan National is about 12 miles versus 26 for Dulles, making it the faster option for most domestic trips." },
-      { q: "Do you serve Kingstowne Towne Center?", a: "Yes, along with the rest of Kingstowne's residential villages and the surrounding Franconia-Springfield area." },
+      { q: "Is Reagan National closer than Dulles from Kingstowne?", a: "Yes — Reagan National is about 12 miles versus 26 for Dulles, making it the faster option for most domestic trips. Both airports are quoted at a flat rate confirmed in writing before the ride." },
+      { q: "Do you serve Kingstowne Towne Center?", a: "Yes, along with the rest of Kingstowne's residential villages and the surrounding Franconia-Springfield area. Give us the address when you book and the chauffeur will pick up right at your door." },
       { q: "What does a Kingstowne to Reagan or Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Can you pick up near the Franconia-Springfield Metro and VRE station?", a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer." },
+      { q: "Can you pick up near the Franconia-Springfield Metro and VRE station?", a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer. Share your train's arrival time when you book so your chauffeur is ready when you reach the station." },
       { q: "Do you serve corporate offices near the Franconia-Springfield interchange?", a: "Yes. Corporate accounts with monthly invoicing are available for recurring employee and client transfers." },
       
       
@@ -409,9 +409,9 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Fair Oaks from Dulles Airport?", a: "About 13 miles and 18 to 25 minutes via Route 50 and the Fairfax County Parkway." },
+      { q: "How far is Fair Oaks from Dulles Airport?", a: "About 13 miles and 18 to 25 minutes via Route 50 and the Fairfax County Parkway. Airport pickups are flight-tracked, so a delayed landing simply moves your chauffeur's timing." },
       { q: "Do you serve Inova Fair Oaks Hospital for patients and visiting family?", a: "Yes. We regularly handle hospital discharges and visiting family airport pickups at Inova Fair Oaks." },
-      { q: "Do you pick up at Fair Oaks Mall?", a: "Yes, at a specific entrance confirmed in advance rather than a general lot, for both shopping trips and connecting transfers." },
+      { q: "Do you pick up at Fair Oaks Mall?", a: "Yes, at a specific entrance confirmed in advance rather than a general lot, for both shopping trips and connecting transfers. If you are shopping for a while, an hourly booking keeps the car nearby until you are ready." },
       { q: "What does a Fair Oaks to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Can a chauffeur accommodate a slower hospital-related pickup?", a: "Yes. Chauffeurs are patient and experienced with hospital discharges, including wheelchair transfers when needed." },
       
@@ -478,11 +478,11 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Fair Lakes from Dulles Airport?", a: "About 10 miles and 15 to 20 minutes via Route 50 and the Fairfax County Parkway." },
+      { q: "How far is Fair Lakes from Dulles Airport?", a: "About 10 miles and 15 to 20 minutes via Route 50 and the Fairfax County Parkway. On arrivals, your chauffeur follows the flight and waits 45 minutes free for domestic flights and 60 for international." },
       { q: "Do you serve the Fair Lakes corporate and government-contractor campuses?", a: "Yes. We run standing corporate accounts for recurring employee and client transfers in this office corridor." },
-      { q: "Do you pick up at Fair Lakes Shopping Center?", a: "Yes, including the restaurants and retail along the shopping center, for both local trips and connecting airport transfers." },
+      { q: "Do you pick up at Fair Lakes Shopping Center?", a: "Yes, including the restaurants and retail along the shopping center, for both local trips and connecting airport transfers. If you are shopping or dining for a while, an hourly booking keeps the car close by." },
       { q: "What does a Fair Lakes to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Can you handle a multi-stop corporate day across Fair Lakes and Fairfax?", a: "Yes, as hourly as-directed service — the same vehicle and chauffeur stay with you between meetings." },
+      { q: "Can you handle a multi-stop corporate day across Fair Lakes and Fairfax?", a: "Yes, as hourly as-directed service — the same vehicle and chauffeur stay with you between meetings. The hourly rate is confirmed in writing before the day begins." },
       
       
     ],
@@ -547,11 +547,11 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Is Reagan National closer than Dulles from Seven Corners?", a: "Yes — Reagan National is about 8 miles versus 20 for Dulles, making it the faster option for most domestic trips." },
-      { q: "Do you serve the Seven Corners Shopping Center?", a: "Yes, along with the surrounding apartment and townhome communities." },
-      { q: "Does the Seven Corners interchange add time to pickups?", a: "It can, especially during rush hour — our chauffeurs build in extra time for the interchange's complex merges rather than quoting an optimistic drive time." },
+      { q: "Is Reagan National closer than Dulles from Seven Corners?", a: "Yes — Reagan National is about 8 miles versus 20 for Dulles, making it the faster option for most domestic trips. Dulles is also quoted at a flat, written rate and is often the better fit for international flights." },
+      { q: "Do you serve the Seven Corners Shopping Center?", a: "Yes, along with the surrounding apartment and townhome communities. Tell us the store or entrance when you book so the chauffeur meets you at the right spot." },
+      { q: "Does the Seven Corners interchange add time to pickups?", a: "It can, especially during rush hour — our chauffeurs build in extra time for the interchange's complex merges rather than quoting an optimistic drive time. That planning is built into the pickup time we confirm with you, and the flat rate does not change with traffic." },
       { q: "What does a Seven Corners to Reagan or Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Do you serve the apartment communities near Seven Corners?", a: "Yes, we regularly pick up and drop off at the garden apartment and townhome communities throughout the area." },
+      { q: "Do you serve the apartment communities near Seven Corners?", a: "Yes, we regularly pick up and drop off at the garden apartment and townhome communities throughout the area. Give us the building name when you book, and the chauffeur can meet you at the main entrance." },
       
     ],
     related: [
@@ -615,10 +615,10 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Bailey's Crossroads from Reagan National Airport?", a: "About 7 miles and 12 to 20 minutes via Leesburg Pike and the GW Parkway — one of the quickest airport transfers we offer." },
-      { q: "Do you serve the Skyline Towers complex?", a: "Yes, for both office visits and residential pickups, along with the rest of the Leesburg Pike corridor." },
+      { q: "How far is Bailey's Crossroads from Reagan National Airport?", a: "About 7 miles and 12 to 20 minutes via Leesburg Pike and the GW Parkway — one of the quickest airport transfers we offer. Arrivals are flight-tracked, so the chauffeur's timing follows your actual landing." },
+      { q: "Do you serve the Skyline Towers complex?", a: "Yes, for both office visits and residential pickups, along with the rest of the Leesburg Pike corridor. Tell us which building and entrance when you book so the chauffeur meets you there." },
       { q: "What does a Bailey's Crossroads to Reagan or Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Do you serve the apartment communities along Leesburg Pike?", a: "Yes, including multi-stop pickups across the area's dense apartment and condo towers." },
+      { q: "Do you serve the apartment communities along Leesburg Pike?", a: "Yes, including multi-stop pickups across the area's dense apartment and condo towers. Each stop is listed on the reservation, and the rate is confirmed in writing before the ride." },
       { q: "Do you serve Reagan National and BWI as well?", a: "Yes. Reagan National is the closest at about 7 miles, and BWI is about 42 miles, both quoted as flat rates with flight tracking." },
       
     ],
@@ -684,8 +684,8 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Is Reagan National closer than Dulles from Franconia?", a: "Yes — Reagan National is about 11 miles versus 27 for Dulles, making it the faster option for most domestic trips." },
-      { q: "Do you serve the Franconia-Springfield Metro and VRE station?", a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer." },
+      { q: "Is Reagan National closer than Dulles from Franconia?", a: "Yes — Reagan National is about 11 miles versus 27 for Dulles, making it the faster option for most domestic trips. Dulles is quoted at a flat, written rate as well, and every airport pickup is flight-tracked." },
+      { q: "Do you serve the Franconia-Springfield Metro and VRE station?", a: "Yes, for guests connecting to rail or as a direct door-to-door alternative to the Metro transfer. Share your train's arrival time when you book so your chauffeur is ready when you reach the station." },
       { q: "What does a Franconia to Reagan or Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Do you serve corporate offices along Telegraph Road?", a: "Yes. Corporate accounts with monthly invoicing are available for recurring employee and client transfers." },
       { q: "Can you handle a VRE commuter pickup for an early train?", a: "Yes. Early-morning pickups timed to a specific VRE departure are a regular booking for us in this area." },
@@ -754,10 +754,10 @@ export const MARYLAND_BATCH7 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you provide transportation to Jiffy Lube Live from Bristow and the surrounding area?", a: "Yes. We regularly run concert transportation to Jiffy Lube Live, with a coordinated pickup point after the show to avoid the venue's notoriously slow lot traffic." },
-      { q: "How far is Bristow from Dulles Airport?", a: "About 25 miles and 30 to 40 minutes via I-66 and Linton Hall Road, depending on traffic." },
+      { q: "How far is Bristow from Dulles Airport?", a: "About 25 miles and 30 to 40 minutes via I-66 and Linton Hall Road, depending on traffic. We set departure pickups around the time of day, and the rate is confirmed in writing before you book." },
       { q: "Do you serve the Innovation Park technology and biotech corridor?", a: "Yes. Corporate accounts with monthly invoicing are available for recurring employee and client transfers." },
       { q: "What does a Bristow to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Can a group split the cost of a Jiffy Lube Live ride instead of driving separately?", a: "Yes — an SUV or Sprinter van booked as a flat rate for the group is usually more economical than several individual rideshare fares during the post-show surge." },
+      { q: "Can a group split the cost of a Jiffy Lube Live ride instead of driving separately?", a: "Yes — an SUV or Sprinter van booked as a flat rate for the group is usually more economical than several individual rideshare fares during the post-show surge. The rate is agreed in writing before the show, so the group can settle how to split it ahead of time." },
       
     ],
     related: [
@@ -822,11 +822,11 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Nokesville from Dulles Airport?", a: "About 30 miles and 35 to 45 minutes via Route 28 and I-66, depending on traffic." },
+      { q: "How far is Nokesville from Dulles Airport?", a: "About 30 miles and 35 to 45 minutes via Route 28 and I-66, depending on traffic. Pickups are flight-tracked, and the flat rate is confirmed in writing before the ride." },
       { q: "Do you serve rural and farm addresses in Nokesville?", a: "Yes. We confirm exact directions with you before dispatch, since many Nokesville addresses are rural routes rather than standard suburban streets." },
       { q: "What does a Nokesville to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
-      { q: "Do you serve the Prince William County Fairgrounds area?", a: "Yes, along with the surrounding farm and rural properties near Nokesville." },
-      { q: "Should I book further ahead given the distance to the airport?", a: "A little extra lead time helps for an early-morning departure, though we accommodate same-day requests when possible — call (877) 609-1919 to check." },
+      { q: "Do you serve the Prince William County Fairgrounds area?", a: "Yes, along with the surrounding farm and rural properties near Nokesville. Share the address or event details when you book so the chauffeur knows exactly where to go." },
+      { q: "Should I book further ahead given the distance to the airport?", a: "A little extra lead time helps for an early-morning departure, though we accommodate same-day requests when possible — call (877) 609-1919 to check. Booking ahead also locks in your flat, written rate and the vehicle you prefer." },
       
     ],
     related: [
@@ -889,7 +889,7 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Marshall from Dulles Airport?", a: "About 25 miles and 30 to 40 minutes via I-66, depending on traffic." },
+      { q: "How far is Marshall from Dulles Airport?", a: "About 25 miles and 30 to 40 minutes via I-66, depending on traffic. The chauffeur tracks your flight on arrivals, and the rate is confirmed in writing in advance." },
       { q: "Do you run wine tour days from Marshall?", a: "Yes. Hourly as-directed service covers a day of tastings at nearby Fauquier County wineries — tell us your preferences and we will build a realistic schedule." },
       { q: "What does a Marshall to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Do you serve rural estate and farm addresses near Marshall?", a: "Yes. We confirm exact directions with you before dispatch, since many Marshall-area addresses are on rural routes." },
@@ -956,7 +956,7 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Round Hill from Dulles Airport?", a: "About 25 miles and 30 to 40 minutes via Route 7, depending on traffic." },
+      { q: "How far is Round Hill from Dulles Airport?", a: "About 25 miles and 30 to 40 minutes via Route 7, depending on traffic. Arrivals are flight-tracked, so the chauffeur is waiting when you land." },
       { q: "Do you run wine tour days from Round Hill?", a: "Yes. Hourly as-directed service covers a day of tastings at nearby western Loudoun wineries near Bluemont and Purcellville." },
       { q: "What does a Round Hill to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Do you serve rural farm and estate addresses near Round Hill?", a: "Yes. We confirm exact directions with you before dispatch, since many Round Hill-area addresses are on rural routes." },
@@ -1024,11 +1024,11 @@ export const MARYLAND_BATCH7 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Lovettsville from Dulles Airport?", a: "About 30 miles and 35 to 45 minutes via Route 287 and Route 7, depending on traffic." },
+      { q: "How far is Lovettsville from Dulles Airport?", a: "About 30 miles and 35 to 45 minutes via Route 287 and Route 7, depending on traffic. Arrivals are flight-tracked, and the flat rate is confirmed before the ride." },
       { q: "Do you serve the Lovettsville Oktoberfest and historic district events?", a: "Yes. We run both individual and group transportation for Lovettsville's annual Oktoberfest and other historic district events." },
       { q: "What does a Lovettsville to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Do you serve rural farm addresses near Lovettsville?", a: "Yes. We confirm exact directions with you before dispatch, since many Lovettsville-area addresses are on rural routes near the county line." },
-      { q: "Should I book further ahead given the distance to the airport?", a: "A little extra lead time helps for an early-morning departure, though we accommodate same-day requests when possible — call (877) 609-1919 to check." },
+      { q: "Should I book further ahead given the distance to the airport?", a: "A little extra lead time helps for an early-morning departure, though we accommodate same-day requests when possible — call (877) 609-1919 to check. Booking ahead also locks in your flat, written rate and the vehicle you prefer." },
       
     ],
     related: [

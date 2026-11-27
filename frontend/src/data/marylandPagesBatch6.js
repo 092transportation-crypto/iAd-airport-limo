@@ -133,7 +133,7 @@ export const MARYLAND_BATCH6 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Annapolis to BWI or Dulles?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride, with no surge pricing. Call (877) 609-1919 or book online for exact pricing to BWI, IAD or DCA." },
-      { q: "How far is BWI from Annapolis?", a: "About 25 miles and 30–45 minutes via US-50 and I-97, making BWI the fastest airport option for most Annapolis travelers." },
+      { q: "How far is BWI from Annapolis?", a: "About 25 miles and 30–45 minutes via US-50 and I-97, making BWI the fastest airport option for most Annapolis travelers. Every BWI pickup is flight-tracked, with meet and greet inside baggage claim available on request." },
       { q: "Do you handle Naval Academy commissioning week and graduation?", a: "Yes, every year. These are our busiest Annapolis dates — we recommend booking as soon as your dates are confirmed, since vehicles sell out weeks ahead." },
       { q: "Can you provide a Sprinter van for a sailing week or wedding group?", a: "Yes. Our 13-passenger Sprinter vans and stretch limousines regularly handle Annapolis wedding parties, sailing-week crews and family reunions moving between hotels and the venue." },
       { q: "Do you serve the Annapolis boat shows?", a: "Yes. We run dedicated transportation for both the fall sail and powerboat shows — see our Annapolis Boat Show page for show-specific pickup details." },
@@ -207,7 +207,7 @@ export const MARYLAND_BATCH6 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much is a car service from Columbia to BWI?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride, with no surge pricing. Call (877) 609-1919 or book online for exact pricing to BWI, IAD or DCA." },
-      { q: "How far is Columbia from BWI Airport?", a: "About 18 miles and 25–35 minutes via US-29 and I-195, making BWI the fastest airport option for most Columbia addresses." },
+      { q: "How far is Columbia from BWI Airport?", a: "About 18 miles and 25–35 minutes via US-29 and I-195, making BWI the fastest airport option for most Columbia addresses. Because Columbia sits between Washington and Baltimore, we also run Dulles and Reagan National on the same flat-rate, flight-tracked terms." },
       { q: "Do you provide transportation to Merriweather Post Pavilion?", a: "Yes. We regularly run concert transportation to Merriweather, with a coordinated pickup point after the show to skip the parking lot backup. See our Merriweather page for details." },
       { q: "Can my company set up a standing account for the Columbia business parks?", a: "Yes. Corporate accounts with monthly invoicing are available for businesses along Columbia Gateway Drive and throughout Howard County." },
       { q: "Do you serve all of Columbia's villages, not just Town Center?", a: "Yes. We cover every village — Wilde Lake, Harper's Choice, Oakland Mills, Long Reach, Owen Brown, River Hill and King's Contrivance — with the same flat-rate pricing." },
@@ -273,7 +273,7 @@ export const MARYLAND_BATCH6 = [
       { q: "What does a Brambleton limo service to Dulles cost?", a: "Every trip is a flat rate by vehicle and address, confirmed before you book, with no surge pricing. Call (877) 609-1919 or use the online booking form for an exact quote." },
       { q: "Can the chauffeur meet me inside the terminal at Dulles?", a: "Yes. Optional meet and greet places your chauffeur at baggage claim with a name sign. Complimentary wait time is 45 minutes on domestic arrivals and 60 minutes on international arrivals." },
       { q: "Do you handle transportation for data-center visits near Brambleton?", a: "Yes. Corporate accounts cover recurring visits, multi-site days and team transfers in Sprinter vans, with one confirmed rate for the full itinerary." },
-      { q: "Is Brambleton service available overnight?", a: "Dispatch runs 24/7, so late arrivals, early departures and overnight pickups are booked and monitored the same way as a midday trip." },
+      { q: "Is Brambleton service available overnight?", a: "Dispatch runs 24/7, so late arrivals, early departures and overnight pickups are booked and monitored the same way as a midday trip. There's no premium for an early-morning or late-night pickup, and the flat rate is the same whether you book a week ahead or the same day, subject to availability." },
       
     ],
     related: [
@@ -336,7 +336,7 @@ export const MARYLAND_BATCH6 = [
       { q: "How far ahead should we book for homecoming?", a: "Four to six weeks ahead is ideal. Stretch limousines and Sprinter vans for homecoming season sell out fastest, especially on the first two homecoming weekends in a given area." },
       { q: "Is there a no-alcohol policy?", a: "Yes, strictly enforced. Chauffeurs are trained to handle teen group bookings appropriately and will not transport a group that violates the policy." },
       { q: "Can parents track the group or reach the chauffeur during the night?", a: "Yes. Parents receive the chauffeur's direct contact number and a confirmed itinerary in advance, and can call dispatch at any point for a status update." },
-      { q: "What vehicles work best for a homecoming group?", a: "A luxury SUV fits a smaller group of up to six; a Sprinter van or stretch limousine fits larger groups of eight to thirteen comfortably with room for everyone to ride together." },
+      { q: "What vehicles work best for a homecoming group?", a: "A Lincoln Navigator fits a smaller group of up to six; a Sprinter van or stretch limousine fits larger groups of eight to thirteen comfortably with room for everyone to ride together. One organizing parent usually collects the pickup addresses, dinner reservation and dance time so we can size the vehicle and quote one flat rate." },
       
     ],
     related: [
@@ -404,7 +404,7 @@ export const MARYLAND_BATCH6 = [
       { q: "Can you shuttle out-of-town guests between their hotels and the venue?", a: "Yes. A Sprinter van is the most common choice for guest shuttles, running a coordinated loop between hotels, the synagogue and the reception venue." },
       { q: "Do chauffeurs understand synagogue drop-off logistics?", a: "Yes. Our chauffeurs are experienced with synagogue timing and parking restrictions and plan drop-offs to leave the family time to spare before the service begins." },
       { q: "Can you also handle airport pickups for out-of-town family?", a: "Yes. We regularly coordinate Dulles, Reagan National and BWI pickups for guests flying in ahead of a mitzvah weekend, as part of the same booking." },
-      { q: "How far in advance should we book?", a: "We recommend booking as soon as your date and venue are confirmed, especially for spring and fall weekends when mitzvah celebrations cluster heavily across the region." },
+      { q: "How far in advance should we book?", a: "We recommend booking as soon as your date and venue are confirmed, especially for spring and fall weekends when mitzvah celebrations cluster heavily across the region. Share the full weekend schedule, from services to the reception and guest shuttles, and we quote one flat rate covering every leg." },
       
       
     ],
@@ -460,10 +460,10 @@ export const MARYLAND_BATCH6 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does a limo to Nationals Park cost?", a: "Pricing depends on pickup location, vehicle choice and whether you book a round trip or hourly service with the chauffeur standing by. All rates are flat and confirmed in writing before the game. Call (877) 609-1919 for an exact quote." },
-      { q: "Where does the chauffeur pick us up after the game?", a: "Your chauffeur coordinates a specific meeting point with you by text before the final innings and stages the vehicle nearby, so you avoid the worst of the post-game Navy Yard crowd and traffic." },
+      { q: "Where does the chauffeur pick us up after the game?", a: "Your chauffeur coordinates a specific meeting point with you by text before the final innings and stages the vehicle nearby, so you avoid the worst of the post-game Navy Yard crowd and traffic. Suite groups and corporate outings leave together in one vehicle, so nobody has to peel off to find a car parked blocks away." },
       { q: "Can you handle a suite or corporate group at Nationals Park?", a: "Yes. Sprinter vans comfortably carry suite groups and corporate outings so everyone arrives and leaves together on one schedule." },
       { q: "Can you pick us up at Dulles Airport and take us straight to a game?", a: "Yes. We track your inbound flight, meet you at baggage claim, and can hold your luggage in the vehicle during the game before dropping you at your hotel afterward." },
-      { q: "What if the game runs into extra innings or a rain delay?", a: "Your chauffeur monitors the game and adjusts automatically — with hourly service there is no missed pickup, and on point-to-point bookings we simply stay in contact by text as the timing shifts." },
+      { q: "What if the game runs into extra innings or a rain delay?", a: "Your chauffeur monitors the game and adjusts automatically — with hourly service there is no missed pickup, and on point-to-point bookings we simply stay in contact by text as the timing shifts. If you expect a long night, hourly service with the chauffeur standing by is the simplest option to book." },
     ],
     related: [
       { label: "Capital One Arena Transportation", to: "/capital-one-arena-transportation" },
@@ -518,7 +518,7 @@ export const MARYLAND_BATCH6 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How far is Mount Vernon from Dulles Airport?", a: "About 38 miles and 50 to 65 minutes depending on traffic, via the Dulles Toll Road, the Beltway and the George Washington Memorial Parkway." },
+      { q: "How far is Mount Vernon from Dulles Airport?", a: "About 38 miles and 50 to 65 minutes depending on traffic, via the Dulles Toll Road, the Beltway and the George Washington Memorial Parkway. Many visitors pair the estate with their Dulles arrival or departure, and an hourly booking covers wait time while you tour." },
       { q: "Can the chauffeur wait while we tour the estate?", a: "Yes. Hourly bookings include wait time while you tour Mount Vernon, so your vehicle and chauffeur are ready whenever you are finished, with no separate return trip to schedule." },
       { q: "Can we combine a Mount Vernon trip with Old Town Alexandria?", a: "Yes, this is one of our most common itineraries. Tell us when you book and we will build in time for lunch, shopping or a waterfront walk in Old Town on the way there or back." },
       { q: "Do you handle school or tour groups at Mount Vernon?", a: "Yes. Sprinter vans comfortably handle school groups, tour groups and corporate outings, quoted as a flat rate for the full itinerary." },

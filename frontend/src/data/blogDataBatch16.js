@@ -89,7 +89,7 @@ const batch16 = [
       {
         question: "How far is Jiffy Lube Live from Dulles Airport?",
         answer:
-          "About 20 miles, roughly a 30-to-40-minute drive via VA-28 South and Prince William Parkway - close enough to head straight from a flight to a show without a detour through DC.",
+          "About 20 miles, roughly a 30-to-40-minute drive via VA-28 South and Prince William Parkway - close enough to head straight from a flight to a show without a detour through DC. Pickups are flight-tracked, so a delayed landing simply moves the chauffeur's arrival.",
       },
       {
         question: "Why does the Jiffy Lube Live parking lot take so long to leave?",
@@ -99,17 +99,17 @@ const batch16 = [
       {
         question: "Can you pick us up right after the encore?",
         answer:
-          "Yes - your chauffeur is staged and ready at the agreed pickup point the moment you walk out, so you are getting into a vehicle that is already positioned to move rather than fighting your way out of a parking space first.",
+          "Yes - your chauffeur is staged and ready at the agreed pickup point the moment you walk out, so you are getting into a vehicle that is already positioned to move rather than fighting your way out of a parking space first. Agree on the pickup point with your chauffeur before the show so you know exactly where to walk.",
       },
       {
         question: "What vehicle works best for a group going to a concert?",
         answer:
-          "A Lincoln Navigator comfortably seats up to six and a Chevrolet Suburban up to five; a Mercedes Sprinter van keeps a larger group or tailgate crew together in one vehicle for the whole night.",
+          "A Lincoln Navigator comfortably seats up to six and a Chevrolet Suburban up to five; a Mercedes Sprinter van keeps a larger group or tailgate crew together in one vehicle for the whole night. Tell us the group size when you book and we will confirm the right fit.",
       },
       {
         question: "How far ahead should I book for a big tour date?",
         answer:
-          "As soon as you have tickets - popular shows at Jiffy Lube Live fill up preferred vehicles and pickup windows well before the date, especially on weekends.",
+          "As soon as you have tickets - popular shows at Jiffy Lube Live fill up preferred vehicles and pickup windows well before the date, especially on weekends. Sprinter vans and special-event bookings can be cancelled free up to 12 hours before pickup, so reserving early carries little risk.",
       },
     ],
     relatedLinks: [
@@ -197,7 +197,7 @@ const batch16 = [
       {
         question: "How far is EagleBank Arena from Dulles Airport?",
         answer:
-          "About 15 miles, a 25-to-35-minute drive via the Fairfax County Parkway (VA-286) and US-50 - close enough for out-of-town family to go straight from the airport to campus.",
+          "About 15 miles, a 25-to-35-minute drive via the Fairfax County Parkway (VA-286) and US-50 - close enough for out-of-town family to go straight from the airport to campus. The pickup is flight-tracked, so the chauffeur follows your actual arrival time.",
       },
       {
         question: "Is parking really difficult during George Mason's graduation week?",
@@ -207,17 +207,17 @@ const batch16 = [
       {
         question: "Can you drop us right at the arena doors?",
         answer:
-          "Yes - tell us your event and arrival time when you book, and your chauffeur will plan the drop-off directly at the arena rather than a parking deck.",
+          "Yes - tell us your event and arrival time when you book, and your chauffeur will plan the drop-off directly at the arena rather than a parking deck. For the ride home, agree on a pickup point and time with your chauffeur so the car is ready when the event ends.",
       },
       {
         question: "What vehicle fits a family attending a graduation together?",
         answer:
-          "A Chevrolet Suburban (five seats) or Lincoln Navigator (six) comfortably keeps a family together, including older relatives who would rather not walk from an overflow lot; a Mercedes Sprinter van covers a larger group.",
+          "A Chevrolet Suburban (five seats) or Lincoln Navigator (six) comfortably keeps a family together, including older relatives who would rather not walk from an overflow lot; a Mercedes Sprinter van covers a larger group. Tell us how many are coming when you book and we will confirm the right vehicle.",
       },
       {
         question: "Do you serve EagleBank Arena for concerts as well as George Mason sports and graduations?",
         answer:
-          "Yes - we run transfers for the full range of EagleBank Arena events, from touring concerts and Mason Patriots basketball to family shows and commencement.",
+          "Yes - we run transfers for the full range of EagleBank Arena events, from touring concerts and Mason Patriots basketball to family shows and commencement. Tell us the event and its expected end time when you book, and the pickup is planned around it.",
       },
     ],
     relatedLinks: [
@@ -317,22 +317,22 @@ const batch16 = [
       {
         question: "Can you handle attendees landing at Dulles at different times?",
         answer:
-          "Yes - each attendee's flight is tracked individually and pickups are staggered around their actual landing times, which matters especially at IAD given how many international flights land within the same hour.",
+          "Yes - each attendee's flight is tracked individually and pickups are staggered around their actual landing times, which matters especially at IAD given how many international flights land within the same hour. Give us each attendee's flight number and the venue address, and we build the schedule from there.",
       },
       {
         question: "What if the event runs longer than planned?",
         answer:
-          "Hourly, as-directed booking covers that automatically - the vehicle stays with your group rather than running on a single fixed pickup time, worth building into the plan for any event with a schedule that could shift.",
+          "Hourly, as-directed booking covers that automatically - the vehicle stays with your group rather than running on a single fixed pickup time, worth building into the plan for any event with a schedule that could shift. If the day runs longer still, call dispatch at (877) 609-1919 to extend the booking.",
       },
       {
         question: "Do you offer a corporate account so people are not individually booking rides?",
         answer:
-          "Yes - a standing corporate account with monthly invoicing, preferred vehicle selection, and a single point of contact streamlines repeat bookings for companies that plan transportation regularly.",
+          "Yes - a standing corporate account with monthly invoicing, preferred vehicle selection, and a single point of contact streamlines repeat bookings for companies that plan transportation regularly. Each trip is still quoted at a flat rate in writing before it is confirmed.",
       },
       {
         question: "Can one Sprinter van handle our whole team?",
         answer:
-          "The Mercedes Sprinter seats up to 13, which covers most mid-size teams in a single vehicle; larger groups simply book multiple Sprinters rather than splitting across several smaller cars.",
+          "The Mercedes Sprinter seats up to 13, which covers most mid-size teams in a single vehicle; larger groups simply book multiple Sprinters rather than splitting across several smaller cars. Tell us the group size and luggage when you book and we will confirm whether one van is enough.",
       },
     ],
     relatedLinks: [
@@ -425,7 +425,7 @@ const batch16 = [
       {
         question: "What is actually included in a corporate car account?",
         answer:
-          "Monthly invoicing instead of per-ride charges, preferred vehicle selection, and a single point of contact for scheduling multiple employees - the same booking process, consolidated under one account.",
+          "Monthly invoicing instead of per-ride charges, preferred vehicle selection, and a single point of contact for scheduling multiple employees - the same booking process, consolidated under one account. Each ride still carries a flat rate confirmed in writing, with no surge pricing.",
       },
       {
         question: "How is a corporate account different from just booking trips individually?",
@@ -435,12 +435,12 @@ const batch16 = [
       {
         question: "Does a corporate account cost extra to set up?",
         answer:
-          "Setting up the account itself is simply a conversation about your routes, volume, and vehicle preferences - call (877) 609-1919 for the specifics for your company's situation.",
+          "Setting up the account itself is simply a conversation about your routes, volume, and vehicle preferences - call (877) 609-1919 for the specifics for your company's situation. Every trip under the account is still quoted at a flat rate before it is confirmed.",
       },
       {
         question: "Can multiple employees use the same corporate account?",
         answer:
-          "Yes - that is the main point of the single point of contact: any employee's trip can be booked or adjusted through one scheduling contact rather than each person booking separately.",
+          "Yes - that is the main point of the single point of contact: any employee's trip can be booked or adjusted through one scheduling contact rather than each person booking separately. Each employee's airport pickups are flight-tracked, and the trips roll up onto the same monthly invoice.",
       },
       {
         question: "Is a corporate account worth it for occasional travel?",
@@ -543,22 +543,22 @@ const batch16 = [
       {
         question: "What is the best way to avoid Georgetown's traffic and parking problems?",
         answer:
-          "A chauffeured drop-off right at your destination avoids both the parking search and the walk from the nearest Metro station - your driver handles the Key Bridge or M Street/Wisconsin Avenue approach and drops you exactly where you are going.",
+          "A chauffeured drop-off right at your destination avoids both the parking search and the walk from the nearest Metro station. Your driver handles the Key Bridge or M Street/Wisconsin Avenue approach and drops you exactly where you are going.",
       },
       {
         question: "Can you drop us right on M Street or at the waterfront?",
         answer:
-          "Yes - tell us your specific destination when you book, whether that is a restaurant on M Street, a shop near Wisconsin Avenue, or the Georgetown Waterfront Park.",
+          "Yes - tell us your specific destination when you book, whether that is a restaurant on M Street, a shop near Wisconsin Avenue, or the Georgetown Waterfront Park. Your chauffeur plans the drop-off and pickup point around it, so you are not walking in from a parking garage.",
       },
       {
         question: "Can you combine a Georgetown visit with a Dulles arrival?",
         answer:
-          "Yes - a flight-tracked pickup from IAD can go directly to a Georgetown hotel, dinner reservation, or campus visit without a downtown-parking detour first.",
+          "Yes - a flight-tracked pickup from IAD can go directly to a Georgetown hotel, dinner reservation, or campus visit without a downtown-parking detour first. With 45 minutes of complimentary waiting on domestic arrivals and 60 on international, a late landing is covered.",
       },
       {
         question: "Is Georgetown walkable once you are actually there?",
         answer:
-          "Very walkable - the waterfront, the C&O Canal towpath, and Georgetown University are all within an easy walk of the M Street and Wisconsin Avenue core.",
+          "Very walkable - the waterfront, the C&O Canal towpath, and Georgetown University are all within an easy walk of the M Street and Wisconsin Avenue core. Many visitors book a drop-off and a set pickup time, or an hourly reservation if they plan several stops.",
       },
     ],
     relatedLinks: [
@@ -672,7 +672,7 @@ const batch16 = [
       {
         question: "What if Thanksgiving dinner runs later than planned?",
         answer:
-          "Let the chauffeur or dispatch know before the scheduled end of an hourly booking and it can be extended when the vehicle is available.",
+          "Let the chauffeur or dispatch know before the scheduled end of an hourly booking and it can be extended when the vehicle is available. Dispatch runs 24/7 at (877) 609-1919, so you can call even late in the evening.",
       },
       {
         question: "Can you pick up relatives at Dulles the day before Thanksgiving?",
@@ -802,7 +802,7 @@ const batch16 = [
       {
         question: "What if my flight is cancelled and I am rebooked for Monday?",
         answer:
-          "Call dispatch at (877) 609-1919 with the new flight details and we will move the pickup to match.",
+          "Call dispatch at (877) 609-1919 with the new flight details and we will move the pickup to match. Dispatch is available 24/7, so the change can be made as soon as you have the new itinerary.",
       },
     ],
     relatedLinks: [

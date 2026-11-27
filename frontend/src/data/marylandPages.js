@@ -130,7 +130,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Rockville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -290,7 +290,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Bethesda?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -459,7 +459,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Gaithersburg?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -619,7 +619,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Silver Spring?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -792,7 +792,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Bowie?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -952,7 +952,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Laurel?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1116,7 +1116,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Greenbelt?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1276,7 +1276,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Waldorf?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1436,7 +1436,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Frederick?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1596,7 +1596,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Odenton?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1756,7 +1756,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Severna Park?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1921,7 +1921,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Crofton?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2081,7 +2081,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Hyattsville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2241,7 +2241,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Germantown?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2401,7 +2401,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Glen Burnie?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2561,7 +2561,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Arnold?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2721,7 +2721,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Riva?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2880,7 +2880,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Cape St. Claire?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3041,7 +3041,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Clarksville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3202,7 +3202,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Towson?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3362,7 +3362,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Timonium?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3523,7 +3523,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Lutherville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3683,7 +3683,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Phoenix?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3843,7 +3843,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in North Bethesda?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4003,7 +4003,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in North Potomac?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4162,7 +4162,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Gibson Island?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4322,7 +4322,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Stevensville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4481,7 +4481,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Chevy Chase?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4641,7 +4641,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Sykesville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4790,7 +4790,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. There is no need to call us when you land at BWI; the chauffeur is dispatched against your actual arrival time."
       },
       {
         "q": "Can I book the return from Washington DC to BWI?",
@@ -4943,7 +4943,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. Your flat rate to Annapolis stays exactly as confirmed, however late the flight comes in."
       },
       {
         "q": "Can I book the return from Annapolis to BWI?",
@@ -5095,7 +5095,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. On a long run to Ocean City, that means a delay only shifts the departure time, never the price you were quoted."
       },
       {
         "q": "Can I book the return from Ocean City to BWI?",
@@ -5248,7 +5248,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. If your plans change because of the delay, dispatch is reachable 24/7 at (877) 609-1919."
       },
       {
         "q": "Can I book the return from Rockville to BWI?",
@@ -5404,7 +5404,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. If you booked meet and greet, the chauffeur is waiting inside at baggage claim whenever the flight actually lands."
       },
       {
         "q": "Can I book the return from Bethesda to BWI?",
@@ -5561,7 +5561,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. The flat rate to Frederick is confirmed in writing before the trip and doesn't change because of a late arrival."
       },
       {
         "q": "Can I book the return from Frederick to BWI?",
@@ -5714,7 +5714,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. You don't need to phone ahead when you land at Reagan National; the chauffeur works from the live arrival time."
       },
       {
         "q": "Can I book the return from Bethesda to DCA?",
@@ -5867,7 +5867,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What happens if my flight is delayed?",
-        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international."
+        "a": "We track every inbound flight and adjust the pickup automatically at no charge, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international. An early landing is covered the same way, so the car is there whether the flight arrives ahead of or behind schedule."
       },
       {
         "q": "Can I book the return from Rockville to DCA?",
@@ -6482,7 +6482,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What areas do you serve?",
-        "a": "Baltimore, Annapolis, Howard County, Montgomery County, Frederick and the Eastern Shore, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI."
+        "a": "Baltimore, Annapolis, Howard County, Montgomery County, Frederick and the Eastern Shore, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI. Venues we regularly serve include Belmont Manor in Elkridge, the Elkridge Furnace Inn and the Historic Inns of Annapolis."
       },
       {
         "q": "Can we add stops?",
@@ -6647,7 +6647,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What areas do you serve?",
-        "a": "Baltimore, Columbia, Bethesda, Rockville, Annapolis, Fort Meade and downtown Washington, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI."
+        "a": "Baltimore, Columbia, Bethesda, Rockville, Annapolis, Fort Meade and downtown Washington, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI. Trips range from airport meets for visiting executives to roadshow days, board dinners and standing weekly commutes."
       },
       {
         "q": "Can we add stops?",
@@ -6805,7 +6805,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What areas do you serve?",
-        "a": "Howard, Anne Arundel, Montgomery, Prince George's, Baltimore and Frederick counties, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI."
+        "a": "Howard, Anne Arundel, Montgomery, Prince George's, Baltimore and Frederick counties, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI. Prom venues we regularly serve include Martin's West, Turf Valley Resort and the Bethesda North Marriott."
       },
       {
         "q": "Can we add stops?",
@@ -6966,7 +6966,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What areas do you serve?",
-        "a": "Columbia, Baltimore, Washington, Silver Spring, College Park and Northern Virginia, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI."
+        "a": "Columbia, Baltimore, Washington, Silver Spring, College Park and Northern Virginia, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI. Venues we regularly serve include Merriweather Post Pavilion, CFG Bank Arena, Pier Six Pavilion, Capital One Arena and The Anthem."
       },
       {
         "q": "Can we add stops?",
@@ -7123,7 +7123,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What areas do you serve?",
-        "a": "the Frederick wine trail, the Carroll County vineyards, northern Baltimore County, Sugarloaf Mountain and the Annapolis and Eastern Shore wineries, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI."
+        "a": "The Frederick wine trail, the Carroll County vineyards, northern Baltimore County, Sugarloaf Mountain and the Annapolis and Eastern Shore wineries, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI. A typical day is a morning pickup, three or four tasting stops and a lunch reservation, all on one hourly booking with unlimited stops."
       },
       {
         "q": "Can we add stops?",
@@ -7280,7 +7280,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What areas do you serve?",
-        "a": "Baltimore, Harford and Cecil counties, Wilmington and the Delaware corridor, Columbia and the Washington suburbs, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI."
+        "a": "Baltimore, Harford and Cecil counties, Wilmington and the Delaware corridor, Columbia and the Washington suburbs, plus Maryland, DC, Delaware and Northern Virginia on request, with connections at Dulles, Reagan National and BWI. At PHL we serve every terminal, A-West through F, curbside or inside baggage claim."
       },
       {
         "q": "Can we add stops?",
@@ -7440,7 +7440,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at Merriweather Post Pavilion?",
-        "a": "We drop at the designated passenger drop-off on Little Patuxent Parkway near the Merriweather District, a short walk to the main gate, and stage nearby for a pre-arranged pickup point away from the garage exits."
+        "a": "We drop at the designated passenger drop-off on Little Patuxent Parkway near the Merriweather District, a short walk to the main gate, and stage nearby for a pre-arranged pickup point away from the garage exits. That spares you the exit crawl onto US-29 after the encore, which can take 45 minutes or more for drivers leaving the lots."
       },
       {
         "q": "How much does Merriweather transportation cost?",
@@ -7448,7 +7448,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is Merriweather busiest?",
-        "a": "Concert season runs roughly May through October, with the biggest shows on Friday and Saturday nights; check the venue calendar for gates, which usually open 60–90 minutes before showtime."
+        "a": "Concert season runs roughly May through October, with the biggest shows on Friday and Saturday nights; check the venue calendar for gates, which usually open 60–90 minutes before showtime. Lots fill early for sold-out shows, so weekend dates are the ones to book first."
       },
       {
         "q": "Can you carry a group to Merriweather Post Pavilion?",
@@ -7607,7 +7607,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at CFG Bank Arena?",
-        "a": "Drop-off is on Hopkins Place or Baltimore Street at the arena's front doors; for pickup we set a meeting point a block away on Lombard or Pratt Street, outside the police cordon, so the car is moving as soon as you are in it."
+        "a": "Drop-off is on Hopkins Place or Baltimore Street at the arena's front doors; for pickup we set a meeting point a block away on Lombard or Pratt Street, outside the police cordon, so the car is moving as soon as you are in it. If you book hourly, the vehicle waits nearby through the show instead of being dispatched again at the end."
       },
       {
         "q": "How much does CFG Bank Arena transportation cost?",
@@ -7615,7 +7615,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is CFG Bank Arena busiest?",
-        "a": "Year-round concerts, comedy and family shows, heaviest on weekends; doors typically open an hour before showtime, and the Hopkins Place curb is busiest from 30 minutes before doors until the opener."
+        "a": "Year-round concerts, comedy and family shows, heaviest on weekends; doors typically open an hour before showtime, and the Hopkins Place curb is busiest from 30 minutes before doors until the opener. We time your arrival around that window, and a flat rate confirmed in advance means a sold-out night never changes the price."
       },
       {
         "q": "Can you carry a group to CFG Bank Arena?",
@@ -7774,7 +7774,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at Capital One Arena?",
-        "a": "Drop-off is on F Street or 7th Street NW at the arena entrances; for pickup we meet on H Street or 9th Street a block from the crowd, or at a Penn Quarter restaurant if you would rather let the traffic clear over dinner."
+        "a": "Drop-off is on F Street or 7th Street NW at the arena entrances; for pickup we meet on H Street or 9th Street a block from the crowd, or at a Penn Quarter restaurant if you would rather let the traffic clear over dinner. Either way the meeting point is set in advance, so you are not hunting for the car among the post-game crowd."
       },
       {
         "q": "How much does Capital One Arena transportation cost?",
@@ -7782,7 +7782,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is Capital One Arena busiest?",
-        "a": "Capitals and Wizards home games run October through April, with concerts and college basketball filling the rest of the calendar; doors open 60–90 minutes before puck drop or tipoff."
+        "a": "Capitals and Wizards home games run October through April, with concerts and college basketball filling the rest of the calendar; doors open 60–90 minutes before puck drop or tipoff. We plan your drop-off against the doors time, and the flat rate stays the same however busy the night gets."
       },
       {
         "q": "Can you carry a group to Capital One Arena?",
@@ -7944,7 +7944,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at M&T Bank Stadium?",
-        "a": "We drop on Russell Street or Ostend Street at the gate nearest your section; for pickup we set a meeting point on Hamburg Street or at the Horseshoe Casino, away from the Lot H rideshare scrum, and time the return around the post-game surge."
+        "a": "We drop on Russell Street or Ostend Street at the gate nearest your section; for pickup we set a meeting point on Hamburg Street or at the Horseshoe Casino, away from the Lot H rideshare scrum, and time the return around the post-game surge. Tell us your section when you book so the chauffeur knows which gate to use."
       },
       {
         "q": "How much does M&T Bank Stadium transportation cost?",
@@ -7952,7 +7952,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is M&T Bank Stadium busiest?",
-        "a": "Ravens home games run September through January, most on Sundays at 1 p.m. with prime-time exceptions, plus the annual Navy game and summer concerts and soccer friendlies; stadium lots open four hours before kickoff for tailgating."
+        "a": "Ravens home games run September through January, most on Sundays at 1 p.m. with prime-time exceptions, plus the annual Navy game and summer concerts and soccer friendlies; stadium lots open four hours before kickoff for tailgating. Whatever time you want to arrive, the rate is confirmed in writing before game day."
       },
       {
         "q": "Can you carry a group to M&T Bank Stadium?",
@@ -8110,7 +8110,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at Pimlico Race Course?",
-        "a": "We drop at the clubhouse entrance on Hayward Avenue or the Preakness gate on Park Heights, and pick up at a pre-set corner on Northern Parkway or Belvedere so you are not standing in the post-race exodus."
+        "a": "We drop at the clubhouse entrance on Hayward Avenue or the Preakness gate on Park Heights, and pick up at a pre-set corner on Northern Parkway or Belvedere so you are not standing in the post-race exodus. The corner is agreed with your chauffeur in advance, and if the car waits through the races, we quote an hourly rate instead of a flat one."
       },
       {
         "q": "How much does Pimlico transportation cost?",
@@ -8277,7 +8277,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at the Maryland State Fair?",
-        "a": "We drop at the Timonium Road gate or the York Road main gate and set a pickup at the Timonium light-rail station side or a Padonia Road corner, away from the gridlock at the main lots."
+        "a": "We drop at the Timonium Road gate or the York Road main gate and set a pickup at the Timonium light-rail station side or a Padonia Road corner, away from the gridlock at the main lots. The pickup spot is agreed in advance, so after a long day at the fair you walk to the car rather than queue for a lot exit."
       },
       {
         "q": "How much does the State Fair transportation cost?",
@@ -8285,7 +8285,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is the State Fair busiest?",
-        "a": "The fair runs over three long weekends from late August through Labor Day weekend, Thursday through Sunday, with concerts, the Thoroughbred meet and the midway open into the evening; the busiest hours are Saturday afternoons and concert nights."
+        "a": "The fair runs over three long weekends from late August through Labor Day weekend, Thursday through Sunday, with concerts, the Thoroughbred meet and the midway open into the evening; the busiest hours are Saturday afternoons and concert nights. For a concert night or a full fair day, an hourly booking keeps the vehicle waiting on site."
       },
       {
         "q": "Can you carry a group to the Maryland State Fair?",
@@ -8443,7 +8443,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at Oriole Park at Camden Yards?",
-        "a": "Drop-off is on Camden Street at the Eutaw Street gate or on Conway Street at the home plate entrance; for pickup we meet on Pratt Street or at a Federal Hill corner and time the return so the car pulls up as you walk out."
+        "a": "Drop-off is on Camden Street at the Eutaw Street gate or on Conway Street at the home plate entrance; for pickup we meet on Pratt Street or at a Federal Hill corner and time the return so the car pulls up as you walk out. You agree the meeting point with your chauffeur before the game, which keeps the ride home clear of the stadium crowd."
       },
       {
         "q": "How much does Camden Yards transportation cost?",
@@ -8451,7 +8451,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is Camden Yards busiest?",
-        "a": "The Orioles play home games from late March through September, with October postseason dates when the season goes long; gates open 90 minutes before first pitch and Eutaw Street opens earlier for Friday and Saturday games."
+        "a": "The Orioles play home games from late March through September, with October postseason dates when the season goes long; gates open 90 minutes before first pitch and Eutaw Street opens earlier for Friday and Saturday games. We set your drop-off around the gate times, and the price is confirmed before you book and never surges on game day."
       },
       {
         "q": "Can you carry a group to Oriole Park at Camden Yards?",
@@ -8610,7 +8610,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at the University of Maryland?",
-        "a": "We drop at the Stamp Student Union circle, SECU Stadium's Gate B on Stadium Drive, the Xfinity Center loop or the dorm curb for move-in, and pick up at a pre-set corner on Campus Drive or at The Hotel at the University of Maryland."
+        "a": "We drop at the Stamp Student Union circle, SECU Stadium's Gate B on Stadium Drive, the Xfinity Center loop or the dorm curb for move-in, and pick up at a pre-set corner on Campus Drive or at The Hotel at the University of Maryland. For move-in day, an SUV or Sprinter van leaves room for the luggage."
       },
       {
         "q": "How much does UMD transportation cost?",
@@ -8618,7 +8618,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is UMD busiest?",
-        "a": "The calendar peaks at August move-in, Maryland Day in late April, commencement in mid-to-late May, Terps football Saturdays at SECU Stadium from September through November and Xfinity Center basketball from November through March."
+        "a": "The calendar peaks at August move-in, Maryland Day in late April, commencement in mid-to-late May, Terps football Saturdays at SECU Stadium from September through November and Xfinity Center basketball from November through March. Families flying in for move-in or commencement can add an airport connection at Dulles, Reagan National or BWI to the same booking."
       },
       {
         "q": "Can you carry a group to the University of Maryland?",
@@ -8780,7 +8780,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at Navy-Marine Corps Memorial Stadium?",
-        "a": "We drop at the Taylor Avenue or Farragut Road gates and pick up at a pre-set corner on Cedar Park Road or in West Annapolis, or at your downtown hotel if you would rather walk to City Dock after the game and let the lots empty."
+        "a": "We drop at the Taylor Avenue or Farragut Road gates and pick up at a pre-set corner on Cedar Park Road or in West Annapolis, or at your downtown hotel if you would rather walk to City Dock after the game and let the lots empty. The meeting point is agreed with your chauffeur before kickoff, so there is no searching for the car after the final whistle."
       },
       {
         "q": "How much does Navy-Marine Corps Stadium transportation cost?",
@@ -8788,7 +8788,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is Navy-Marine Corps Stadium busiest?",
-        "a": "Navy football home games run September through November, the Naval Academy graduation and commissioning ceremony fills the stadium in late May, and Navy lacrosse plays here in the spring; the Blue and Gold parking lots open four hours before kickoff."
+        "a": "Navy football home games run September through November, the Naval Academy graduation and commissioning ceremony fills the stadium in late May, and Navy lacrosse plays here in the spring; the Blue and Gold parking lots open four hours before kickoff. Commissioning week and home-game Saturdays are the dates to book early, and the rate is confirmed before you book either way."
       },
       {
         "q": "Can you carry a group to Navy-Marine Corps Memorial Stadium?",
@@ -8946,7 +8946,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at National Harbor?",
-        "a": "We drop at the Gaylord National porte-cochère, the MGM valet circle or the Waterfront Street curb by the Capital Wheel, and we pick up wherever you finish — a restaurant, the casino or the Tanger Outlets — with the car staged out of the garage queue."
+        "a": "We drop at the Gaylord National porte-cochère, the MGM valet circle or the Waterfront Street curb by the Capital Wheel, and we pick up wherever you finish — a restaurant, the casino or the Tanger Outlets — with the car staged out of the garage queue. An hourly booking lets the vehicle wait while you move between stops."
       },
       {
         "q": "How much does National Harbor transportation cost?",
@@ -8954,7 +8954,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is National Harbor busiest?",
-        "a": "The Gaylord National's ICE! runs from mid-November through New Year's, MGM National Harbor hosts headliners year-round, and the convention calendar peaks in spring and fall; the Capital Wheel and the waterfront restaurants are busiest on summer weekends."
+        "a": "The Gaylord National's ICE! runs from mid-November through New Year's, MGM National Harbor hosts headliners year-round, and the convention calendar peaks in spring and fall; the Capital Wheel and the waterfront restaurants are busiest on summer weekends. Whichever season you visit, the rate is confirmed before you book and never surges on event night."
       },
       {
         "q": "Can you carry a group to National Harbor?",
@@ -9116,7 +9116,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at Chesapeake Bay Events?",
-        "a": "We drop at the venue's front entrance or the marina gate, hold the vehicle for wedding parties and boat-show visitors, and time Eastern Shore returns around the Bay Bridge traffic so nobody watches the sunset from a standstill."
+        "a": "We drop at the venue's front entrance or the marina gate, hold the vehicle for wedding parties and boat-show visitors, and time Eastern Shore returns around the Bay Bridge traffic so nobody watches the sunset from a standstill. Holding the vehicle is booked hourly, while a simple drop-off is quoted as one flat rate."
       },
       {
         "q": "How much does Chesapeake Bay events transportation cost?",
@@ -9124,7 +9124,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is Chesapeake Bay events busiest?",
-        "a": "The Bay calendar runs from the Bay Bridge Boat Show and the spring sailboat show in April, through Naval Academy commissioning week and the Blue Angels in late May, summer regattas and waterfront weddings, the October boat shows and the Bay Bridge Run in November."
+        "a": "The Bay calendar runs from the Bay Bridge Boat Show and the spring sailboat show in April, through Naval Academy commissioning week and the Blue Angels in late May, summer regattas and waterfront weddings, the October boat shows and the Bay Bridge Run in November. Those weekends are worth booking early, particularly for a Sprinter van carrying a group."
       },
       {
         "q": "Can you carry a group to Chesapeake Bay Events?",
@@ -9282,7 +9282,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at the Annapolis Boat Shows?",
-        "a": "We drop at the Compromise Street or Main Street curb a block from the show gates, or at the stadium shuttle lot if you prefer, and pick up at a downtown hotel or an Eastport restaurant so the car never enters the closed streets."
+        "a": "We drop at the Compromise Street or Main Street curb a block from the show gates, or at the stadium shuttle lot if you prefer, and pick up at a downtown hotel or an Eastport restaurant so the car never enters the closed streets. Tell us where you plan to finish the day and the chauffeur confirms the pickup point with you ahead of time."
       },
       {
         "q": "How much does the Annapolis Boat Show transportation cost?",
@@ -9290,7 +9290,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is the Annapolis Boat Show busiest?",
-        "a": "The United States Sailboat Show runs Thursday through Sunday over the second weekend of October, followed by the Powerboat Show the next weekend; the Annapolis Spring Sailboat Show comes in late April and the Bay Bridge Boat Show in Stevensville the same month."
+        "a": "The United States Sailboat Show runs Thursday through Sunday over the second weekend of October, followed by the Powerboat Show the next weekend; the Annapolis Spring Sailboat Show comes in late April and the Bay Bridge Boat Show in Stevensville the same month. Airport connections at Dulles, Reagan National or BWI can go on the same booking for visitors flying in for the shows."
       },
       {
         "q": "Can you carry a group to the Annapolis Boat Shows?",
@@ -9448,7 +9448,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at the Maryland Renaissance Festival?",
-        "a": "We drop at the front gate on Crownsville Road ahead of the parking line and pick up at the same gate or a pre-set spot on Generals Highway; costumes, turkey legs and pottery all ride home in the back of an SUV or Sprinter."
+        "a": "We drop at the front gate on Crownsville Road ahead of the parking line and pick up at the same gate or a pre-set spot on Generals Highway; costumes, turkey legs and pottery all ride home in the back of an SUV or Sprinter. The pickup spot is confirmed with you before the day, so nobody waits in the festival's exit line."
       },
       {
         "q": "How much does the Renaissance Festival transportation cost?",
@@ -9456,7 +9456,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "When is the Renaissance Festival busiest?",
-        "a": "The festival runs weekends from late August through late October, Saturdays and Sundays plus Labor Day Monday, from 10 a.m. to 7 p.m.; the October weekends are the busiest and rain-day mud is part of the tradition."
+        "a": "The festival runs weekends from late August through late October, Saturdays and Sundays plus Labor Day Monday, from 10 a.m. to 7 p.m.; the October weekends are the busiest and rain-day mud is part of the tradition. For a full day at the festival, an hourly booking keeps the vehicle on site until you are ready to leave."
       },
       {
         "q": "Can you carry a group to the Maryland Renaissance Festival?",
@@ -9614,7 +9614,7 @@ export const MARYLAND_PAGES = [
     "faqs": [
       {
         "q": "Where does the chauffeur drop off and pick up at the Preakness Stakes?",
-        "a": "We drop at the clubhouse or general-admission gate and stage the vehicle at a pre-set corner outside the closure perimeter — on Race Track Road or MD-198 at Laurel, or on Northern Parkway at Pimlico — so the ride home starts within minutes of the last race."
+        "a": "We drop at the clubhouse or general-admission gate and stage the vehicle at a pre-set corner outside the closure perimeter — on Race Track Road or MD-198 at Laurel, or on Northern Parkway at Pimlico — so the ride home starts within minutes of the last race. That keeps you clear of the police-managed exits and rolling closures, and there is nothing to park."
       },
       {
         "q": "How much does the Preakness transportation cost?",
@@ -9788,7 +9788,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What is the cancellation policy for corporate bookings?",
-        "a": "Sedans and SUVs cancel free up to 3 hours before pickup; Sprinter vans, limousines and special events up to 12 hours before."
+        "a": "Sedans and SUVs cancel free up to 3 hours before pickup; Sprinter vans, limousines and special events up to 12 hours before. That gives corporate travelers room to adjust when a meeting moves, and same-day changes can be handled through 24/7 dispatch."
       }
     ],
     "related": [
@@ -9931,7 +9931,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Where do you drop off for the Annapolis boat shows?",
-        "a": "As close to the Dock Street entrance as show-day closures allow, with a fixed pickup point agreed with your chauffeur for the return to BWI or your hotel."
+        "a": "As close to the Dock Street entrance as show-day closures allow, with a fixed pickup point agreed with your chauffeur for the return to BWI or your hotel. Your inbound flight into BWI is tracked as well, so the show-day plan holds even if you land late."
       },
       {
         "q": "What if my Southwest flight into BWI is delayed?",
@@ -10392,7 +10392,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How much free wait time is included at Dulles?",
-        "a": "45 minutes on domestic arrivals and 60 minutes on international arrivals, measured from the actual landing time, since we track the flight."
+        "a": "45 minutes on domestic arrivals and 60 minutes on international arrivals, measured from the actual landing time, since we track the flight. The longer international window allows for customs before you meet your chauffeur outside the International Arrivals Building."
       },
       {
         "q": "Do you provide transportation for private jet or FBO passengers at Dulles?",
