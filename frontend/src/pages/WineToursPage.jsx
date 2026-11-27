@@ -43,7 +43,7 @@ const WineToursPage = () => {
     {
       icon: <Users className="h-8 w-8" />,
       title: 'Transportation for All Group Sizes',
-      description: 'From elegant stretch limousines for a romantic day out, to spacious party buses and executive coaches for bigger gatherings, we provide the ideal vehicle to match your occasion.'
+      description: 'From a First Class Sedan for a romantic day out to a Lincoln Navigator or 13-passenger Sprinter van for bigger gatherings, we match the vehicle to your occasion.'
     },
     {
       icon: <DollarSign className="h-8 w-8" />,

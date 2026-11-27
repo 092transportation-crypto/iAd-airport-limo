@@ -7,7 +7,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and solo travelers who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH3 = [
@@ -56,8 +56,8 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Corporate, group and evening service",
         paragraphs: [
-          "Sedans handle the daily executive traffic between Ashburn and Tysons, Reston or downtown Washington. Sprinter vans move project teams between data-center sites, and stretch limousines and SUVs cover weddings at Belmont, birthdays at One Loudoun and dinner runs to Leesburg or the Loudoun wineries. Hourly, as-directed service is the simplest option when a day involves several stops.",
-          "Free cancellation applies up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events, so a changed meeting or a rescheduled flight does not cost you anything.",
+          "Sedans handle the daily executive traffic between Ashburn and Tysons, Reston or downtown Washington. Sprinter vans move project teams between data-center sites, and the Sprinter Executive and SUVs cover weddings at Belmont, birthdays at One Loudoun and dinner runs to Leesburg or the Loudoun wineries. Hourly, as-directed service is the simplest option when a day involves several stops.",
+          "Free cancellation applies up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events, so a changed meeting or a rescheduled flight does not cost you anything.",
         ],
       },
     ],
@@ -95,7 +95,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
       { label: "Corporate Transportation", to: "/corporate" },
     ],
-    schema: { areaServed: ["Ashburn, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Ashburn, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "sterling-limo-service",
@@ -120,7 +120,7 @@ export const MARYLAND_BATCH3 = [
       "Hotel pickups along Route 28, Waxpool Road and the Dulles Town Center area for visiting business travelers",
       "Chauffeurs experienced with Route 7, Route 28, Cascades Parkway, Algonkian Parkway and Old Ox Road",
       "Loudoun Gateway Silver Line connections for travelers who ride Metro in and take a car out",
-      "Sedans, SUVs, Sprinter vans and stretch limousines under one dispatch",
+      "Sedans, SUVs and Sprinter vans under one dispatch",
       "Licensed and insured Virginia and Maryland carrier, 24/7",
     ],
     sections: [
@@ -141,8 +141,8 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Events, groups and nights out",
         paragraphs: [
-          "Beyond airport work, Sterling clients book us for weddings and receptions at Loudoun venues, birthday and anniversary dinners in Leesburg or Reston Town Center, concerts at Wolf Trap and Jiffy Lube Live, and family trips into Washington. A Sprinter van seats 13 for a group evening, and a stretch limousine covers proms and milestone celebrations. Car seats are available on request for family bookings.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Beyond airport work, Sterling clients book us for weddings and receptions at Loudoun venues, birthday and anniversary dinners in Leesburg or Reston Town Center, concerts at Wolf Trap and Jiffy Lube Live, and family trips into Washington. A Sprinter van seats 13 for a group evening, and the Sprinter Executive covers proms and milestone celebrations. Car seats are available on request for family bookings.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -166,7 +166,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "What vehicles are available in Sterling?",
-        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup.",
+        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator, Lincoln Nautilus and Chevrolet Suburban SUVs, and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup.",
       },
     ],
     related: [
@@ -179,7 +179,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Wolf Trap Transportation", to: "/wolf-trap-transportation" },
       { label: "Airport Transfers", to: "/airport-transfer" },
     ],
-    schema: { areaServed: ["Sterling, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Sterling, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "leesburg-limo-service",
@@ -226,8 +226,8 @@ export const MARYLAND_BATCH3 = [
         h2: "Wine country, weddings and estate events",
         paragraphs: [
           "Loudoun's wineries and farm breweries are spread across narrow rural roads, and a designated chauffeur is the sensible way to visit them. Hourly bookings let you set the route: Stone Tower Winery on Hogback Mountain, Bluemont Vineyard on the ridge, Breaux Vineyards near Hillsboro, Sunset Hills in Purcellville or Fabbioli Cellars north of town. Sprinter vans carry up to 13 for group tastings.",
-          "For weddings at Lansdowne, Morven Park, Oatlands or a private farm, we run the getting-ready pickups, the ceremony-to-reception move and the getaway car under one reservation. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",
+          "For weddings at Lansdowne, Morven Park, Oatlands or a private farm, we run the getting-ready pickups, the ceremony-to-reception move and the getaway car under one reservation. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",
         ],
       },
     ],
@@ -247,7 +247,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you provide wedding transportation at Lansdowne Resort or Morven Park?",
-        a: "Yes. We coordinate sedans, SUVs, Sprinter vans and stretch limousines for wedding parties and guests at Leesburg-area venues, with the itinerary confirmed the day before.",
+        a: "Yes. We coordinate sedans, SUVs and Sprinter vans for wedding parties and guests at Leesburg-area venues, with the itinerary confirmed the day before.",
       },
       {
         q: "Do you serve Purcellville, Middleburg and western Loudoun from Leesburg?",
@@ -264,7 +264,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Lansdowne Limo Service", to: "/lansdowne-limo-service" },
     ],
-    schema: { areaServed: ["Leesburg, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Leesburg, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "reston-limo-service",
@@ -310,8 +310,8 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Evenings, events and family travel",
         paragraphs: [
-          "Reston residents book us for dinners and shows at Town Center, concerts at Wolf Trap, evenings at the Kennedy Center or Capital One Hall, and family trips to Washington museums. Stretch limousines cover proms at South Lakes and nearby high schools, and SUVs handle family airport runs with car seats installed on request.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event bookings.",
+          "Reston residents book us for dinners and shows at Town Center, concerts at Wolf Trap, evenings at the Kennedy Center or Capital One Hall, and family trips to Washington museums. The Sprinter Executive covers proms at South Lakes and nearby high schools, and SUVs handle family airport runs with car seats installed on request.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings.",
         ],
       },
     ],
@@ -350,7 +350,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Dulles-Area Traffic Patterns: Best Times to Travel", to: "/blog/dulles-area-traffic-patterns-best-times-to-travel-guide" },
       { label: "Herndon-Dulles Tech Corridor Transportation", to: "/blog/herndon-dulles-tech-corridor-transportation" },
     ],
-    schema: { areaServed: ["Reston, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Reston, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "herndon-limo-service",
@@ -397,7 +397,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Events, groups and family travel",
         paragraphs: [
           "Local clients book us for the annual Herndon Festival weekend, dinners in Reston Town Center, shows at Wolf Trap and Capital One Hall, proms at Herndon High and South Lakes, and family days in Washington. Sprinter vans carry up to 13 for a group evening, and SUVs handle airport runs with strollers and car seats, which we install on request.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event bookings.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings.",
         ],
       },
     ],
@@ -433,7 +433,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Corporate Transportation", to: "/corporate" },
     ],
-    schema: { areaServed: ["Herndon, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Herndon, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "tysons-limo-service",
@@ -479,8 +479,8 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Shopping, dining, shows and celebrations",
         paragraphs: [
-          "Outside office hours, Tysons is a destination in its own right. We run shopping and dinner bookings to Tysons Corner Center and Tysons Galleria, performances at Capital One Hall, summer evenings at Wolf Trap a few miles west, and celebrations at the district's hotels. Stretch limousines and Sprinter vans handle proms, anniversaries and birthday groups, and the chauffeur stages nearby so the return is waiting when you walk out.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Outside office hours, Tysons is a destination in its own right. We run shopping and dinner bookings to Tysons Corner Center and Tysons Galleria, performances at Capital One Hall, summer evenings at Wolf Trap a few miles west, and celebrations at the district's hotels. Sprinter Executive vans handle proms, anniversaries and birthday groups, and the chauffeur stages nearby so the return is waiting when you walk out.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -521,7 +521,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Tysons Wedding Limo Service", to: "/tysons-wedding-limo-service" },
       { label: "Limo Service Near Tysons Corner Center", to: "/limo-service-near-tysons-corner-center" },
     ],
-    schema: { areaServed: ["Tysons, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Tysons, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "mclean-limo-service",
@@ -546,7 +546,7 @@ export const MARYLAND_BATCH3 = [
       "Dulles and Reagan National transfers with flight tracking and 45 or 60 minutes of complimentary airport waiting",
       "Chauffeurs experienced on Route 123, the GW Parkway, Georgetown Pike, Chain Bridge and the Beltway ramps at Tysons",
       "Dinner and event service to Great Falls, Tysons, Georgetown and the Kennedy Center",
-      "Sedans and SUVs for executives and families, Sprinter vans and limousines for gatherings",
+      "Sedans and SUVs for executives and families, Sprinter vans and Navigators for gatherings",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -568,7 +568,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Dining, evenings and family travel",
         paragraphs: [
           "McLean clients book us for dinners at L'Auberge Chez François in Great Falls, evenings in Georgetown across Chain Bridge, performances at the Kennedy Center and Capital One Hall, and summer concerts at Wolf Trap. Families use SUVs for airport runs with luggage and car seats installed on request, and Sprinter vans carry extended families to weddings, graduations and holiday gatherings.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -604,7 +604,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Capital One Hall Transportation", to: "/capital-one-hall-transportation" },
       { label: "Wolf Trap Transportation", to: "/wolf-trap-transportation" },
     ],
-    schema: { areaServed: ["McLean, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["McLean, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "fairfax-limo-service",
@@ -650,9 +650,9 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Weddings, proms, dining and corporate travel",
         paragraphs: [
-          "Fairfax bookings run from wedding parties at the historic downtown venues and area country clubs to prom night at Fairfax, Woodson, Robinson and Oakton high schools, dinner in the Mosaic District, and corporate travel for the technology and government-services firms along Route 50 and Fair Lakes. Stretch limousines and Sprinter vans handle the celebrations; sedans and SUVs handle the workdays.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",
+          "Fairfax bookings run from wedding parties at the historic downtown venues and area country clubs to prom night at Fairfax, Woodson, Robinson and Oakton high schools, dinner in the Mosaic District, and corporate travel for the technology and government-services firms along Route 50 and Fair Lakes. Sprinter Executive vans handle the celebrations; sedans and SUVs handle the workdays.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",
         ],
       },
     ],
@@ -689,7 +689,7 @@ export const MARYLAND_BATCH3 = [
       { label: "IAD to Manassas", to: "/iad-to-manassas-va" },
       { label: "Fair Oaks Limo Service", to: "/fair-oaks-limo-service" },
     ],
-    schema: { areaServed: ["Fairfax, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Fairfax, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "arlington-limo-service",
@@ -735,8 +735,8 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Evenings in Washington, ceremonies and celebrations",
         paragraphs: [
-          "Arlington residents use us for nights at the Kennedy Center and Capital One Arena, dinners in Georgetown and the Wharf, matches at Audi Field, Nationals games and events at the Convention Center, with the chauffeur staging nearby for the return across the river. We also provide dignified transportation for services at Arlington National Cemetery, and stretch limousines and Sprinter vans for weddings, proms at Washington-Liberty, Yorktown and Wakefield high schools, and milestone celebrations.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Arlington residents use us for nights at the Kennedy Center and Capital One Arena, dinners in Georgetown and the Wharf, matches at Audi Field, Nationals games and events at the Convention Center, with the chauffeur staging nearby for the return across the river. We also provide dignified transportation for services at Arlington National Cemetery, and Sprinter vans for weddings, proms at Washington-Liberty, Yorktown and Wakefield high schools, and milestone celebrations.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -781,7 +781,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Bailey's Crossroads Limo Service", to: "/baileys-crossroads-limo-service" },
       { label: "Arlington Wedding Limo Service", to: "/arlington-wedding-limo-service" },
     ],
-    schema: { areaServed: ["Arlington, VA", "Arlington County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Arlington, VA", "Arlington County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "alexandria-limo-service",
@@ -828,7 +828,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Weddings, evenings and celebrations",
         paragraphs: [
           "Alexandria is one of the region's busiest wedding towns, and we run the full day: getting-ready pickups, ceremony-to-reception transfers between Old Town churches and waterfront or Carlyle venues, hotel shuttles in Sprinter vans and a getaway car at the end of the night. We also serve anniversary dinners on King Street, proms at Alexandria City High School and the private schools near Seminary Hill, and evenings at the Kennedy Center and Audi Field.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -848,7 +848,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Do you provide wedding transportation in Alexandria?",
-        a: "Yes. Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines are coordinated under one reservation for wedding parties and guests at Old Town, waterfront, Carlyle and Mount Vernon-area venues.",
+        a: "Yes. Sedans, SUVs and 13-passenger Sprinter vans are coordinated under one reservation for wedding parties and guests at Old Town, waterfront, Carlyle and Mount Vernon-area venues.",
       },
       {
         q: "Do you serve Kingstowne and Mount Vernon as part of Alexandria?",
@@ -867,7 +867,7 @@ export const MARYLAND_BATCH3 = [
       { label: "IAD to Fredericksburg", to: "/iad-to-fredericksburg" },
       { label: "Kingstowne Limo Service", to: "/kingstowne-limo-service" },
     ],
-    schema: { areaServed: ["Alexandria, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Alexandria, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
 
   // ---------------------------------------------------------------- VENUES
@@ -894,7 +894,7 @@ export const MARYLAND_BATCH3 = [
       "Hourly service when you want the chauffeur to wait through the performance and be ready at the door",
       "Pre-show dinner stops at the Capital One Center restaurants, the Boro or Tysons Galleria on the same booking",
       "Chauffeurs who know Route 123, Capital One Drive, Scotts Crossing Road and the Beltway ramps at Tysons",
-      "Sedans and SUVs for couples, Sprinter vans and stretch limousines for groups and celebrations",
+      "Sedans and SUVs for couples, Sprinter Executive vans for groups and celebrations",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -915,7 +915,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Making an evening of it",
         paragraphs: [
           "Many clients book the evening as one reservation: pickup at home in McLean, Vienna, Reston or Arlington, dinner at a Capital One Center or Boro restaurant, the performance, and the ride home. Hourly service covers that at one confirmed rate. Out-of-town guests staying at the Watermark, the Ritz-Carlton or the Hyatt in Tysons can add a Dulles or Reagan National transfer on either end, with flight tracking included.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -935,7 +935,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you carry a group to Capital One Hall?",
-        a: "Yes. SUVs seat six, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight. Larger parties ride in multiple coordinated vehicles that arrive together.",
+        a: "Yes. SUVs seat up to six and Mercedes Sprinter vans carry up to 13. Larger parties ride in multiple coordinated vehicles that arrive together.",
       },
       {
         q: "Do you serve Capital One Hall from Dulles or Reagan National?",
@@ -1058,7 +1058,7 @@ export const MARYLAND_BATCH3 = [
       "Hourly service so the chauffeur waits through the performance and is at the door when you text",
       "Routes from Virginia via the Roosevelt Bridge and E Street Expressway, or the Memorial Bridge and Rock Creek Parkway",
       "Dinner stops in Georgetown, the West End or Foggy Bottom on the same booking",
-      "Sedans and SUVs for couples and families, Sprinter vans and limousines for groups and galas",
+      "Sedans and SUVs for couples and families, Sprinter vans and Navigators for groups and galas",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -1078,8 +1078,8 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Dinner, galas and out-of-town guests",
         paragraphs: [
-          "An hourly booking makes the whole evening one reservation: pickup at home, dinner in Georgetown or the West End, the performance, and the ride back to Virginia or Maryland without a parking receipt. For galas, opening nights and the honors season, stretch limousines and Sprinter vans carry groups in formal dress with the chauffeur handling the door. Guests flying in for a performance can combine a Dulles or Reagan National pickup with the show and a hotel drop-off at the Watergate or a West End hotel.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "An hourly booking makes the whole evening one reservation: pickup at home, dinner in Georgetown or the West End, the performance, and the ride back to Virginia or Maryland without a parking receipt. For galas, opening nights and the honors season, Sprinter Executive vans carry groups in formal dress with the chauffeur handling the door. Guests flying in for a performance can combine a Dulles or Reagan National pickup with the show and a hotel drop-off at the Watergate or a West End hotel.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -1103,7 +1103,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Do you carry groups for galas and opening nights?",
-        a: "Yes. SUVs seat six, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight, and larger parties ride in multiple coordinated vehicles that arrive together.",
+        a: "Yes. SUVs seat up to six and Mercedes Sprinter vans carry up to 13, and larger parties ride in multiple coordinated vehicles that arrive together.",
       },
     ],
     related: [
@@ -1245,7 +1245,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Groups, hospitality and the full evening",
         paragraphs: [
           "Supporters' groups, corporate suites and birthday parties ride in Sprinter vans for up to 13 or in coordinated multiple vehicles. Many clients build the evening around the match: pickup in Arlington, Alexandria or Fairfax, dinner at the Wharf or Navy Yard, the game, and the ride home, all on one hourly reservation with the chauffeur waiting nearby. Visiting fans can combine a Dulles or Reagan National arrival with the match and a hotel drop-off.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -1265,7 +1265,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "Can you carry a supporters' group or a suite party?",
-        a: "Yes. Mercedes Sprinter vans carry up to 13, SUVs seat six and stretch limousines seat eight; larger groups ride in multiple coordinated vehicles that arrive together.",
+        a: "Yes. Mercedes Sprinter vans carry up to 13 and SUVs seat up to six; larger groups ride in multiple coordinated vehicles that arrive together.",
       },
       {
         q: "How long is the ride from Northern Virginia to Audi Field?",
@@ -1330,7 +1330,7 @@ export const MARYLAND_BATCH3 = [
         h2: "Family visits, sightseeing and evenings out",
         paragraphs: [
           "When parents or in-laws fly into Dulles, an hourly booking lets you show them the region without a parking strategy: the Lincoln Memorial and the Mall, the changing of the guard at Arlington National Cemetery, George Washington's Mount Vernon, Great Falls Park, lunch in Old Town Alexandria and back to Ashburn or McLean by dinner. Evenings work the same way, with dinner in Georgetown followed by the Kennedy Center or Capital One Hall and the car waiting at the door.",
-          "SUVs carry six with room for strollers and car seats, which we install on request, and Sprinter vans carry up to 13 for a full family outing. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines.",
+          "SUVs carry six with room for strollers and car seats, which we install on request, and Sprinter vans carry up to 13 for a full family outing. Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings.",
         
           "Chauffeurs assigned to Northern Virginia Hourly Chauffeur Service trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives. Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Northern Virginia Hourly Chauffeur Service trips are always welcome to be recognized.",],
@@ -1381,11 +1381,11 @@ export const MARYLAND_BATCH3 = [
       "Anniversary limo and black car service in Northern Virginia: Old Town waterfront dinners, the Kennedy Center or a Loudoun winery day. Call (877) 609-1919.",
     stats: [
       { label: "Coverage", value: "Northern Virginia · DC · Loudoun wine country" },
-      { label: "Fleet", value: "Sedans · SUVs · Sprinters · Limousines" },
+      { label: "Fleet", value: "Sedans · SUVs · Sprinters" },
       { label: "Pricing", value: "Flat rate or hourly, confirmed in writing" },
     ],
     intro: [
-      "IAD Airport Limo provides anniversary limo and chauffeured car service across Northern Virginia and Washington, DC: a sedan for a quiet dinner on the Old Town Alexandria waterfront, a stretch limousine for a milestone year, or a Sprinter van for a vow renewal with the whole family aboard. The chauffeur handles the doors, the parking and the timing so the evening is only about the two of you.",
+      "IAD Airport Limo provides anniversary limo and chauffeured car service across Northern Virginia and Washington, DC: a sedan for a quiet dinner on the Old Town Alexandria waterfront, a First Class Sedan for a milestone year, or a Sprinter van for a vow renewal with the whole family aboard. The chauffeur handles the doors, the parking and the timing so the evening is only about the two of you.",
       "The region offers more anniversary settings than most couples get to in a decade: candlelit dining in Great Falls, the rooftop and hotel restaurants of Tysons, a performance at the Kennedy Center, a Georgetown waterfront stroll, or a full day among the vineyards of western Loudoun with a picnic packed in the back. We plan the itinerary with you, confirm the rate in writing, and send the chauffeur's name the day before.",
     ],
     highlights: [
@@ -1393,7 +1393,7 @@ export const MARYLAND_BATCH3 = [
       "Dinner in Great Falls, Tysons, McLean or Georgetown followed by the Kennedy Center, Capital One Hall or Wolf Trap",
       "Loudoun wine-country days to Middleburg, Purcellville and Leesburg vineyards on an hourly booking",
       "Overnight escapes to Lansdowne, Salamander in Middleburg or the inns of Rappahannock County",
-      "Stretch limousines, sedans and SUVs with a chosen playlist, quiet cabin and no clock-watching",
+      "First Class Sedans, SUVs and Sprinter Executive vans with a chosen playlist, quiet cabin and no clock-watching",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -1413,11 +1413,11 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "Milestone years and vow renewals",
         paragraphs: [
-          "Tenth, twenty-fifth and fiftieth anniversaries often involve family: a vow renewal at the original church, a dinner for twenty at a Tysons or Alexandria restaurant, or a surprise arrival in a stretch limousine. We coordinate multiple vehicles under one reservation so parents, children and grandchildren arrive together, and the chauffeur is briefed on the surprise if there is one. Flowers, a chilled bottle or a specific route past a meaningful address can be arranged when you book.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Tenth, twenty-fifth and fiftieth anniversaries often involve family: a vow renewal at the original church, a dinner for twenty at a Tysons or Alexandria restaurant, or a surprise arrival in a First Class Sedan. We coordinate multiple vehicles under one reservation so parents, children and grandchildren arrive together, and the chauffeur is briefed on the surprise if there is one. Flowers, a chilled bottle or a specific route past a meaningful address can be arranged when you book.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         
           "Every Northern Virginia Anniversary Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",],
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",],
       },
     ],
     vehicles: VEHICLES,
@@ -1440,7 +1440,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "How far ahead should I book for an anniversary?",
-        a: "As early as you can for Saturday evenings and for stretch limousines and Sprinter vans; sedans and SUVs are often available on shorter notice. Cancellation remains free within the standard windows.",
+        a: "As early as you can for Saturday evenings and for Sprinter vans and Navigators; sedans and SUVs are often available on shorter notice. Cancellation remains free within the standard windows.",
       }],
     related: [
       { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },
@@ -1452,7 +1452,7 @@ export const MARYLAND_BATCH3 = [
       { label: "Wedding Limo", to: "/wedding-limo" },
       { label: "Birthday Limo", to: "/birthday-limo" },
     ],
-    schema: { areaServed: ["Northern Virginia", "Washington, DC"], serviceType: "Anniversary limousine service" },
+    schema: { areaServed: ["Northern Virginia", "Washington, DC"], serviceType: "Anniversary chauffeur service" },
   },
   {
     slug: "northern-virginia-graduation-limo",
@@ -1465,11 +1465,11 @@ export const MARYLAND_BATCH3 = [
       "Graduation limo and family car service in Northern Virginia: George Mason, Georgetown, GW, UVA, Virginia Tech and high schools. Sprinters. Call (877) 609-1919.",
     stats: [
       { label: "Coverage", value: "Northern Virginia · DC · Charlottesville · Blacksburg" },
-      { label: "Fleet", value: "Sedans · SUVs · 13-passenger Sprinters · Limousines" },
+      { label: "Fleet", value: "Sedans · SUVs · 13-passenger Sprinters" },
       { label: "Pricing", value: "Flat rate or hourly, confirmed in writing" },
     ],
     intro: [
-      "IAD Airport Limo provides graduation limo and chauffeured car service across Northern Virginia and Washington, DC, for university commencements, high school ceremonies and the family celebrations that follow. Grandparents fly into Dulles, the family rides together in a Sprinter van, the graduate gets the limousine, and nobody spends commencement morning circling a full parking lot.",
+      "IAD Airport Limo provides graduation limo and chauffeured car service across Northern Virginia and Washington, DC, for university commencements, high school ceremonies and the family celebrations that follow. Grandparents fly into Dulles, the family rides together in a Sprinter van, the graduate gets the First Class Sedan, and nobody spends commencement morning circling a full parking lot.",
       "Graduation weekends compress a lot of people into a few venues on the same day. George Mason fills EagleBank Arena and the Fairfax campus, Georgetown covers Healy Lawn, George Washington University gathers on the National Mall, and Fairfax County and Loudoun County high schools stagger their ceremonies across arenas, campus halls and school stadiums through late spring. We plan pickups around the venue's traffic pattern, confirm the rate in writing, and coordinate the airport transfers for relatives arriving from out of town.",
     ],
     highlights: [
@@ -1491,14 +1491,14 @@ export const MARYLAND_BATCH3 = [
       {
         h2: "High school graduations and the party afterward",
         paragraphs: [
-          "Fairfax County, Loudoun County, Arlington, Alexandria and Prince William high schools hold ceremonies at arenas, campus auditoriums and school stadiums through May and June, often on weekday mornings when the family car is already spoken for. A Sprinter van collects grandparents, siblings and the graduate from one or two addresses, delivers everyone to the ceremony, and moves on to the restaurant or the backyard party afterward. Stretch limousines are popular for the graduate and friends heading to a dinner in Tysons, Reston Town Center or Old Town Alexandria that evening.",
+          "Fairfax County, Loudoun County, Arlington, Alexandria and Prince William high schools hold ceremonies at arenas, campus auditoriums and school stadiums through May and June, often on weekday mornings when the family car is already spoken for. A Sprinter van collects grandparents, siblings and the graduate from one or two addresses, delivers everyone to the ceremony, and moves on to the restaurant or the backyard party afterward. The Sprinter Executive is popular for the graduate and friends heading to a dinner in Tysons, Reston Town Center or Old Town Alexandria that evening.",
         ],
       },
       {
         h2: "Airport transfers for visiting relatives",
         paragraphs: [
           "Many graduation bookings begin at Dulles, Reagan National or BWI. We track each arriving flight, meet relatives at baggage claim if requested, and bring them to the family home or hotel with 45 minutes of complimentary waiting on domestic arrivals and 60 on international. The departure runs are scheduled the same way at the end of the weekend, and everything sits under one reservation with one point of contact. Car seats are available on request for younger siblings and cousins.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special-event reservations.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event reservations.",
         ],
       },
     ],
@@ -1510,7 +1510,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "How many people fit in one vehicle?",
-        a: "Sedans seat three, the Lincoln Navigator seats six and the Chevrolet Suburban five, stretch limousines seat eight and Mercedes Sprinter vans carry up to 13. Larger families ride in multiple coordinated vehicles.",
+        a: "Sedans seat three, the Lincoln Navigator seats six and the Chevrolet Suburban five and Mercedes Sprinter vans carry up to 13. Larger families ride in multiple coordinated vehicles.",
       },
       {
         q: "Can you handle a George Mason commencement at EagleBank Arena?",
@@ -1522,7 +1522,7 @@ export const MARYLAND_BATCH3 = [
       },
       {
         q: "How far in advance should we book for graduation season?",
-        a: "As early as the ceremony date is published, particularly for Sprinter vans and limousines on May and June weekends, which are the first vehicles to fill. If relatives are flying in, add their Dulles, Reagan National or BWI arrivals to the same booking so the airport pickups and the ceremony day are planned together.",
+        a: "As early as the ceremony date is published, particularly for Sprinter vans and Navigators on May and June weekends, which are the first vehicles to fill. If relatives are flying in, add their Dulles, Reagan National or BWI arrivals to the same booking so the airport pickups and the ceremony day are planned together.",
       },
     ],
     related: [
@@ -1535,6 +1535,6 @@ export const MARYLAND_BATCH3 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "Fleet", to: "/fleet" },
     ],
-    schema: { areaServed: ["Northern Virginia", "Washington, DC", "Charlottesville, VA"], serviceType: "Graduation limousine service" },
+    schema: { areaServed: ["Northern Virginia", "Washington, DC", "Charlottesville, VA"], serviceType: "Graduation chauffeur service" },
   },
 ];

@@ -23,11 +23,6 @@ const vehicleSeo = {
     description:
       'Mercedes Sprinter vans for groups up to 13 — Dulles airport transfers, events & tours across DC, MD & VA. Call (877) 609-1919 for group quotes.',
   },
-  buses: {
-    title: 'Group Transportation | IAD Airport Limo Fleet',
-    description:
-      'Large-group transportation options for Dulles airport transfers and events across DC, Maryland & Virginia. Call (877) 609-1919 to plan your group trip.',
-  },
 };
 
 const vehiclesFaqs = [
@@ -61,7 +56,6 @@ const VehiclesPage = () => {
     suv: '/images/lincoln-navigator.webp',
     sprinter: '/images/mercedes-sprinter.webp',
     sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
-    sprinterLimo: '/images/limousine.webp',
   };
 
   // Category pages mirror the 8-vehicle fleet — kept in sync with 92limo.com.
@@ -130,24 +124,6 @@ const VehiclesPage = () => {
           pax: 13, luggage: 13,
           image: images.sprinter,
           features: ['Conference Seating', 'Mood Lighting', 'Premium Audio', 'USB Charging', 'Mini Bar']
-        }
-      ]
-    },
-    buses: {
-      title: 'Mini Buses',
-      subtitle: 'Large group transportation made easy',
-      vehicles: [
-        {
-          name: 'Mini Coach',
-          pax: 24, luggage: 24,
-          image: images.sprinter,
-          features: ['Reclining Seats', 'Overhead Storage', 'PA System', 'Climate Control']
-        },
-        {
-          name: 'Party Bus',
-          pax: 20, luggage: 15,
-          image: images.sprinter,
-          features: ['Dance Floor', 'Premium Sound', 'LED Lighting', 'Bar Service', 'Restroom']
         }
       ]
     },
@@ -260,13 +236,8 @@ const VehiclesPage = () => {
     ],
     sprinters: [
       'Once a group reaches five or more travelers, a Sprinter van keeps the whole party together at one flat rate instead of coordinating two or three separate vehicles that inevitably arrive at different times. Each of our three Sprinter configurations seats up to 13 with matching luggage capacity, so a full group and their bags travel in one trip from Dulles.',
-      'Choose the Sprinter Shuttle for straightforward group airport transfers, or the Sprinter Executive for corporate roadshows and conference travel, wedding parties, proms and celebrations that want limousine styling with the capacity a stretch sedan cannot match. Both are driven by the same background-checked, professionally licensed chauffeurs as the rest of our fleet.',
+      'Choose the Sprinter Shuttle for straightforward group airport transfers, or the Sprinter Executive for corporate roadshows and conference travel, wedding parties, proms and celebrations that want an upgraded cabin with room for the whole group. Both are driven by the same background-checked, professionally licensed chauffeurs as the rest of our fleet.',
       'Because Sprinter vans are the tightest inventory in any chauffeured fleet, including ours, book one as early as your date is confirmed — especially for a Saturday during wedding season or a week with a major regional conference — rather than assuming one will be available on short notice.',
-    ],
-    buses: [
-      'For groups larger than a Sprinter can comfortably seat — wedding blocks, corporate conferences, school and university trips — a Mini Coach or Party Bus keeps 20 to 24 travelers moving together instead of dispatching multiple vehicles. Both options are booked well in advance for Dulles-area events, since large-vehicle availability is more limited than our sedan and SUV fleet.',
-      'The Mini Coach is built for comfort on longer rides, with reclining seats and overhead storage for luggage-heavy group transfers. The Party Bus is the choice for celebrations rather than transfers — dance floor, premium sound and bar service included — and is popular for milestone birthdays, bachelor and bachelorette parties, and wine-tour groups across Northern Virginia and Loudoun County.',
-      'Both large-vehicle options are booked with a dedicated chauffeur under the same licensed and insured carrier authority as the rest of our fleet. Call dispatch with your headcount and event date, and we will confirm which option fits — or recommend splitting a very large group across a Mini Coach and a Sprinter if your party exceeds what either vehicle alone can comfortably seat.',
     ],
     'mercedes-s-class': [
       'The Mercedes-Benz S-Class is the flagship of our sedan fleet and the vehicle most frequently requested for board-level executives, VIP arrivals and milestone celebrations where the car itself is part of the occasion. Rear-seat massage function, a multi-zone climate system and a cabin engineered for near-silence at highway speed set it apart from a standard business sedan the moment the door closes.',
@@ -295,7 +266,7 @@ const VehiclesPage = () => {
     ],
     'mercedes-sprinter': [
       'The Mercedes Sprinter is the standard-bearer of our group transportation fleet, seating up to 13 passengers with matching luggage capacity in a cabin tall enough to stand in — a meaningful difference for anyone who has tried to board a crowded minivan with a week of luggage.',
-      'Corporate groups use the Sprinter for roadshows, conference delegations and team transportation where keeping everyone together on one schedule matters more than any single passenger\'s preference. Wedding parties and celebration groups request the same vehicle for its conference-style seating, mood lighting and premium audio, which give it a more elevated feel than a typical passenger van without the cost of multiple stretch limousines.',
+      'Corporate groups use the Sprinter for roadshows, conference delegations and team transportation where keeping everyone together on one schedule matters more than any single passenger\'s preference. Wedding parties and celebration groups request the same vehicle for its conference-style seating, mood lighting and premium audio, which give it a more elevated feel than a typical passenger van.',
       'Because larger vehicles are the tightest inventory in any chauffeured fleet, including ours, book a Sprinter as early as your date is set — especially for a Saturday during wedding season or a week with a major regional conference — rather than waiting until the week of your trip.',
     ],
     'ford-transit': [
@@ -310,7 +281,6 @@ const VehiclesPage = () => {
     { key: 'sedans', name: 'Sedans', path: '/vehicles/sedans' },
     { key: 'suv', name: 'SUV', path: '/vehicles/suv' },
     { key: 'sprinters', name: 'Sprinters', path: '/vehicles/sprinters' },
-    { key: 'buses', name: 'Buses', path: '/vehicles/buses' },
   ];
 
   return (

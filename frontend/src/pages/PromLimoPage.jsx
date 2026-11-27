@@ -15,7 +15,7 @@ const promFaqs = [
   {
     question: 'How many friends can share a prom vehicle?',
     answer:
-      'SUVs seat up to 6, stretch limos up to 8, and party Sprinters up to 12. Sharing a larger vehicle usually costs less per person.',
+      'A Lincoln Navigator seats up to 6 and a Mercedes Sprinter up to 13. Sharing a larger vehicle usually costs less per person, and we don\'t operate stretch limousines or party buses.',
   },
   {
     question: 'When should we book for prom season?',
@@ -44,25 +44,25 @@ const PromLimoPage = () => {
   const packages = [
     {
       name: 'Classic Prom',
-      vehicle: 'Luxury SUV',
+      vehicle: 'Premium SUV (Lincoln Navigator)',
       passengers: 'Up to 6',
       hours: '5 hours',
       features: ['Professional chauffeur', 'Red carpet service', 'Photo opportunities', 'Complimentary water']
     },
     {
       name: 'Premium Prom',
-      vehicle: 'Stretch Limo',
-      passengers: 'Up to 8',
+      vehicle: 'Sprinter Executive',
+      passengers: 'Up to 13',
       hours: '6 hours',
       features: ['Professional chauffeur', 'Red carpet service', 'Photo opportunities', 'Mood lighting', 'Premium sound'],
       popular: true
     },
     {
       name: 'Group Prom',
-      vehicle: 'Party Sprinter',
-      passengers: 'Up to 12',
+      vehicle: 'Sprinter Shuttle',
+      passengers: 'Up to 13',
       hours: '6 hours',
-      features: ['Professional chauffeur', 'LED party lights', 'Premium audio', 'Photo ops', 'Group seating']
+      features: ['Professional chauffeur', 'Group seating', 'Premium audio', 'Photo ops', 'Room for formalwear']
     }
   ];
 
@@ -87,7 +87,7 @@ const PromLimoPage = () => {
         <div className="relative max-w-7xl mx-auto px-4 text-center">
           <GraduationCap className="w-16 h-16 text-[#c9a227] mx-auto mb-6" />
           <p className="text-[#c9a227] text-sm tracking-[0.3em] uppercase mb-4">A Night to Remember</p>
-          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Prom Limousine</h1>
+          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Prom Limo Service</h1>
           <p className="text-gray-300 text-xl max-w-2xl mx-auto mb-8">
             Arrive in style and make your prom night unforgettable
           </p>
@@ -223,10 +223,10 @@ const PromLimoPage = () => {
               Prom night bookings are priced by the hour with a dedicated chauffeur rather than as a single point-to-point fare, because the evening typically includes several stops — a photo location, dinner, the venue, and sometimes an after-party. Parents and students agree on the itinerary in advance, and the chauffeur follows that confirmed schedule rather than waiting for instructions mid-evening.
             </p>
             <p className="text-white/70 leading-relaxed">
-              Splitting a larger vehicle across a group of friends is usually the most economical way to book: a Stretch Limo or Party Sprinter divided among six to twelve students typically costs less per person than several smaller cars, and it keeps the whole friend group together for photos and the ride to the venue rather than arriving in staggered waves.
+              Splitting a larger vehicle across a group of friends is usually the most economical way to book: a Sprinter van divided among six to thirteen students typically costs less per person than several smaller cars, and it keeps the whole friend group together for photos and the ride to the venue rather than arriving in staggered waves.
             </p>
             <p className="text-white/70 leading-relaxed">
-              We work directly with the designated parent or guardian on pickup and drop-off confirmation, not just the student booking the trip, and GPS tracking is available to that parent throughout the night. April and May Saturdays across DC, Maryland and Virginia high schools sell out the fastest, particularly for Stretch Limos and Party Sprinters, so we recommend locking in your school's prom date as soon as it is announced rather than waiting until a few weeks out.
+              We work directly with the designated parent or guardian on pickup and drop-off confirmation, not just the student booking the trip, and GPS tracking is available to that parent throughout the night. April and May Saturdays across DC, Maryland and Virginia high schools sell out the fastest, particularly for Sprinter vans, so we recommend locking in your school's prom date as soon as it is announced rather than waiting until a few weeks out.
             </p>
           </div>
         </div>
@@ -237,7 +237,7 @@ const PromLimoPage = () => {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-light text-black mb-4">Make Prom Night Special</h2>
           <p className="text-black/70 mb-8">
-            Book your prom limousine today - availability is limited during prom season!
+            Book your prom ride today - availability is limited during prom season!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

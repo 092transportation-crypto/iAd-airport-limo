@@ -25,7 +25,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "The Virginia Gold Cup turns a quiet corner of Fauquier County into one of the region's biggest outdoor parties. Here is how to get a group there and back without spending half the day in a field of brake lights.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Every spring, a pasture outside the village of The Plains in Fauquier County fills with tents, hats, picnic spreads and tens of thousands of people who have come for steeplechase racing at Great Meadow. The Virginia Gold Cup is one of the oldest and best-known jump races in the country, and its fall counterpart, the International Gold Cup, brings the same crowd back when the leaves turn. Both are wonderful days out. Both also have the same logistical catch: a rural venue reached by country roads, a crowd that arrives over a few hours and tries to leave in about thirty minutes, and a lot of people who have been enjoying the tailgate since late morning.",
       "This guide walks through how race day actually works from a transportation point of view - where the bottlenecks are, how tailgate spaces change the plan, and how to set up a pickup that gets your group home without anyone needing to drive.",
@@ -471,7 +471,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "For about ten days each spring, Winchester's festival takes over its historic downtown. Here is how to plan getting there, getting around road closures and getting home after the parades.",
-    image: "/images/blog/scenario-wedding-1.webp",
+    image: "/images/blog/scenario-doorman.webp",
     intro: [
       "The Shenandoah Apple Blossom Festival has been Winchester's signature event since the 1920s. Each spring, roughly ten days of parades, concerts, dances, runs, a carnival and community events take over the small city at the northern end of the Shenandoah Valley, culminating in a weekend that draws visitors from across Virginia and well beyond.",
       "Winchester's historic downtown was laid out long before parades of this size, and parade weekend in particular comes with street closures, packed parking and a lot of foot traffic. If you are coming from Loudoun County, Fairfax or straight from Dulles, a little transportation planning makes the difference between watching the parade and circling for parking while it goes by.",
@@ -819,7 +819,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Kings Dominion is the closest big theme park to Northern Virginia, but it still means a long day and a longer drive home. Here is how to plan it for a family, birthday group or team.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Kings Dominion, in Doswell just north of Richmond, is the go-to theme park for Northern Virginia families, birthday groups, youth teams and school clubs. It combines a large collection of roller coasters and thrill rides with family rides, a children's area and, in summer, the Soak City water park included with admission. The park is part of the Six Flags family of parks.",
       "It is also a full day out with a substantial drive at each end on one of the busiest highways in the country. The good news is that with a little planning - on dates, on timing, and on how the group gets there and back - it is a very manageable trip. This guide covers the essentials.",
@@ -1296,7 +1296,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Tucked into a bend of the Occoquan River just off I-95, the town of Occoquan packs history, shops and waterfront dining into a few walkable blocks. Here is how to plan a visit.",
-    image: "/images/blog/scenario-wedding-1.webp",
+    image: "/images/blog/scenario-doorman.webp",
     intro: [
       "Most people in Northern Virginia have driven past Occoquan on I-95 without realizing it is there. Just off the highway, in a bend of the Occoquan River between Prince William and Fairfax counties, is a small incorporated town with a historic district of old brick and frame buildings, independent shops, galleries and restaurants with views over the water.",
       "Occoquan works well as a half-day or full-day outing, a date, a gathering spot for a family celebration, or a stop on the way to or from somewhere else. Its small size is part of the charm, but it also means limited parking and narrow streets, which matter on busy weekends. This guide covers what to see, when to go and how to get there.",
@@ -1411,7 +1411,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "A lazy afternoon on the South Fork of the Shenandoah is one of the best summer days near DC. Here is how to plan the river and the drive for a group.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "About an hour west of the Dulles area, the South Fork of the Shenandoah River winds through the valley around Front Royal between the Blue Ridge and Massanutten Mountain. In summer, it is one of the most popular places in the region to float, paddle and splash, with outfitters renting tubes, canoes and kayaks and shuttling paddlers upstream so they can float back.",
       "A river day is a classic group outing - birthdays, office teams, youth groups, reunions and friends escaping the summer heat. It is also a day that ends with wet, tired and sunburned people who would rather not drive home. This guide covers how outfitter trips typically work, what affects them, and how to handle the transportation for a group.",
@@ -2034,7 +2034,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Three Virginia ski resorts are within a few hours of Dulles, and winter break is when families, school groups and friends head for the slopes. Here is how to plan the trip so the drive home after a day on the mountain isn't the hardest part.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Northern Virginia isn't ski country, but it doesn't have to go far to find snow. Three resorts in the Shenandoah Valley and the Blue Ridge, Massanutten, Bryce and Wintergreen, are all within a few hours of Dulles, and once the season opens they draw families on winter break, school ski clubs, church groups and friends looking for a weekend outside the city.",
       "The challenge is the trip itself: an early start, a long drive on I-66 and I-81, mountain roads at the end, a full day outdoors and a tired drive home in the dark. This guide covers how the three resorts compare for a trip from Northern Virginia, when to go, and how to plan the transportation for a group.",
@@ -2616,7 +2616,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Big Cork Vineyards is in Pleasant Valley, near Harpers Ferry and Antietam in Washington County, Maryland. It is a long, scenic drive from Dulles across the Potomac, and the trip home is the part to plan. Here is how.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Big Cork Vineyards is one of the better-known wineries in western Maryland. It sits in Rohrersville, in Washington County's Pleasant Valley, a narrow stretch of farmland between South Mountain and Elk Ridge just north of the Potomac River and Harpers Ferry. For many groups from Northern Virginia, it is a destination day trip rather than a quick tasting.",
       "That distance is the reason to plan carefully. The trip from Dulles crosses the Potomac, follows two-lane roads through rural Loudoun and Frederick counties, and ends in a valley that most visitors have never driven before. This guide covers the routes from Dulles and DC, how to time the day, what else is nearby and how to get everyone home safely.",
@@ -3059,7 +3059,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Each holiday season, Lewis Ginter Botanical Garden in Richmond glows with one of Virginia's best-known light displays. Here is how to plan an evening there from Dulles and Northern Virginia, including the long drive home.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Richmond's Lewis Ginter Botanical Garden is a beautiful place to visit at any time of year, but during the holidays it becomes something special. GardenFest of Lights fills the gardens with light displays, illuminated paths and seasonal decorations, and it has become one of Virginia's best-loved holiday traditions.",
       "For families in Northern Virginia, it's a worthwhile trip, but it takes planning. Richmond is a long drive from Dulles, I-95 has a reputation for heavy traffic, and GardenFest is an evening event, which means a late drive home. This guide covers how to plan the evening, from tickets to the ride back.",
@@ -3536,7 +3536,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Every holiday season, Meadowlark Botanical Gardens in Vienna turns into a walk-through light show. Here is how to plan an evening at the Winter Walk of Lights from Dulles, Reston, Tysons or DC, from tickets to the ride home.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "The Winter Walk of Lights at Meadowlark Botanical Gardens has become a holiday tradition for many families in Northern Virginia. Each season, NOVA Parks lights up the gardens in Vienna, and visitors follow a path through illuminated trees, ponds and garden displays after dark. Unlike a drive-through show, it is a walk, so you spend the evening outside in the cold, on your feet, and together.",
       "That makes it a different kind of outing to plan. Tickets are usually sold for timed entry, the busiest nights fill up, and you will want to leave the gardens warm and on time rather than hunting for your car. This guide covers how the Winter Walk of Lights works, how to time your visit from Dulles and around Northern Virginia, and how a pre-booked chauffeur makes the evening easier for families, visiting relatives and groups.",
@@ -3839,7 +3839,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Black Friday at Leesburg Premium Outlets means early starts, full parking lots and arms full of bags. Here is how to plan the day from Dulles, Loudoun or Fairfax with a ride that waits for you.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Leesburg Premium Outlets is the big open-air outlet center on the edge of Leesburg, just off Route 7 and the Route 15 bypass, and for many Northern Virginia families Black Friday there is a tradition. Friends meet before sunrise, relatives visiting for Thanksgiving come along, and the day turns into a long walk between storefronts with a lunch break in the middle. It is fun, and it is also one of the busiest days of the year on the roads around the center.",
       "This guide looks at Leesburg Premium Outlets on Black Friday from a transportation point of view: how the traffic and parking usually behave, how long the drive takes from Dulles and the rest of Loudoun and Fairfax counties, how to plan pickups and bag runs, and when a booked ride for the group makes more sense than taking two or three cars. Store hours and holiday opening times change every year, so check the center's own website for this season's schedule before you set an alarm.",
@@ -4413,7 +4413,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Christmas Town at Busch Gardens Williamsburg is a long day out from Dulles and Northern Virginia. Here is how to plan the drive, the timing and the ride home so the trip stays fun for everyone.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Each holiday season, Busch Gardens Williamsburg turns into Christmas Town, with the park's European-themed villages covered in lights, holiday shows, seasonal food and a huge decorated tree. For many Northern Virginia families, a visit to Busch Gardens Christmas Town is an annual tradition, and for others it is a once-in-a-while treat when grandparents or cousins are in town for the holidays.",
       "It is also a long trip. Williamsburg is about three hours south of Dulles, much of it on I-95, one of the busiest stretches of highway on the East Coast, and the best part of Christmas Town happens after dark. This guide covers how a Christmas Town trip usually works, how long the drive takes from Dulles and the rest of Northern Virginia, whether to make it a day trip or an overnight stay, and how a booked ride takes the driving off your plate. Busch Gardens sets its own operating dates, hours and ticket rules each season, so check the park's official website before you plan.",
@@ -4965,7 +4965,7 @@ const batch18 = [
     readTime: "8 min read",
     excerpt:
       "Harpers Ferry sits where the Potomac and Shenandoah rivers meet, about an hour from Dulles. Winter brings quieter streets and clear river views. Here is how to plan the day.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Harpers Ferry, West Virginia, is one of the most rewarding short trips from Northern Virginia. The historic Lower Town, preserved as part of Harpers Ferry National Historical Park, sits on a point of land where the Potomac and Shenandoah rivers meet, surrounded by steep ridges in three states. Its stone buildings, museums and river overlooks tell the story of the town's armory, John Brown's 1859 raid, the Civil War and the railroad.",
       "Summer weekends can be crowded. In late fall and winter, with the leaves down, the river views open up and the streets are quieter. From Dulles and Leesburg the trip is roughly an hour, which makes it an easy day out for families, visiting relatives and anyone who likes history and a good walk. The National Park Service sets visitor center hours, shuttle schedules and fees, and some shops and restaurants keep shorter winter hours, so check before you go.",

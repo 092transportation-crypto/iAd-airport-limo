@@ -49,7 +49,7 @@ const PrivacyPolicyPage = () => {
             <div className="mb-12">
               <h2 className="text-2xl font-semibold text-[#d4af37] mb-4">Introduction</h2>
               <p className="text-gray-300 leading-relaxed">
-                King Transportation ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our limousine and transportation services or visit our website.
+                King Transportation ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our chauffeured transportation services or visit our website.
               </p>
             </div>
 

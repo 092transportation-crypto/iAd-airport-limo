@@ -8,7 +8,7 @@ const termsFaqs = [
   {
     question: 'What is the cancellation policy for airport transfers?',
     answer:
-      'Sedans and SUVs can be cancelled free of charge up to 3 hours before your scheduled pickup time. Sprinter vans, limousines and special-event bookings can be cancelled free of charge up to 12 hours before pickup. Later cancellations may incur a fee — call (877) 609-1919 as early as possible to change plans.',
+      'Sedans and SUVs can be cancelled free of charge up to 3 hours before your scheduled pickup time. Sprinter vans and special-event bookings can be cancelled free of charge up to 12 hours before pickup. Later cancellations may incur a fee — call (877) 609-1919 as early as possible to change plans.',
   },
   {
     question: 'Am I charged extra if my flight is delayed?',
@@ -66,7 +66,7 @@ const TermsPage = () => {
                   <strong className="text-white">Sedans &amp; SUVs:</strong> Cancel at least 3 hours before the scheduled pickup time for no charge. Cancellations within 3 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.
                 </p>
                 <p>
-                  <strong className="text-white">Sprinter Vans &amp; Limousines:</strong> Cancel at least 12 hours before the scheduled pickup time for no charge. Cancellations within 12 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.
+                  <strong className="text-white">Sprinter Vans:</strong> Cancel at least 12 hours before the scheduled pickup time for no charge. Cancellations within 12 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.
                 </p>
                 <p>
                   <strong className="text-white">Special Events:</strong> Cancel at least 12 hours before the scheduled pickup time for no charge. Cancellations within 12 hours of pickup may be subject to a cancellation fee of up to 100% of the total fare.

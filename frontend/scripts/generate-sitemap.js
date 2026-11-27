@@ -88,7 +88,6 @@ add("/corporate", { priority: "0.8" });
 add("/vehicles/sedans", { priority: "0.8" });
 add("/vehicles/suv", { priority: "0.8" });
 add("/vehicles/sprinters", { priority: "0.8" });
-add("/vehicles/buses", { priority: "0.8" });
 add("/services/personal", { priority: "0.8" });
 add("/services/corporate", { priority: "0.8" });
 add("/services/events", { priority: "0.8" });

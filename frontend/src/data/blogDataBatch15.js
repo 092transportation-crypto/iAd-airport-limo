@@ -98,7 +98,7 @@ const batch15 = [
     readTime: '6 min read',
     excerpt:
       'Capital Pride shuts down a long stretch of 14th Street and reroutes traffic around Dupont Circle and Pennsylvania Avenue for most of a weekend. Here is how groups flying in or meeting up from the suburbs should plan around it.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'Capital Pride is one of the largest Pride celebrations on the East Coast, drawing hundreds of thousands of visitors to Washington, DC each June for a parade route and street festival that closes a long stretch of 14th Street NW and reroutes traffic around Logan Circle, Dupont Circle, and Pennsylvania Avenue. Between the parade, the street festival, and a packed calendar of parties and brunches across the city that same weekend, getting a group from point A to point B without walking miles out of the way takes some planning.',
     ],

@@ -251,7 +251,7 @@ const batch11 = [
     readTime: '6 min read',
     excerpt:
       'The Wednesday before Thanksgiving and the days around Christmas are Dulles\'s two busiest travel windows of the year. Here is how to get through them without the usual pickup chaos.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'If you fly through Dulles around Thanksgiving or Christmas, you already know the airport looks different than it does the rest of the year — longer security lines, fuller flights, and a baggage claim and pickup curb that strains under the volume. The travel itself is largely out of your control, but how you get from the terminal to your final destination is not.',
     ],
@@ -563,7 +563,7 @@ const batch11 = [
     readTime: '5 min read',
     excerpt:
       'A visiting team or band flying into Dulles is a logistics problem before it is anything else — gear, instrument cases, a tight schedule, and a group that needs to move together. Here is how we handle it.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'A college sports team, marching band or large student travel group flying into Dulles has a different problem than an individual traveler: everyone needs to move together, on a schedule, usually with a trailer\'s worth of gear or instrument cases that will not fit in a few rideshares pulled from the general queue. We run charter-style ground transportation for exactly this kind of group, coordinated with a coach, band director or trip coordinator rather than booked seat by seat.',
     ],

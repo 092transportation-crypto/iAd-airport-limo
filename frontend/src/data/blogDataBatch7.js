@@ -12,7 +12,7 @@ const batch7 = [
       'A region-wide planning guide to wedding limo service across DC, Maryland and Virginia — how pricing actually works, which vehicle fits your wedding party, real venues we serve, and the questions worth asking before you book anyone.',
     image: '/images/blog/scenario-doorman.webp',
     intro: [
-      'Wedding transportation is one of the few vendor decisions on a wedding day that has no second chance — if the car is late, or too small for the wedding party, or the driver does not know the venue, there is no reshoot. This guide covers what actually matters when booking wedding limo service anywhere across Washington DC, Maryland and Virginia: how pricing works, which vehicle fits your group, the real venues we serve most often, how to build the timeline with your planner, and — most importantly — the specific questions worth asking any transportation company before you put down a deposit, wedding-specific or not.',
+      'Wedding transportation is one of the few vendor decisions on a wedding day that has no second chance — if the car is late, or too small for the wedding party, or the driver does not know the venue, there is no reshoot. This guide covers what actually matters when booking wedding limo service anywhere across Washington DC, Maryland and Virginia: how pricing works, which vehicle fits your group, the real venues we serve most often, how to build the timeline with your planner, and — most importantly — the specific questions worth asking any transportation company before you book, wedding-specific or not.',
       'Most of what is published online about wedding limos is either a bare list of vehicle photos or vague language about "making your day special" with no real information underneath it. This guide is the opposite: specific vehicle capacities, specific pricing logic, specific venues, and specific answers, because that is what actually reduces stress on the one day where there is no room for a surprise.',
     ],
     sections: [
@@ -21,21 +21,21 @@ const batch7 = [
         paragraphs: [
           'Wedding transportation is quoted differently from a simple airport transfer, because a wedding almost never involves a single point-to-point trip. Most weddings need the vehicle to be available across a window of several hours — getting-ready location to ceremony, ceremony to photos, photos to reception, and sometimes a late-night exit — which is why wedding bookings are priced hourly with a minimum, rather than as one flat point-to-point fare.',
           'The rate is confirmed in writing before you book: vehicle class, hours reserved, and total price, with no surge pricing added regardless of how popular your wedding date is with other couples that weekend. Overtime, if your reception runs long, is billed at the same confirmed hourly rate rather than a punitive after-the-fact charge — but tell your chauffeur coordinator your realistic end time up front so the reservation is sized correctly from the start.',
-          'Deposits are standard in this industry and ours is no exception, but a deposit should always come with a written confirmation of vehicle, hours and rate attached to it — never a verbal promise. Cancellation policy for wedding and special-event bookings (Sprinter vans, limousines, and similar vehicles reserved for an event) allows free cancellation up to 12 hours before pickup, longer than the 3-hour window on a standard sedan or SUV transfer, because event-day vehicles are held specifically for you rather than kept in general rotation.',
+          'Your rate is quoted and confirmed in writing, along with the vehicle and hours — never a verbal promise — and your card is charged once the reservation and rate are confirmed. Cancellation policy for wedding and special-event bookings (Sprinter vans and similar vehicles reserved for an event) allows free cancellation up to 12 hours before pickup, longer than the 3-hour window on a standard sedan or SUV transfer, because event-day vehicles are held specifically for you rather than kept in general rotation.',
         ],
       },
       {
         heading: 'Which Vehicle Actually Fits Your Wedding Party',
         paragraphs: [
           'The most common sizing mistake is booking a vehicle for the couple alone and forgetting the wedding party needs its own transportation too. A Mercedes-Benz E-Class or BMW 7 Series sedan is right for the couple\'s own exit — quiet, private, and appropriately elegant for the getaway — but a wedding party of four to six bridesmaids or groomsmen needs a Lincoln Navigator (six seats) or Chevrolet Suburban (five), and a full party of eight or more is a Sprinter Shuttle or Sprinter Executive van.',
-          'For a wedding party larger than 13, or for guest shuttle service between a hotel block and a venue with limited parking, we coordinate multiple vehicles that arrive and depart together on the same schedule, rather than a mismatched fleet showing up at different times. The Sprinter Executive — a stretch-configured Sprinter — is worth considering specifically when you want limousine styling with more capacity than a traditional stretch sedan provides.',
+          'For a wedding party larger than 13, or for guest shuttle service between a hotel block and a venue with limited parking, we coordinate multiple vehicles that arrive and depart together on the same schedule, rather than a mismatched fleet showing up at different times. The Sprinter Executive — a Sprinter with an upgraded cabin for celebrations — is worth considering when you want a more formal ride that still keeps up to 13 people together. (We don\'t operate stretch limousines.)',
           'A detail couples often miss: if the ceremony and reception are at different venues, the getting-ready location often needs its own separate vehicle running simultaneously with the ceremony-to-reception vehicle, so the wedding party is not waiting on a single car to make two round trips. Walk through your actual day, location by location, before deciding how many vehicles you need — not just how many you would like to have.',
         ],
       },
       {
         heading: 'Real Venues We Serve Across the Region',
         paragraphs: [
-          'Ladew Topiary Gardens in Baltimore County is one of the region\'s most photographed wedding settings, and its rural setting means a chauffeur who already knows the approach roads and the venue\'s staging area saves real time versus a driver navigating it for the first time. We typically stage a Sprinter van or stretch limousine there for wedding parties.',
+          'Ladew Topiary Gardens in Baltimore County is one of the region\'s most photographed wedding settings, and its rural setting means a chauffeur who already knows the approach roads and the venue\'s staging area saves real time versus a driver navigating it for the first time. We typically stage a Sprinter van or Sprinter Executive there for wedding parties.',
           'Potomac and Bethesda estate venues along the American Legion Bridge corridor are a frequent booking for DC-area couples, along with the country club circuit in that same stretch of Montgomery County. Frederick County draws couples toward its barns and vineyards along I-270 and Route 15, including Ceresville Mansion — a longer drive from DC that benefits from a chauffeur who plans around Route 15 traffic patterns rather than a straight GPS estimate.',
           'On the Eastern Shore, Chesapeake Bay Beach Club is a common Bay Bridge wedding destination; the two-hour-plus drive from Northern Virginia in summer traffic is exactly the kind of trip where a flat, confirmed rate beats an unpredictable rideshare fare that climbs with distance and demand. In Loudoun County, the wine-country venues along the Route 15 and Route 50 corridors host a steady run of vineyard weddings, where gravel drives and limited turnaround space call for a chauffeur experienced with those specific properties. And inside DC itself, hotel ballroom weddings remain common, where curbside coordination with hotel staff and valet is its own small skill a chauffeur builds only by doing it repeatedly.',
         ],
@@ -62,7 +62,7 @@ const batch7 = [
         paragraphs: [
           'Ask directly whether the company is a licensed and insured commercial carrier, not simply "insured" in a vague sense — a personal auto policy is not the same as commercial liability coverage, and the difference matters if anything goes wrong on your wedding day. Ask whether your specific chauffeur will be confirmed by name ahead of time, or whether you are booking a vehicle from a general pool with whoever is available assigned the morning of.',
           'Ask what happens if your ceremony or reception runs long — is overtime billed at the same confirmed hourly rate, or does the company reserve the right to charge more once you are already mid-event? Ask whether the company has actually driven to your specific venue before, particularly for rural properties like vineyards and estate grounds where a wrong turn costs real time.',
-          'Ask what the cancellation and rescheduling policy is in writing, not verbally, and get the vehicle, hours and total rate confirmed in an email or contract before any deposit changes hands. A company confident in its own service has straightforward answers to all of this; vague answers to any of these questions are worth treating as a real signal, not a formality to skip past.',
+          'Ask what the cancellation and rescheduling policy is in writing, not verbally, and get the vehicle, hours and total rate confirmed in an email or contract, and ask when the card is charged and what the cancellation windows are. A company confident in its own service has straightforward answers to all of this; vague answers to any of these questions are worth treating as a real signal, not a formality to skip past.',
         ],
       },
       {
@@ -85,13 +85,13 @@ const batch7 = [
         paragraphs: [
           'A wedding books a vehicle for hours at a stretch, often across several venues and sometimes on rural roads a driver has never taken before — exactly the conditions where the gap between a personal auto policy and genuine commercial liability coverage becomes real rather than theoretical. A company operating under proper commercial carrier licensing carries insurance sized for exactly this kind of extended, multi-stop, professionally driven trip.',
           'This is also why a dry run of the route matters more for a wedding than for almost any other kind of booking: a chauffeur who has already driven the actual approach to a rural vineyard or estate property, checked where to stage for pickup, and timed the drive between venues removes the single largest source of wedding-day transportation risk, which is a driver improvising a route for the first time while a wedding party is waiting.',
-          'None of this is unique to any one company — it is simply the standard worth insisting on, in writing, before a deposit changes hands, regardless of who you ultimately book.',
+          'None of this is unique to any one company — it is simply the standard worth insisting on, in writing, before the card is charged, regardless of who you ultimately book.',
         ],
       },
       {
         heading: 'Booking Your Wedding Transportation',
         paragraphs: [
-          'Reserve as early as you reasonably can — six months out is common for peak spring and fall wedding dates, since Sprinter vans and stretch limousines are the first vehicles to book out on popular Saturdays across the region. Tell us your ceremony and reception venues, wedding party size, and rough timeline, and we will recommend the right vehicle mix and confirm a written flat hourly rate before any deposit is due.',
+          'Reserve as early as you reasonably can — six months out is common for peak spring and fall wedding dates, since Sprinter vans and Navigators are the first vehicles to book out on popular Saturdays across the region. Tell us your ceremony and reception venues, wedding party size, and rough timeline, and we will recommend the right vehicle mix and confirm a written flat hourly rate before your card is charged.',
           'Call (877) 609-1919 or book online — every wedding reservation includes a pre-wedding route review, a chauffeur in formal attire, and the same licensed, commercially insured standard we hold on every trip we run across DC, Maryland and Virginia.',
         ],
       },
@@ -100,7 +100,7 @@ const batch7 = [
       {
         question: 'How far in advance should we book wedding transportation?',
         answer:
-          'Six months ahead is typical for peak spring and fall Saturdays. Sprinter vans and stretch limousines book out first on popular dates, so earlier is always safer than later.',
+          'Six months ahead is typical for peak spring and fall Saturdays. Sprinter vans and Navigators book out first on popular dates, so earlier is always safer than later.',
       },
       {
         question: 'Is wedding transportation priced hourly or as a flat rate?',
@@ -125,7 +125,7 @@ const batch7 = [
       {
         question: 'What is the cancellation policy for a wedding booking?',
         answer:
-          'Free cancellation up to 12 hours before pickup for wedding and special-event vehicles (Sprinter vans, limousines and similar) — longer than the 3-hour window on a standard sedan or SUV transfer. Plans for a wedding day usually involve more vehicles and more coordination, which is why the longer notice window applies. Your cancellation terms are stated in your booking confirmation.',
+          'Free cancellation up to 12 hours before pickup for wedding and special-event vehicles (Sprinter vans and similar) — longer than the 3-hour window on a standard sedan or SUV transfer. Plans for a wedding day usually involve more vehicles and more coordination, which is why the longer notice window applies. Your cancellation terms are stated in your booking confirmation.',
       },
       {
         question: 'Can you provide guest shuttle service between our hotel block and the venue?',
@@ -140,7 +140,7 @@ const batch7 = [
       {
         question: 'What should we ask before booking any wedding transportation company?',
         answer:
-          'Confirm they hold commercial (not personal) insurance, ask whether your chauffeur is confirmed by name in advance, ask how overtime is billed, and get the vehicle, hours and total rate in writing before any deposit changes hands. Our own chauffeurs are licensed and background-checked, every vehicle is commercially insured, and your rate is flat and confirmed in writing before the day.',
+          'Confirm they hold commercial (not personal) insurance, ask whether your chauffeur is confirmed by name in advance, ask how overtime is billed, and get the vehicle, hours and total rate in writing, and ask when the card is charged and what the cancellation windows are. Our own chauffeurs are licensed and background-checked, every vehicle is commercially insured, and your rate is flat and confirmed in writing before the day.',
       },
       {
         question: 'Do you handle rehearsal dinner and next-day brunch transportation too?',

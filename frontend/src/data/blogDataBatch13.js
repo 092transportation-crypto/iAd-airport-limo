@@ -22,7 +22,7 @@ const batch13 = [
     readTime: '6 min read',
     excerpt:
       'A beautiful winter wedding date comes with a real risk the glossy inspiration photos never mention: weather. Here is how to plan the transportation side of that risk before the day arrives.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Winter weddings in Northern Virginia — candlelit receptions, a snow-dusted estate, the off-peak pricing many venues offer between December and February — come with one practical trade-off couples need to plan around: the real possibility of snow, ice or a hard freeze on the date itself. Here is how that risk actually affects transportation, and what to have in place before the day arrives rather than during it.',
     ],
@@ -418,7 +418,7 @@ const batch13 = [
     relatedLinks: [
       { label: 'Do You Tip a Limo Driver? Chauffeur Tipping Etiquette, Explained', to: '/blog/chauffeur-tipping-etiquette-guide' },
       { label: 'Can You Book IAD Airport Car Service Last-Minute or Same-Day?', to: '/last-minute-iad-airport-car-service' },
-      { label: 'Deposits and Cancellations: How Limo Service Policies Actually Work', to: '/blog/limo-service-deposit-cancellation-policy-guide' },
+      { label: 'Payment and Cancellations: How Limo Service Policies Actually Work', to: '/blog/limo-service-deposit-cancellation-policy-guide' },
       { label: 'Solo and Female Traveler Safety Guide', to: '/blog/solo-female-traveler-safety-airport-car-service-dulles' },
       { label: 'Book Now', to: '/book-now' },
       { label: 'Airport Transfers', to: '/airport-transfer' },
@@ -434,7 +434,7 @@ const batch13 = [
     readTime: '6 min read',
     excerpt:
       'Loudoun\'s historic horse-country estates are not vineyards, and they do not have vineyard-venue logistics. Here is what is actually different about planning transportation for one.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Loudoun County\'s wedding-venue map is often talked about as one category — "wine country" — but the historic hunt-country estates (Salamander Resort, Oatlands Historic House and Gardens, Morven Park and similar properties) have a meaningfully different set of transportation logistics than a working vineyard. Here is what to actually plan for at this specific category of venue.',
     ],
@@ -477,9 +477,9 @@ const batch13 = [
           'Yes, including on-property vehicle staging and coordination for weddings using the resort as both the ceremony venue and the getting-ready base. Share the ceremony and reception times and the getting-ready location when you book so staging can be planned with the resort in advance.',
       },
       {
-        question: 'Can a stretch limousine access Oatlands or Morven Park\'s historic grounds?',
+        question: 'Can a Sprinter van access Oatlands or Morven Park\'s historic grounds?',
         answer:
-          'It depends on the specific property\'s preservation restrictions. We confirm vehicle access with venue staff in advance and will recommend a sedan or SUV where a limousine is not appropriate for the grounds.',
+          'It depends on the specific property\'s preservation restrictions. We confirm vehicle access with venue staff in advance and will recommend a sedan or SUV where a Sprinter van is not appropriate for the grounds.',
       },
       {
         question: 'Do these estates require a guest shuttle?',
@@ -680,7 +680,7 @@ const batch13 = [
     readTime: '6 min read',
     excerpt:
       'Your name is attached to every vendor you recommend. Here is what to actually verify before a chauffeur company goes on your preferred list.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Wedding and event planners put their own reputation behind every vendor on a preferred list, which makes transportation — one of the few vendors with a hard, public deadline (the ceremony start time) and no second chance — worth vetting as carefully as a photographer or caterer. This is a practical checklist, not a sales pitch.',
     ],
@@ -706,7 +706,7 @@ const batch13 = [
       {
         heading: 'Fleet Variety and Vehicle Condition',
         paragraphs: [
-          'Ask to see current photos of the specific vehicles that would be assigned, not stock marketing images, and confirm the fleet includes options appropriate for different venue types — a stretch limousine is not always appropriate for a farm or estate venue with a gravel drive, and a planner should expect the company to say so rather than force the wrong vehicle onto the day.',
+          'Ask to see current photos of the specific vehicles that would be assigned, not stock marketing images, and confirm the fleet includes options appropriate for different venue types — a long, low-clearance vehicle is not always appropriate for a farm or estate venue with a gravel drive, and a planner should expect the company to say so rather than force the wrong vehicle onto the day.',
         ],
       },
       {

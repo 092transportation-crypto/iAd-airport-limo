@@ -67,10 +67,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Rockville",
         "paragraphs": [
-          "Rockville bookings run the full range: corporate travel for I-270 biotech firms, court and county-government appointments, Montgomery College events, weddings at Glenview Mansion and nights out at Rockville Town Square. Corporate clients from the Nuclear Regulatory Commission, Westat, the Montgomery County government complex and the biotech and health-science firms clustered along Shady Grove Road and the I-270 corridor use standing accounts; wedding parties at Glenview Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "Rockville bookings run the full range: corporate travel for I-270 biotech firms, court and county-government appointments, Montgomery College events, weddings at Glenview Mansion and nights out at Rockville Town Square. Corporate clients from the Nuclear Regulatory Commission, Westat, the Montgomery County government complex and the biotech and health-science firms clustered along Shady Grove Road and the I-270 corridor use standing accounts; wedding parties at Glenview Mansion take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "Rates for Rockville trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",]
       }
     ],
     "vehicles": [
@@ -105,10 +105,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -130,7 +130,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Rockville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -227,7 +227,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Bethesda",
         "paragraphs": [
-          "Bethesda bookings run the full range: NIH and Walter Reed visits, Marriott and Lockheed executive travel, Strathmore concerts, Congressional Country Club events and dinners on Bethesda Row. Corporate clients from NIH, Walter Reed, Marriott International, Lockheed Martin's Rockledge Drive headquarters and the law, consulting and medical practices around the Bethesda Metro use standing accounts; wedding parties at the Music Center at Strathmore take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "Bethesda bookings run the full range: NIH and Walter Reed visits, Marriott and Lockheed executive travel, Strathmore concerts, Congressional Country Club events and dinners on Bethesda Row. Corporate clients from NIH, Walter Reed, Marriott International, Lockheed Martin's Rockledge Drive headquarters and the law, consulting and medical practices around the Bethesda Metro use standing accounts; wedding parties at the Music Center at Strathmore take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Bethesda does not turn into a missed flight or a late arrival.",
           "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Bethesda are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",]
@@ -265,10 +265,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -290,7 +290,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Bethesda?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -395,11 +395,11 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Gaithersburg",
         "paragraphs": [
-          "Gaithersburg bookings run the full range: I-270 biotech and NIST business travel, the Montgomery County Agricultural Fair, Kentlands weddings and family airport runs from Montgomery Village. Corporate clients from NIST, AstraZeneca, Emergent BioSolutions, Novavax and the technology and life-science companies along I-270 use standing accounts; wedding parties at Kentlands Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "Gaithersburg bookings run the full range: I-270 biotech and NIST business travel, the Montgomery County Agricultural Fair, Kentlands weddings and family airport runs from Montgomery Village. Corporate clients from NIST, AstraZeneca, Emergent BioSolutions, Novavax and the technology and life-science companies along I-270 use standing accounts; wedding parties at Kentlands Mansion take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "Chauffeurs assigned to Gaithersburg trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "We also coordinate return trips and round-trip bookings for Gaithersburg travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours Yes. Businesses with regular Gaithersburg travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.",]
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours. Businesses with regular Gaithersburg travel can set up a standing corporate account with monthly invoicing, preferred vehicle selection and a single point of contact for scheduling multiple employees.",]
       }
     ],
     "vehicles": [
@@ -434,10 +434,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -459,7 +459,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Gaithersburg?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -556,10 +556,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Silver Spring",
         "paragraphs": [
-          "Silver Spring bookings run the full range: FDA and NOAA business travel, Fillmore concerts, AFI film festival weeks, Holy Cross medical visits and Takoma Park and Four Corners family airport runs. Corporate clients from NOAA, the FDA at White Oak, Holy Cross Hospital, the Montgomery County government offices and the media and nonprofit employers downtown use standing accounts; wedding parties at The Fillmore Silver Spring take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "Silver Spring bookings run the full range: FDA and NOAA business travel, Fillmore concerts, AFI film festival weeks, Holy Cross medical visits and Takoma Park and Four Corners family airport runs. Corporate clients from NOAA, the FDA at White Oak, Holy Cross Hospital, the Montgomery County government offices and the media and nonprofit employers downtown use standing accounts; wedding parties at The Fillmore Silver Spring take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "Rates for Silver Spring trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
-          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Silver Spring group arrives on schedule.",]
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or Sprinter vans — dispatched together so everyone in your Silver Spring group arrives on schedule.",]
       }
     ],
     "vehicles": [
@@ -594,10 +594,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -619,7 +619,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Silver Spring?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -728,7 +728,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Bowie",
         "paragraphs": [
-          "Bowie bookings run the full range: Bowie State commencement weekends, Baysox games, Comfort Inn ballroom weddings and receptions, Six Flags America outings and airport runs from Fairwood and Mitchellville. Corporate clients from Bowie State University, Inovalon, the Bowie Town Center retail district and the federal workforce commuting to Andrews, NASA Goddard and downtown Washington use standing accounts; wedding parties at the Comfort Inn Conference Center Bowie take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's County."
+          "Bowie bookings run the full range: Bowie State commencement weekends, Baysox games, Comfort Inn ballroom weddings and receptions, Six Flags America outings and airport runs from Fairwood and Mitchellville. Corporate clients from Bowie State University, Inovalon, the Bowie Town Center retail district and the federal workforce commuting to Andrews, NASA Goddard and downtown Washington use standing accounts; wedding parties at the Comfort Inn Conference Center Bowie take a Sprinter Executive van; hourly service covers multi-stop days across Prince George's County."
         ,
           "Every Bowie booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
           "First-time riders in Bowie often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.",
@@ -767,10 +767,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -792,7 +792,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Bowie?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -889,10 +889,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Laurel",
         "paragraphs": [
-          "Laurel bookings run the full range: APL and Fort Meade business travel, Laurel Park race days, Montpelier Mansion weddings, Main Street nights out and quick BW Parkway airport runs. Corporate clients from Johns Hopkins APL, Fort Meade and the NSA just up MD-32, Laurel Park and the government contractors clustered around Konterra and Maryland City use standing accounts; wedding parties at Montpelier Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's, Howard and Anne Arundel counties."
+          "Laurel bookings run the full range: APL and Fort Meade business travel, Laurel Park race days, Montpelier Mansion weddings, Main Street nights out and quick BW Parkway airport runs. Corporate clients from Johns Hopkins APL, Fort Meade and the NSA just up MD-32, Laurel Park and the government contractors clustered around Konterra and Maryland City use standing accounts; wedding parties at Montpelier Mansion take a Sprinter Executive van; hourly service covers multi-stop days across Prince George's, Howard and Anne Arundel counties."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Laurel does not turn into a missed flight or a late arrival.",
-          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Laurel group arrives on schedule.",]
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or Sprinter vans — dispatched together so everyone in your Laurel group arrives on schedule.",]
       }
     ],
     "vehicles": [
@@ -927,10 +927,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -952,7 +952,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Laurel?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1053,7 +1053,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Greenbelt",
         "paragraphs": [
-          "Greenbelt bookings run the full range: Goddard contractor travel, University of Maryland graduation and game weekends, Roosevelt Center events and BW Parkway airport runs. Corporate clients from NASA Goddard, the aerospace contractors on Greenbelt Road, the University of Maryland next door in College Park and the federal agencies reachable on the Green Line use standing accounts; wedding parties at the Greenbelt Marriott take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's County."
+          "Greenbelt bookings run the full range: Goddard contractor travel, University of Maryland graduation and game weekends, Roosevelt Center events and BW Parkway airport runs. Corporate clients from NASA Goddard, the aerospace contractors on Greenbelt Road, the University of Maryland next door in College Park and the federal agencies reachable on the Green Line use standing accounts; wedding parties at the Greenbelt Marriott take a Sprinter Executive van; hourly service covers multi-stop days across Prince George's County."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Greenbelt does not turn into a missed flight or a late arrival.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
@@ -1091,10 +1091,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -1116,7 +1116,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Greenbelt?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1213,10 +1213,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Waldorf",
         "paragraphs": [
-          "Waldorf bookings run the full range: Blue Crabs games, Southern Maryland weddings, Indian Head and Andrews-related travel, Branch Avenue commuters flying out of DCA and family trips to BWI. Corporate clients from the Charles County government in La Plata, Naval Support Facility Indian Head, the College of Southern Maryland and the federal workforce commuting up Branch Avenue use standing accounts; wedding parties at the Capital Clubhouse take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Charles County."
+          "Waldorf bookings run the full range: Blue Crabs games, Southern Maryland weddings, Indian Head and Andrews-related travel, Branch Avenue commuters flying out of DCA and family trips to BWI. Corporate clients from the Charles County government in La Plata, Naval Support Facility Indian Head, the College of Southern Maryland and the federal workforce commuting up Branch Avenue use standing accounts; wedding parties at the Capital Clubhouse take a Sprinter Executive van; hourly service covers multi-stop days across Charles County."
         ,
           "Groups traveling together through Waldorf are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",]
       }
     ],
     "vehicles": [
@@ -1251,10 +1251,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -1276,7 +1276,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Waldorf?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1373,10 +1373,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Frederick",
         "paragraphs": [
-          "Frederick bookings run the full range: Fort Detrick and Riverside Research Park business travel, Ceresville Mansion and downtown weddings, Frederick Keys games, wine-country outings to Linganore and Black Ankle and Hood College weekends. Corporate clients from Fort Detrick, Frederick Health, Hood College, the biotech firms of the Riverside Research Park and the county government downtown use standing accounts; wedding parties at Ceresville Mansion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Frederick County."
+          "Frederick bookings run the full range: Fort Detrick and Riverside Research Park business travel, Ceresville Mansion and downtown weddings, Frederick Keys games, wine-country outings to Linganore and Black Ankle and Hood College weekends. Corporate clients from Fort Detrick, Frederick Health, Hood College, the biotech firms of the Riverside Research Park and the county government downtown use standing accounts; wedding parties at Ceresville Mansion take a Sprinter Executive van; hourly service covers multi-stop days across Frederick County."
         ,
           "Chauffeurs assigned to Frederick trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",]
       }
     ],
     "vehicles": [
@@ -1411,10 +1411,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -1436,7 +1436,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Frederick?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1533,7 +1533,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Odenton",
         "paragraphs": [
-          "Odenton bookings run the full range: Fort Meade TDY and contractor travel, Piney Orchard family airport runs, Waugh Chapel nights out and Live! Casino evenings. Corporate clients from the NSA, U.S. Cyber Command, DISA and the defense contractors ringing Fort Meade along MD-175 and MD-32 use standing accounts; wedding parties at the Odenton Town Center pavilion take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Odenton bookings run the full range: Fort Meade TDY and contractor travel, Piney Orchard family airport runs, Waugh Chapel nights out and Live! Casino evenings. Corporate clients from the NSA, U.S. Cyber Command, DISA and the defense contractors ringing Fort Meade along MD-175 and MD-32 use standing accounts; wedding parties at the Odenton Town Center pavilion take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Odenton does not turn into a missed flight or a late arrival.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Odenton trips are always welcome to be recognized.",]
@@ -1571,10 +1571,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -1596,7 +1596,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Odenton?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1693,7 +1693,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Severna Park",
         "paragraphs": [
-          "Severna Park bookings run the full range: Naval Academy Commissioning Week and football weekends, Chartwell weddings, Boat Show weeks in Annapolis, Round Bay boating season and BWI family departures. Corporate clients from Anne Arundel Medical Center, the Naval Academy and state government in Annapolis, Fort Meade and the Baltimore firms that Ritchie Highway commuters serve use standing accounts; wedding parties at Chartwell Golf & Country Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Severna Park bookings run the full range: Naval Academy Commissioning Week and football weekends, Chartwell weddings, Boat Show weeks in Annapolis, Round Bay boating season and BWI family departures. Corporate clients from Anne Arundel Medical Center, the Naval Academy and state government in Annapolis, Fort Meade and the Baltimore firms that Ritchie Highway commuters serve use standing accounts; wedding parties at Chartwell Golf & Country Club take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Severna Park does not turn into a missed flight or a late arrival.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Severna Park trips are always welcome to be recognized.",]
@@ -1731,10 +1731,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -1756,7 +1756,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Severna Park?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -1857,7 +1857,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Crofton",
         "paragraphs": [
-          "Crofton bookings run the full range: Crofton Country Club weddings and golf outings, Naval Academy weekends, Fort Meade business travel and Waugh Chapel evenings out. Corporate clients from Fort Meade and the NSA to the north, the Annapolis state-government and Naval Academy community to the east and the federal workforce commuting to Washington on US-50 use standing accounts; wedding parties at Crofton Country Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Crofton bookings run the full range: Crofton Country Club weddings and golf outings, Naval Academy weekends, Fort Meade business travel and Waugh Chapel evenings out. Corporate clients from Fort Meade and the NSA to the north, the Annapolis state-government and Naval Academy community to the east and the federal workforce commuting to Washington on US-50 use standing accounts; wedding parties at Crofton Country Club take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Crofton does not turn into a missed flight or a late arrival.",
           "We also coordinate return trips and round-trip bookings for Crofton travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.",
@@ -1896,10 +1896,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -1921,7 +1921,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Crofton?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2018,10 +2018,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Hyattsville",
         "paragraphs": [
-          "Hyattsville bookings run the full range: University of Maryland commencement and Terps game days, Arts District openings, Route 1 dinners and quick DCA runs down Kenilworth Avenue. Corporate clients from the University of Maryland, Prince George's County agencies, the federal workforce on the Green Line and the arts and restaurant businesses of the Gateway Arts District use standing accounts; wedding parties at the Pyramid Atlantic Art Center take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Prince George's County."
+          "Hyattsville bookings run the full range: University of Maryland commencement and Terps game days, Arts District openings, Route 1 dinners and quick DCA runs down Kenilworth Avenue. Corporate clients from the University of Maryland, Prince George's County agencies, the federal workforce on the Green Line and the arts and restaurant businesses of the Gateway Arts District use standing accounts; wedding parties at the Pyramid Atlantic Art Center take a Sprinter Executive van; hourly service covers multi-stop days across Prince George's County."
         ,
           "Chauffeurs assigned to Hyattsville trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",]
       }
     ],
     "vehicles": [
@@ -2056,10 +2056,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -2081,7 +2081,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Hyattsville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2178,7 +2178,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Germantown",
         "paragraphs": [
-          "Germantown bookings run the full range: SoccerPlex tournament weekends, BlackRock performances, DOE and Hughes business travel, Butler's Orchard and Clarksburg outlet trips and I-270 airport runs. Corporate clients from Hughes Network Systems, the Department of Energy's Germantown complex, Qiagen, Holy Cross Germantown Hospital and the upper I-270 technology corridor use standing accounts; wedding parties at the BlackRock Center for the Arts take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "Germantown bookings run the full range: SoccerPlex tournament weekends, BlackRock performances, DOE and Hughes business travel, Butler's Orchard and Clarksburg outlet trips and I-270 airport runs. Corporate clients from Hughes Network Systems, the Department of Energy's Germantown complex, Qiagen, Holy Cross Germantown Hospital and the upper I-270 technology corridor use standing accounts; wedding parties at the BlackRock Center for the Arts take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "Rates for Germantown trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
@@ -2216,10 +2216,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -2241,7 +2241,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Germantown?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2338,7 +2338,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Glen Burnie",
         "paragraphs": [
-          "Glen Burnie bookings run the full range: pre-dawn BWI departures, hospital visits at BWMC, Live! Casino nights, Marley Station shopping runs and Ravens and Orioles game days in Baltimore. Corporate clients from UM Baltimore Washington Medical Center, the Maryland MVA, Northrop Grumman in Linthicum, BWI Airport itself and the Arundel Mills retail district use standing accounts; wedding parties at the Kurtz's Beach waterfront pavilion in Pasadena take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Glen Burnie bookings run the full range: pre-dawn BWI departures, hospital visits at BWMC, Live! Casino nights, Marley Station shopping runs and Ravens and Orioles game days in Baltimore. Corporate clients from UM Baltimore Washington Medical Center, the Maryland MVA, Northrop Grumman in Linthicum, BWI Airport itself and the Arundel Mills retail district use standing accounts; wedding parties at the Kurtz's Beach waterfront pavilion in Pasadena take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "Groups traveling together through Glen Burnie are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
           "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Glen Burnie are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",]
@@ -2376,10 +2376,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -2401,7 +2401,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Glen Burnie?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2498,7 +2498,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Arnold",
         "paragraphs": [
-          "Arnold bookings run the full range: Naval Academy weekends and Commissioning Week, AACC commencement, Magothy River boating season, Bay Hills weddings and BWI family departures. Corporate clients from Anne Arundel Community College, the Naval Academy and state government in Annapolis, Anne Arundel Medical Center and the Fort Meade commute up MD-2 use standing accounts; wedding parties at Bay Hills Golf Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Arnold bookings run the full range: Naval Academy weekends and Commissioning Week, AACC commencement, Magothy River boating season, Bay Hills weddings and BWI family departures. Corporate clients from Anne Arundel Community College, the Naval Academy and state government in Annapolis, Anne Arundel Medical Center and the Fort Meade commute up MD-2 use standing accounts; wedding parties at Bay Hills Golf Club take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "Groups traveling together through Arnold are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
@@ -2536,10 +2536,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -2561,7 +2561,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Arnold?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2658,7 +2658,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Riva",
         "paragraphs": [
-          "Riva bookings run the full range: South River waterfront weddings, county-government meetings, Annapolis session days, Heritage Harbour airport runs and Boat Show week. Corporate clients from Anne Arundel County government on Riva Road, Anne Arundel Medical Center, the Parole business district and state agencies in Annapolis use standing accounts; wedding parties at the South River Colony clubhouse take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County."
+          "Riva bookings run the full range: South River waterfront weddings, county-government meetings, Annapolis session days, Heritage Harbour airport runs and Boat Show week. Corporate clients from Anne Arundel County government on Riva Road, Anne Arundel Medical Center, the Parole business district and state agencies in Annapolis use standing accounts; wedding parties at the South River Colony clubhouse take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County."
         ,
           "Rates for Riva trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
           "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Riva are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",]
@@ -2696,10 +2696,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -2721,7 +2721,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Riva?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2818,7 +2818,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Cape St. Claire",
         "paragraphs": [
-          "Cape St. Claire bookings run the full range: Magothy River beach weddings, Naval Academy weekends, Sandy Point outings, Bay Bridge Run mornings and BWI family departures. Corporate clients from the Naval Academy and state government in Annapolis, Anne Arundel Medical Center, Fort Meade and the Bay Bridge commute to Kent Island use standing accounts; wedding parties at Cape St. Claire Beach take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County.",
+          "Cape St. Claire bookings run the full range: Magothy River beach weddings, Naval Academy weekends, Sandy Point outings, Bay Bridge Run mornings and BWI family departures. Corporate clients from the Naval Academy and state government in Annapolis, Anne Arundel Medical Center, Fort Meade and the Bay Bridge commute to Kent Island use standing accounts; wedding parties at Cape St. Claire Beach take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County.",
           "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Cape St. Claire are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",
         ]
       }
@@ -2855,10 +2855,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -2880,7 +2880,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Cape St. Claire?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -2977,7 +2977,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Clarksville",
         "paragraphs": [
-          "Clarksville bookings run the full range: Cattail Creek and Glenwood weddings, River Hill High School proms, Larriland Farm weekends, Merriweather concerts and I-95 corridor airport runs. Corporate clients from Johns Hopkins APL in Laurel, the Columbia office parks, Fort Meade and the Washington commute down US-29 use standing accounts; wedding parties at Cattail Creek Country Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Howard County."
+          "Clarksville bookings run the full range: Cattail Creek and Glenwood weddings, River Hill High School proms, Larriland Farm weekends, Merriweather concerts and I-95 corridor airport runs. Corporate clients from Johns Hopkins APL in Laurel, the Columbia office parks, Fort Meade and the Washington commute down US-29 use standing accounts; wedding parties at Cattail Creek Country Club take a Sprinter Executive van; hourly service covers multi-stop days across Howard County."
         ,
           "Rates for Clarksville trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
           "We also coordinate return trips and round-trip bookings for Clarksville travelers, so the same chauffeur standard applies whether you are departing or arriving — no need to shop separately for the ride home.",
@@ -3016,10 +3016,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -3041,7 +3041,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Clarksville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3138,7 +3138,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Towson",
         "paragraphs": [
-          "Towson bookings run the full range: Towson University commencement and move-in, Goucher events, courthouse appointments, Hampton Mansion weddings and Loch Raven wedding photos on the way to receptions. Corporate clients from Baltimore County government, Towson University, GBMC, St. Joseph Medical Center and the law and finance offices around the courthouse use standing accounts; wedding parties at the Hampton National Historic Site take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
+          "Towson bookings run the full range: Towson University commencement and move-in, Goucher events, courthouse appointments, Hampton Mansion weddings and Loch Raven wedding photos on the way to receptions. Corporate clients from Baltimore County government, Towson University, GBMC, St. Joseph Medical Center and the law and finance offices around the courthouse use standing accounts; wedding parties at the Hampton National Historic Site take a Sprinter Executive van; hourly service covers multi-stop days across Baltimore County."
         ,
           "Rates for Towson trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
           "Our dispatch team tracks regional conditions that affect Towson trips directly — stadium events, federal motorcades, and seasonal congestion along the primary approach roads — and builds extra buffer into the schedule when any of them are in play.",
@@ -3177,10 +3177,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -3202,7 +3202,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Towson?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3299,7 +3299,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Timonium",
         "paragraphs": [
-          "Timonium bookings run the full range: Maryland State Fair days, Hunt Valley corporate travel, Oregon Ridge weddings, Timonium fairgrounds shows and pre-dawn BWI runs down I-83. Corporate clients from the corporate campuses of Timonium Business Park and Hunt Valley, GBMC in Towson and the I-83 commute into Baltimore use standing accounts; wedding parties at Oregon Ridge Park take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
+          "Timonium bookings run the full range: Maryland State Fair days, Hunt Valley corporate travel, Oregon Ridge weddings, Timonium fairgrounds shows and pre-dawn BWI runs down I-83. Corporate clients from the corporate campuses of Timonium Business Park and Hunt Valley, GBMC in Towson and the I-83 commute into Baltimore use standing accounts; wedding parties at Oregon Ridge Park take a Sprinter Executive van; hourly service covers multi-stop days across Baltimore County."
         ,
           "Groups traveling together through Timonium are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
           "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Timonium are all covered by the same dispatch team, with no holiday surcharge added to your flat rate.",]
@@ -3337,10 +3337,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -3362,7 +3362,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Timonium?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3459,7 +3459,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Lutherville",
         "paragraphs": [
-          "Lutherville bookings run the full range: Greenspring Station medical appointments, St. Paul's and Notre Dame Prep events, Ruxton weddings, State Fair week next door and BWI departures. Corporate clients from the medical practices at Greenspring Station, GBMC, the Hunt Valley corporate corridor and the I-83 commute into Baltimore use standing accounts; wedding parties at the Historic Lutherville Colonial Hall take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
+          "Lutherville bookings run the full range: Greenspring Station medical appointments, St. Paul's and Notre Dame Prep events, Ruxton weddings, State Fair week next door and BWI departures. Corporate clients from the medical practices at Greenspring Station, GBMC, the Hunt Valley corporate corridor and the I-83 commute into Baltimore use standing accounts; wedding parties at the Historic Lutherville Colonial Hall take a Sprinter Executive van; hourly service covers multi-stop days across Baltimore County."
         ,
           "Every Lutherville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
           "First-time riders in Lutherville often ask how pricing compares with a traditional taxi or limo company; the difference is that every quote here is itemized and confirmed in writing before the trip, not estimated after the fact.",
@@ -3498,10 +3498,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -3523,7 +3523,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Lutherville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3620,7 +3620,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Phoenix",
         "paragraphs": [
-          "Phoenix bookings run the full range: Ladew Gardens and estate weddings, Boordy Vineyards wine tours, Hunt Valley business travel, My Lady's Manor race day and BWI departures from the horse country. Corporate clients from the Hunt Valley corporate corridor, GBMC and the Towson medical campuses and the horse-country farms and estates of the Dulaney Valley use standing accounts; wedding parties at Ladew Topiary Gardens take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Baltimore County."
+          "Phoenix bookings run the full range: Ladew Gardens and estate weddings, Boordy Vineyards wine tours, Hunt Valley business travel, My Lady's Manor race day and BWI departures from the horse country. Corporate clients from the Hunt Valley corporate corridor, GBMC and the Towson medical campuses and the horse-country farms and estates of the Dulaney Valley use standing accounts; wedding parties at Ladew Topiary Gardens take a Sprinter Executive van; hourly service covers multi-stop days across Baltimore County."
         ,
           "Every Phoenix booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Phoenix trips are always welcome to be recognized.",]
@@ -3658,10 +3658,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -3683,7 +3683,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Phoenix?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3780,7 +3780,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in North Bethesda",
         "paragraphs": [
-          "North Bethesda bookings run the full range: Strathmore concerts, Bethesda North Marriott conferences and weddings, Georgetown Prep events, Pike & Rose dinners and NIH visits. Corporate clients from the Nuclear Regulatory Commission, the Pike & Rose office towers, Georgetown Prep and the NIH and Walter Reed campuses two miles south use standing accounts; wedding parties at the Bethesda North Marriott Hotel & Conference Center take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "North Bethesda bookings run the full range: Strathmore concerts, Bethesda North Marriott conferences and weddings, Georgetown Prep events, Pike & Rose dinners and NIH visits. Corporate clients from the Nuclear Regulatory Commission, the Pike & Rose office towers, Georgetown Prep and the NIH and Walter Reed campuses two miles south use standing accounts; wedding parties at the Bethesda North Marriott Hotel & Conference Center take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "Every North Bethesda booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
@@ -3818,10 +3818,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -3843,7 +3843,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in North Bethesda?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -3940,10 +3940,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in North Potomac",
         "paragraphs": [
-          "North Potomac bookings run the full range: Wootton and Quince Orchard proms, Potomac estate weddings, I-270 executive travel, Falls Road golf outings and Dulles international departures. Corporate clients from the I-270 biotech corridor, NIST and AstraZeneca in Gaithersburg, and the NIH and downtown Washington commute use standing accounts; wedding parties at the Potomac estate venues along Travilah Road take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County."
+          "North Potomac bookings run the full range: Wootton and Quince Orchard proms, Potomac estate weddings, I-270 executive travel, Falls Road golf outings and Dulles international departures. Corporate clients from the I-270 biotech corridor, NIST and AstraZeneca in Gaithersburg, and the NIH and downtown Washington commute use standing accounts; wedding parties at the Potomac estate venues along Travilah Road take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County."
         ,
           "Groups traveling together through North Potomac are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
-          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your North Potomac group arrives on schedule.",]
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or Sprinter vans — dispatched together so everyone in your North Potomac group arrives on schedule.",]
       }
     ],
     "vehicles": [
@@ -3978,10 +3978,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -4003,7 +4003,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in North Potomac?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4100,7 +4100,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Gibson Island",
         "paragraphs": [
-          "Gibson Island bookings run the full range: Gibson Island Club weddings and regattas, holiday house-party arrivals, international departures from BWI and Dulles and Baltimore and Washington business days. Corporate clients from the Baltimore and Annapolis firms whose principals live on the island, plus Fort Meade and BWI-corridor executives use standing accounts; wedding parties at the Gibson Island Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Anne Arundel County.",
+          "Gibson Island bookings run the full range: Gibson Island Club weddings and regattas, holiday house-party arrivals, international departures from BWI and Dulles and Baltimore and Washington business days. Corporate clients from the Baltimore and Annapolis firms whose principals live on the island, plus Fort Meade and BWI-corridor executives use standing accounts; wedding parties at the Gibson Island Club take a Sprinter Executive van; hourly service covers multi-stop days across Anne Arundel County.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
         ]
       }
@@ -4137,10 +4137,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -4162,7 +4162,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Gibson Island?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4259,7 +4259,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Stevensville",
         "paragraphs": [
-          "Stevensville bookings run the full range: Chesapeake Bay Beach Club weddings, Kent Narrows dinners, the Bay Bridge Boat Show in April, Terrapin Park outings and BWI departures across the bridge. Corporate clients from the Queen Anne's County government in Centreville, the Kent Narrows hospitality trade and the Bay Bridge commute to Annapolis and Washington use standing accounts; wedding parties at the Chesapeake Bay Beach Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Queen Anne's County."
+          "Stevensville bookings run the full range: Chesapeake Bay Beach Club weddings, Kent Narrows dinners, the Bay Bridge Boat Show in April, Terrapin Park outings and BWI departures across the bridge. Corporate clients from the Queen Anne's County government in Centreville, the Kent Narrows hospitality trade and the Bay Bridge commute to Annapolis and Washington use standing accounts; wedding parties at the Chesapeake Bay Beach Club take a Sprinter Executive van; hourly service covers multi-stop days across Queen Anne's County."
         ,
           "Every Stevensville booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",]
@@ -4297,10 +4297,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -4322,7 +4322,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Stevensville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4419,7 +4419,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Chevy Chase",
         "paragraphs": [
-          "Chevy Chase bookings run the full range: Chevy Chase Club and Columbia Country Club weddings, embassy dinners, Friendship Heights shopping days, Rock Creek Park photo stops and Dulles international departures. Corporate clients from GEICO, the Friendship Heights law and finance offices, NIH and Walter Reed to the north and the embassies and agencies of Northwest Washington use standing accounts; wedding parties at the Chevy Chase Club take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Montgomery County.",
+          "Chevy Chase bookings run the full range: Chevy Chase Club and Columbia Country Club weddings, embassy dinners, Friendship Heights shopping days, Rock Creek Park photo stops and Dulles international departures. Corporate clients from GEICO, the Friendship Heights law and finance offices, NIH and Walter Reed to the north and the embassies and agencies of Northwest Washington use standing accounts; wedding parties at the Chevy Chase Club take a Sprinter Executive van; hourly service covers multi-stop days across Montgomery County.",
           "Yes. Infant, convertible and booster seats are available on request at no extra charge — just note the ages of any children when you book so the right seats are installed before your chauffeur arrives.",
         ]
       }
@@ -4456,10 +4456,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -4481,7 +4481,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Chevy Chase?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4578,10 +4578,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Corporate, wedding and event service in Sykesville",
         "paragraphs": [
-          "Sykesville bookings run the full range: Main Street weddings and Patapsco Valley receptions, Old Westminster wine tours, Freedom District proms, Liberty Road commuters flying BWI and Baltimore nights out. Corporate clients from the Springfield Hospital Center, the Eldersburg retail corridor, Northrop Grumman and BWI-corridor employers down MD-32 and Carroll County government in Westminster use standing accounts; wedding parties at the Sykesville Main Street event spaces take a Sprinter van or stretch limousine; hourly service covers multi-stop days across Carroll County."
+          "Sykesville bookings run the full range: Main Street weddings and Patapsco Valley receptions, Old Westminster wine tours, Freedom District proms, Liberty Road commuters flying BWI and Baltimore nights out. Corporate clients from the Springfield Hospital Center, the Eldersburg retail corridor, Northrop Grumman and BWI-corridor employers down MD-32 and Carroll County government in Westminster use standing accounts; wedding parties at the Sykesville Main Street event spaces take a Sprinter Executive van; hourly service covers multi-stop days across Carroll County."
         ,
           "Groups traveling together through Sykesville are never split up by vehicle capacity alone: when a party outgrows a single SUV, we dispatch a matching second vehicle or move the booking to a Sprinter van so everyone travels on the same schedule.",
-          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours",]
+          "Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours' notice.",]
       }
     ],
     "vehicles": [
@@ -4616,10 +4616,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -4641,7 +4641,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What vehicles are available in Sykesville?",
-        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans and stretch limousines. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
+        "a": "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs and 13-passenger Mercedes Sprinter vans. Your written confirmation names the vehicle class, so you know exactly what will arrive at your pickup."
       }
     ],
     "related": [
@@ -4773,10 +4773,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -4926,10 +4926,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -5078,10 +5078,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -5195,7 +5195,7 @@ export const MARYLAND_PAGES = [
         "h2": "Flight tracking, meet and greet, 24/7",
         "paragraphs": [
           "Arrivals at BWI's lower-level arrivals curb are tracked in real time; with meet and greet your chauffeur waits at baggage claim with a name sign. Departures from Rockville are scheduled against your flight and the airline's check-in guidance, with a buffer for the I-270 spur merge and the Rockville Pike crawl at White Flint.",
-          "Chauffeurs typically take I-195 to I-95 and then the Capital Beltway (I-495) to I-270 North into Rockville, adjusting for the time of day since the Beltway Yes. Tell dispatch both flight numbers when you book and we will track each one and coordinate a single pickup, or run two trips back to back if your arrival times are far apart.",
+          "Chauffeurs typically take I-195 to I-95 and then the Capital Beltway (I-495) to I-270 North into Rockville, adjusting for the time of day. Tell dispatch both flight numbers when you book and we will track each one and coordinate a single pickup, or run two trips back to back if your arrival times are far apart.",
         ]
       }
     ],
@@ -5231,10 +5231,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -5387,10 +5387,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -5544,10 +5544,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -5697,10 +5697,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -5850,10 +5850,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6004,10 +6004,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6158,10 +6158,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6311,10 +6311,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6384,7 +6384,7 @@ export const MARYLAND_PAGES = [
     "badge": "Chauffeured Service",
     "h1": "Maryland Wedding Limo Service",
     "metaTitle": "Maryland Wedding Limo | IAD Airport Limo",
-    "metaDescription": "Maryland wedding limo service with licensed chauffeurs — sedans, SUVs, Sprinter vans & stretch limos across Baltimore and beyond. Call (877) 609-1919.",
+    "metaDescription": "Maryland wedding limo service with licensed chauffeurs — sedans, SUVs & Sprinter vans across Baltimore and beyond. Call (877) 609-1919.",
     "stats": [
       {
         "label": "Coverage",
@@ -6405,7 +6405,7 @@ export const MARYLAND_PAGES = [
     ],
     "highlights": [
       "Experience at Belmont Manor in Elkridge and the Elkridge Furnace Inn",
-      "Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines",
+      "Sedans, SUVs and 13-passenger Sprinter vans",
       "Written flat-rate or hourly pricing — no surge",
       "Planned around getting-ready pickups",
       "24/7 dispatch and a named chauffeur the day before",
@@ -6427,10 +6427,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13, including the Sprinter Executive for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Chauffeurs assigned to Maryland Wedding Limo trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
-          "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Maryland Wedding Limo are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride. As soon as your date and venue are set — Saturdays during spring and fall wedding season are the first dates to fill, especially for Sprinter vans and stretch limousines serving larger wedding parties. Yes. Many Maryland weddings book a Sprinter van for the wedding party and a separate sedan or limousine reserved for the couple, so the newlyweds are never waiting on group logistics.",]
+          "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Maryland Wedding Limo are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride. As soon as your date and venue are set — Saturdays during spring and fall wedding season are the first dates to fill, especially for Sprinter vans serving larger wedding parties. Yes. Many Maryland weddings book a Sprinter van for the wedding party and a separate First Class Sedan or Lincoln Navigator reserved for the couple, so the newlyweds are never waiting on group logistics.",]
       }
     ],
     "vehicles": [
@@ -6465,10 +6465,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6478,7 +6478,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far in advance should I book?",
-        "a": "Two to four weeks for peak dates around the May through October peak; Sprinter vans and limousines book first. Same-day requests are accommodated when a vehicle is available."
+        "a": "Two to four weeks for peak dates around the May through October peak; Sprinter vans and Navigators book first. Same-day requests are accommodated when a vehicle is available."
       },
       {
         "q": "What areas do you serve?",
@@ -6491,7 +6491,7 @@ export const MARYLAND_PAGES = [
     ,
       {
         "q": "Can you send more than one vehicle for a large Maryland Wedding Limo group?",
-        "a": "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Maryland Wedding Limo group arrives on schedule."
+        "a": "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or Sprinter vans — dispatched together so everyone in your Maryland Wedding Limo group arrives on schedule."
       }],
     "related": [
       {
@@ -6549,7 +6549,7 @@ export const MARYLAND_PAGES = [
     "badge": "Chauffeured Service",
     "h1": "Maryland Corporate Car Service",
     "metaTitle": "Maryland Corporate Car Service | IAD Airport Limo",
-    "metaDescription": "Maryland corporate car service with licensed chauffeurs — sedans, SUVs, Sprinter vans & stretch limos across Baltimore and beyond. Call (877) 609-1919.",
+    "metaDescription": "Maryland corporate car service with licensed chauffeurs — sedans, SUVs & Sprinter vans across Baltimore and beyond. Call (877) 609-1919.",
     "stats": [
       {
         "label": "Coverage",
@@ -6570,7 +6570,7 @@ export const MARYLAND_PAGES = [
     ],
     "highlights": [
       "Experience at NIH and Walter Reed in Bethesda and Fort Meade and the NSA",
-      "Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines",
+      "Sedans, SUVs and 13-passenger Sprinter vans",
       "Written flat-rate or hourly pricing — no surge",
       "Planned around airport meets for visiting executives",
       "24/7 dispatch and a named chauffeur the day before",
@@ -6592,7 +6592,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13, including the Sprinter Executive for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Rates for Maryland Corporate Car Service trips are the same whether you book a week ahead or the same day, subject to availability; there is no late-booking surcharge and no premium for early-morning or late-night pickups, which is often where rideshare pricing moves the most.",
           "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Corporate Car Service are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. Yes. Companies with regular travel between Maryland offices, BWI, Reagan National or Dulles can set up a corporate account with consolidated monthly invoicing instead of expensing individual trips. Yes, as hourly as-directed service — the same vehicle and chauffeur stay with you between meetings in Rockville, Bethesda, Annapolis, Baltimore or anywhere else on your itinerary.",]
@@ -6630,10 +6630,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6643,7 +6643,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far in advance should I book?",
-        "a": "Two to four weeks for peak dates around conference season at the Baltimore Convention Center and Gaylord National; Sprinter vans and limousines book first. Same-day requests are accommodated when a vehicle is available."
+        "a": "Two to four weeks for peak dates around conference season at the Baltimore Convention Center and Gaylord National; Sprinter vans and Navigators book first. Same-day requests are accommodated when a vehicle is available."
       },
       {
         "q": "What areas do you serve?",
@@ -6706,7 +6706,7 @@ export const MARYLAND_PAGES = [
     "badge": "Chauffeured Service",
     "h1": "Maryland Prom Limo Service",
     "metaTitle": "Maryland Prom Limo | IAD Airport Limo",
-    "metaDescription": "Maryland prom limo service with licensed chauffeurs — sedans, SUVs, Sprinter vans & stretch limos across Howard County and beyond. Call (877) 609-1919.",
+    "metaDescription": "Maryland prom limo service with licensed chauffeurs — sedans, SUVs & Sprinter vans across Howard County and beyond. Call (877) 609-1919.",
     "stats": [
       {
         "label": "Coverage",
@@ -6727,7 +6727,7 @@ export const MARYLAND_PAGES = [
     ],
     "highlights": [
       "Experience at Martin's West and Martin's Valley Mansion and Turf Valley Resort",
-      "Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines",
+      "Sedans, SUVs and 13-passenger Sprinter vans",
       "Written flat-rate or hourly pricing — no surge",
       "Planned around the pre-prom photo stop",
       "24/7 dispatch and a named chauffeur the day before",
@@ -6749,10 +6749,10 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13, including the Sprinter Executive for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Every Maryland Prom Limo booking includes a dedicated dispatcher reachable by phone or text for the length of your trip, so schedule changes — an earlier meeting, a delayed flight, an extra stop — are handled in real time rather than through a call center queue.",
-          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Prom Limo are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. A stretch limousine or Sprinter van are the most requested for prom groups, since both keep a larger group of friends together for photos, dinner and the dance rather than splitting into separate cars. Chauffeurs are licensed and background-checked, and parents are welcome to confirm pickup and drop-off times directly with dispatch. Many families prefer a professional chauffeur over teens driving themselves on prom night.",
+          "Yes, year-round, 24 hours a day. Early-morning airport departures, red-eye arrivals and major holidays around Maryland Prom Limo are all covered by the same dispatch team, with no holiday surcharge added to your flat rate. The Sprinter Executive is the most requested vehicle for prom groups, since it keeps up to 13 friends together for photos, dinner and the dance rather than splitting into separate cars. Chauffeurs are licensed and background-checked, and parents are welcome to confirm pickup and drop-off times directly with dispatch. Many families prefer a professional chauffeur over teens driving themselves on prom night.",
           "Groups are welcome to split the cost across several families booking one shared vehicle for the night.",]
       }
     ],
@@ -6788,10 +6788,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6801,7 +6801,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far in advance should I book?",
-        "a": "Two to four weeks for peak dates around the late-April through early-June prom calendar; Sprinter vans and limousines book first. Same-day requests are accommodated when a vehicle is available."
+        "a": "Two to four weeks for peak dates around the late-April through early-June prom calendar; Sprinter vans and Navigators book first. Same-day requests are accommodated when a vehicle is available."
       },
       {
         "q": "What areas do you serve?",
@@ -6868,7 +6868,7 @@ export const MARYLAND_PAGES = [
     "badge": "Chauffeured Service",
     "h1": "Maryland Concert Transportation",
     "metaTitle": "Maryland Concert Transportation | IAD Airport Limo",
-    "metaDescription": "Maryland concert transportation with licensed chauffeurs — sedans, SUVs, Sprinter vans & stretch limos across Columbia and beyond. Call (877) 609-1919.",
+    "metaDescription": "Maryland concert transportation with licensed chauffeurs — sedans, SUVs & Sprinter vans across Columbia and beyond. Call (877) 609-1919.",
     "stats": [
       {
         "label": "Coverage",
@@ -6889,7 +6889,7 @@ export const MARYLAND_PAGES = [
     ],
     "highlights": [
       "Experience at Merriweather Post Pavilion in Columbia and CFG Bank Arena in Baltimore",
-      "Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines",
+      "Sedans, SUVs and 13-passenger Sprinter vans",
       "Written flat-rate or hourly pricing — no surge",
       "Planned around the pickup from home or hotel",
       "24/7 dispatch and a named chauffeur the day before",
@@ -6911,7 +6911,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13, including the Sprinter Executive for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Chauffeurs assigned to Maryland Concert Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Concert Transportation trips are always welcome to be recognized. Merriweather Post Pavilion, CFG Bank Arena, and other Maryland amphitheaters and arenas are regular bookings, with chauffeurs familiar with each venue Often yes, once you add up several individual rideshare fares during post-show surge pricing. A Sprinter van or SUV booked as a flat rate for the group avoids that surge entirely.",]
@@ -6949,10 +6949,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -6962,7 +6962,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far in advance should I book?",
-        "a": "Two to four weeks for peak dates around the Merriweather summer season; Sprinter vans and limousines book first. Same-day requests are accommodated when a vehicle is available."
+        "a": "Two to four weeks for peak dates around the Merriweather summer season; Sprinter vans and Navigators book first. Same-day requests are accommodated when a vehicle is available."
       },
       {
         "q": "What areas do you serve?",
@@ -7046,7 +7046,7 @@ export const MARYLAND_PAGES = [
     ],
     "highlights": [
       "Experience at Linganore Winecellars in Mount Airy and Black Ankle Vineyards",
-      "Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines",
+      "Sedans, SUVs and 13-passenger Sprinter vans",
       "Written flat-rate or hourly pricing — no surge",
       "Planned around a morning pickup",
       "24/7 dispatch and a named chauffeur the day before",
@@ -7068,7 +7068,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation."
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13, including the Sprinter Executive for celebrations. Multiple vehicles can be coordinated under one reservation."
         ,
           "Chauffeurs assigned to Maryland Wine Tour Transportation trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Maryland Wine Tour Transportation trips are always welcome to be recognized. Both. We run chauffeured wine tours to Maryland wineries in Howard, Carroll and Frederick counties as well as across the river into Loudoun County, Virginia, depending on where your group wants to go. Most groups plan two to four stops, since tastings run longer than expected. Tell dispatch your preferred wineries and we will build a realistic schedule with buffer time between stops.",]
@@ -7106,10 +7106,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -7119,7 +7119,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far in advance should I book?",
-        "a": "Two to four weeks for peak dates around harvest and crush season in September and October; Sprinter vans and limousines book first. Same-day requests are accommodated when a vehicle is available."
+        "a": "Two to four weeks for peak dates around harvest and crush season in September and October; Sprinter vans and Navigators book first. Same-day requests are accommodated when a vehicle is available."
       },
       {
         "q": "What areas do you serve?",
@@ -7182,7 +7182,7 @@ export const MARYLAND_PAGES = [
     "badge": "Chauffeured Service",
     "h1": "Philadelphia Airport Car Service",
     "metaTitle": "Philadelphia Airport Car Service | IAD Airport Limo",
-    "metaDescription": "Philadelphia Airport Car Service with licensed chauffeurs — sedans, SUVs, Sprinter vans & stretch limos across Baltimore and beyond. Written flat rates, 24/7.",
+    "metaDescription": "Philadelphia Airport Car Service with licensed chauffeurs — sedans, SUVs & Sprinter vans across Baltimore and beyond. Written flat rates, 24/7.",
     "stats": [
       {
         "label": "Coverage",
@@ -7203,7 +7203,7 @@ export const MARYLAND_PAGES = [
     ],
     "highlights": [
       "All PHL terminals, A-West through F, curbside or inside baggage claim",
-      "Sedans, SUVs, 13-passenger Sprinter vans and stretch limousines",
+      "Sedans, SUVs and 13-passenger Sprinter vans",
       "Written flat-rate or hourly pricing — no surge",
       "Planned around pre-dawn pickups for international departures",
       "24/7 dispatch and a named chauffeur the day before",
@@ -7225,7 +7225,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Vehicles",
         "paragraphs": [
-          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13; stretch limousines for celebrations. Multiple vehicles can be coordinated under one reservation.",
+          "Mercedes-Benz E-Class and BMW 7 Series sedans; Lincoln Navigator SUVs for six and Chevrolet Suburbans for five, with luggage; Mercedes Sprinter vans for 13, including the Sprinter Executive for celebrations. Multiple vehicles can be coordinated under one reservation.",
           "Some international routes, specific airlines or fare prices make PHL the better option even for Maryland and DC-area travelers. We run this route regularly for Marylanders whose flight, schedule or price pointed them to Philadelphia instead of a closer airport. It depends on your Maryland destination, but plan for roughly 90 minutes to Baltimore and two hours or more to the DC suburbs, mostly via I-95 South. Your flat rate is confirmed before you ride regardless of traffic. Yes. An SUV or Sprinter van is matched to your group and luggage before the flight lands, so there is no gamble about whether the vehicle that arrives can actually fit everyone and their bags.",
           "Corporate accounts are also available for Maryland businesses with recurring travel through Philadelphia, including consolidated monthly invoicing and priority scheduling for employees flying this route regularly for conferences or client visits.",
         ]
@@ -7263,10 +7263,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -7276,7 +7276,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far in advance should I book?",
-        "a": "Two to four weeks for peak dates around American Airlines' transatlantic bank in the evening; Sprinter vans and limousines book first. Same-day requests are accommodated when a vehicle is available."
+        "a": "Two to four weeks for peak dates around American Airlines' transatlantic bank in the evening; Sprinter vans and Navigators book first. Same-day requests are accommodated when a vehicle is available."
       },
       {
         "q": "What areas do you serve?",
@@ -7366,7 +7366,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Merriweather Post Pavilion exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -7431,10 +7431,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -7452,7 +7452,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Merriweather Post Pavilion?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Merriweather Post Pavilion?",
@@ -7533,7 +7533,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the CFG Bank Arena exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -7598,10 +7598,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -7619,7 +7619,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to CFG Bank Arena?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at CFG Bank Arena?",
@@ -7700,7 +7700,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Capital One Arena exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -7765,10 +7765,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -7786,7 +7786,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Capital One Arena?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Capital One Arena?",
@@ -7871,7 +7871,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the M&T Bank Stadium exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -7935,10 +7935,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -7956,7 +7956,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to M&T Bank Stadium?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at M&T Bank Stadium?",
@@ -8037,7 +8037,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Pimlico Race Course exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -8101,10 +8101,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -8122,7 +8122,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Pimlico Race Course?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Pimlico Race Course?",
@@ -8203,7 +8203,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Maryland State Fair exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -8268,10 +8268,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -8289,7 +8289,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Maryland State Fair?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Maryland State Fair?",
@@ -8370,7 +8370,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Oriole Park at Camden Yards exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -8434,10 +8434,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -8455,7 +8455,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Oriole Park at Camden Yards?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Oriole Park at Camden Yards?",
@@ -8536,7 +8536,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the University of Maryland exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -8565,7 +8565,7 @@ export const MARYLAND_PAGES = [
         "h2": "Why hire a chauffeur",
         "paragraphs": [
           "Commencement and game days put thousands of cars on a campus built for a fraction of them. A chauffeur drops grandparents at the door instead of a distant lot, keeps the SUV loaded for move-in and turns a Route 1 crawl into a relaxed ride.",
-          "Yes — move-in and move-out weekends in College Park are some of our busiest University of Maryland bookings, and an SUV or Sprinter van easily handles a dorm room Yes. Game days and graduation weekends both see heavy traffic and limited parking around campus, and a chauffeured vehicle drops you close and handles the wait while you attend the event.",
+          "Yes — move-in and move-out weekends in College Park are some of our busiest University of Maryland bookings, and an SUV or Sprinter van easily handles a dorm move. Game days and graduation weekends both see heavy traffic and limited parking around campus, and a chauffeured vehicle drops you close and handles the wait while you attend the event.",
         ]
       }
     ],
@@ -8601,10 +8601,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -8622,7 +8622,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the University of Maryland?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the University of Maryland?",
@@ -8707,7 +8707,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Navy-Marine Corps Memorial Stadium exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -8771,10 +8771,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -8792,7 +8792,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Navy-Marine Corps Memorial Stadium?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Navy-Marine Corps Memorial Stadium?",
@@ -8873,7 +8873,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the National Harbor exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -8937,10 +8937,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -8958,7 +8958,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to National Harbor?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at National Harbor?",
@@ -9043,7 +9043,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Chesapeake Bay Events exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -9107,10 +9107,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -9128,7 +9128,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to Chesapeake Bay Events?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at Chesapeake Bay Events?",
@@ -9209,7 +9209,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Annapolis Boat Shows exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -9273,10 +9273,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -9294,7 +9294,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Annapolis Boat Shows?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Annapolis Boat Shows?",
@@ -9375,7 +9375,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Maryland Renaissance Festival exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -9439,10 +9439,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -9460,7 +9460,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Maryland Renaissance Festival?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Maryland Renaissance Festival?",
@@ -9541,7 +9541,7 @@ export const MARYLAND_PAGES = [
     "highlights": [
       "Written flat-rate or hourly pricing — no surge",
       "Entrance drop-off and a pre-set pickup point away from the Preakness Stakes exit",
-      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans and limousines for groups",
+      "Late-model Mercedes, BMW, Cadillac and Chevrolet sedans and SUVs; Sprinter vans for groups of up to 13",
       "Airport connections at Dulles, Reagan National and BWI on the same booking",
       "24/7 dispatch monitoring the trip",
       "Licensed and insured Virginia and Maryland carrier"
@@ -9569,7 +9569,7 @@ export const MARYLAND_PAGES = [
       {
         "h2": "Why hire a chauffeur",
         "paragraphs": [
-          "Race day means a crowd, a dress code and a toast — none of which mixes with driving. A chauffeur handles the closures and the parking, keeps the party together in a Sprinter or limousine and brings everyone home after the winner's circle."
+          "Race day means a crowd, a dress code and a toast — none of which mixes with driving. A chauffeur handles the closures and the parking, keeps the party together in a Sprinter van and brings everyone home after the winner's circle."
         ]
       }
     ],
@@ -9605,10 +9605,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -9626,7 +9626,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "Can you carry a group to the Preakness Stakes?",
-        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13 and stretch limousines seat eight; larger parties ride in multiple coordinated vehicles that arrive together."
+        "a": "Yes. The Lincoln Navigator seats six and the Chevrolet Suburban five, Mercedes Sprinter vans carry up to 13; larger parties ride in multiple coordinated vehicles that arrive together."
       },
       {
         "q": "What about parking at the Preakness Stakes?",
@@ -9763,10 +9763,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -9788,7 +9788,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "What is the cancellation policy for corporate bookings?",
-        "a": "Sedans and SUVs cancel free up to 3 hours before pickup; Sprinter vans, limousines and special events up to 12 hours before. That gives corporate travelers room to adjust when a meeting moves, and same-day changes can be handled through 24/7 dispatch."
+        "a": "Sedans and SUVs cancel free up to 3 hours before pickup; Sprinter vans and special events up to 12 hours before. That gives corporate travelers room to adjust when a meeting moves, and same-day changes can be handled through 24/7 dispatch."
       }
     ],
     "related": [
@@ -9910,10 +9910,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -10061,10 +10061,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -10160,7 +10160,7 @@ export const MARYLAND_PAGES = [
       "Most of our Maryland weddings fall into three areas: Bethesda and Potomac country clubs and estate homes across the American Legion Bridge; Frederick County barns, vineyards and Ceresville Mansion up I-270 and Route 15; and Eastern Shore waterfront venues such as Chesapeake Bay Beach Club past the Bay Bridge. Each has a different drive and a different traffic pattern on a Saturday, and the timeline we build with you accounts for both."
     ],
     "highlights": [
-      "Stretch limousine for eight, Mercedes Sprinter for 13 guests, Mercedes-Benz S-Class getaway car",
+      "Sprinter Executive for 13 guests, Lincoln Navigator for six, Mercedes-Benz S-Class getaway car",
       "Guest shuttles from Dulles with flight tracking and 60 minutes of free international wait",
       "Sober transport back to the hotel block at the end of the night",
       "Written flat-rate or hourly pricing with no surge on Saturday dates",
@@ -10186,7 +10186,7 @@ export const MARYLAND_PAGES = [
         "h2": "Building the timeline and the contract",
         "paragraphs": [
           "We work backward from the ceremony. Getting-ready pickups in Virginia, the crossing into Maryland with a 20-minute bridge buffer, first-look and ceremony-to-reception transfers, guest shuttles and the getaway are laid out with named vehicles and a named chauffeur the day before. Hourly bookings include unlimited stops; flat-rate legs can usually add one through dispatch.",
-          "The contract states the vehicle, the chauffeur assignment window, the rate and the cancellation terms: limousines, Sprinter vans and special-event bookings cancel free up to 12 hours before pickup. Our guide to choosing a Maryland wedding limo service walks through the questions to ask any company, and our wedding limo page covers the Virginia side."
+          "The contract states the vehicle, the chauffeur assignment window, the rate and the cancellation terms: Sprinter vans and special-event bookings cancel free up to 12 hours before pickup. Our guide to choosing a Maryland wedding limo service walks through the questions to ask any company, and our wedding limo page covers the Virginia side."
         ]
       }
     ],
@@ -10222,10 +10222,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [
@@ -10235,7 +10235,7 @@ export const MARYLAND_PAGES = [
       },
       {
         "q": "How far ahead should we book Maryland wedding transportation?",
-        "a": "Four to eight weeks for Saturday dates from May through October; earlier for Eastern Shore dates in October or Annapolis dates near Commissioning Week. Limousines and Sprinters book first."
+        "a": "Four to eight weeks for Saturday dates from May through October; earlier for Eastern Shore dates in October or Annapolis dates near Commissioning Week. Sprinter vans and Navigators book first."
       },
       {
         "q": "Can you shuttle guests from Dulles to our hotel block in Maryland?",
@@ -10375,10 +10375,10 @@ export const MARYLAND_PAGES = [
         "best": "wedding parties, corporate teams and groups"
       },
       {
-        "name": "Stretch limousine",
-        "cls": "Limousine",
-        "seats": 8,
-        "best": "proms, weddings and celebrations"
+        "name": "Lincoln Nautilus",
+        "cls": "Midsize SUV",
+        "seats": 3,
+        "best": "solo travelers and couples with luggage"
       }
     ],
     "faqs": [

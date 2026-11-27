@@ -36,16 +36,6 @@ const ReviewsPage = () => {
       verified: true
     },
     {
-      id: 2,
-      name: "Sarah Mitchell",
-      location: "Bethesda, MD",
-      rating: 5,
-      date: "November 2024",
-      service: "Wedding Limo",
-      review: "King Transportation made our wedding day absolutely perfect! The stretch limo was gorgeous and our chauffeur was so professional and accommodating. He made sure we had champagne ready and even helped with my dress getting in and out. Highly recommend!",
-      verified: true
-    },
-    {
       id: 3,
       name: "David Chen",
       location: "Arlington, VA",

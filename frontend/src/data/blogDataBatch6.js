@@ -535,7 +535,7 @@ const batch6 = [
     readTime: '8 min read',
     excerpt:
       'George Mason’s Fairfax campus draws families, prospective students, and event crowds all year — a chauffeur skips the campus parking hunt entirely.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'George Mason University’s Fairfax campus is one of the largest in Virginia, and its calendar runs well beyond the classroom — family weekend, admitted-student visit days, commencement, and a full slate of concerts and events at EagleBank Arena that draw crowds from across the region. Campus parking was never designed to absorb all of that at once, and a family visiting for the day, or a group heading to an arena event, often spends more time searching for a spot than actually attending whatever brought them to campus. A booked chauffeur removes that entirely, with a drop-off at the right entrance and a pickup that does not depend on finding a spot that no longer exists.',
     ],
@@ -941,7 +941,7 @@ const batch6 = [
     readTime: '8 min read',
     excerpt:
       'Spring is Northern Virginia’s busiest wedding season, and transportation is one of the vendors couples book too late — here is the actual timeline.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Spring is the busiest wedding season in Northern Virginia, with venues, photographers, and caterers booking out months in advance for the run of weekends between April and June when the weather cooperates and the region’s wineries, gardens, and estate venues are at their best. Transportation tends to be one of the last vendors couples think to book, largely because it feels simpler than a venue or catering contract — but the vehicles best suited to a wedding day, particularly larger SUVs and Sprinter vans, book out for peak spring Saturdays just as far in advance as everything else on a couple’s vendor list. This guide lays out a realistic, month-by-month timeline for booking wedding transportation so it never becomes the piece that gets rushed.',
     ],
@@ -951,7 +951,7 @@ const batch6 = [
         paragraphs: [
           'As soon as a venue and date are confirmed, it is worth reaching out to a transportation provider to check availability for that specific Saturday, particularly for a wedding falling in April, May, or early June — the heart of Northern Virginia’s spring wedding season. This is not about finalizing every detail nine to twelve months out; it is about confirming that a vehicle exists for your date before another couple’s wedding claims it.',
           'This step matters more than it might seem, because the vehicles most in demand for weddings — a full-size SUV for the wedding party, a Sprinter van for guest shuttling between a ceremony and reception venue — are a finite fleet, and a popular spring Saturday can see every available large vehicle in the region booked well before the couple has finalized their guest list or seating chart.',
-          'A simple deposit at this stage secures the date without requiring every logistical detail to be settled, and most providers, including ours, allow adjustments to vehicle count and timing as the day gets closer.',
+          'At this stage, the rate is quoted and confirmed in writing, and the card is charged once the reservation and rate are confirmed — that secures the date without requiring every logistical detail to be settled, and most providers, including ours, allow adjustments to vehicle count and timing as the day gets closer. Sprinter vans and special-event bookings cancel free up to 12 hours before pickup.',
           'This early check-in is worth doing even before a couple has settled on every other vendor, since transportation availability operates on a different constraint than most other wedding services — a photographer or caterer can often serve several weddings in different cities on the same weekend, while a specific vehicle can only be in one place at a time, making early reservation genuinely more consequential for this particular vendor category.',
           'It is also worth asking a prospective venue directly whether they have a preferred or recommended transportation provider, since many venues have worked with the same companies repeatedly and can offer a useful starting point, even if the couple ultimately chooses a different provider based on their own research.',
           'A venue that hosts several weddings on the same spring weekend, which is common at the region’s most popular spots, also affects how much flexibility exists around arrival and departure timing at that specific property. Understanding this early helps set realistic expectations for the rest of the planning process.',
@@ -962,7 +962,7 @@ const batch6 = [
       {
         heading: 'Four to Six Months Out: Confirm Vehicle Count and Vehicle Type',
         paragraphs: [
-          'By this point, the wedding party size and general guest count are usually settled enough to determine how many vehicles the day actually needs — a sedan for the couple’s own transportation, an SUV or stretch limo for the wedding party, and potentially a Sprinter van if the venue involves guest shuttling between a ceremony site and a separate reception location. This is also the point to think through whether the venue itself creates any specific transportation needs — a gravel driveway, limited turnaround space, or a ceremony and reception at two different addresses.',
+          'By this point, the wedding party size and general guest count are usually settled enough to determine how many vehicles the day actually needs — a sedan for the couple’s own transportation, a Lincoln Navigator or Sprinter Executive for the wedding party, and potentially a Sprinter van if the venue involves guest shuttling between a ceremony site and a separate reception location. This is also the point to think through whether the venue itself creates any specific transportation needs — a gravel driveway, limited turnaround space, or a ceremony and reception at two different addresses.',
           'Couples who are also planning a rehearsal dinner or next-day brunch should discuss those as part of the same conversation, since bundling multiple wedding-weekend trips with one provider is often more efficient than arranging each piece separately with different vendors.',
           'This is also a reasonable point to discuss any unusual venue logistics that could affect vehicle choice — a winery with a gravel driveway, a historic property with limited turnaround room, or a ceremony and reception at two separate addresses requiring a shuttle plan rather than a single point-to-point trip.',
           'A couple planning an out-of-town wedding party — bridesmaids or groomsmen flying in from other cities — should also use this window to think through airport pickup for the wedding party itself, since coordinating several individual arrivals in the days before the wedding is its own small logistical project worth planning early rather than late.',
@@ -1007,7 +1007,7 @@ const batch6 = [
       {
         question: 'Do I need to know my exact guest count when I first book?',
         answer:
-          'No — a deposit secures your date, and most providers, including ours, allow adjustments to vehicle count and timing as your headcount and timeline firm up closer to the wedding. Your rate is confirmed in writing at booking, so changes to vehicle count or timing later are made against a known starting point rather than a fresh quote.',
+          'No — your date is secured once the reservation and rate are confirmed and the card is charged, and most providers, including ours, allow adjustments to vehicle count and timing as your headcount and timeline firm up closer to the wedding. Your rate is confirmed in writing at booking, so changes to vehicle count or timing later are made against a known starting point rather than a fresh quote.',
       },
       {
         question: 'Can transportation be arranged for the rehearsal dinner and wedding day together?',
@@ -1342,9 +1342,9 @@ const batch6 = [
     readTime: '8 min read',
     excerpt:
       'A limo service contract is a real, binding document — here is exactly what to check before signing one for a wedding, prom, or corporate booking in Virginia.',
-    image: '/images/limousine.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
-      'A limousine service contract is easy to skim past on the assumption that it is boilerplate — a formality standing between a deposit and a confirmed booking. In reality, it is a binding agreement that determines what happens if the vehicle is late, what counts as overtime, what a cancellation actually costs, and whether the flat rate quoted on the phone is truly the total you will pay. For a wedding, prom, or major corporate booking in Virginia, reading that contract carefully before signing — and asking about anything that is unclear or missing — is the difference between a smooth transaction and an unpleasant surprise on the day that matters most.',
+      'A limousine service contract is easy to skim past on the assumption that it is boilerplate — a formality standing between a quote and a confirmed booking. In reality, it is a binding agreement that determines what happens if the vehicle is late, what counts as overtime, what a cancellation actually costs, and whether the flat rate quoted on the phone is truly the total you will pay. For a wedding, prom, or major corporate booking in Virginia, reading that contract carefully before signing — and asking about anything that is unclear or missing — is the difference between a smooth transaction and an unpleasant surprise on the day that matters most.',
     ],
     sections: [
       {
@@ -1365,16 +1365,16 @@ const batch6 = [
           'Weddings, in particular, tend to run long — photos take longer than planned, a reception start gets pushed back, or a couple simply wants more time than originally booked. A contract should spell out exactly how overtime is calculated: the per-hour or per-fifteen-minute rate, whether it is billed automatically or requires advance approval, and how that charge is communicated on the day itself rather than discovered only on the final invoice.',
           'It is worth asking specifically what happens if a booking runs long by a small amount — five or ten minutes — versus a substantial overrun, since some providers handle minor overages with more flexibility than others. Getting this answer before the event, rather than during it, avoids an awkward conversation with a chauffeur at the exact moment a couple is trying to enjoy their reception.',
           'It is also worth asking whether extra time can be pre-approved and paid for in advance if a couple already suspects the day will run long, rather than being calculated and settled only after the fact. Planning for this possibility ahead of time, rather than treating it as an unlikely exception, tends to produce a smoother experience if the day does run past its original schedule.',
-          'A contract should also specify what happens if the booking runs shorter than planned, not just longer. Confirm whether any unused time results in a partial refund or simply forfeits without adjustment, since providers genuinely differ on this point and it is better to know the answer in advance than to assume.',
+          'A contract should also specify what happens if the booking runs shorter than planned, not just longer. Confirm whether any unused time results in a partial refund or is simply not credited, since providers genuinely differ on this point and it is better to know the answer in advance than to assume.',
           'For a multi-vehicle booking, such as a wedding with several cars reserved at once, confirm whether overtime is calculated per vehicle or across the group as a whole, since this distinction can meaningfully change the total cost if only one vehicle in the group ends up running long.',
         ],
       },
       {
         heading: 'Read the Cancellation and Change Policy Closely',
         paragraphs: [
-          'Every contract should state, in plain language, how much advance notice is required to cancel or reschedule without a penalty, and what portion of a deposit — if any — is refundable at different points before the event. Our own policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation, and any reputable provider’s contract should state its equivalent policy just as clearly.',
+          'Every contract should state, in plain language, when the card is charged and how much advance notice is required to cancel or reschedule without a penalty. With us, the rate is quoted and confirmed in writing, the card is charged once the reservation and rate are confirmed, and cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans and special-event bookings — any reputable provider’s contract should state its equivalent policy just as clearly.',
           'Pay particular attention to how a change in vehicle count or timing is handled — whether it counts as a partial cancellation subject to a fee, or a normal adjustment that carries no penalty as long as it is communicated with reasonable notice. This distinction matters most for a wedding, where headcounts and timing frequently shift in the weeks leading up to the event.',
-          'Also confirm whether the deposit itself is refundable, partially refundable, or applied as credit toward a rescheduled date if a cancellation happens within the stated notice window. A contract that addresses this scenario directly, rather than leaving it as an unstated assumption, protects both sides if plans genuinely do change.',
+          'Also confirm whether any payment already charged is refunded, partially refunded, or applied as credit toward a rescheduled date if a cancellation happens inside the stated notice window. A contract that addresses this scenario directly, rather than leaving it as an unstated assumption, protects both sides if plans genuinely do change.',
           'For a wedding specifically, ask what happens if the event is postponed entirely rather than simply moved to a new date within the same season — a genuinely different scenario that some contracts do not address separately, and one worth understanding before an unexpected postponement forces the question at the worst possible time.',
           'It is also worth asking whether the notice window differs for a partial change, such as reducing the number of vehicles booked, versus a full cancellation of the entire reservation, since these two scenarios are not always treated identically even within the same contract.',
         ],
@@ -1383,7 +1383,7 @@ const batch6 = [
         heading: 'Check for Vehicle Substitution Language',
         paragraphs: [
           'A contract should address what happens if your specifically requested vehicle becomes unavailable due to mechanical issues or an unforeseen circumstance — most legitimate providers include a substitution clause guaranteeing a comparable or upgraded vehicle rather than leaving the client with no recourse at all. Ask specifically what "comparable" means in practice, and whether you would be notified in advance if a substitution becomes necessary.',
-          'This clause matters more than it might initially seem, particularly for a wedding or milestone event where a specific vehicle — a particular limo model, a matching color, a specific SUV — was part of the original booking decision.',
+          'This clause matters more than it might initially seem, particularly for a wedding or milestone event where a specific vehicle — a particular sedan model, a matching color, a specific SUV — was part of the original booking decision.',
           'It is also fair to ask how far in advance you would be notified of a substitution, if one becomes necessary. A same-day surprise is a far worse experience than a call received several days ahead of the event, even if the ultimate resolution — a comparable or upgraded vehicle — ends up being identical either way.',
           'If color or exact styling matters for wedding photos specifically — matching a vehicle to a wedding’s color scheme, for instance — say so explicitly at booking rather than assuming it is understood, since a substitution clause typically guarantees a comparable vehicle class rather than an identical aesthetic match.',
         ],
@@ -1391,7 +1391,7 @@ const batch6 = [
       {
         heading: 'What a Trustworthy Contract Looks Like',
         paragraphs: [
-          'A contract worth signing is specific rather than vague — a stated rate with clearly listed inclusions, a defined overtime rate, a plainly written cancellation policy, and a named point of contact for the day of the event. A contract that is short on these specifics, or that relies heavily on verbal reassurances not reflected in the written document, is worth a second conversation before any deposit changes hands.',
+          'A contract worth signing is specific rather than vague — a stated rate with clearly listed inclusions, a defined overtime rate, a plainly written cancellation policy, and a named point of contact for the day of the event. A contract that is short on these specifics, or that relies heavily on verbal reassurances not reflected in the written document, is worth a second conversation before your card is charged.',
           'IAD Airport Limo provides clear, written terms for every booking, with a flat rate confirmed before you book and a cancellation policy stated plainly at the time of reservation. Call (877) 609-1919 or book online, and ask us to walk through any part of the agreement you want clarified before you sign.',
           'Taking twenty extra minutes to read a contract carefully, and to ask about anything unclear, is a small investment against the possibility of a genuinely stressful surprise on a day that cannot be redone. It is a reasonable habit to bring to every significant booking, not just the largest ones.',
           'A trustworthy company welcomes this level of scrutiny rather than treating it as an inconvenience, since a well-informed customer with clear written terms is far less likely to end up in a dispute than one relying on vague assumptions from a rushed phone call.',
@@ -1412,7 +1412,7 @@ const batch6 = [
       {
         question: 'What is a fair cancellation policy for a limo service contract?',
         answer:
-          'Our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation — any reputable contract should state its equivalent terms clearly. Whatever the exact windows, they should appear in the written confirmation, along with what happens to any payment if you cancel inside them.',
+          'Our cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans and special-event bookings — any reputable contract should state its equivalent terms clearly. Whatever the exact windows, they should appear in the written confirmation, along with what happens to any payment if you cancel inside them.',
       },
       {
         question: 'What happens if my specifically requested vehicle is unavailable on the day?',
@@ -1427,7 +1427,7 @@ const batch6 = [
     ],
     relatedLinks: [
       { label: 'How to Choose the Right Limo Company in Maryland', to: '/blog/how-to-choose-a-limo-company-in-maryland' },
-      { label: 'Deposits and Cancellations: How Limo Service Policies Actually Work', to: '/blog/limo-service-deposit-cancellation-policy-guide' },
+      { label: 'Payment and Cancellations: How Limo Service Policies Actually Work', to: '/blog/limo-service-deposit-cancellation-policy-guide' },
       { label: 'What Virginia Motor Carrier Licensing Means for Limo Customers', to: '/blog/virginia-motor-carrier-licensing-explained' },
       { label: 'Book Now', to: '/book-now' },
     ],
@@ -1444,7 +1444,7 @@ const batch6 = [
       'Being licensed as a for-hire passenger carrier in Virginia is not a formality — it is what stands between you and an uninsured driver on your wedding day.',
     image: '/images/lincoln-nautilus.webp',
     intro: [
-      'Most customers booking a limo or car service in Virginia never think to ask whether the company is properly licensed as a for-hire passenger carrier, largely because the concept sounds like background regulatory noise rather than something with any real bearing on a wedding, prom, or airport transfer. In practice, it is one of the most consequential things a customer can confirm before booking, because licensing and the commercial insurance that comes with it are what actually protect a passenger if something goes wrong — a collision, an injury, a vehicle breakdown — during a trip. This guide explains what carrier licensing actually means in plain terms, and the specific questions worth asking before you hand over a deposit.',
+      'Most customers booking a limo or car service in Virginia never think to ask whether the company is properly licensed as a for-hire passenger carrier, largely because the concept sounds like background regulatory noise rather than something with any real bearing on a wedding, prom, or airport transfer. In practice, it is one of the most consequential things a customer can confirm before booking, because licensing and the commercial insurance that comes with it are what actually protect a passenger if something goes wrong — a collision, an injury, a vehicle breakdown — during a trip. This guide explains what carrier licensing actually means in plain terms, and the specific questions worth asking before you book.',
     ],
     sections: [
       {
@@ -1534,45 +1534,43 @@ const batch6 = [
   },
   {
     slug: 'limo-service-deposit-cancellation-policy-guide',
-    title: 'Deposits and Cancellations: How Limo Service Policies Actually Work',
-    metaTitle: 'Limo Deposit & Cancellation Policy Guide',
+    title: 'Payment and Cancellations: How Limo Service Policies Actually Work',
+    metaTitle: 'Limo Payment & Cancellation Policy Guide',
     metaDescription:
-      'How limo service deposits and cancellation policies actually work — what is refundable, when notice is required, and how to read the fine print carefully first.',
+      'How limo service payment and cancellation policies work — when your card is charged, how much notice a cancellation needs, and what to confirm in writing.',
     datePublished: '2026-10-29',
     readTime: '8 min read',
     excerpt:
-      'A deposit and cancellation policy is not fine print to skip — here is what those terms actually mean and how to avoid an unwelcome surprise later.',
+      'Payment and cancellation terms are not fine print to skip — here is what they actually mean, when your card is charged, and how to avoid a surprise later.',
     image: '/images/blog/scenario-airport-pickup-1.webp',
     intro: [
-      'Deposit and cancellation policies are one of the least exciting parts of booking a limo or car service, and also one of the parts customers most regret not reading carefully after plans change unexpectedly. A deposit secures your date and vehicle, but what it actually protects — and what you stand to lose if a cancellation happens with too little notice — varies enough between providers that it is worth understanding in plain terms before you book, not after a plan falls through. This guide walks through how these policies typically work, what to expect from a reasonable one, and how our own policy is structured.',
+      'Payment and cancellation policies are one of the least exciting parts of booking a limo or car service, and also one of the parts customers most regret not reading carefully after plans change unexpectedly. When your card is charged, how much notice a cancellation needs, and how a change is handled all vary enough between providers that it is worth understanding in plain terms before you book, not after a plan falls through. This guide walks through how these policies typically work, what to expect from a reasonable one, and how our own policy is structured.',
     ],
     sections: [
       {
-        heading: 'Why Deposits Exist in the First Place',
+        heading: 'How Payment Works When You Book',
         paragraphs: [
-          'A deposit is not simply a fee for the privilege of booking — it reserves a specific vehicle and chauffeur for your date, which means that vehicle is unavailable to any other customer for that same window of time. For a popular date, particularly a spring wedding Saturday or a high-demand holiday like New Year’s Eve, that vehicle could otherwise have been booked by someone else, which is the underlying reason a cancellation with too little notice typically forfeits some or all of the deposit rather than being refunded automatically.',
-          'Understanding this framing helps explain why cancellation policies tend to scale with how far in advance a trip is cancelled — plenty of notice gives a provider a real chance to rebook the vehicle, while last-minute notice leaves little to no opportunity to recover that lost booking window.',
-          'This is also why the size and specialization of the vehicle matters to the policy itself. A standard sedan can often be reassigned to a different booking more easily than a Sprinter van or stretch limo, which is a smaller share of most fleets and therefore harder to fill on short notice once a reservation falls through.',
-          'This is worth keeping in mind even for a customer who has never had a cancellation policy actually apply to them. Understanding why the policy exists in the first place tends to make it feel less like an arbitrary rule and more like a reasonable reflection of how the business itself actually operates.',
-          'The deposit amount itself is also worth understanding upfront — whether it is a flat fee, a percentage of the total booking, or scaled to the specific vehicle reserved. A provider who explains this clearly at booking, rather than leaving the number unexplained on an invoice, is generally easier to work with if a change becomes necessary later.',
-          'For a larger event booking, ask whether the deposit is held by the company directly or processed through a separate payment platform, since this can occasionally affect how quickly a refund is returned if one becomes due under the stated policy.',
+          'With IAD Airport Limo, the rate is quoted and confirmed in writing before anything is charged. Once the reservation and the rate are both confirmed, the card is charged, so the amount you see in writing is the amount you pay for the reservation.',
+          'That written confirmation is the reference point for the whole booking. It names the vehicle, the pickup time and addresses, and the confirmed rate, so you know exactly what you agreed to before the card is charged rather than piecing it together from a phone call.',
+          'A booking reserves a specific vehicle and chauffeur for your date, which means that vehicle is unavailable to any other customer for that same window of time. For a popular date, particularly a spring wedding Saturday or a high-demand holiday like New Year’s Eve, that vehicle could otherwise have been booked by someone else — which is the underlying reason cancellation policies exist at all.',
+          'When comparing other companies, ask two direct questions: when exactly is the card charged, and what are the cancellation windows? A provider who answers both clearly at booking, rather than leaving the terms unexplained on an invoice, is generally easier to work with if a change becomes necessary later.',
         ],
       },
       {
-        heading: 'How Notice Requirements Typically Work',
+        heading: 'Our Cancellation Windows',
         paragraphs: [
-          'Our cancellation policy requires at least 3 hours’ notice for a standard point-to-point trip, such as an airport transfer, and at least 12 hours’ notice for an hourly, wedding, or group reservation, reflecting how much further in advance a larger booking needs to be planned around. A cancellation made within these windows may forfeit some or all of the deposit, while a cancellation made with more advance notice is typically eligible for a full or partial refund depending on the specific circumstances.',
-          'These numbers are not arbitrary — a point-to-point airport trip can often be reassigned to another booking with relatively short notice, while an hourly or wedding reservation involves a vehicle and chauffeur blocked out for a longer, less flexible window that is harder to fill on short notice.',
-          'A reputable provider states these windows plainly at the time of booking rather than burying them in fine print discovered only after a cancellation is already necessary. If a policy is not stated clearly up front, it is entirely reasonable to ask for it directly before paying a deposit.',
-          'It is also worth asking whether the notice window is measured from the original pickup time or from some other reference point, since this detail occasionally varies between providers and can meaningfully change how much notice is actually required in practice.',
-          'For a corporate account with recurring bookings, confirm whether the same notice windows apply uniformly to every trip, or whether a standing account carries different terms than a one-time individual reservation — a distinction worth understanding before a company relies on the arrangement for regular travel needs.',
+          'Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours before pickup for Sprinter vans and special-event bookings. Those two windows are stated in your booking confirmation, so there is no guesswork about which one applies to your trip.',
+          'The difference between the two is not arbitrary. A sedan or SUV can often be reassigned to another booking on relatively short notice, while a Sprinter van is a smaller share of any fleet and a special-event booking blocks out a vehicle and chauffeur for a longer, less flexible window that is harder to fill once a reservation falls through.',
+          'A reputable provider states these windows plainly at the time of booking rather than burying them in fine print discovered only after a cancellation is already necessary. If a policy is not stated clearly up front, it is entirely reasonable to ask for it directly before your card is charged.',
+          'It is also worth asking any provider whether the notice window is measured from the scheduled pickup time or from some other reference point, since this detail occasionally varies between companies and can meaningfully change how much notice is actually required in practice.',
+          'For a corporate account with recurring bookings, confirm whether the same windows apply uniformly to every trip, or whether a standing account carries different terms than a one-time individual reservation — a distinction worth understanding before a company relies on the arrangement for regular travel needs.',
         ],
       },
       {
         heading: 'What Counts as a Cancellation vs. a Change',
         paragraphs: [
-          'Not every adjustment to a booking should be treated as a cancellation, and a reasonable provider distinguishes between the two. Changing a pickup time by thirty minutes, adjusting a vehicle from an SUV to a Sprinter van for a slightly larger group, or moving a reservation to a different day entirely with adequate notice are typically handled as normal adjustments rather than a cancellation-and-rebooking that would trigger a penalty.',
-          'It is worth confirming this distinction directly with any provider before you book — specifically, whether a date change within a certain window is treated as a fee-free adjustment or as a full cancellation of the original reservation. This detail matters most for events like weddings, where dates occasionally do shift for reasons entirely outside anyone’s control.',
+          'Not every adjustment to a booking should be treated as a cancellation, and a reasonable provider distinguishes between the two. Changing a pickup time by thirty minutes, adjusting a vehicle from an SUV to a Sprinter van for a slightly larger group, or moving a reservation to a different day entirely with adequate notice are typically handled as normal adjustments rather than a cancellation-and-rebooking.',
+          'It is worth confirming this distinction directly with any provider before you book — specifically, whether a date change within a certain window is treated as a simple adjustment or as a full cancellation of the original reservation. This detail matters most for events like weddings, where dates occasionally do shift for reasons entirely outside anyone’s control.',
           'It is also worth asking how far in advance a change needs to be communicated to still count as a normal adjustment rather than a late cancellation. A provider with a clear, generous window for changes — rather than treating every adjustment with suspicion — is generally a better sign of how the company handles customers overall.',
           'A large event booking, such as a wedding, is particularly worth discussing in detail here, since a headcount that grows by a few guests in the final weeks is common and should be treated very differently from a couple cancelling the reservation entirely and starting over with a new provider.',
           'Ask also whether upgrading to a larger vehicle close to the event date is generally possible, subject to availability, or whether it functions more like a new booking altogether. Knowing this in advance helps a customer decide how firmly to commit to a smaller vehicle early in the planning process.',
@@ -1584,31 +1582,29 @@ const batch6 = [
           'A reasonable cancellation policy accounts for circumstances a customer cannot control — a cancelled or significantly delayed flight, for instance, rather than a simple change of mind. For airport transfers specifically, flight tracking already builds in flexibility through complimentary wait time, and a cancelled flight or a same-day rebooking is generally handled as a schedule adjustment rather than a standard cancellation, provided it is communicated as early as possible.',
           'Severe weather affecting an entire region’s travel plans is typically handled with additional flexibility as well, since it affects every customer simultaneously and is clearly outside anyone’s control. Confirming how a provider specifically handles weather-related disruptions before you book — rather than assuming — removes any ambiguity if the day actually arrives with a storm in the forecast.',
           'This same flexibility generally does not extend to a simple change of plans unrelated to travel disruption, and it is fair for a provider to distinguish between the two. Understanding that distinction ahead of time — rather than assuming every circumstance qualifies for special consideration — sets a more realistic expectation from the start.',
-          'For a wedding specifically, it is worth discussing how a genuine emergency — a sudden illness, a family emergency — would be handled, separate from an ordinary cancellation. Most reasonable providers, including ours, handle a true emergency with more flexibility than a standard change of mind, and it is worth understanding that in advance rather than assuming.',
-          'It is fair to ask for this kind of exceptional-circumstance handling in writing as part of the original booking confirmation, rather than relying on a verbal assurance given during an initial phone call that may be hard to recall accurately months later if the circumstance actually arises.',
+          'It is fair to ask for any exceptional-circumstance handling in writing as part of the original booking confirmation, rather than relying on a verbal assurance given during an initial phone call that may be hard to recall accurately months later if the circumstance actually arises.',
         ],
       },
       {
         heading: 'What to Confirm Before You Book',
         paragraphs: [
-          'Before paying any deposit, confirm the specific notice windows required for cancellation, what portion of the deposit is refundable at each stage, how a date or vehicle change is handled versus a full cancellation, and how flight delays or weather disruptions are treated. Get these answers in writing, ideally within the booking confirmation itself, rather than relying on a verbal explanation over the phone.',
-          'Our policy is stated plainly at the time of booking — at least 3 hours’ notice for point-to-point trips and at least 12 hours’ notice for hourly, wedding, and group reservations. Call (877) 609-1919 or book online, and ask us to walk through the specifics for your particular trip before you commit.',
+          'Before your card is charged, confirm the rate in writing, when exactly the charge happens, the specific notice windows required for a free cancellation, how a date or vehicle change is handled versus a full cancellation, and how flight delays or weather disruptions are treated. Get these answers in writing, ideally within the booking confirmation itself, rather than relying on a verbal explanation over the phone.',
+          'Our policy is stated plainly at the time of booking — the rate is quoted and confirmed in writing, the card is charged once the reservation and rate are confirmed, and cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans and special-event bookings. Call (877) 609-1919 or book online, and ask us to walk through the specifics for your particular trip before you commit.',
           'A few minutes spent confirming these details before booking is a small step that removes real uncertainty later, particularly for a large event booked months in advance where plans have more time to shift before the actual date arrives.',
           'A clearly stated, fair policy is ultimately a sign of a company confident in how it treats its customers. It is worth choosing a provider whose policy you have actually read and understood, rather than one you are simply hoping never comes into play.',
-          'If anything in this guide raises a question specific to your own booking, call and ask directly rather than guessing. A five-minute phone call resolves far more uncertainty than reading a policy document in isolation ever could.',
         ],
       },
     ],
     faqs: [
       {
-        question: 'How much notice do I need to give to cancel without losing my deposit?',
+        question: 'How much notice do I need to give to cancel for free?',
         answer:
-          'Our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly, wedding, or group reservation to avoid forfeiting the deposit. Our free cancellation applies up to 3 hours before pickup for sedans and SUVs and up to 12 hours for Sprinter vans and special-event bookings. The windows are stated in your booking confirmation.',
+          'Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours before pickup for Sprinter vans and special-event bookings. The window that applies to your trip is stated in your booking confirmation.',
       },
       {
-        question: 'Why do deposits exist for limo service bookings?',
+        question: 'When is my card charged for a limo service booking?',
         answer:
-          'A deposit reserves a specific vehicle and chauffeur for your date, making that vehicle unavailable to other customers. Cancellation policies scale with how much notice a provider needs to realistically rebook that time.',
+          'The rate is quoted and confirmed in writing first. Once the reservation and the rate are both confirmed, the card is charged for that confirmed rate.',
       },
       {
         question: 'Is changing my pickup time treated the same as a cancellation?',
@@ -1621,9 +1617,9 @@ const batch6 = [
           'Flight tracking already builds in complimentary wait time, and a cancelled or rebooked flight is generally treated as a schedule adjustment rather than a standard cancellation if communicated promptly. Let dispatch know as soon as your airline changes the flight, and the pickup is moved to the new arrival rather than charged as a missed trip.',
       },
       {
-        question: 'What should I confirm before paying a deposit?',
+        question: 'What should I confirm with any company before my card is charged?',
         answer:
-          'Confirm the specific cancellation notice windows, what portion of the deposit is refundable, how date or vehicle changes are handled, and how flight delays or severe weather are treated — ideally in writing. Our own rate is flat and confirmed in writing before the ride, which gives you something concrete to compare against any provider’s terms.',
+          'Confirm the rate in writing, when the card is charged, the cancellation windows, how date or vehicle changes are handled, and how flight delays or severe weather are treated. Our own rate is flat and confirmed in writing before the ride, which gives you something concrete to compare against any provider’s terms.',
       },
     ],
     relatedLinks: [
@@ -1653,7 +1649,7 @@ const batch6 = [
         paragraphs: [
           'Many Loudoun wineries sit at the end of a long gravel or unpaved driveway, sometimes narrow enough that a full-size vehicle needs to plan its approach and turnaround carefully rather than assuming the kind of open, paved circular drive a hotel or conventional event venue typically offers. A chauffeur who has visited a specific venue before, or who takes the time to confirm the driveway situation in advance, avoids the awkward experience of a large SUV or Sprinter van struggling to navigate a tight gravel turnaround with a wedding party already dressed and waiting.',
           'This is worth discussing directly with your transportation provider well before the wedding day — specifically asking whether they have served your particular venue before, and if not, confirming the driveway width, surface, and any turnaround constraints so the right vehicle size is booked from the start rather than discovered as a problem on the day itself.',
-          'A stretch limo, in particular, needs considerably more turnaround room than an SUV or Sprinter van, which is one of several reasons many winery weddings are better served by a well-appointed SUV or a Sprinter Executive than a traditional stretch vehicle.',
+          'A stretch limo, in particular, needs considerably more turnaround room than an SUV or Sprinter van, which is one of several reasons many winery weddings are better served by a well-appointed SUV or a Sprinter Executive. (We don’t operate stretch limousines.)',
           'Rain adds another layer to this same consideration, since a gravel driveway that handles dry weather without issue can develop soft spots or standing water after a heavy storm. A chauffeur who checks conditions ahead of a rainy wedding day plans the approach accordingly, rather than discovering a soft patch of driveway with a loaded vehicle already committed to it.',
           'A working farm property also sometimes shares its driveway with active agricultural equipment or livestock areas that a chauffeur unfamiliar with the site would have no reason to anticipate. Confirming these specifics with the venue directly, rather than assuming a wedding venue functions identically to any other event space, avoids an awkward surprise on the day itself.',
           'Some properties also restrict vehicle access to certain hours to protect the vines themselves during active growing or harvest periods, a detail that has nothing to do with the wedding schedule but everything to do with the working vineyard the venue also happens to be. Confirming this in advance avoids a conflict nobody anticipated.',
@@ -1692,7 +1688,7 @@ const batch6 = [
       {
         heading: 'Booking Winery Wedding Transportation',
         paragraphs: [
-          'Tell dispatch your specific venue, expected guest count, and whether the day includes a golden-hour photo session that might affect timing, and the plan is built around your venue’s actual layout rather than a generic wedding template. An SUV or Sprinter Executive typically handles winery driveways more comfortably than a traditional stretch limo, and a Sprinter van covers guest shuttling for a larger wedding.',
+          'Tell dispatch your specific venue, expected guest count, and whether the day includes a golden-hour photo session that might affect timing, and the plan is built around your venue’s actual layout rather than a generic wedding template. An SUV or Sprinter Executive typically handles winery driveways comfortably, and a Sprinter van covers guest shuttling for a larger wedding.',
           'Call (877) 609-1919 or book online, and let us help plan transportation around your specific Loudoun County venue well before the wedding day arrives.',
           'If your venue is one we have not yet served, ask us to schedule a quick call with your venue coordinator ahead of the wedding, so any access details specific to that property are confirmed well before the day itself rather than figured out in real time.',
           'A vineyard wedding is a genuinely beautiful choice, and the transportation plan should support that setting rather than fight against it. A little extra planning specific to the venue is a small price for a day that runs as smoothly as the setting itself looks.',
@@ -1703,7 +1699,7 @@ const batch6 = [
       {
         question: 'Can a stretch limo access a winery venue with a gravel driveway?',
         answer:
-          'It depends on the specific driveway — a stretch limo needs considerably more turnaround room than an SUV or Sprinter van, so confirming your venue’s driveway width in advance helps determine the best vehicle. Many Loudoun winery weddings are simply better served by an SUV or a Sprinter, which handle gravel and tighter turnarounds more comfortably. Share your venue at booking so the vehicle is matched to the driveway before the day, not discovered on arrival.',
+          'We don’t operate stretch limousines, and a stretch vehicle needs considerably more turnaround room than an SUV or Sprinter van on a gravel driveway. Many Loudoun winery weddings are simply better served by an SUV or a Sprinter, which handle gravel and tighter turnarounds more comfortably. Share your venue at booking so the vehicle is matched to the driveway before the day, not discovered on arrival.',
       },
       {
         question: 'How do you handle a photo session that runs past its scheduled time for sunset light?',
@@ -1723,7 +1719,7 @@ const batch6 = [
       {
         question: 'What vehicle is typically best for a Loudoun County winery wedding?',
         answer:
-          'A well-appointed SUV or Sprinter Executive generally handles gravel driveways and tighter turnarounds more comfortably than a traditional stretch limo, while a Sprinter van covers guest shuttling. For the couple and the wedding party, an SUV keeps the arrival polished, while the Sprinter runs the guest loop between parking and the ceremony site. Tell dispatch your guest count and venue, and the mix of vehicles is built around that winery’s actual layout.',
+          'A well-appointed SUV or Sprinter Executive generally handles gravel driveways and tighter turnarounds comfortably, while a Sprinter van covers guest shuttling. For the couple and the wedding party, an SUV keeps the arrival polished, while the Sprinter runs the guest loop between parking and the ceremony site. Tell dispatch your guest count and venue, and the mix of vehicles is built around that winery’s actual layout.',
       },
     ],
     relatedLinks: [
@@ -1895,7 +1891,7 @@ const batch6 = [
       {
         heading: 'Booking Your Multi-Day Wedding Celebration',
         paragraphs: [
-          'Share your full event schedule, venues, and any specific needs — outfit changes, elder guests, multiple family groups — and we will build a transportation plan around the entire celebration rather than a single day. Our fleet of sedans, SUVs, stretch limos, and Sprinter vans covers everything from an intimate family transfer to a large multi-day guest shuttle.',
+          'Share your full event schedule, venues, and any specific needs — outfit changes, elder guests, multiple family groups — and we will build a transportation plan around the entire celebration rather than a single day. Our fleet of sedans, SUVs, and Sprinter vans covers everything from an intimate family transfer to a large multi-day guest shuttle.',
           'Call (877) 609-1919 or book online, and let us help coordinate a celebration that spans several events with the same care and reliability at every single one.',
           'A celebration this significant deserves transportation planning that matches its scale, and we would rather spend the time up front understanding your full schedule than try to piece it together at the last minute once the first event is already underway.',
           'Every family’s celebration looks different, and that is exactly the point — our role is to support the celebration you are actually planning, not to fit it into a generic template built for a single-day wedding that does not reflect what your family’s own traditions and preferences actually call for.',
@@ -1927,7 +1923,7 @@ const batch6 = [
       {
         question: 'What vehicles work best for a large, multi-day wedding celebration?',
         answer:
-          'A mix of sedans, SUVs, stretch limos, and Sprinter vans typically covers a multi-day celebration well, matched to each specific event’s guest count and formality. Sedans suit the couple and close family, SUVs fit smaller groups, and the Sprinter carries up to 13 guests for shuttles between hotels and venues. Share each event’s guest count, and dispatch builds the mix of vehicles around the full schedule.',
+          'A mix of sedans, SUVs, and Sprinter vans typically covers a multi-day celebration well, matched to each specific event’s guest count and formality. Sedans suit the couple and close family, SUVs fit smaller groups, and the Sprinter carries up to 13 guests for shuttles between hotels and venues. Share each event’s guest count, and dispatch builds the mix of vehicles around the full schedule.',
       },
     ],
     relatedLinks: [
@@ -1946,7 +1942,7 @@ const batch6 = [
     datePublished: '2026-11-02',
     readTime: '8 min read',
     excerpt:
-      'Ten direct questions that separate a licensed, professional Dulles car service from an informal operator — ask them before you pay any deposit.',
+      'Ten direct questions that separate a licensed, professional Dulles car service from an informal operator — ask them before your card is charged.',
     image: '/images/blog/scenario-airport-pickup-2.webp',
     intro: [
       'Booking Dulles airport transportation online often comes down to comparing a handful of websites that all look reasonably similar — clean photos, a booking form, a phone number. What separates a properly licensed, professional car service from an informal operator rarely shows up in the marketing at all, and only becomes clear once you ask a few direct questions before booking. These ten questions take a few minutes on the phone and reveal far more than any website ever will, protecting you from the specific problems that come with booking the wrong kind of operator for something as important as an airport transfer.',
@@ -1987,7 +1983,7 @@ const batch6 = [
       {
         heading: 'Questions About Cancellation, Changes, and Support on the Day',
         paragraphs: [
-          'Ask directly what the cancellation policy is, and get the specific notice windows required to avoid losing your deposit — for reference, our policy requires at least 3 hours’ notice for a point-to-point trip and at least 12 hours’ notice for an hourly or group reservation. Ask separately how flight delays, schedule changes, or a rebooked flight are handled, since airport transfers specifically need this kind of flexibility built in.',
+          'Ask directly what the cancellation policy is, and ask when the card is charged and what the free-cancellation windows are — for reference, our rate is quoted and confirmed in writing, the card is charged once the reservation and rate are confirmed, and cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans and special-event bookings. Ask separately how flight delays, schedule changes, or a rebooked flight are handled, since airport transfers specifically need this kind of flexibility built in.',
           'Finally, ask how you reach the company on the day of your trip if something needs to change — specifically, whether a live dispatcher answers the phone, or whether support is limited to text messages and email that may not get a timely response during an actual travel disruption.',
           'This last question matters more than any other on this list during an actual disruption, since a delayed or diverted flight is exactly the moment a traveler needs a real person to speak with, not an automated system that may not reflect the trip’s actual status in real time.',
           'It is also worth asking directly what happens in the rare case that a scheduled vehicle experiences a mechanical issue on the day of your trip. A company with a real backup plan — a second vehicle it can dispatch quickly — is meaningfully more reliable than one with no answer for this scenario at all.',
@@ -2024,7 +2020,7 @@ const batch6 = [
       {
         question: 'What should I know about a company’s cancellation policy before booking?',
         answer:
-          'Confirm the specific notice windows required to avoid losing your deposit. Ours requires at least 3 hours’ notice for point-to-point trips and at least 12 hours’ notice for hourly or group reservations.',
+          'Confirm when the card is charged and the specific free-cancellation windows. Ours is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans and special-event bookings.',
       },
       {
         question: 'How do I reach my car service if my flight changes on the day of travel?',
@@ -2035,7 +2031,7 @@ const batch6 = [
     relatedLinks: [
       { label: 'How to Read a Virginia Limousine Service Contract Before You Sign', to: '/blog/how-to-read-virginia-limo-service-contract' },
       { label: 'What Virginia Motor Carrier Licensing Means for Limo Customers', to: '/blog/virginia-motor-carrier-licensing-explained' },
-      { label: 'Deposits and Cancellations: How Limo Service Policies Actually Work', to: '/blog/limo-service-deposit-cancellation-policy-guide' },
+      { label: 'Payment and Cancellations: How Limo Service Policies Actually Work', to: '/blog/limo-service-deposit-cancellation-policy-guide' },
       { label: 'Book Now', to: '/book-now' },
     ],
   },

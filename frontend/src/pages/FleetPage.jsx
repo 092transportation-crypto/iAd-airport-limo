@@ -43,7 +43,6 @@ const FleetPage = () => {
     navigator: '/images/lincoln-navigator.webp',
     sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
     sprinterExecutive: '/images/mercedes-sprinter.webp',
-    sprinterLimo: '/images/limousine.webp',
   };
 
   const vehicles = [

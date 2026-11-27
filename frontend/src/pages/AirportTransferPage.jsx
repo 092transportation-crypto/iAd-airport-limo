@@ -56,7 +56,7 @@ const AirportTransferPage = () => {
     {
       icon: <Car className="h-8 w-8" />,
       title: 'Luxurious Fleet Options',
-      description: 'Choose from elegant executive sedans, spacious luxury SUVs, and stunning stretch limousines.'
+      description: 'Choose from elegant executive sedans, spacious luxury SUVs, and 13-passenger Mercedes Sprinter vans.'
     },
     {
       icon: <Briefcase className="h-8 w-8" />,

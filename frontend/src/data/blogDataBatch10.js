@@ -358,7 +358,7 @@ const batch10 = [
     readTime: '6 min read',
     excerpt:
       'A ten-person elopement does not need the same transportation plan as a 150-guest wedding. Here is how to book the right car, not the biggest one.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Most wedding transportation guides, including several of our own, assume a traditional wedding party of eight to twelve with a guest shuttle problem to solve. Micro-weddings and elopements — a ceremony with two to ten people, often moving quickly between a courthouse or small venue and a celebration dinner — need a completely different plan. Here is how to book it right-sized instead of over-ordering a fleet you do not need.',
     ],
@@ -372,7 +372,7 @@ const batch10 = [
       {
         heading: 'One Car, Not a Fleet: Right-Sizing the Vehicle',
         paragraphs: [
-          'A luxury sedan or a premium SUV comfortably covers a couple and up to four additional guests with room for a dress, a bouquet and a small amount of luggage if the day includes travel. A stretch limousine remains an option for couples who want the look and feel of a traditional wedding car without the larger guest list — it is simply a style choice at this scale, not a capacity requirement. Where a Sprinter van or multiple vehicles genuinely earn their keep is when the "small" wedding still has twenty or thirty guests arriving separately; at that point you are really planning guest-shuttle logistics for a mid-size event, not a micro-wedding.',
+          'A luxury sedan or a premium SUV comfortably covers a couple and up to four additional guests with room for a dress, a bouquet and a small amount of luggage if the day includes travel. A First Class Sedan or a Lincoln Navigator gives a couple the look and feel of a traditional wedding car without the larger guest list — it is simply a style choice at this scale, not a capacity requirement. (We don\'t operate stretch limousines.) Where a Sprinter van or multiple vehicles genuinely earn their keep is when the "small" wedding still has twenty or thirty guests arriving separately; at that point you are really planning guest-shuttle logistics for a mid-size event, not a micro-wedding.',
         ],
       },
       {
@@ -398,9 +398,9 @@ const batch10 = [
     ],
     faqs: [
       {
-        question: 'Do I need a limousine for a small wedding or elopement?',
+        question: 'Do I need a large vehicle for a small wedding or elopement?',
         answer:
-          'Not necessarily. A luxury sedan or SUV comfortably covers a couple plus a few guests; a stretch limousine is available if you want the look, but is a style choice at this size, not a requirement.',
+          'Not necessarily. A luxury sedan or SUV comfortably covers a couple plus a few guests; a First Class Sedan or Lincoln Navigator adds a more formal look, but is a style choice at this size, not a requirement.',
       },
       {
         question: 'Can you run multiple stops in one booking — courthouse, photos, dinner?',
@@ -627,7 +627,7 @@ const batch10 = [
       {
         heading: 'Group Size and Vehicle Choice for a Maryland Prom Night',
         paragraphs: [
-          'A stretch limousine comfortably seats a group of six to eight and remains the classic prom choice. Larger friend groups of ten to thirteen are better served by a Mercedes Sprinter van, which keeps everyone together for the photo stop, dinner and dance rather than splitting across two vehicles and two pickup times — a common source of a late arrival at the one part of the night that actually has a fixed start time.',
+          'A Lincoln Navigator comfortably seats a group of up to six for prom. Larger friend groups of ten to thirteen are better served by a Mercedes Sprinter Executive, which keeps everyone together for the photo stop, dinner and dance rather than splitting across two vehicles and two pickup times — a common source of a late arrival at the one part of the night that actually has a fixed start time.',
         ],
       },
       {
@@ -646,7 +646,7 @@ const batch10 = [
     ],
     faqs: [
       {
-        question: 'Is a stretch limo or a Sprinter van better for a group of twelve?',
+        question: 'Are two SUVs or a Sprinter van better for a group of twelve?',
         answer:
           'A Sprinter van. It keeps a larger group together in one vehicle for the photo stop, dinner and dance, avoiding the split pickup times that come with two smaller cars.',
       },
@@ -791,7 +791,7 @@ const batch10 = [
       {
         heading: 'Weddings and Large Events: Book Months, Not Days, Out',
         paragraphs: [
-          'A wedding, especially one needing a Sprinter van or stretch limousine on a Saturday during Loudoun\'s April-through-November peak season, should be booked as soon as the date and venue are confirmed — ideally six to twelve months ahead. The vehicles suited to weddings are a limited fleet relative to total demand on a popular Saturday, and the booking also needs the day\'s full itinerary worked out in advance, which simply takes longer to plan than a one-way ride.',
+          'A wedding, especially one needing a Sprinter van or Lincoln Navigator on a Saturday during Loudoun\'s April-through-November peak season, should be booked as soon as the date and venue are confirmed — ideally six to twelve months ahead. The vehicles suited to weddings are a limited fleet relative to total demand on a popular Saturday, and the booking also needs the day\'s full itinerary worked out in advance, which simply takes longer to plan than a one-way ride.',
         ],
       },
       {
@@ -817,7 +817,7 @@ const batch10 = [
       {
         question: 'How far ahead should I book a wedding car?',
         answer:
-          'Six to twelve months ahead, especially for a Saturday during Loudoun\'s April-through-November peak wedding season and for larger vehicles like Sprinter vans or stretch limousines. Special-event bookings, including Sprinter vans, can be cancelled free of charge up to 12 hours before pickup.',
+          'Six to twelve months ahead, especially for a Saturday during Loudoun\'s April-through-November peak wedding season and for larger vehicles like Sprinter vans and Lincoln Navigators. Special-event bookings, including Sprinter vans, can be cancelled free of charge up to 12 hours before pickup.',
       },
       {
         question: 'How much notice does a corporate roadshow need?',

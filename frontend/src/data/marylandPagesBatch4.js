@@ -8,7 +8,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and solo travelers who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH4 = [
@@ -58,7 +58,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Curbside pickup or meet and greet",
         paragraphs: [
           "Curbside car service at Dulles remains a good fit for frequent flyers with carry-on luggage: the chauffeur texts the vehicle description and door number, and you walk out to the arrivals level. Meet and greet adds the inside-terminal presence and is quoted as a small addition to the flat rate. Both include flight tracking and the same complimentary wait time.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines, and car seats are installed on request for families arriving with young children.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings, and car seats are installed on request for families arriving with young children.",
         ],
       },
     ],
@@ -226,7 +226,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Where we take you from Dulles",
         paragraphs: [
           "Common destinations are downtown Washington, Arlington, Alexandria, Tysons, Reston, Ashburn, Leesburg, Bethesda and connections to Reagan National and BWI. Longer runs to Charlottesville, Richmond, Annapolis and Baltimore are flat-rate as well.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines. Call (877) 609-1919 or book online with the flight number.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings. Call (877) 609-1919 or book online with the flight number.",
         
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near Dulles Airport Black Car Service does not turn into a missed flight or a late arrival.",
           "No. Your flat rate covers standard luggage for the vehicle you book, and multi-stop itineraries around Dulles Airport Black Car Service are quoted up front — call (877) 609-1919 for a custom multi-stop rate so the total is confirmed before you ride.",],
@@ -240,7 +240,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Which vehicles are used for Dulles black car service?",
-        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, and Mercedes Sprinter vans for groups. Stretch limousines are available for special occasions.",
+        a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, and Mercedes Sprinter vans for groups. The Sprinter Executive covers weddings and celebrations for up to 13.",
       },
       {
         q: "How much is a black car from Dulles to Washington, DC?",
@@ -310,7 +310,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Groups, conferences and airline crews",
         paragraphs: [
           "Conference organizers use us to move speakers and attendees from Dulles to the host hotel and back on a schedule, with a Sprinter van for arrivals that cluster around the same bank of flights. Corporate accounts add hotel transfers to the same monthly invoice as the airport runs. Wedding parties arriving for a weekend at a Loudoun resort are met at baggage claim and delivered together, with car seats installed on request for families.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines. Call (877) 609-1919 with the hotel name and flight number to book.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings. Call (877) 609-1919 with the hotel name and flight number to book.",
         ],
       },
     ],
@@ -394,7 +394,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Connections and onward travel",
         paragraphs: [
           "If you are connecting to a domestic flight at Reagan National or BWI, we schedule the transfer with a buffer for customs and re-check, and the chauffeur drops you at the departures level of the other airport. If you are going to a hotel in Tysons, Reston or downtown Washington, it is one direct flat-rate ride. Corporate accounts add international arrivals to the same monthly invoice as domestic runs.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines. Call (877) 609-1919 with the flight number to book.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings. Call (877) 609-1919 with the flight number to book.",
         ],
       },
     ],
@@ -476,7 +476,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Families, groups and corporate departures",
         paragraphs: [
           "A Navigator or Suburban carries a family of five with checked bags and a stroller, with car seats installed on request. A Sprinter van takes a team or a wedding party to the same flight in one vehicle. Corporate accounts book recurring departures for weekly commuters and bill them monthly. If two people are leaving from different addresses, we build the stop into the same reservation with one confirmed rate.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and limousines. Call (877) 609-1919 or book online with the flight number.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special-event bookings. Call (877) 609-1919 or book online with the flight number.",
         ],
       },
     ],
@@ -558,8 +558,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Wine country, weddings and the western county",
         paragraphs: [
-          "Western Loudoun is horse and wine country, and most of what happens there is best done with a chauffeur waiting outside. Hourly, as-directed service covers a day of tastings around Middleburg, Purcellville, Hillsboro and Bluemont with unlimited stops and no one counting drinks against the drive home. Weddings at Lansdowne Resort, Salamander in Middleburg, the vineyards and the barn venues along Route 9 and Route 7 use stretch limousines for the couple and Sprinter vans for the guests, with a sedan or SUV to Dulles the next morning.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Western Loudoun is horse and wine country, and most of what happens there is best done with a chauffeur waiting outside. Hourly, as-directed service covers a day of tastings around Middleburg, Purcellville, Hillsboro and Bluemont with unlimited stops and no one counting drinks against the drive home. Weddings at Lansdowne Resort, Salamander in Middleburg, the vineyards and the barn venues along Route 9 and Route 7 use a First Class Sedan or Lincoln Navigator for the couple and Sprinter vans for the guests, with a sedan or SUV to Dulles the next morning.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -579,7 +579,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can you handle a wedding at a Loudoun vineyard or resort?",
-        a: "Yes. We coordinate the couple's limousine, guest shuttles in Sprinter vans and airport transfers for out-of-town family as one plan, with pickup times confirmed in writing.",
+        a: "Yes. We coordinate the couple's sedan or Navigator, guest shuttles in Sprinter vans and airport transfers for out-of-town family as one plan, with pickup times confirmed in writing.",
       },
       {
         q: "Is corporate car service available for the Ashburn data centers?",
@@ -596,7 +596,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
       { label: "IAD to Leesburg", to: "/iad-to-leesburg-va" },
     ],
-    schema: { areaServed: ["Loudoun County, VA"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Loudoun County, VA"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "fairfax-county-car-service",
@@ -621,7 +621,7 @@ export const MARYLAND_BATCH4 = [
       "Corporate car service for Tysons, Reston Town Center, the Dulles Corridor, Fair Lakes, Westfields and Merrifield",
       "Hourly chauffeur service for meeting days, medical appointments at Inova Fairfax and Reston Hospital, and family visits",
       "Event transportation to Capital One Hall, Wolf Trap, EagleBank Arena, the Kennedy Center and downtown venues",
-      "Weddings, proms and celebrations in stretch limousines, SUVs and Sprinter vans",
+      "Weddings, proms and celebrations in sedans, SUVs and Sprinter vans",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -640,8 +640,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Evenings, events and family occasions",
         paragraphs: [
-          "Fairfax County's evening venues include Capital One Hall in Tysons, Wolf Trap in Vienna, EagleBank Arena at George Mason and the restaurants of the Mosaic District, Reston Town Center and Old Town Fairfax, with the Kennedy Center and the District a short drive further. Hourly service keeps the chauffeur at the door through dinner and the show. Weddings at the county's estates, country clubs and hotels, proms for the high schools and milestone birthdays use stretch limousines and SUVs.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Fairfax County's evening venues include Capital One Hall in Tysons, Wolf Trap in Vienna, EagleBank Arena at George Mason and the restaurants of the Mosaic District, Reston Town Center and Old Town Fairfax, with the Kennedy Center and the District a short drive further. Hourly service keeps the chauffeur at the door through dinner and the show. Weddings at the county's estates, country clubs and hotels, proms for the high schools and milestone birthdays use the Sprinter Executive and SUVs.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -678,7 +678,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Northern Virginia Hourly Car Service", to: "/northern-virginia-hourly-chauffeur-service" },
       { label: "IAD to Fairfax", to: "/iad-to-fairfax" },
     ],
-    schema: { areaServed: ["Fairfax County, VA"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Fairfax County, VA"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "prince-william-county-car-service",
@@ -722,8 +722,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Corporate, wedding and family chauffeur service",
         paragraphs: [
-          "Corporate accounts with monthly invoicing serve the technology and manufacturing employers around Innovation Park and Manassas Regional Airport, government contractors near Quantico, and companies whose executives commute to Tysons or Washington. Weddings at the vineyards, golf clubs and estates around Haymarket, Gainesville and Nokesville use stretch limousines for the couple and Sprinter vans for guests. Families use SUVs for airport runs and hourly service for a day showing visiting relatives the Manassas battlefield and the District.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "Corporate accounts with monthly invoicing serve the technology and manufacturing employers around Innovation Park and Manassas Regional Airport, government contractors near Quantico, and companies whose executives commute to Tysons or Washington. Weddings at the vineyards, golf clubs and estates around Haymarket, Gainesville and Nokesville use a First Class Sedan or Lincoln Navigator for the couple and Sprinter vans for guests. Families use SUVs for airport runs and hourly service for a day showing visiting relatives the Manassas battlefield and the District.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
         ],
       },
     ],
@@ -760,7 +760,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Wedding Limo", to: "/wedding-limo" },
       { label: "Corporate Transportation", to: "/corporate" },
     ],
-    schema: { areaServed: ["Prince William County, VA", "Manassas, VA"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Prince William County, VA", "Manassas, VA"], serviceType: "Chauffeured car service" },
   },
   // ---------------------------------------------------------------- CITIES
   {
@@ -806,8 +806,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Corporate, event and evening chauffeur service",
         paragraphs: [
-          "Corporate accounts with monthly invoicing handle recurring visits to Westfields and the Route 28 contractors, hourly roadshow days that continue into Reston and Tysons, and Sprinter vans for teams attending a conference at the Expo Center. Evenings run to the restaurants of the Mosaic District and Reston Town Center, Capital One Hall, Wolf Trap and Jiffy Lube Live, and weddings and proms use stretch limousines and SUVs.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Corporate accounts with monthly invoicing handle recurring visits to Westfields and the Route 28 contractors, hourly roadshow days that continue into Reston and Tysons, and Sprinter vans for teams attending a conference at the Expo Center. Evenings run to the restaurants of the Mosaic District and Reston Town Center, Capital One Hall, Wolf Trap and Jiffy Lube Live, and weddings and proms use the Sprinter Executive and SUVs.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -845,7 +845,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Corporate Transportation", to: "/corporate" },
       { label: "Fair Lakes Limo Service", to: "/fair-lakes-limo-service" },
     ],
-    schema: { areaServed: ["Chantilly, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Chantilly, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "centreville-limo-service",
@@ -870,7 +870,7 @@ export const MARYLAND_BATCH4 = [
       "Family airport runs in Navigator and Suburban SUVs with car seats installed on request",
       "Corporate transfers to Westfields, Fair Lakes, Tysons, Reston and downtown Washington with monthly invoicing",
       "Concert nights at Jiffy Lube Live, EagleBank Arena and Wolf Trap with the chauffeur staged for the exit",
-      "Weddings, proms for Centreville and Westfield high schools and milestone birthdays in limousines and SUVs",
+      "Weddings, proms for Centreville and Westfield high schools and milestone birthdays in the Sprinter Executive and SUVs",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -890,8 +890,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Family, event and evening chauffeur service",
         paragraphs: [
-          "Centreville families use SUVs for airport runs with strollers and checked bags, Sprinter vans for a multi-family trip to a wedding or a graduation, and stretch limousines for proms and milestone birthdays. Jiffy Lube Live in nearby Bristow is a short drive west, and the chauffeur drops at the gate and stages away from the lot exit. Corporate commuters book recurring sedan service to Tysons or Washington through a corporate account.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "Centreville families use SUVs for airport runs with strollers and checked bags, Sprinter vans for a multi-family trip to a wedding or a graduation, and the Sprinter Executive for proms and milestone birthdays. Jiffy Lube Live in nearby Bristow is a short drive west, and the chauffeur drops at the gate and stages away from the lot exit. Corporate commuters book recurring sedan service to Tysons or Washington through a corporate account.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
         ],
       },
     ],
@@ -915,7 +915,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you offer prom limo service for Centreville high schools?",
-        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 13, with pickup times and the route confirmed in writing for parents.",
+        a: "Yes. The Lincoln Navigator seats six and Sprinter vans carry up to 13, with pickup times and the route confirmed in writing for parents.",
       },
     ],
     related: [
@@ -928,7 +928,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Prom Limo", to: "/prom-limo" },
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
     ],
-    schema: { areaServed: ["Centreville, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Centreville, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "south-riding-limo-service",
@@ -953,7 +953,7 @@ export const MARYLAND_BATCH4 = [
       "Corporate car service to Westfields, the Route 28 corridor, One Loudoun, Reston and Tysons with monthly invoicing",
       "Family airport runs in Navigator and Suburban SUVs with car seats installed on request",
       "Loudoun wine-country days by the hour along Route 50 toward Aldie and Middleburg",
-      "Weddings, proms for Freedom and John Champe high schools, and celebrations in stretch limousines",
+      "Weddings, proms for Freedom and John Champe high schools, and celebrations in the Sprinter Executive",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -973,8 +973,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Corporate, wine-country and family chauffeur service",
         paragraphs: [
-          "South Riding executives use sedans for the daily transfer to Westfields, Reston or Tysons and corporate accounts for visiting colleagues. Weekends turn west: hourly, as-directed service covers a day at the vineyards around Aldie and Middleburg with unlimited stops and the chauffeur waiting at each one. Weddings at the wineries and estates along Route 50 use stretch limousines and Sprinter vans, and proms and birthdays follow the same pattern.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "South Riding executives use sedans for the daily transfer to Westfields, Reston or Tysons and corporate accounts for visiting colleagues. Weekends turn west: hourly, as-directed service covers a day at the vineyards around Aldie and Middleburg with unlimited stops and the chauffeur waiting at each one. Weddings at the wineries and estates along Route 50 use Sprinter Executive vans and Lincoln Navigators, and proms and birthdays follow the same pattern.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
         
           "For corridor-specific delays — construction along the main approach routes, a backed-up Beltway exit, or a nearby event letting out — your chauffeur adjusts the route and departure time automatically, so a slow stretch of road near South Riding does not turn into a missed flight or a late arrival.",
           "Our dispatch team tracks regional conditions that affect South Riding trips directly — stadium events, federal motorcades, and seasonal congestion along the primary approach roads — and builds extra buffer into the schedule when any of them are in play.",
@@ -1014,7 +1014,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Prom Limo", to: "/prom-limo" },
       { label: "Stone Ridge Limo Service", to: "/stone-ridge-limo-service" },
     ],
-    schema: { areaServed: ["South Riding, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["South Riding, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "aldie-limo-service",
@@ -1059,11 +1059,11 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Wine country, weddings and corporate chauffeur service",
         paragraphs: [
-          "The vineyards west of Aldie are the reason many people move here, and hourly, as-directed service is the way to enjoy them: unlimited stops, cases of wine in the back and nobody counting glasses against the drive home. Weddings at the estates and barns around Aldie and Middleburg use a stretch limousine for the couple, Sprinter vans for guests staying at Salamander or the Route 50 hotels, and sedans to Dulles the next morning. Executives commute to the Ashburn data centers, Reston and Tysons on a corporate account with monthly invoicing.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "The vineyards west of Aldie are the reason many people move here, and hourly, as-directed service is the way to enjoy them: unlimited stops, cases of wine in the back and nobody counting glasses against the drive home. Weddings at the estates and barns around Aldie and Middleburg use a First Class Sedan or Lincoln Navigator for the couple, Sprinter vans for guests staying at Salamander or the Route 50 hotels, and sedans to Dulles the next morning. Executives commute to the Ashburn data centers, Reston and Tysons on a corporate account with monthly invoicing.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
         
           "Chauffeurs assigned to Aldie trips carry current commercial insurance and a Virginia or Maryland operating license, and vehicles are inspected and detailed between every reservation — details that matter when you are trusting a stranger with your family, your clients or your wedding party.",
-          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Aldie group arrives on schedule.",],
+          "Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a First Class Sedan — dispatched together so everyone in your Aldie group arrives on schedule.",],
       },
     ],
     vehicles: VEHICLES,
@@ -1082,7 +1082,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can you provide wedding transportation for an Aldie vineyard venue?",
-        a: "Yes. We coordinate the couple's limousine, guest shuttles in Sprinter vans and airport transfers for out-of-town family, with pickup times confirmed in writing.",
+        a: "Yes. We coordinate the couple's sedan or Navigator, guest shuttles in Sprinter vans and airport transfers for out-of-town family, with pickup times confirmed in writing.",
       },
       {
         q: "Is early-morning pickup available in Aldie?",
@@ -1099,7 +1099,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Stone Ridge Limo Service", to: "/stone-ridge-limo-service" },
     ],
-    schema: { areaServed: ["Aldie, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Aldie, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "purcellville-limo-service",
@@ -1144,8 +1144,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Wine country, weddings and celebrations",
         paragraphs: [
-          "Western Loudoun's vineyards and breweries are best enjoyed by the hour with a chauffeur who waits at each stop, and a Saturday itinerary can start and end at your door with unlimited stops in between. Weddings at the barns and estates around Purcellville, Hillsboro and Bluemont use a stretch limousine for the couple and Sprinter vans to move guests from Leesburg or Ashburn hotels, with airport transfers for out-of-town family added on the same plan. Proms, anniversaries and birthdays follow the same pattern.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "Western Loudoun's vineyards and breweries are best enjoyed by the hour with a chauffeur who waits at each stop, and a Saturday itinerary can start and end at your door with unlimited stops in between. Weddings at the barns and estates around Purcellville, Hillsboro and Bluemont use a First Class Sedan or Lincoln Navigator for the couple and Sprinter vans to move guests from Leesburg or Ashburn hotels, with airport transfers for out-of-town family added on the same plan. Proms, anniversaries and birthdays follow the same pattern.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
           "Yes. Gratuity is built into your quoted flat rate, so there is no additional tip expected or required — though chauffeurs who go the extra mile for Purcellville trips are always welcome to be recognized.",
         ],
       },
@@ -1166,7 +1166,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can you shuttle wedding guests from Leesburg hotels to a Purcellville venue?",
-        a: "Yes. Sprinter vans run guest loops between the hotels and the venue on a schedule confirmed in writing, alongside the couple's limousine.",
+        a: "Yes. Sprinter vans run guest loops between the hotels and the venue on a schedule confirmed in writing, alongside the couple's sedan or Navigator.",
       },
       {
         q: "Is early-morning airport pickup available in western Loudoun?",
@@ -1183,7 +1183,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Round Hill Limo Service", to: "/round-hill-limo-service" },
     ],
-    schema: { areaServed: ["Purcellville, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Purcellville, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "middleburg-limo-service",
@@ -1227,8 +1227,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Resort, wine-country and wedding chauffeur service",
         paragraphs: [
-          "A Middleburg weekend usually starts with a Dulles pickup, continues with hourly, as-directed service for a day at the vineyards or an afternoon at a horse show, and ends with a sedan back to the airport. Weddings at the estates and vineyards use a stretch limousine for the couple and Sprinter vans to move guests between Salamander, the Route 50 inns and the venue, with pickup times confirmed in writing. Corporate retreats at Salamander book Sprinter vans for the group and sedans for executives arriving on different flights.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "A Middleburg weekend usually starts with a Dulles pickup, continues with hourly, as-directed service for a day at the vineyards or an afternoon at a horse show, and ends with a sedan back to the airport. Weddings at the estates and vineyards use a First Class Sedan or Lincoln Navigator for the couple and Sprinter vans to move guests between Salamander, the Route 50 inns and the venue, with pickup times confirmed in writing. Corporate retreats at Salamander book Sprinter vans for the group and sedans for executives arriving on different flights.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
         ],
       },
     ],
@@ -1248,7 +1248,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can you handle a Middleburg estate wedding?",
-        a: "Yes. We coordinate the couple's limousine, guest shuttles in Sprinter vans between the hotels and the venue, and airport transfers for out-of-town family as one plan.",
+        a: "Yes. We coordinate the couple's sedan or Navigator, guest shuttles in Sprinter vans between the hotels and the venue, and airport transfers for out-of-town family as one plan.",
       },
       {
         q: "Do you run wine tours around Middleburg?",
@@ -1268,7 +1268,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Meet and Greet", to: "/dulles-airport-meet-and-greet" },
       { label: "Round Hill Limo Service", to: "/round-hill-limo-service" },
     ],
-    schema: { areaServed: ["Middleburg, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Middleburg, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "great-falls-limo-service",
@@ -1292,7 +1292,7 @@ export const MARYLAND_BATCH4 = [
       "Executive transfers to Tysons, Reston and downtown Washington with corporate accounts and monthly invoicing",
       "Evenings at the Kennedy Center, Capital One Hall, Wolf Trap and Georgetown restaurants with the car at the door",
       "Family visits by the hour: Great Falls Park, Mount Vernon, the National Mall and Old Town Alexandria for visiting relatives",
-      "Weddings, anniversaries, proms for Langley High School and celebrations in stretch limousines and SUVs",
+      "Weddings, anniversaries, proms for Langley High School and celebrations in the Sprinter Executive and SUVs",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -1313,7 +1313,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Executive, evening and family chauffeur service",
         paragraphs: [
           "Great Falls executives book recurring sedan service to Tysons, McLean and Washington on a corporate account, and hourly service for a day of meetings that ends at the airport. Evenings run to the Kennedy Center, Capital One Hall, Wolf Trap and the restaurants of Georgetown and the Wharf, with the chauffeur waiting at the door. When family visits, an hourly booking in an SUV or Sprinter van covers a day at Great Falls Park, Mount Vernon and the Mall without a parking strategy.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -1350,7 +1350,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Wolf Trap Transportation", to: "/wolf-trap-transportation" },
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
     ],
-    schema: { areaServed: ["Great Falls, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Great Falls, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "vienna-limo-service",
@@ -1367,7 +1367,7 @@ export const MARYLAND_BATCH4 = [
     ],
     intro: [
       "IAD Airport Limo provides chauffeured limo and car service in Vienna, Virginia, from the Town of Vienna along Maple Avenue and Church Street to the neighborhoods that carry a Vienna address around Wolf Trap, Hunter Mill Road, Tysons and the Vienna Metro station. Dulles is reached by the Toll Road, Reagan National by I-66, and every trip is a flat rate confirmed before you ride.",
-      "Vienna sits between the two airports and beside the largest office market in Virginia, so the bookings here are varied: executives to Tysons and Washington in the morning, families to Dulles for the school break, out-of-town guests for a Wolf Trap concert, and a stretch limousine for a Madison or Oakton prom. Licensed, background-checked chauffeurs in commercially insured vehicles handle all of it, with 24/7 dispatch.",
+      "Vienna sits between the two airports and beside the largest office market in Virginia, so the bookings here are varied: executives to Tysons and Washington in the morning, families to Dulles for the school break, out-of-town guests for a Wolf Trap concert, and a Sprinter Executive for a Madison or Oakton prom. Licensed, background-checked chauffeurs in commercially insured vehicles handle all of it, with 24/7 dispatch.",
     ],
     highlights: [
       "Dulles and Reagan National transfers with flight tracking and 45 minutes of complimentary wait on domestic arrivals, 60 on international",
@@ -1394,8 +1394,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Wolf Trap, corporate and celebration chauffeur service",
         paragraphs: [
-          "Wolf Trap's summer season fills Trap Road on show nights, and we drop at the gate and stage the chauffeur at a pickup point clear of the exit queue, or stay nearby on an hourly booking with a pre-show dinner in Vienna or Tysons. Corporate accounts cover the daily sedan to Tysons or Washington and hourly roadshow days. Weddings, proms and milestone birthdays use stretch limousines, SUVs and Sprinter vans with pickup times confirmed in writing.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events.",
+          "Wolf Trap's summer season fills Trap Road on show nights, and we drop at the gate and stage the chauffeur at a pickup point clear of the exit queue, or stay nearby on an hourly booking with a pre-show dinner in Vienna or Tysons. Corporate accounts cover the daily sedan to Tysons or Washington and hourly roadshow days. Weddings, proms and milestone birthdays use sedans, SUVs and Sprinter Executive vans with pickup times confirmed in writing.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events.",
         ],
       },
     ],
@@ -1419,7 +1419,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you offer prom limo service for Vienna high schools?",
-        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 13, with the route and pickup times confirmed in writing for parents.",
+        a: "Yes. The Lincoln Navigator seats six and Sprinter vans carry up to 13, with the route and pickup times confirmed in writing for parents.",
       },
     ],
     related: [
@@ -1433,7 +1433,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Merrifield Limo Service", to: "/merrifield-limo-service" },
     ],
-    schema: { areaServed: ["Vienna, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Vienna, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "oakton-limo-service",
@@ -1457,7 +1457,7 @@ export const MARYLAND_BATCH4 = [
       "Executive transfers to Tysons, Reston, Fairfax and downtown Washington with corporate accounts",
       "Vienna Metro station connections for travelers combining rail and car",
       "Hourly service for medical appointments at Inova Fairfax, shopping and family visits",
-      "Weddings, proms for Oakton and Madison high schools, and celebrations in stretch limousines and SUVs",
+      "Weddings, proms for Oakton and Madison high schools, and celebrations in the Sprinter Executive and SUVs",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -1477,8 +1477,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Corporate, appointment and celebration chauffeur service",
         paragraphs: [
-          "Corporate accounts with monthly invoicing cover the daily sedan to Tysons or Washington, visiting-client transfers and hourly meeting days. Hourly service is also the answer for a medical procedure at Inova Fairfax where someone needs to be waiting afterward, or for a day showing visiting family the Mall and Mount Vernon. Weddings, proms and milestone birthdays use stretch limousines, SUVs and Sprinter vans with pickup times confirmed in writing.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Corporate accounts with monthly invoicing cover the daily sedan to Tysons or Washington, visiting-client transfers and hourly meeting days. Hourly service is also the answer for a medical procedure at Inova Fairfax where someone needs to be waiting afterward, or for a day showing visiting family the Mall and Mount Vernon. Weddings, proms and milestone birthdays use sedans, SUVs and Sprinter Executive vans with pickup times confirmed in writing.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -1515,7 +1515,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Corporate Transportation", to: "/corporate" },
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
     ],
-    schema: { areaServed: ["Oakton, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Oakton, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "manassas-limo-service",
@@ -1539,7 +1539,7 @@ export const MARYLAND_BATCH4 = [
       "Jiffy Lube Live concert nights with drop-off at the gate and a staged pickup away from the Linton Hall Road queue",
       "Corporate car service for Innovation Park, the Manassas Regional Airport business park and Old Town offices with monthly invoicing",
       "Hylton Performing Arts Center, Old Town dinners and evenings in Washington with the car at the door",
-      "Weddings, proms for Osbourn, Osbourn Park and Patriot high schools, and celebrations in stretch limousines",
+      "Weddings, proms for Osbourn, Osbourn Park and Patriot high schools, and celebrations in the Sprinter Executive",
       "Licensed and insured Virginia and Maryland carrier with 24/7 dispatch",
     ],
     sections: [
@@ -1559,8 +1559,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Concerts, corporate and celebration chauffeur service",
         paragraphs: [
-          "Jiffy Lube Live in Bristow is a short drive from any Manassas address, and the lot exits after a sold-out show are slow; we drop at the gate and stage the chauffeur clear of the queue, or stay nearby on an hourly booking with dinner in Old Town first. Corporate accounts serve the Innovation Park employers and the contractors who commute to Tysons and Washington. Weddings at the vineyards and estates around Bristow and Nokesville, proms and milestone birthdays use stretch limousines, SUVs and Sprinter vans.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Jiffy Lube Live in Bristow is a short drive from any Manassas address, and the lot exits after a sold-out show are slow; we drop at the gate and stage the chauffeur clear of the queue, or stay nearby on an hourly booking with dinner in Old Town first. Corporate accounts serve the Innovation Park employers and the contractors who commute to Tysons and Washington. Weddings at the vineyards and estates around Bristow and Nokesville, proms and milestone birthdays use sedans, SUVs and Sprinter Executive vans.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -1584,7 +1584,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Do you offer prom limo service for Manassas high schools?",
-        a: "Yes. Stretch limousines seat eight and Sprinter vans carry up to 13, with the route and pickup times confirmed in writing for parents.",
+        a: "Yes. The Lincoln Navigator seats six and Sprinter vans carry up to 13, with the route and pickup times confirmed in writing for parents.",
       },
     ],
     related: [
@@ -1599,7 +1599,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Bristow Limo Service", to: "/bristow-limo-service" },
     ],
-    schema: { areaServed: ["Manassas, VA", "Prince William County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Manassas, VA", "Prince William County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "gainesville-va-limo-service",
@@ -1644,7 +1644,7 @@ export const MARYLAND_BATCH4 = [
         h2: "Concerts, golf, weddings and corporate chauffeur service",
         paragraphs: [
           "Jiffy Lube Live is a few minutes from most Gainesville addresses, and the difference a chauffeur makes is the exit: we drop at the gate and stage clear of the lot queue, or stay nearby on an hourly booking. Golf days at Robert Trent Jones or Stonewall and weddings at the area's clubs and vineyards use SUVs and Sprinter vans with the chauffeur waiting. Corporate accounts cover commuters to Tysons and Washington and visiting executives arriving at Dulles.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -1664,7 +1664,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can you handle a wedding at a Gainesville or Haymarket vineyard?",
-        a: "Yes. We coordinate the couple's limousine, guest shuttles in Sprinter vans and airport transfers for out-of-town family as one plan, with pickup times confirmed in writing.",
+        a: "Yes. We coordinate the couple's sedan or Navigator, guest shuttles in Sprinter vans and airport transfers for out-of-town family as one plan, with pickup times confirmed in writing.",
       },
       {
         q: "Is early-morning airport pickup available in Gainesville?",
@@ -1682,7 +1682,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Nokesville Limo Service", to: "/nokesville-limo-service" },
     ],
-    schema: { areaServed: ["Gainesville, VA", "Prince William County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Gainesville, VA", "Prince William County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "haymarket-limo-service",
@@ -1726,8 +1726,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Wine country, weddings and corporate chauffeur service",
         paragraphs: [
-          "The vineyards along Route 15 and Route 55 are a short drive from any Haymarket address, and hourly, as-directed service covers a Saturday of tastings with unlimited stops and the chauffeur waiting at each one. Weddings at the vineyards, barns and clubs around Haymarket and The Plains use a stretch limousine for the couple and Sprinter vans for guests staying in Gainesville or Manassas. Corporate accounts cover the daily sedan to Tysons or Washington and visiting executives arriving at Dulles.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "The vineyards along Route 15 and Route 55 are a short drive from any Haymarket address, and hourly, as-directed service covers a Saturday of tastings with unlimited stops and the chauffeur waiting at each one. Weddings at the vineyards, barns and clubs around Haymarket and The Plains use a First Class Sedan or Lincoln Navigator for the couple and Sprinter vans for guests staying in Gainesville or Manassas. Corporate accounts cover the daily sedan to Tysons or Washington and visiting executives arriving at Dulles.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -1747,7 +1747,7 @@ export const MARYLAND_BATCH4 = [
       },
       {
         q: "Can you provide wedding transportation for a Haymarket-area vineyard?",
-        a: "Yes. We coordinate the couple's limousine, guest shuttles in Sprinter vans and airport transfers for out-of-town family, with pickup times confirmed in writing.",
+        a: "Yes. We coordinate the couple's sedan or Navigator, guest shuttles in Sprinter vans and airport transfers for out-of-town family, with pickup times confirmed in writing.",
       },
       {
         q: "Is early-morning pickup available in Dominion Valley or Piedmont?",
@@ -1765,7 +1765,7 @@ export const MARYLAND_BATCH4 = [
       { label: "Jiffy Lube Live Transportation", to: "/jiffy-lube-live-transportation" },
       { label: "Bristow Limo Service", to: "/bristow-limo-service" },
     ],
-    schema: { areaServed: ["Haymarket, VA", "Prince William County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Haymarket, VA", "Prince William County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "warrenton-limo-service",
@@ -1809,8 +1809,8 @@ export const MARYLAND_BATCH4 = [
       {
         h2: "Airlie, wine country, weddings and event chauffeur service",
         paragraphs: [
-          "Airlie hosts conferences and retreats that bring executives through Dulles, and we run those as Sprinter van groups or coordinated sedans on a corporate account with monthly invoicing. Hourly, as-directed service covers a day at the Fauquier vineyards with unlimited stops, and a Gold Cup or polo day at Great Meadow with the chauffeur waiting. Weddings at the estates and barns use a stretch limousine for the couple and Sprinter vans for guests staying in Warrenton, Gainesville or Middleburg.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans, limousines and special events. Car seats are installed on request.",
+          "Airlie hosts conferences and retreats that bring executives through Dulles, and we run those as Sprinter van groups or coordinated sedans on a corporate account with monthly invoicing. Hourly, as-directed service covers a day at the Fauquier vineyards with unlimited stops, and a Gold Cup or polo day at Great Meadow with the chauffeur waiting. Weddings at the estates and barns use a First Class Sedan or Lincoln Navigator for the couple and Sprinter vans for guests staying in Warrenton, Gainesville or Middleburg.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs and 12 hours for Sprinter vans and special events. Car seats are installed on request.",
         ],
       },
     ],
@@ -1848,6 +1848,6 @@ export const MARYLAND_BATCH4 = [
       { label: "Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Marshall, VA Limo Service", to: "/marshall-va-limo-service" },
     ],
-    schema: { areaServed: ["Warrenton, VA", "Fauquier County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Warrenton, VA", "Fauquier County"], serviceType: "Chauffeured car service" },
   },
 ];

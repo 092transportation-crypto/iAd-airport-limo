@@ -24,7 +24,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small families with luggage" },
 ];
 
 export const MARYLAND_BATCH13 = [
@@ -43,7 +43,7 @@ export const MARYLAND_BATCH13 = [
     stats: [
       { label: "Dulles (IAD)", value: "30 mi · 30–45 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Middleburg and the surrounding hunt-country towns of western Loudoun are one of the region's most-booked wedding destinations — Salamander Resort, a cluster of working-farm and vineyard venues, and a historic downtown built around equestrian tourism. We provide hourly, as-directed wedding-day transportation built around estate and farm-venue logistics: long gravel drives, limited on-site parking and ceremony sites set well back from the public road.",
@@ -54,7 +54,7 @@ export const MARYLAND_BATCH13 = [
       "Chauffeurs experienced with gravel drives, farm gates and limited estate parking",
       "Guest shuttle service in Sprinter vans between a hotel and a venue with no on-site parking",
       "Coordinated timing with wedding planners familiar with Middleburg's working-farm venues",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Sprinter Executive vans and First Class Sedans for the bridal party",
       "Licensed and insured Virginia carrier, 30 miles and 30–45 minutes from Dulles",
     ],
     sections: [
@@ -62,7 +62,7 @@ export const MARYLAND_BATCH13 = [
         h2: "Built for horse-country venue logistics",
         paragraphs: [
           "Middleburg-area venues are rarely a single building with a parking lot — a ceremony lawn, a reception barn and a parking field can each be a short drive apart on the same property, and guests arriving by rideshare or unfamiliar rental car often lose time finding the right gate. We confirm the venue's specific gate, parking and vendor-arrival instructions in advance so the chauffeur is never guessing on the day.",
-          "For properties with gravel or unpaved drives, we also confirm vehicle access ahead of time — a stretch limousine is not always the right choice for every farm entrance, and we will recommend a sedan or SUV instead when the venue calls for it.",
+          "For properties with gravel or unpaved drives, we also confirm vehicle access ahead of time — a long-wheelbase Sprinter van is not always the right choice for every farm entrance, and we will recommend a sedan or SUV instead when the venue calls for it.",
         ],
       },
       {
@@ -93,7 +93,7 @@ export const MARYLAND_BATCH13 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you serve Salamander Resort and Middleburg-area wineries?", a: "Yes, including Salamander Resort, working-farm venues and wineries throughout western Loudoun — tell us the venue when you book and we confirm gate and parking logistics in advance. On many of these properties the ceremony lawn, reception barn and parking field are a short drive apart, so we map the full day before it starts." },
-      { q: "Can a stretch limousine access a farm or vineyard venue's gravel drive?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a limousine is not practical." },
+      { q: "Can a Sprinter van access a farm or vineyard venue's gravel drive?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a Sprinter is not practical." },
       { q: "How far is Middleburg from Dulles Airport?", a: "About 30 miles and 30 to 45 minutes depending on traffic, which makes group pickups for out-of-town wedding guests straightforward. We run those pickups in the days before the wedding for family and wedding-party members flying in." },
       { q: "Can you shuttle guests between a hotel and a venue with no on-site parking?", a: "Yes. A Mercedes Sprinter van is the most common choice for a guest shuttle loop between a hotel block and a Middleburg-area venue." },
       { q: "How far ahead should we book a Middleburg wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is this region's peak wedding season for horse-country venues. Rates are hourly and confirmed in writing before the date is booked, and Sprinter vans for guest shuttles are worth reserving early." },
@@ -106,7 +106,7 @@ export const MARYLAND_BATCH13 = [
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Middleburg, VA", "Western Loudoun County", "Upperville, VA", "The Plains, VA"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Middleburg, VA", "Western Loudoun County", "Upperville, VA", "The Plains, VA"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "great-falls-wedding-limo-service",
@@ -120,7 +120,7 @@ export const MARYLAND_BATCH13 = [
     stats: [
       { label: "Dulles (IAD)", value: "15 mi · 20–30 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Great Falls' large private estates and riverside properties host a steady share of the region's at-home and private-property weddings, a different logistics problem than a commercial venue with its own event staff. We provide hourly, as-directed wedding-day transportation built around private-property access — long driveways, limited turnaround space and a host family coordinating the day alongside the couple's planner.",
@@ -131,7 +131,7 @@ export const MARYLAND_BATCH13 = [
       "Chauffeurs experienced with long driveways and limited turnaround space on private properties",
       "Coordinated timing with a host family and wedding planner, not just the couple",
       "Guest shuttle service in Sprinter vans for properties with no on-site guest parking",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Sprinter Executive vans and First Class Sedans for the bridal party",
       "Licensed and insured Virginia carrier, 15 miles and 20–30 minutes from Dulles",
     ],
     sections: [
@@ -170,7 +170,7 @@ export const MARYLAND_BATCH13 = [
       { label: "Loudoun's Horse Country Estate Weddings Guide", to: "/blog/loudoun-horse-country-estate-wedding-transportation-vendor-guide" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Great Falls, VA", "Fairfax County, VA"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Great Falls, VA", "Fairfax County, VA"], serviceType: "Wedding chauffeur service" },
   },
 
   // ---------------------------------------------------------------------
@@ -606,12 +606,12 @@ export const MARYLAND_BATCH13 = [
       "Safe, chauffeured prom transportation for Tysons-area high schoolers — licensed drivers, parent-verified itinerary. Call (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Flat rate per vehicle, by the hour" },
-      { label: "Fleet", value: "Stretch limousine or 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Lincoln Navigator or 13-passenger Sprinter van" },
       { label: "Coverage", value: "McLean, Vienna, Great Falls & the Tysons area" },
     ],
     intro: [
       "Tysons-area families booking prom transportation want two things above everything else: a licensed, background-checked driver, and a straight answer about pickup and drop-off times. We provide chauffeured prom transportation for Tysons-area high schoolers with a written itinerary confirmed with a parent before the night, covering dinner reservations, photos and the dance itself.",
-      "Groups typically book either a stretch limousine for a smaller party or a Sprinter van for a larger group splitting the cost, both with the same hourly, parent-confirmed booking process.",
+      "Groups typically book either a Lincoln Navigator for a smaller party or a Sprinter van for a larger group splitting the cost, both with the same hourly, parent-confirmed booking process.",
       "Tysons Corner Center and the surrounding restaurant row make dinner-and-photos planning straightforward, since most groups keep every prom-night stop within a few minutes of each other rather than crossing the whole county.",
       "A parent typically books the reservation, but we are just as comfortable taking a call from a student planning the night as long as the final itinerary and pickup details are confirmed with a parent or guardian before the date, which is a firm policy regardless of who initiated the booking.",
       "We also recommend booking as soon as a group's dinner reservation is set, since prom weekends are our busiest nights of the spring season and the preferred vehicle class can book up weeks in advance.",
@@ -619,7 +619,7 @@ export const MARYLAND_BATCH13 = [
     highlights: [
       "Licensed, background-checked chauffeurs — never a rideshare driver",
       "Written itinerary confirmed directly with a parent or guardian before the night",
-      "Stretch limousine or Sprinter van options depending on group size",
+      "Lincoln Navigator or Sprinter van options depending on group size",
       "Coordinated stops for dinner, photos and the dance on one hourly reservation",
       "No-alcohol policy strictly enforced, with the chauffeur as an accountable adult throughout the night",
       "Licensed and insured Virginia carrier serving the Tysons, McLean and Vienna area",
@@ -668,7 +668,7 @@ export const MARYLAND_BATCH13 = [
     faqs: [
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked — we never use rideshare drivers for prom transportation. Parents also get a working phone number for the chauffeur during the night, and a strict no-alcohol policy applies to the whole booking." },
       { q: "Can the itinerary be confirmed with a parent instead of just the student?", a: "Yes, we confirm the full schedule — pickup, dinner, photos and drop-off times — directly with a parent or guardian before the night. A student can start the planning, and if the group lives in McLean, Vienna or Great Falls, we sequence the multiple pickup addresses on the same booking." },
-      { q: "What vehicles work best for a Tysons-area prom group?", a: "A stretch limousine for a smaller group, or a 13-passenger Sprinter van for a larger group splitting the cost. The Sprinter is the most common choice for bigger groups, since the per-person cost drops compared with several smaller vehicles and everyone rides together." },
+      { q: "What vehicles work best for a Tysons-area prom group?", a: "A Lincoln Navigator for a smaller group of up to six, or a 13-passenger Sprinter van for a larger group splitting the cost. The Sprinter is the most common choice for bigger groups, since the per-person cost drops compared with several smaller vehicles and everyone rides together." },
       { q: "Can you plan dinner and photos around Tysons Corner Center?", a: "Yes, many groups keep the whole night within a few minutes of Tysons Corner Center, which makes the hourly schedule simple to confirm. Share the dinner reservation, photo location and the dance's start and end times when you book." },
       { q: "How far ahead should we book Tysons prom transportation?", a: "As early as possible — spring prom season books up quickly, especially for Saturday dates. We suggest reserving as soon as the group's dinner reservation is set, since the preferred vehicle class can book up weeks in advance." },
     ],
@@ -682,7 +682,7 @@ export const MARYLAND_BATCH13 = [
       { label: "Prom & Homecoming Limo Safety Guide", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
       { label: "Prom Limo Service", to: "/prom-limo" },
     ],
-    schema: { areaServed: ["Tysons, VA", "McLean, VA", "Vienna, VA"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Tysons, VA", "McLean, VA", "Vienna, VA"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "ashburn-prom-limo-service",
@@ -695,12 +695,12 @@ export const MARYLAND_BATCH13 = [
       "Safe, chauffeured prom transportation for Ashburn and Loudoun County high schoolers — licensed, parent-confirmed itineraries. (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Flat rate per vehicle, by the hour" },
-      { label: "Fleet", value: "Stretch limousine or 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Lincoln Navigator or 13-passenger Sprinter van" },
       { label: "Coverage", value: "Ashburn, Broadlands, Brambleton & One Loudoun" },
     ],
     intro: [
       "Ashburn and the surrounding Broadlands, Brambleton and One Loudoun neighborhoods send a large share of Loudoun County's high schoolers to prom each spring, and we provide the same licensed, background-checked, parent-confirmed service here that we run throughout Northern Virginia. A written itinerary covering pickup, dinner, photos and the dance is confirmed with a parent before the date.",
-      "Groups split cost most efficiently in a Sprinter van for a larger party, or book a stretch limousine for a smaller group — both on the same hourly, flat-rate booking process.",
+      "Groups split cost most efficiently in a Sprinter van for a larger party, or book a Lincoln Navigator for a smaller group — both on the same hourly, flat-rate booking process.",
       "One Loudoun's restaurant and entertainment district is the most common dinner-and-photos stop for Ashburn-area prom groups, which keeps the night's logistics simple since everything is within a short drive of the dance itself.",
       "A parent typically books the reservation, but a student can start the process as long as the final itinerary and pickup details are confirmed directly with a parent or guardian before the date — a firm policy regardless of who makes the initial call.",
       "We recommend booking as soon as the group's dinner plans are set, since spring prom weekends are our busiest nights of the season and preferred vehicles can book up weeks ahead.",
@@ -709,7 +709,7 @@ export const MARYLAND_BATCH13 = [
     highlights: [
       "Licensed, background-checked chauffeurs — never a rideshare driver",
       "Written itinerary confirmed directly with a parent or guardian before the night",
-      "Stretch limousine or Sprinter van options depending on group size",
+      "Lincoln Navigator or Sprinter van options depending on group size",
       "Coordinated stops for dinner, photos and the dance on one hourly reservation",
       "No-alcohol policy strictly enforced throughout the booking",
       "Licensed and insured Virginia carrier serving Ashburn, Broadlands and Brambleton",
@@ -771,7 +771,7 @@ export const MARYLAND_BATCH13 = [
       { label: "Prom Limo Service", to: "/prom-limo" },
       { label: "Homecoming Limo Service", to: "/homecoming-limo-service" },
     ],
-    schema: { areaServed: ["Ashburn, VA", "Broadlands, VA", "Brambleton, VA", "Loudoun County, VA"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Ashburn, VA", "Broadlands, VA", "Brambleton, VA", "Loudoun County, VA"], serviceType: "Prom chauffeur service" },
   },
 
   // ---------------------------------------------------------------------

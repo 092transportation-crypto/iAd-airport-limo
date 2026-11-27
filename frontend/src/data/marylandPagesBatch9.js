@@ -11,7 +11,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and solo travelers who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH9 = [
@@ -34,14 +34,14 @@ export const MARYLAND_BATCH9 = [
     ],
     intro: [
       "Leesburg is Loudoun County's wedding hub, and it books differently from a one-way airport run: a getting-ready suite in historic downtown, a ceremony at an estate out among the wineries, and a reception that may not end until midnight. IAD Airport Limo builds the whole day as one reservation, with a chauffeur and vehicle dedicated to the wedding party from first pickup to final drop-off.",
-      "We regularly stage weddings at Morven Park, Lansdowne Resort, Belmont Country Club and the private estates scattered along Route 15 and the Loudoun wine trail, pairing a stretch limousine or Sprinter van for the bridal party with sedans and SUVs for parents, the officiant and out-of-town guests flying into Dulles, just 15 to 30 minutes away.",
+      "We regularly stage weddings at Morven Park, Lansdowne Resort, Belmont Country Club and the private estates scattered along Route 15 and the Loudoun wine trail, pairing a Sprinter Executive for the bridal party with sedans and SUVs for parents, the officiant and out-of-town guests flying into Dulles, just 15 to 30 minutes away.",
     ],
     highlights: [
       "Hourly wedding-day packages — getting ready, ceremony, reception and a timed exit, all on one reservation",
       "Regular service to Morven Park, Lansdowne Resort, Belmont Country Club and Loudoun's wine-country estate venues",
       "Guest shuttle coordination with Sprinter vans when a venue has limited on-site parking",
       "Dulles pickups for out-of-town wedding parties, 15 to 30 minutes from Leesburg with flight tracking built in",
-      "Decoration-ready stretch limousines and party-bus-style Sprinters for the bridal party",
+      "Decoration-ready Sprinter Executive vans and First Class Sedans for the bridal party",
       "Licensed and insured Virginia carrier — a dedicated day-of coordinator by phone for the length of the booking",
     ],
     sections: [
@@ -56,13 +56,13 @@ export const MARYLAND_BATCH9 = [
         h2: "Guest transportation for out-of-town wedding parties",
         paragraphs: [
           "A large share of Leesburg weddings draw guests who fly into Dulles, 15 to 30 minutes away depending on traffic, rather than drive from the DC area. We coordinate group airport pickups for the wedding party and close family the day before, and run the reverse trip after brunch, so the couple is not fielding transportation questions during the rehearsal dinner.",
-          "For the reception exit, a stretch limousine or classic sedan is staged at the venue entrance on the timeline the planner sets, so the send-off happens on cue rather than waiting on a driver who has to be called.",
+          "For the reception exit, a First Class Sedan or Lincoln Navigator is staged at the venue entrance on the timeline the planner sets, so the send-off happens on cue rather than waiting on a driver who has to be called.",
         ],
       },
       {
         h2: "Vehicles and booking for a Leesburg wedding",
         paragraphs: [
-          "A stretch limousine suits a bridal party of six to eight; a Mercedes Sprinter van seats up to 13 and handles a larger wedding party or a guest shuttle route. Sedans and SUVs cover parents, grandparents and VIP guests who prefer a private car to a shared shuttle.",
+          "A Lincoln Navigator suits a bridal party of up to six; a Mercedes Sprinter van seats up to 13 and handles a larger wedding party or a guest shuttle route. Sedans and SUVs cover parents, grandparents and VIP guests who prefer a private car to a shared shuttle.",
           "Rates are hourly and confirmed in writing before the date is booked, with Loudoun's peak wedding season (April through November) filling the earliest on most Saturdays. Call (877) 609-1919 or book online with your venue and timeline.",
         ],
       },
@@ -83,7 +83,7 @@ export const MARYLAND_BATCH9 = [
       { label: "IAD to Leesburg", to: "/iad-to-leesburg-va" },
       { label: "Northern Virginia Wedding Day Transportation Timeline", to: "/blog/northern-virginia-wedding-day-transportation-timeline-planning" },
     ],
-    schema: { areaServed: ["Leesburg", "Loudoun County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Leesburg", "Loudoun County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "reston-wedding-limo-service",
@@ -129,7 +129,7 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Vehicles and rates for a Reston wedding",
         paragraphs: [
-          "A stretch limousine or Sprinter van typically handles the bridal party, with sedans and SUVs covering parents and VIP guests. Rates are hourly, as-directed, and confirmed in writing before you book, with a separate flat rate available for individual airport transfers booked outside the wedding-day package.",
+          "A Sprinter Executive typically handles the bridal party, with sedans and SUVs covering parents and VIP guests. Rates are hourly, as-directed, and confirmed in writing before you book, with a separate flat rate available for individual airport transfers booked outside the wedding-day package.",
           "Call (877) 609-1919 or book online with your venue, hotel block and timeline to get a written wedding-day quote.",
         ],
       },
@@ -139,7 +139,7 @@ export const MARYLAND_BATCH9 = [
       { q: "Do you pick up wedding guests at the Hyatt Regency Reston?", a: "Yes. The Hyatt Regency Reston and the Sheraton Reston are two of our most frequent wedding pickups, and we coordinate group transfers to the ceremony and back for the reception exit." },
       { q: "Can you build a photo stop at Lake Anne Plaza into the schedule?", a: "Yes. Lake Anne Plaza and Reston Town Center are common portrait locations between the ceremony and reception, and we schedule a buffer so photos do not cut into cocktail hour." },
       { q: "How far is Reston from Dulles Airport?", a: "About 15 to 25 minutes, depending on traffic, which is why many Reston weddings fly guests directly into Dulles rather than asking them to rent a car. Arrivals are flight-tracked, and the chauffeur can take guests straight to the Hyatt Regency Reston, the Sheraton Reston or a Town Center hotel." },
-      { q: "What vehicles work for a Reston bridal party?", a: "A stretch limousine suits six to eight people, and a Mercedes Sprinter van seats up to 13 for a larger wedding party or guest shuttle. Sedans and SUVs cover parents, grandparents and VIP guests who would rather ride separately. Because Reston venues sit close together, one vehicle can often cover the whole day." },
+      { q: "What vehicles work for a Reston bridal party?", a: "A Lincoln Navigator suits up to six people, and a Mercedes Sprinter van seats up to 13 for a larger wedding party or guest shuttle. Sedans and SUVs cover parents, grandparents and VIP guests who would rather ride separately. Because Reston venues sit close together, one vehicle can often cover the whole day." },
       { q: "Is the wedding-day rate hourly or flat?", a: "Wedding-day packages are hourly, as-directed service confirmed in writing before you book; airport transfers booked separately are flat rate. The hourly block runs from the first getting-ready pickup through the reception exit, with photo stops at Lake Anne Plaza or Reston Town Center built into the schedule." },
     ],
     related: [
@@ -150,7 +150,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Herndon Limo Service", to: "/herndon-limo-service" },
       { label: "How Many Cars Does a Wedding Party Need?", to: "/blog/how-many-cars-wedding-party-transportation" },
     ],
-    schema: { areaServed: ["Reston", "Fairfax County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Reston", "Fairfax County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "alexandria-wedding-limo-service",
@@ -196,14 +196,14 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Vehicles and rates for an Alexandria wedding",
         paragraphs: [
-          "A classic sedan or stretch limousine covers most Old Town bridal parties comfortably; a Sprinter van is the better choice when the venue's loading zone cannot accommodate a limousine's length, which is common on several of Old Town's narrower blocks.",
+          "A First Class Sedan or Lincoln Navigator covers most smaller Old Town bridal parties comfortably; a Sprinter van is the better choice for a larger party, and we check each venue's loading zone in advance, since several of Old Town's narrower blocks are tight.",
           "Rates are hourly and confirmed in writing before you book, with weekend wedding dates in Old Town filling early in the spring and fall. Call (877) 609-1919 or book online with your venue and timeline.",
         ],
       },
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "Can a limousine actually load and unload on Old Town's narrow streets?", a: "In most cases yes, though several blocks have tighter loading zones better suited to a sedan or Sprinter van. We confirm the vehicle against your specific venue address before the date is booked." },
+      { q: "Can a wedding car actually load and unload on Old Town's narrow streets?", a: "In most cases yes, though several blocks have tighter loading zones better suited to a sedan or Sprinter van. We confirm the vehicle against your specific venue address before the date is booked." },
       { q: "Do you track King Street's road closures for events?", a: "Yes. Our chauffeurs check the City of Alexandria's street-closure calendar ahead of every Old Town wedding and route around any closures rather than arriving to find the block shut down." },
       { q: "How far is Alexandria from Reagan National Airport?", a: "About 10 to 20 minutes, depending on traffic, which makes Reagan the fastest and most commonly booked airport for Alexandria wedding guests. We track each arrival, so the chauffeur is at the terminal when the flight actually lands. Guests can go straight to an Old Town hotel without dealing with the historic district's scarce parking." },
       { q: "Can you stage photos at the Alexandria waterfront?", a: "Yes. The waterfront along the Potomac is a frequent portrait location, and we stage the vehicle nearby so the wedding party has a short walk in formalwear." },
@@ -217,7 +217,7 @@ export const MARYLAND_BATCH9 = [
       { label: "The Wharf DC Limo Service", to: "/the-wharf-dc-limo-service" },
       { label: "Northern Virginia Wedding Day Transportation Timeline", to: "/blog/northern-virginia-wedding-day-transportation-timeline-planning" },
     ],
-    schema: { areaServed: ["Alexandria", "Old Town Alexandria"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Alexandria", "Old Town Alexandria"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "vienna-wedding-limo-service",
@@ -263,7 +263,7 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Vehicles and rates for a Vienna wedding",
         paragraphs: [
-          "A stretch limousine or Sprinter van typically covers the bridal party, with sedans for parents and the officiant. Rates are hourly, as-directed, and confirmed in writing before you book.",
+          "A Sprinter Executive typically covers the bridal party, with sedans for parents and the officiant. Rates are hourly, as-directed, and confirmed in writing before you book.",
           "For couples hosting a rehearsal dinner the night before at a restaurant in Vienna's Church Street district or nearby Tysons, the same reservation can cover that leg too, with one point of contact handling the whole wedding weekend rather than a separate booking for each event.",
           "Call (877) 609-1919 or book online with your ceremony and reception venues and the number of guests needing transportation.",
         ],
@@ -275,7 +275,7 @@ export const MARYLAND_BATCH9 = [
       { q: "Can you shuttle guests who do not want to park at the gardens?", a: "Yes. A Mercedes Sprinter van is the usual choice for a hotel-to-Meadowlark guest shuttle, since the venue limits individual guest parking on its grounds." },
       { q: "How far is Vienna from Dulles Airport?", a: "About 20 to 30 minutes, depending on traffic, for wedding parties and family flying in from out of town. Each Dulles arrival is flight-tracked, and guests can be taken directly to their hotel or to the rehearsal. Guests landing at Reagan National can also be picked up there, or met at the Vienna Metro station." },
       { q: "Do you pick up guests at the Vienna Metro station?", a: "Yes, for guests arriving by rail from DC or Reagan National, which is a common combination for a Vienna wedding. The chauffeur can carry them on to the hotel, Meadowlark Botanical Gardens or the reception venue. Pickups for several guests can be grouped into one Sprinter van run when their trains arrive close together." },
-      { q: "What is the typical vehicle for a Vienna bridal party?", a: "A stretch limousine for a party of six to eight, or a Sprinter van seating up to 13 for a larger wedding party. The Sprinter also doubles as the guest shuttle between the hotel and Meadowlark, where guest parking on the grounds is limited. Parents and VIP guests can ride separately in a sedan or SUV." },
+      { q: "What is the typical vehicle for a Vienna bridal party?", a: "A Lincoln Navigator for a party of up to six, or a Sprinter van seating up to 13 for a larger wedding party. The Sprinter also doubles as the guest shuttle between the hotel and Meadowlark, where guest parking on the grounds is limited. Parents and VIP guests can ride separately in a sedan or SUV." },
     ],
     related: [
       { label: "Vienna Limo Service", to: "/vienna-limo-service" },
@@ -285,7 +285,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Reston Limo Service for Weddings", to: "/reston-wedding-limo-service" },
       { label: "How Many Cars Does a Wedding Party Need?", to: "/blog/how-many-cars-wedding-party-transportation" },
     ],
-    schema: { areaServed: ["Vienna", "Fairfax County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Vienna", "Fairfax County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "ashburn-wedding-limo-service",
@@ -310,7 +310,7 @@ export const MARYLAND_BATCH9 = [
       "10 to 20 minute Dulles transfers — the shortest airport run of any Loudoun wedding market",
       "Guest shuttles between One Loudoun hotels and Ashburn's country-club venues",
       "Flight-tracked pickups for wedding parties flying directly into Dulles the morning of",
-      "Sprinter vans and stretch limousines for bridal parties of any size",
+      "Sprinter vans for bridal parties of up to 13, with more than one Sprinter for larger groups",
       "Licensed and insured Virginia carrier with a dedicated day-of dispatcher",
     ],
     sections: [
@@ -318,7 +318,7 @@ export const MARYLAND_BATCH9 = [
         h2: "A ceremony minutes from Dulles",
         paragraphs: [
           "Few Loudoun wedding venues sit as close to an airport as Ashburn does to Dulles — typically 10 to 20 minutes depending on the exact venue and time of day. Couples hosting out-of-town guests use this to their advantage, scheduling late-morning flights that land with time to spare before an afternoon ceremony rather than requiring guests to arrive the night before.",
-          "Belmont Country Club's grounds and the banquet venues around One Loudoun both handle a bridal party and close family comfortably in a stretch limousine or Sprinter van, with sedans covering parents and VIP guests separately.",
+          "Belmont Country Club's grounds and the banquet venues around One Loudoun both handle a bridal party and close family comfortably in a Sprinter Executive, with sedans covering parents and VIP guests separately.",
         ],
       },
       {
@@ -331,7 +331,7 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Vehicles and rates for an Ashburn wedding",
         paragraphs: [
-          "A stretch limousine suits a bridal party of six to eight; a Sprinter van seats up to 13 and doubles as the One Loudoun guest shuttle. Rates are hourly, as-directed, and confirmed in writing before you book.",
+          "A Lincoln Navigator suits a bridal party of up to six; a Sprinter van seats up to 13 and doubles as the One Loudoun guest shuttle. Rates are hourly, as-directed, and confirmed in writing before you book.",
           "Many Ashburn couples also book a separate sedan for the bride and groom's own exit at the end of the night, since the vehicle used for the wedding party's daytime shuttle runs is often released and re-staged rather than held for the final send-off.",
           "Call (877) 609-1919 or book online with your venue, hotel block and the number of guests needing a shuttle.",
         ],
@@ -342,7 +342,7 @@ export const MARYLAND_BATCH9 = [
       { q: "Do you provide transportation to Belmont Country Club?", a: "Yes. Belmont Country Club is one of our most frequent Ashburn wedding venues, and we cover the full day as one hourly booking from getting-ready through the reception." },
       { q: "Can you run a shuttle from One Loudoun hotels to the venue?", a: "Yes. A Mercedes Sprinter van is the standard choice for a One Loudoun guest shuttle, which also helps with limited valet capacity at busier country-club venues." },
       { q: "How close is Ashburn to Dulles Airport?", a: "About 10 to 20 minutes, depending on traffic — the shortest airport run of any Loudoun County wedding market, which makes same-morning flight arrivals practical. Every Dulles pickup is flight-tracked, so a delayed flight does not throw off the getting-ready schedule. Guests can be dropped at a One Loudoun hotel or taken straight to the venue." },
-      { q: "What vehicle fits a typical Ashburn bridal party?", a: "A stretch limousine for six to eight people, or a Sprinter van for up to 13, depending on the size of the wedding party. The Sprinter is also the usual pick for the One Loudoun guest shuttle, which eases valet pressure at country-club venues like Belmont. Sedans and SUVs cover parents and grandparents." },
+      { q: "What vehicle fits a typical Ashburn bridal party?", a: "A Lincoln Navigator for up to six people, or a Sprinter van for up to 13, depending on the size of the wedding party. The Sprinter is also the usual pick for the One Loudoun guest shuttle, which eases valet pressure at country-club venues like Belmont. Sedans and SUVs cover parents and grandparents." },
       { q: "Is the wedding-day rate hourly or flat?", a: "Hourly, as-directed service confirmed in writing before you book; a flat rate applies to any airport transfers booked outside the wedding package. The hourly booking runs from the getting-ready suite through the reception exit, so the chauffeur stays with the wedding party between stops." },
     ],
     related: [
@@ -353,7 +353,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
       { label: "Northern Virginia Wedding Day Transportation Timeline", to: "/blog/northern-virginia-wedding-day-transportation-timeline-planning" },
     ],
-    schema: { areaServed: ["Ashburn", "Loudoun County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Ashburn", "Loudoun County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "warrenton-wedding-limo-service",
@@ -378,7 +378,7 @@ export const MARYLAND_BATCH9 = [
       "Rural-road expertise — chauffeurs who know Routes 17, 29 and 211 and the gravel entrances typical of horse-country venues",
       "Guest shuttles for venues with limited or field-based parking",
       "45 to 60 minute Dulles transfers for wedding parties flying in from out of town",
-      "Sprinter vans and stretch limousines sized to the venue and bridal party",
+      "Sprinter vans, sedans and SUVs sized to the venue and bridal party",
       "Licensed and insured Virginia carrier with a dedicated day-of dispatcher",
     ],
     sections: [
@@ -399,7 +399,7 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Vehicles and rates for a Warrenton wedding",
         paragraphs: [
-          "A Sprinter van is the most common choice for Fauquier's rural venues, both for the bridal party and for guest shuttles from town. Stretch limousines and sedans are available where the venue's entrance and parking accommodate them.",
+          "A Sprinter van is the most common choice for Fauquier's rural venues, both for the bridal party and for guest shuttles from town. First Class Sedans and Lincoln Navigators are available for the couple. (We don't operate stretch limousines.)",
           "Rates are hourly, as-directed, and confirmed in writing before you book. Call (877) 609-1919 or book online with your venue address and the size of your wedding party.",
         ],
       },
@@ -420,7 +420,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Middleburg Limo Service", to: "/middleburg-limo-service" },
       { label: "Northern Virginia Wedding Day Transportation Timeline", to: "/blog/northern-virginia-wedding-day-transportation-timeline-planning" },
     ],
-    schema: { areaServed: ["Warrenton", "Fauquier County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Warrenton", "Fauquier County"], serviceType: "Wedding chauffeur service" },
   },
 
   // ---------------------------------------------------------------------
@@ -851,7 +851,7 @@ export const MARYLAND_BATCH9 = [
     h1: "Fairfax Prom Limo Service",
     metaTitle: "Fairfax VA Prom Limo Service | Safe & On Time",
     metaDescription:
-      "Safe, licensed prom limo and party-bus-style Sprinter service in Fairfax, VA. Parent-friendly booking and a sober professional chauffeur. (877) 609-1919.",
+      "Safe, licensed prom limo and Sprinter Executive service in Fairfax, VA. Parent-friendly booking and a sober professional chauffeur. (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "25–40 minutes, depending on traffic" },
       { label: "Reagan (DCA)", value: "30–55 minutes, depending on traffic" },
@@ -859,35 +859,35 @@ export const MARYLAND_BATCH9 = [
     ],
     intro: [
       "Fairfax prom season fills our calendar fast every spring, and parents consistently ask the same question first: who is actually driving. Every chauffeur is a licensed, background-checked adult professional, and every vehicle is commercially insured — the same standard we hold for a corporate executive or a wedding party, applied to a group of teenagers on the most important night of their school year.",
-      "We book Fairfax High School, Robinson Secondary and Woodson High School prom groups every season, typically as a Sprinter van or stretch limousine shared among six to thirteen students with one flat hourly rate split among the group.",
+      "We book Fairfax High School, Robinson Secondary and Woodson High School prom groups every season, typically as a Sprinter van shared among up to thirteen students with one flat hourly rate split among the group.",
     ],
     highlights: [
       "Licensed, background-checked adult chauffeurs — never a rideshare driver or an unvetted substitute",
       "Group bookings for Fairfax High School, Robinson Secondary and Woodson High School prom season",
       "A written itinerary parents can review before the night: pickup time, dinner stop, venue arrival and return",
       "No alcohol policy enforced in every vehicle, with the chauffeur reporting any violation to the booking parent immediately",
-      "Sprinter vans for larger groups, stretch limousines for smaller parties",
+      "Sprinter vans for larger groups, Lincoln Navigators for smaller parties",
       "Direct dispatcher contact for parents throughout the evening",
     ],
     sections: [
       {
         h2: "What Fairfax parents ask before booking",
         paragraphs: [
-          "The questions are consistent every season: is the driver a real employee or a contractor, is the vehicle insured for this specific use, and what happens if a student breaks the no-alcohol rule. We answer all three in writing before a deposit is taken — every chauffeur is a background-checked employee, every vehicle carries commercial insurance rated for passenger transport, and any violation is reported to the booking parent immediately, with the chauffeur authorized to end the trip early if needed.",
+          "The questions are consistent every season: is the driver a real employee or a contractor, is the vehicle insured for this specific use, and what happens if a student breaks the no-alcohol rule. We answer all three in writing before the card is charged — every chauffeur is a background-checked employee, every vehicle carries commercial insurance rated for passenger transport, and any violation is reported to the booking parent immediately, with the chauffeur authorized to end the trip early if needed.",
           "We also provide a written itinerary before the night: confirmed pickup time and address, a dinner stop if the group wants one, arrival at the prom venue, and the return pickup time, so parents are not guessing at the schedule.",
         ],
       },
       {
         h2: "Booking for Fairfax-area high schools",
         paragraphs: [
-          "Fairfax High School, Robinson Secondary and Woodson High School all send groups to prom venues across Northern Virginia and DC most seasons, and we coordinate directly with whichever parent is organizing the group booking. A Sprinter van typically suits ten to thirteen students most economically, while a stretch limousine fits a smaller group of six to eight.",
+          "Fairfax High School, Robinson Secondary and Woodson High School all send groups to prom venues across Northern Virginia and DC most seasons, and we coordinate directly with whichever parent is organizing the group booking. A Sprinter van typically suits ten to thirteen students most economically, while a Lincoln Navigator fits a smaller group of up to six.",
           "Early booking matters — prom dates cluster into a handful of weekends each spring, and vehicles for the most popular dates are reserved months in advance.",
         ],
       },
       {
         h2: "Rates and booking a Fairfax prom group",
         paragraphs: [
-          "Rates are hourly, confirmed in writing before you book, and typically split evenly among the group. A deposit secures the date, with the balance due before the vehicle is dispatched.",
+          "Rates are hourly, confirmed in writing before you book, and typically split evenly among the group. The card is charged once the reservation and rate are confirmed, and cancellation is free up to 12 hours before pickup for Sprinter vans and special-event bookings.",
           "Call (877) 609-1919 or book online with your prom date, venue, pickup address and group size.",
         ],
       },
@@ -897,7 +897,7 @@ export const MARYLAND_BATCH9 = [
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is a licensed, background-checked adult employee, never a rideshare driver or an unvetted substitute. Every vehicle is commercially insured, the same standard we hold for corporate and wedding clients. Parents also get direct dispatcher contact throughout the evening." },
       { q: "What happens if a student brings alcohol into the vehicle?", a: "Our no-alcohol policy is enforced in every vehicle, and any violation is reported to the booking parent immediately, with the chauffeur authorized to end the trip early. Parents review the written itinerary before the night, so they know exactly where the group will be. The policy is the same for Fairfax High, Robinson and Woodson groups alike." },
       { q: "Can parents see the full itinerary before prom night?", a: "Yes. We provide a written itinerary with pickup time, any dinner stop, venue arrival and the return pickup time before the night of the event." },
-      { q: "What vehicle fits a group of twelve students?", a: "A Mercedes Sprinter van, which seats up to 13, is the most economical choice for a group that size. The hourly rate is split among the group and confirmed in writing before the date is booked. Smaller parties of six to eight often choose a stretch limousine instead." },
+      { q: "What vehicle fits a group of twelve students?", a: "A Mercedes Sprinter van, which seats up to 13, is the most economical choice for a group that size. The hourly rate is split among the group and confirmed in writing before the date is booked. Smaller parties of up to six often choose a Lincoln Navigator instead." },
       { q: "How far in advance should Fairfax families book a prom date?", a: "As early in the school year as possible — prom dates cluster into a few spring weekends and the most popular dates fill months ahead. That holds for Fairfax High, Robinson and Woodson groups alike. Send the date, venue and group size and we will confirm the hourly rate in writing." },
     ],
     related: [
@@ -908,7 +908,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Prom Limo Service Northern Virginia Parents Guide", to: "/blog/prom-limo-service-northern-virginia-parents-guide" },
       { label: "George Mason University Transportation", to: "/george-mason-university-transportation" },
     ],
-    schema: { areaServed: ["Fairfax", "Fairfax County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Fairfax", "Fairfax County"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "oakton-prom-limo-service",
@@ -925,8 +925,8 @@ export const MARYLAND_BATCH9 = [
       { label: "Pricing", value: "Hourly group rates, confirmed in writing" },
     ],
     intro: [
-      "Oakton High School's prom groups are among our most regular spring bookings, and the process is built around what parents actually want to confirm before handing over a deposit: a named, background-checked chauffeur, a commercially insured vehicle, and a written schedule for the night.",
-      "Most Oakton groups book a Sprinter van for ten to thirteen students or a stretch limousine for a smaller party of six to eight, with the hourly rate split evenly among the group and confirmed in writing before the date is locked in.",
+      "Oakton High School's prom groups are among our most regular spring bookings, and the process is built around what parents actually want to confirm before booking: a named, background-checked chauffeur, a commercially insured vehicle, and a written schedule for the night.",
+      "Most Oakton groups book a Sprinter van for ten to thirteen students or a Lincoln Navigator for a smaller party of up to six, with the hourly rate split evenly among the group and confirmed in writing before the date is locked in.",
       "Oakton sits close enough to Vienna and Tysons that some groups combine students from more than one friend circle across nearby schools into a single booking, and we coordinate the multi-address pickup the same way regardless of which schools the students attend.",
     ],
     highlights: [
@@ -934,7 +934,7 @@ export const MARYLAND_BATCH9 = [
       "Regular service for Oakton High School prom groups every spring",
       "A written itinerary covering pickup, any dinner stop, venue arrival and return time",
       "No-alcohol policy enforced in every vehicle, with violations reported to the booking parent",
-      "Sprinter vans for larger groups, stretch limousines for smaller parties",
+      "Sprinter vans for larger groups, Lincoln Navigators for smaller parties",
       "Direct dispatcher contact for parents throughout the night",
     ],
     sections: [
@@ -955,7 +955,7 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Rates and booking an Oakton prom group",
         paragraphs: [
-          "Rates are hourly, confirmed in writing, and typically split among the group members or their families. A deposit secures the date and vehicle.",
+          "Rates are hourly, confirmed in writing, and typically split among the group members or their families. The card is charged once the reservation and rate are confirmed, and cancellation is free up to 12 hours before pickup for Sprinter vans and special-event bookings.",
           "Many Oakton groups book the vehicle for a photo stop first, either at a student's home or a nearby park, before heading to dinner and the venue — mentioning this at booking lets us build the extra ten or fifteen minutes into the schedule rather than rushing the group along once the night is underway.",
           "Call (877) 609-1919 or book online with your date, venue, group size and any dinner stop you want included.",
         ],
@@ -965,7 +965,7 @@ export const MARYLAND_BATCH9 = [
     faqs: [
       { q: "Do you regularly serve Oakton High School prom groups?", a: "Yes, Oakton High School prom bookings are a regular part of our spring schedule every year. Most Oakton groups book a Sprinter van for ten to thirteen students, with the hourly rate split evenly. We can also combine friends from nearby Vienna and Tysons schools into one booking." },
       { q: "Can we add a dinner stop before the prom venue?", a: "Yes. A dinner stop is built into the hourly itinerary at booking, so the schedule is confirmed in writing ahead of the night." },
-      { q: "What happens if the no-alcohol policy is violated?", a: "The chauffeur reports it to the booking parent immediately and is authorized to end the trip early if necessary. The no-alcohol policy is enforced in every vehicle, and parents have direct dispatcher contact all night. Families see this policy and the written itinerary before the deposit is paid." },
+      { q: "What happens if the no-alcohol policy is violated?", a: "The chauffeur reports it to the booking parent immediately and is authorized to end the trip early if necessary. The no-alcohol policy is enforced in every vehicle, and parents have direct dispatcher contact all night. Families see this policy and the written itinerary before the card is charged." },
       { q: "How far from Dulles is Oakton?", a: "About 20 to 30 minutes, depending on traffic — relevant for out-of-town family flying in for the event. Those airport pickups are flight-tracked and can be booked as a separate flat-rate transfer. Reagan National is about 35 to 55 minutes away if family flies in there instead." },
       { q: "When should Oakton families book their prom date?", a: "As soon as the date and venue are confirmed, since the most popular spring weekends fill months ahead. A Sprinter van for a larger Oakton group is usually the first vehicle to go on those dates. Once booked, the hourly rate and written itinerary are confirmed in writing." },
     ],
@@ -977,7 +977,7 @@ export const MARYLAND_BATCH9 = [
       { label: "McLean Prom Limo Service", to: "/mclean-prom-limo-service" },
       { label: "Prom & Homecoming Limo Safety Guide for Parents", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
     ],
-    schema: { areaServed: ["Oakton", "Fairfax County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Oakton", "Fairfax County"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "potomac-prom-limo-service",
@@ -994,8 +994,8 @@ export const MARYLAND_BATCH9 = [
       { label: "Pricing", value: "Hourly group rates, confirmed in writing" },
     ],
     intro: [
-      "Winston Churchill High School families along River Road and throughout Potomac book prom transportation with us every spring, and the appeal is the same thing every year: a professional, background-checked chauffeur in a clean, insured vehicle, with the whole night's schedule confirmed in writing before the deposit is paid.",
-      "Potomac's estate-lined streets and gated communities are well suited to a stretch limousine or Sprinter van pickup, and we coordinate directly with the organizing parent on pickup addresses, venue and timing.",
+      "Winston Churchill High School families along River Road and throughout Potomac book prom transportation with us every spring, and the appeal is the same thing every year: a professional, background-checked chauffeur in a clean, insured vehicle, with the whole night's schedule confirmed in writing before the card is charged.",
+      "Potomac's estate-lined streets and gated communities are well suited to a Sprinter van or Lincoln Navigator pickup, and we coordinate directly with the organizing parent on pickup addresses, venue and timing.",
       "Several Potomac prom venues sit across the river in DC or further out in Bethesda, and our chauffeurs plan the drive and the return pickup around whichever location the school has booked that year, rather than assuming every prom stays within Montgomery County.",
     ],
     highlights: [
@@ -1003,15 +1003,15 @@ export const MARYLAND_BATCH9 = [
       "Regular service for Winston Churchill High School prom groups",
       "A written itinerary covering pickup, dinner stop, venue arrival and return",
       "No-alcohol policy enforced in every vehicle, with violations reported to the booking parent",
-      "Sprinter vans and stretch limousines sized to the group",
+      "Sprinter vans and Lincoln Navigators sized to the group",
       "Direct dispatcher contact for parents throughout the evening",
     ],
     sections: [
       {
         h2: "Prom season in Potomac",
         paragraphs: [
-          "Winston Churchill High School's prom draws groups from across Potomac's neighborhoods, from River Road estates to Potomac Village, and most families organize transportation as a shared group booking split among six to thirteen students. We confirm the chauffeur's background check, the vehicle's commercial insurance, and the full schedule in writing before any deposit changes hands.",
-          "Potomac's wide, gated driveways and estate properties are easy pickups for a stretch limousine; a Sprinter van is the more economical choice for a larger group and still handles the same addresses without difficulty.",
+          "Winston Churchill High School's prom draws groups from across Potomac's neighborhoods, from River Road estates to Potomac Village, and most families organize transportation as a shared group booking split among six to thirteen students. We confirm the chauffeur's background check, the vehicle's commercial insurance, and the full schedule in writing before the card is charged.",
+          "Potomac's wide, gated driveways and estate properties are easy pickups for a Lincoln Navigator; a Sprinter van is the more economical choice for a larger group and still handles the same addresses without difficulty.",
         ],
       },
       {
@@ -1024,7 +1024,7 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Rates and booking a Potomac prom group",
         paragraphs: [
-          "Rates are hourly, confirmed in writing, and typically split among the group. A deposit secures the vehicle and date.",
+          "Rates are hourly, confirmed in writing, and typically split among the group. The card is charged once the reservation and rate are confirmed, and cancellation is free up to 12 hours before pickup for Sprinter vans and special-event bookings.",
           "Because several Potomac families often split a single Sprinter van reservation across their teenagers, we provide one itemized confirmation that can be shared among every contributing parent, rather than leaving one family to informally collect money from the others with no written record of what was agreed to.",
           "Call (877) 609-1919 or book online with your date, venue, pickup addresses and group size.",
         ],
@@ -1033,8 +1033,8 @@ export const MARYLAND_BATCH9 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "Do you serve Winston Churchill High School prom groups?", a: "Yes, Winston Churchill prom bookings are a regular part of our Potomac business every spring. We coordinate directly with the organizing parent on pickup addresses, venue and timing. That includes venues across the river in DC or out in Bethesda." },
-      { q: "Can a limousine pick up at a gated Potomac estate?", a: "Yes, our chauffeurs regularly handle pickups at Potomac's gated communities and estate driveways with advance notice of the address and any gate code. Share those details at booking and they go on the written itinerary. That way the chauffeur arrives at the right entrance on time for photos." },
-      { q: "What enforcement exists for the no-alcohol policy?", a: "The chauffeur is trained to notice and report any violation to the booking parent immediately and is authorized to end the trip early if necessary. The policy applies in every vehicle and is spelled out before the deposit is paid. Parents can also reach the dispatcher directly throughout the evening." },
+      { q: "Can the chauffeur pick up at a gated Potomac estate?", a: "Yes, our chauffeurs regularly handle pickups at Potomac's gated communities and estate driveways with advance notice of the address and any gate code. Share those details at booking and they go on the written itinerary. That way the chauffeur arrives at the right entrance on time for photos." },
+      { q: "What enforcement exists for the no-alcohol policy?", a: "The chauffeur is trained to notice and report any violation to the booking parent immediately and is authorized to end the trip early if necessary. The policy applies in every vehicle and is spelled out before the card is charged. Parents can also reach the dispatcher directly throughout the evening." },
       { q: "How far is Potomac from Reagan National Airport?", a: "About 16 miles, typically 25 to 40 minutes, relevant for out-of-town family attending prom-related events. Dulles is about 26 miles and 35 to 50 minutes from Potomac. Either pickup is flight-tracked and booked as a flat-rate transfer." },
       { q: "Is the rate split among the group?", a: "Yes, the hourly rate is typically split evenly among the students or families in the group and confirmed in writing before booking. The organizing parent handles the reservation, and everyone sees the same written itinerary. Larger groups usually share a Sprinter van, which seats up to 13." },
     ],
@@ -1046,7 +1046,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Bethesda Limo Service", to: "/bethesda-limo-service" },
       { label: "Homecoming Limo Service", to: "/homecoming-limo-service" },
     ],
-    schema: { areaServed: ["Potomac", "Montgomery County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Potomac", "Montgomery County"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "mclean-prom-limo-service",
@@ -1063,8 +1063,8 @@ export const MARYLAND_BATCH9 = [
       { label: "Pricing", value: "Hourly group rates, confirmed in writing" },
     ],
     intro: [
-      "Langley High School families in McLean book prom transportation with the same discretion they expect from any car service in this neighborhood, and we treat every group the same way regardless of address: a background-checked adult chauffeur, a commercially insured vehicle, and a written schedule confirmed before the deposit is paid.",
-      "Most McLean groups travel in a stretch limousine or Sprinter van, often pairing a dinner stop in Tysons or McLean's own restaurant row with the prom venue itself, all on one hourly reservation.",
+      "Langley High School families in McLean book prom transportation with the same discretion they expect from any car service in this neighborhood, and we treat every group the same way regardless of address: a background-checked adult chauffeur, a commercially insured vehicle, and a written schedule confirmed before the card is charged.",
+      "Most McLean groups travel in a Sprinter van or Lincoln Navigator, often pairing a dinner stop in Tysons or McLean's own restaurant row with the prom venue itself, all on one hourly reservation.",
       "Because many McLean addresses sit behind a gate or down a long private driveway, we collect any entry instructions at the time of booking so the chauffeur arrives at the correct door on the first attempt rather than circling the block looking for an unmarked entrance.",
     ],
     highlights: [
@@ -1072,28 +1072,28 @@ export const MARYLAND_BATCH9 = [
       "Regular service for Langley High School prom groups",
       "Discreet pickups at McLean's residential properties with advance notice of gate codes",
       "No-alcohol policy enforced in every vehicle, with violations reported to the booking parent",
-      "Sprinter vans and stretch limousines sized to the group",
+      "Sprinter vans and Lincoln Navigators sized to the group",
       "Direct dispatcher contact for parents throughout the evening",
     ],
     sections: [
       {
         h2: "A discreet, parent-vetted process",
         paragraphs: [
-          "McLean families often ask about discretion as much as safety, and our answer is the same for a prom group as it is for an executive client: a professional chauffeur, an unremarkable late-model vehicle, and no unnecessary attention drawn to the pickup. Every chauffeur is background-checked and every vehicle carries commercial passenger insurance, confirmed in writing before any deposit is taken.",
+          "McLean families often ask about discretion as much as safety, and our answer is the same for a prom group as it is for an executive client: a professional chauffeur, an unremarkable late-model vehicle, and no unnecessary attention drawn to the pickup. Every chauffeur is background-checked and every vehicle carries commercial passenger insurance, confirmed in writing before the card is charged.",
           "A written itinerary covers pickup time and address, any dinner stop, venue arrival and the confirmed return time, so there is no ambiguity for parents about the night's schedule.",
         ],
       },
       {
         h2: "Langley High School prom season",
         paragraphs: [
-          "Langley High School's prom typically falls on one of the same handful of spring weekends shared across Fairfax County, and the most popular dates fill up months in advance. A Sprinter van is the usual choice for a group of ten to thirteen students, with a stretch limousine available for smaller parties.",
+          "Langley High School's prom typically falls on one of the same handful of spring weekends shared across Fairfax County, and the most popular dates fill up months in advance. A Sprinter van is the usual choice for a group of ten to thirteen students, with a Lincoln Navigator available for smaller parties.",
           "Many McLean groups add a dinner stop in Tysons or along McLean's restaurant row before heading to the venue, and we build that into the hourly schedule at booking.",
         ],
       },
       {
         h2: "Rates and booking a McLean prom group",
         paragraphs: [
-          "Rates are hourly, confirmed in writing, and typically split among the group. A deposit secures the vehicle and date.",
+          "Rates are hourly, confirmed in writing, and typically split among the group. The card is charged once the reservation and rate are confirmed, and cancellation is free up to 12 hours before pickup for Sprinter vans and special-event bookings.",
           "Great Falls families, who send students to Langley High School alongside McLean, are welcome to book the same way — we coordinate a Great Falls pickup and a McLean drop-off, or the reverse, on one reservation without treating the two communities as separate bookings.",
           "Some families also book a second, smaller vehicle for siblings or friends who are not part of the main prom group but want to ride along for part of the evening, such as a dinner stop — ask your reservation coordinator about pairing two vehicles on the same schedule if this applies to your group.",
           "Call (877) 609-1919 or book online with your date, venue, pickup addresses and group size.",
@@ -1104,9 +1104,9 @@ export const MARYLAND_BATCH9 = [
     faqs: [
       { q: "Do you serve Langley High School prom groups?", a: "Yes, Langley High School prom bookings are a regular part of our McLean business every spring. Most groups pair a dinner stop in Tysons or McLean with the prom venue on one hourly reservation. Gate codes and driveway instructions are collected at booking." },
       { q: "Can you pick up discreetly at a residential McLean address?", a: "Yes. Our chauffeurs are experienced with McLean's residential properties and handle pickups discreetly with advance notice of any gate code or access instructions." },
-      { q: "What happens if a student violates the no-alcohol policy?", a: "The chauffeur reports it to the booking parent immediately and is authorized to end the trip early if necessary. Every vehicle runs under the same no-alcohol policy, and parents can reach the dispatcher directly all evening. Families agree to the policy and itinerary before the deposit is paid." },
+      { q: "What happens if a student violates the no-alcohol policy?", a: "The chauffeur reports it to the booking parent immediately and is authorized to end the trip early if necessary. Every vehicle runs under the same no-alcohol policy, and parents can reach the dispatcher directly all evening. Families agree to the policy and itinerary before the card is charged." },
       { q: "Can we add a Tysons dinner stop before the venue?", a: "Yes. A dinner stop is commonly added and built into the hourly schedule at the time of booking." },
-      { q: "How early should McLean families book a prom date?", a: "As soon as the date and venue are confirmed — the most popular spring weekends fill months in advance. Send the group size and any dinner stop so we can match a stretch limousine or Sprinter van and confirm the hourly rate in writing." },
+      { q: "How early should McLean families book a prom date?", a: "As soon as the date and venue are confirmed — the most popular spring weekends fill months in advance. Send the group size and any dinner stop so we can match a Sprinter van or Lincoln Navigator and confirm the hourly rate in writing." },
     ],
     related: [
       { label: "McLean Limo Service", to: "/mclean-limo-service" },
@@ -1116,7 +1116,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Oakton Prom Limo Service", to: "/oakton-prom-limo-service" },
       { label: "Great Falls & McLean Estate Chauffeur Service", to: "/blog/great-falls-mclean-estate-chauffeur-service" },
     ],
-    schema: { areaServed: ["McLean", "Fairfax County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["McLean", "Fairfax County"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "centreville-prom-limo-service",
@@ -1139,7 +1139,7 @@ export const MARYLAND_BATCH9 = [
     ],
     highlights: [
       "Licensed, background-checked adult chauffeurs for Centreville and Westfield High School groups",
-      "Sprinter vans sized for larger prom groups, with stretch limousines for smaller parties",
+      "Sprinter vans sized for larger prom groups, with Lincoln Navigators for smaller parties",
       "A written itinerary covering pickup, any dinner stop, venue arrival and return",
       "No-alcohol policy enforced in every vehicle, with violations reported to the booking parent",
       "15 to 25 minute Dulles proximity, useful for out-of-town family attending",
@@ -1156,14 +1156,14 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "Safety standards parents can verify",
         paragraphs: [
-          "Every chauffeur is background-checked and every vehicle is commercially insured for passenger transport, documentation we provide before any deposit is collected. The no-alcohol policy applies identically to every group, with any violation reported to the booking parent immediately and the chauffeur authorized to end the trip early.",
+          "Every chauffeur is background-checked and every vehicle is commercially insured for passenger transport, documentation we provide before the card is charged. The no-alcohol policy applies identically to every group, with any violation reported to the booking parent immediately and the chauffeur authorized to end the trip early.",
           "A written itinerary — pickup time and address for each stop, any dinner reservation, venue arrival and the confirmed return pickup — removes the guesswork for parents tracking the night's schedule.",
         ],
       },
       {
         h2: "Rates and booking a Centreville prom group",
         paragraphs: [
-          "Rates are hourly, confirmed in writing, and typically split among the group. A deposit secures the date and vehicle.",
+          "Rates are hourly, confirmed in writing, and typically split among the group. The card is charged once the reservation and rate are confirmed, and cancellation is free up to 12 hours before pickup for Sprinter vans and special-event bookings.",
           "Confirm your final headcount a few days before the event rather than at the original booking — group size for Centreville and Westfield prom bookings often shifts as the date approaches, and a final confirmation shortly before the night means the right vehicle size is locked in rather than guessed at weeks in advance.",
           "Call (877) 609-1919 or book online with your date, venue, pickup addresses and group size.",
         ],
@@ -1173,7 +1173,7 @@ export const MARYLAND_BATCH9 = [
     faqs: [
       { q: "Do you serve both Centreville and Westfield High School prom groups?", a: "Yes, both schools' prom groups are a regular part of our spring Centreville-area business. Because Centreville and Westfield sit close together along Route 29, a single friend group often includes students from both, and we build those pickups into one route. The hourly rate is split evenly and confirmed in writing." },
       { q: "Can you pick up students at several different addresses?", a: "Yes. Multi-stop pickups across different neighborhoods are common and are built into the hourly route at the time of booking." },
-      { q: "What vehicle works best for a group of thirteen?", a: "A Mercedes Sprinter van, which seats up to 13, is the most economical and practical choice for larger Centreville-area prom groups. Ten to thirteen students sharing a Sprinter is our most common booking here. Smaller parties can choose a stretch limousine instead." },
+      { q: "What vehicle works best for a group of thirteen?", a: "A Mercedes Sprinter van, which seats up to 13, is the most economical and practical choice for larger Centreville-area prom groups. Ten to thirteen students sharing a Sprinter is our most common booking here. Smaller parties can choose a Lincoln Navigator instead." },
       { q: "How is the no-alcohol policy enforced?", a: "The chauffeur is trained to notice any violation and reports it to the booking parent immediately, with authority to end the trip early if necessary. The policy applies in every vehicle, and parents have direct dispatcher contact throughout the night. Families see the policy and written itinerary before the date is locked in." },
       { q: "How far from Dulles is Centreville?", a: "About 15 to 25 minutes, depending on traffic, which is useful for any out-of-town family attending prom-related events. Those airport pickups are flight-tracked and booked as a separate flat-rate transfer. Reagan National is about 40 to 65 minutes away if family lands there instead." },
     ],
@@ -1185,7 +1185,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Homecoming Limo Service", to: "/homecoming-limo-service" },
       { label: "Prom & Homecoming Limo Safety Guide for Parents", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
     ],
-    schema: { areaServed: ["Centreville", "Fairfax County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Centreville", "Fairfax County"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "rockville-prom-limo-service",
@@ -1202,8 +1202,8 @@ export const MARYLAND_BATCH9 = [
       { label: "Pricing", value: "Hourly group rates, confirmed in writing" },
     ],
     intro: [
-      "Richard Montgomery and Wootton High School families keep our Rockville calendar busy every prom season, and the process is the same every year: a background-checked adult chauffeur, a commercially insured vehicle, and a written schedule confirmed before any deposit changes hands.",
-      "Rockville groups usually split between a Sprinter van for ten to thirteen students or a stretch limousine for a smaller party, with the hourly rate divided evenly and locked in writing well ahead of the date.",
+      "Richard Montgomery and Wootton High School families keep our Rockville calendar busy every prom season, and the process is the same every year: a background-checked adult chauffeur, a commercially insured vehicle, and a written schedule confirmed before the card is charged.",
+      "Rockville groups usually split between a Sprinter van for ten to thirteen students or a Lincoln Navigator for a smaller party, with the hourly rate divided evenly and locked in writing well ahead of the date.",
       "Richard Montgomery and Wootton draw from neighboring but distinct parts of Rockville, and a single friend group spanning both schools is common enough that we treat a combined pickup route as a normal booking rather than something unusual to work around.",
     ],
     highlights: [
@@ -1211,7 +1211,7 @@ export const MARYLAND_BATCH9 = [
       "A written itinerary covering pickup, any dinner stop, venue arrival and return",
       "No-alcohol policy enforced in every vehicle, with violations reported to the booking parent",
       "Rockville Town Square and King Farm pickups, among other neighborhoods",
-      "Sprinter vans for larger groups, stretch limousines for smaller parties",
+      "Sprinter vans for larger groups, Lincoln Navigators for smaller parties",
       "Direct dispatcher contact for parents throughout the night",
     ],
     sections: [
@@ -1225,15 +1225,15 @@ export const MARYLAND_BATCH9 = [
       {
         h2: "The safety standard every Rockville group gets",
         paragraphs: [
-          "Every chauffeur is background-checked and every vehicle is commercially insured for passenger transport — documentation available before any deposit is collected. The no-alcohol policy is enforced identically across every group, with violations reported to the booking parent immediately and the chauffeur authorized to end the trip early if the situation calls for it.",
+          "Every chauffeur is background-checked and every vehicle is commercially insured for passenger transport — documentation available before the card is charged. The no-alcohol policy is enforced identically across every group, with violations reported to the booking parent immediately and the chauffeur authorized to end the trip early if the situation calls for it.",
           "A written itinerary covers pickup time and address, any dinner reservation, venue arrival and the confirmed return pickup time.",
         ],
       },
       {
         h2: "Rates and booking a Rockville prom group",
         paragraphs: [
-          "Rates are hourly, confirmed in writing, and typically split among the group. A deposit secures the date and vehicle.",
-          "If younger students are part of a Rockville homecoming group specifically, some parents prefer a smaller, more easily supervised vehicle rather than a full-size party bus — a reasonable request to raise directly when booking, and one our dispatch team accommodates without difficulty.",
+          "Rates are hourly, confirmed in writing, and typically split among the group. The card is charged once the reservation and rate are confirmed, and cancellation is free up to 12 hours before pickup for Sprinter vans and special-event bookings.",
+          "If younger students are part of a Rockville homecoming group specifically, some parents prefer a smaller, more easily supervised vehicle such as a Lincoln Navigator rather than a full Sprinter van — a reasonable request to raise directly when booking, and one our dispatch team accommodates without difficulty.",
           "Rockville Town Square's restaurants are a popular dinner stop before either school's prom, and because the Town Square itself has limited evening parking during busy weekends, a chauffeured drop-off there tends to be noticeably simpler than driving in and searching for a spot.",
           "Call (877) 609-1919 or book online with your date, venue, pickup addresses and group size.",
         ],
@@ -1245,7 +1245,7 @@ export const MARYLAND_BATCH9 = [
       { q: "Can you pick up in Rockville Town Square or King Farm?", a: "Yes, both are common Rockville prom pickup points, along with other neighborhoods near either school. Several addresses can be built into one hourly route at booking. The pickup order and times go on the written itinerary parents review before the night." },
       { q: "What happens if the no-alcohol policy is violated?", a: "The chauffeur reports it to the booking parent immediately and is authorized to end the trip early if necessary. That no-alcohol policy is enforced in every vehicle for Richard Montgomery and Wootton groups alike. Parents can reach the dispatcher directly throughout the night." },
       { q: "How far is Rockville from Dulles Airport?", a: "About 27 miles, typically 40 to 55 minutes, relevant mainly for out-of-town family attending related events. Reagan National is closer at about 20 miles and 35 to 50 minutes. Either pickup is flight-tracked and quoted as a flat rate." },
-      { q: "When should Rockville families book a prom date?", a: "As soon as the date and venue are confirmed, since popular spring weekends fill months ahead for both schools. Send the group size so we can match a Sprinter van or stretch limousine. The hourly rate is then divided evenly and locked in writing." },
+      { q: "When should Rockville families book a prom date?", a: "As soon as the date and venue are confirmed, since popular spring weekends fill months ahead for both schools. Send the group size so we can match a Sprinter van or Lincoln Navigator. The hourly rate is then divided evenly and locked in writing." },
     ],
     related: [
       { label: "Rockville Limo Service", to: "/rockville-limo-service" },
@@ -1255,7 +1255,7 @@ export const MARYLAND_BATCH9 = [
       { label: "Maryland Prom Limo", to: "/maryland-prom-limo" },
       { label: "North Bethesda Limo Service", to: "/north-bethesda-limo-service" },
     ],
-    schema: { areaServed: ["Rockville", "Montgomery County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Rockville", "Montgomery County"], serviceType: "Prom chauffeur service" },
   },
 
   // ---------------------------------------------------------------------

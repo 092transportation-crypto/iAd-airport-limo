@@ -22,7 +22,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small parties who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH12 = [
@@ -83,7 +83,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Crystal City from Dulles Airport?", a: "About 24 miles and 35–45 minutes via the Dulles Toll Road and I-66, depending on traffic. The run gets the same flight tracking, meet and greet and written flat rate as the much shorter trip to Reagan National. BWI is also available, at about 40 miles." },
       { q: "Do you serve Amazon HQ2 and the Crystal Drive office corridor?", a: "Yes. We run daily corporate pickups and roadshow transportation for National Landing's offices, including Amazon's HQ2 campus and the Crystal Drive corridor." },
       { q: "Will my chauffeur meet me inside the terminal at DCA?", a: "Yes, with meet and greet your chauffeur waits at baggage claim with a name sign. Curbside pickup is also available." },
-      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines. Sedans seat up to three passengers, the Chevrolet Suburban up to five, and a Sprinter van keeps a corporate team or group of up to 13 in one vehicle. For Amazon HQ2 and Crystal Drive roadshows, hourly service keeps the same car with you between meetings." },
+      { q: "What vehicles are available in Crystal City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs, and 13-passenger Sprinter vans. Sedans seat up to three passengers, the Chevrolet Suburban up to five, and a Sprinter van keeps a corporate team or group of up to 13 in one vehicle. For Amazon HQ2 and Crystal Drive roadshows, hourly service keeps the same car with you between meetings." },
     ],
     related: [
       { label: "Pentagon City Limo Service", to: "/pentagon-city-limo-service" },
@@ -93,7 +93,7 @@ export const MARYLAND_BATCH12 = [
       { label: "DCA to Tysons", to: "/dca-to-tysons" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Crystal City, Arlington, VA", "National Landing", "Arlington County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Crystal City, Arlington, VA", "National Landing", "Arlington County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "pentagon-city-limo-service",
@@ -149,7 +149,7 @@ export const MARYLAND_BATCH12 = [
       { q: "Do you pick up at the Ritz-Carlton and Fashion Centre hotels?", a: "Yes, we run regular pickups at all of Pentagon City's hotel towers and can coordinate directly with the concierge desk. That includes the Ritz-Carlton Pentagon City, the Residence Inn and the Fashion Centre's hotel row. Reagan National is only 2 miles away, an 8-to-12-minute ride." },
       { q: "How long does Pentagon visitor screening typically add to a pickup?", a: "It varies by appointment type; tell us your host's instructions when you book and we'll build the buffer into your schedule. Our chauffeurs are familiar with the Pentagon-adjacent security checkpoints. If you are flying out afterward, the buffer is planned around your departure time as well." },
       { q: "How far is Pentagon City from Dulles?", a: "About 23 miles, typically 35 to 45 minutes via the Dulles Toll Road and I-66. The trip gets the same flight tracking, meet and greet and written flat rate as the short run to Reagan National. BWI is also served, at about 39 miles." },
-      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines. Sedans seat up to three passengers and the Chevrolet Suburban up to five, while a Sprinter van carries a group of up to 13 from the Fashion Centre hotels in one trip. Every vehicle is commercially insured and driven by a licensed, background-checked chauffeur." },
+      { q: "What vehicles are available in Pentagon City?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs, and 13-passenger Sprinter vans. Sedans seat up to three passengers and the Chevrolet Suburban up to five, while a Sprinter van carries a group of up to 13 from the Fashion Centre hotels in one trip. Every vehicle is commercially insured and driven by a licensed, background-checked chauffeur." },
     ],
     related: [
       { label: "Crystal City Limo Service", to: "/crystal-city-limo-service" },
@@ -159,7 +159,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Mount Vernon Transportation", to: "/mount-vernon-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Pentagon City, Arlington, VA", "National Landing", "Arlington County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Pentagon City, Arlington, VA", "National Landing", "Arlington County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "rosslyn-limo-service",
@@ -215,7 +215,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How far is Rosslyn from Reagan National?", a: "About 6 miles, typically 15 to 20 minutes depending on traffic. Chauffeurs plan around Key Bridge and Rosslyn-Ballston corridor rush-hour backups. Meet and greet at baggage claim includes 45 minutes of complimentary waiting on domestic arrivals and 60 on international." },
       { q: "Can you take us from Rosslyn to Georgetown for dinner or an event?", a: "Yes, it's one of our most common short runs — a two-minute crossing over Key Bridge, timed around rush-hour backups. A return pickup after dinner or the event can be set at booking. For a longer evening, hourly service keeps the car with you." },
       { q: "Do you serve Rosslyn's law firms and association offices?", a: "Yes. We run standing corporate accounts for client travel, depositions and multi-stop roadshows from Rosslyn's office towers." },
-      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Sprinter vans and stretch limousines. The E-Class and 7 Series sedans seat up to three and are the usual choice for law-firm and association client travel. A Sprinter van seats up to 13 for a team heading to Dulles or a group dinner across Key Bridge in Georgetown." },
+      { q: "What vehicles are available in Rosslyn?", a: "Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Nautilus, Lincoln Navigator and Chevrolet Suburban SUVs, and 13-passenger Sprinter vans. The E-Class and 7 Series sedans seat up to three and are the usual choice for law-firm and association client travel. A Sprinter van seats up to 13 for a team heading to Dulles or a group dinner across Key Bridge in Georgetown." },
     ],
     related: [
       { label: "Clarendon & Ballston Limo Service", to: "/clarendon-ballston-limo-service" },
@@ -225,7 +225,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Georgetown University Event Transportation", to: "/georgetown-university-event-transportation" },
       { label: "Dupont Circle Limo Service", to: "/dupont-circle-limo-service" },
     ],
-    schema: { areaServed: ["Rosslyn, Arlington, VA", "Arlington County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Rosslyn, Arlington, VA", "Arlington County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "clarendon-ballston-limo-service",
@@ -291,7 +291,7 @@ export const MARYLAND_BATCH12 = [
       { label: "DCA to Tysons", to: "/dca-to-tysons" },
       { label: "Capitol Hill Limo Service", to: "/capitol-hill-limo-service" },
     ],
-    schema: { areaServed: ["Clarendon, Arlington, VA", "Ballston, Arlington, VA", "Arlington County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Clarendon, Arlington, VA", "Ballston, Arlington, VA", "Arlington County"], serviceType: "Chauffeured car service" },
   },
   // ---------------------------------------------------------------------
   // Farther-out Virginia cities
@@ -348,7 +348,7 @@ export const MARYLAND_BATCH12 = [
     faqs: [
       { q: "How much is a car service from Fredericksburg to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride, with no surge pricing. Call (877) 609-1919 for exact pricing to IAD, DCA or BWI." },
       { q: "How long is the drive from Fredericksburg to Dulles?", a: "About 65 miles and 70 to 85 minutes via the Prince William Parkway and I-66 or Route 28, depending on I-95 traffic. The flat rate is confirmed in writing before you ride, so delays on the way do not change it. Reagan National is a little closer, at about 55 miles." },
-      { q: "Do you provide wedding transportation for Fredericksburg venues?", a: "Yes, including historic downtown and riverside estate venues, with Sprinter vans and stretch limousines for the wedding party and point-to-point service for guests. Riverside estates along the Rappahannock are among the venues we serve. Guests flying in can be picked up at Dulles, Reagan National or BWI." },
+      { q: "Do you provide wedding transportation for Fredericksburg venues?", a: "Yes, including historic downtown and riverside estate venues, with Sprinter vans for the wedding party, a First Class Sedan or Lincoln Navigator for the couple, and point-to-point service for guests. Riverside estates along the Rappahannock are among the venues we serve. Guests flying in can be picked up at Dulles, Reagan National or BWI." },
       { q: "Do you serve University of Mary Washington events?", a: "Yes — move-in day, graduation and parent-weekend transportation are among our most common Fredericksburg bookings. Families flying in can book a flat-rate airport transfer straight to campus. Those peak weekends are worth booking early." },
       { q: "Why does the Fredericksburg-to-airport drive take longer than other cities you serve?", a: "Distance is the main factor, and I-95 through Fredericksburg is known for congestion at peak travel times, so we build buffer into every pickup and track flights from wheels-up. Our chauffeurs know the Fredericksburg bottleneck well. Your flat rate stays the same however long the drive takes." },
     ],
@@ -360,7 +360,7 @@ export const MARYLAND_BATCH12 = [
       { label: "University of Virginia Graduation Transportation", to: "/university-of-virginia-graduation-transportation" },
       { label: "George Mason University Transportation", to: "/george-mason-university-transportation" },
     ],
-    schema: { areaServed: ["Fredericksburg, VA", "Spotsylvania County", "Stafford County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Fredericksburg, VA", "Spotsylvania County", "Stafford County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "winchester-va-limo-service",
@@ -414,7 +414,7 @@ export const MARYLAND_BATCH12 = [
     faqs: [
       { q: "How much is a car service from Winchester to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing." },
       { q: "How long is the drive from Winchester to Dulles?", a: "About 70 miles and 75 to 90 minutes via Route 7 or Route 50 into Loudoun County and the Dulles Toll Road. It is a longer run than most of our Virginia coverage, but it still includes flight tracking and meet and greet. The flat rate is confirmed in writing before you ride." },
-      { q: "Do you provide wedding transportation for Shenandoah Valley venues?", a: "Yes, including orchard and vineyard estate venues around Winchester, with Sprinter vans and stretch limousines for the wedding party. Guests flying in can be picked up at Dulles and brought out to the valley. A combined Loudoun wine-country day can be added for visiting family." },
+      { q: "Do you provide wedding transportation for Shenandoah Valley venues?", a: "Yes, including orchard and vineyard estate venues around Winchester, with Sprinter vans for the wedding party and a First Class Sedan or Lincoln Navigator for the couple. Guests flying in can be picked up at Dulles and brought out to the valley. A combined Loudoun wine-country day can be added for visiting family." },
       { q: "Do you serve Shenandoah University?", a: "Yes — move-in day, graduation and campus event transportation are regular Winchester bookings. Families flying into Dulles can be taken straight to campus at a flat rate. Booking early for graduation weekend is a good idea." },
       { q: "Can I combine a Winchester trip with Loudoun wine country?", a: "Yes. Winchester sits close to Loudoun's wineries along Route 50, and we regularly run combined wine-country day trips for Winchester-area guests." },
     ],
@@ -426,7 +426,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
       { label: "Shenandoah & Skyline Drive Day Trip Guide", to: "/blog/shenandoah-skyline-drive-day-trip-chauffeur-guide" },
     ],
-    schema: { areaServed: ["Winchester, VA", "Frederick County, VA"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Winchester, VA", "Frederick County, VA"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "charlottesville-va-limo-service",
@@ -491,7 +491,7 @@ export const MARYLAND_BATCH12 = [
       { label: "How Much Does a Limo Cost from IAD to Charlottesville", to: "/blog/how-much-does-a-limo-cost-from-iad-to-charlottesville" },
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
     ],
-    schema: { areaServed: ["Charlottesville, VA", "Albemarle County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Charlottesville, VA", "Albemarle County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "richmond-va-limo-service",
@@ -574,7 +574,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Corporate Car Service", to: "/corporate" },
       { label: "Professional Services Corporate Car Service", to: "/professional-services-corporate-car-service" },
     ],
-    schema: { areaServed: ["Richmond, VA"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Richmond, VA"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "culpeper-va-limo-service",
@@ -619,7 +619,7 @@ export const MARYLAND_BATCH12 = [
       {
         h2: "Weddings and Piedmont wine country",
         paragraphs: [
-          "Culpeper sits at the gateway to a growing cluster of Piedmont-region wineries, and a chauffeured day trip lets a group taste through several without anyone driving back. Farm and estate wedding venues around Culpeper are a regular booking for Sprinter vans and stretch limousines.",
+          "Culpeper sits at the gateway to a growing cluster of Piedmont-region wineries, and a chauffeured day trip lets a group taste through several without anyone driving back. Farm and estate wedding venues around Culpeper are a regular booking for Sprinter vans and Lincoln Navigators.",
           "Rates are the same whether you book a week ahead or the same day, subject to availability. Sedan and SUV reservations cancel free of charge up to 3 hours before pickup; Sprinter vans and special-event bookings require 12 hours.",
         ],
       },
@@ -629,7 +629,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How much is a car service from Culpeper to Dulles Airport?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride. Call (877) 609-1919 for exact pricing." },
       { q: "How long is the drive from Culpeper to Dulles?", a: "About 55 miles and 60 to 75 minutes via US-29 through Warrenton. That is far enough to need a pre-booked reservation but close enough to pair easily with a Dulles arrival or departure. Your flat rate is confirmed in writing before you ride." },
       { q: "Can you run a wine-country day trip from Culpeper?", a: "Yes. A Sprinter van or SUV with a chauffeur who waits between tastings is the standard format for a Piedmont wine-country day." },
-      { q: "Do you provide wedding transportation for Culpeper farm venues?", a: "Yes, including farm and estate venues around Culpeper, with Sprinter vans and stretch limousines for the wedding party. Guests flying into Dulles can be brought down US-29 on a flat-rate transfer. A Piedmont wine-country day can be added for visiting family." },
+      { q: "Do you provide wedding transportation for Culpeper farm venues?", a: "Yes, including farm and estate venues around Culpeper, with Sprinter vans for the wedding party and a First Class Sedan or Lincoln Navigator for the couple. Guests flying into Dulles can be brought down US-29 on a flat-rate transfer. A Piedmont wine-country day can be added for visiting family." },
       { q: "Is Culpeper close enough to Loudoun wine country to combine both?", a: "Yes, several Piedmont and Loudoun wineries sit within a reasonable drive of each other, and we regularly run combined day trips. A Sprinter van or SUV with a chauffeur who waits between tastings is the usual format. Our chauffeurs know the US-29 corridor between Culpeper and Loudoun." },
     ],
     related: [
@@ -640,7 +640,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Charlottesville, VA Limo Service", to: "/charlottesville-va-limo-service" },
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
     ],
-    schema: { areaServed: ["Culpeper, VA", "Culpeper County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Culpeper, VA", "Culpeper County"], serviceType: "Chauffeured car service" },
   },
   // ---------------------------------------------------------------------
   // Baltimore-corridor Maryland cities
@@ -688,7 +688,7 @@ export const MARYLAND_BATCH12 = [
       {
         h2: "Weddings and corporate travel in Howard County",
         paragraphs: [
-          "Ellicott City's historic Main Street venues and the Turf Valley Resort are popular wedding bookings, with Sprinter vans and stretch limousines handling the wedding party and guest shuttles. Corporate clients from the Columbia-Ellicott City business corridor use standing accounts for airport transfers and client travel.",
+          "Ellicott City's historic Main Street venues and the Turf Valley Resort are popular wedding bookings, with Sprinter vans handling the wedding party and guest shuttles. Corporate clients from the Columbia-Ellicott City business corridor use standing accounts for airport transfers and client travel.",
           "Rates are the same whether you book a week ahead or the same day, subject to availability. Sedan and SUV reservations cancel free of charge up to 3 hours before pickup; Sprinter vans and special-event bookings require 12 hours.",
         ],
       },
@@ -699,7 +699,7 @@ export const MARYLAND_BATCH12 = [
       { q: "How long is the drive from Ellicott City to BWI?", a: "About 15 miles and 20 to 25 minutes via US-29 and I-195. It is the fastest airport run from Ellicott City, quoted as a flat rate before you ride. Dulles and Reagan National are also served with the same flight tracking and meet and greet." },
       { q: "Do you serve Dulles and Reagan National from Ellicott City too?", a: "Yes. Dulles is 50 miles (60–75 minutes) and Reagan National is 45 miles (55–70 minutes)." },
       { q: "Can your vehicles navigate Main Street's historic district?", a: "Yes, our chauffeurs know Main Street's narrow one-way sections and coordinate pickup points that work for the vehicle you book. Tell us the venue or restaurant when you book and we will confirm the meeting point in advance." },
-      { q: "Do you provide wedding transportation in Ellicott City?", a: "Yes, including historic Main Street venues and the Turf Valley Resort, with Sprinter vans and stretch limousines for the wedding party. Out-of-town guests can be picked up at BWI, just 20 to 25 minutes away. Pickup points on Main Street are planned around the vehicle you book." },
+      { q: "Do you provide wedding transportation in Ellicott City?", a: "Yes, including historic Main Street venues and the Turf Valley Resort, with Sprinter vans for the wedding party and a First Class Sedan or Lincoln Navigator for the couple. Out-of-town guests can be picked up at BWI, just 20 to 25 minutes away. Pickup points on Main Street are planned around the vehicle you book." },
     ],
     related: [
       { label: "Columbia, MD Limo Service", to: "/columbia-md-limo-service" },
@@ -709,7 +709,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Baltimore to Washington DC", to: "/baltimore-to-washington-dc" },
       { label: "Maryland Wedding Limo", to: "/maryland-wedding-limo" },
     ],
-    schema: { areaServed: ["Ellicott City, MD", "Howard County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Ellicott City, MD", "Howard County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "catonsville-limo-service",
@@ -775,7 +775,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Senior Retirement Community Transportation", to: "/blog/senior-retirement-community-transportation-guide-nova-maryland" },
       { label: "Maryland Corporate Car Service", to: "/maryland-corporate-car-service" },
     ],
-    schema: { areaServed: ["Catonsville, MD", "Baltimore County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Catonsville, MD", "Baltimore County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "upper-marlboro-limo-service",
@@ -820,7 +820,7 @@ export const MARYLAND_BATCH12 = [
       {
         h2: "Court, corporate and event transportation",
         paragraphs: [
-          "Upper Marlboro bookings include attorney and litigant transportation to the county courthouse, corporate accounts for businesses near the government complex, and event-day transportation for Show Place Arena and Six Flags America. Wedding parties book Sprinter vans and stretch limousines for venues across Southern Maryland.",
+          "Upper Marlboro bookings include attorney and litigant transportation to the county courthouse, corporate accounts for businesses near the government complex, and event-day transportation for Show Place Arena and Six Flags America. Wedding parties book Sprinter vans and Lincoln Navigators for venues across Southern Maryland.",
           "Rates are the same whether you book a week ahead or the same day, subject to availability. Sedan and SUV reservations cancel free of charge up to 3 hours before pickup; Sprinter vans and special-event bookings require 12 hours.",
         ],
       },
@@ -841,7 +841,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Maryland Corporate Car Service", to: "/maryland-corporate-car-service" },
       { label: "Maryland Wedding Limo", to: "/maryland-wedding-limo" },
     ],
-    schema: { areaServed: ["Upper Marlboro, MD", "Prince George's County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Upper Marlboro, MD", "Prince George's County"], serviceType: "Chauffeured car service" },
   },
   // ---------------------------------------------------------------------
   // DC neighborhoods
@@ -909,7 +909,7 @@ export const MARYLAND_BATCH12 = [
       { label: "DC Sports, Concert & Game Day Group Transportation", to: "/blog/dc-sports-concert-game-day-group-transportation-guide" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Navy Yard, Washington, DC", "Capitol Riverfront"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Navy Yard, Washington, DC", "Capitol Riverfront"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "foggy-bottom-limo-service",
@@ -974,7 +974,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Washington Convention Center Transportation", to: "/washington-convention-center-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Foggy Bottom, Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Foggy Bottom, Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "logan-circle-limo-service",
@@ -1056,7 +1056,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Navy Yard, DC Limo Service", to: "/navy-yard-dc-limo-service" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Logan Circle, Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Logan Circle, Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "adams-morgan-limo-service",
@@ -1121,7 +1121,7 @@ export const MARYLAND_BATCH12 = [
       { label: "Capital One Arena DC Transportation", to: "/capital-one-arena-dc-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Adams Morgan, Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Adams Morgan, Washington, DC"], serviceType: "Chauffeured car service" },
   },
   // ---------------------------------------------------------------------
   // New BWI / DCA route pairs
@@ -1565,7 +1565,7 @@ export const MARYLAND_BATCH12 = [
     related: [
       { label: "Birthday Limo Service", to: "/birthday-limo" },
       { label: "Bar & Bat Mitzvah Limo Service", to: "/bar-bat-mitzvah-limo-service" },
-      { label: "Quinceañera & Sweet Sixteen Limousine Service", to: "/quinceanera-sweet-sixteen-limo-service" },
+      { label: "Quinceañera & Sweet Sixteen Limo Service", to: "/quinceanera-sweet-sixteen-limo-service" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
       { label: "Newborn Hospital-to-Home Car Service Guide", to: "/newborn-hospital-to-home-car-service-guide" },
       { label: "Traveling with Infants & Car Seats", to: "/blog/traveling-with-infants-car-seats-dulles-airport-car-service" },
@@ -1643,18 +1643,18 @@ export const MARYLAND_BATCH12 = [
     badge: "NoVA, DC & Maryland · Celebrations",
     h1: "Quinceañera & Sweet Sixteen Limo Service",
     metaTitle: "Quinceañera & Sweet Sixteen Limo | NoVA, DC & MD",
-    metaDescription: "Chauffeured quinceañera and sweet sixteen limousine transportation across NoVA, DC & Maryland. Court party packages. Call (877) 609-1919.",
+    metaDescription: "Chauffeured quinceañera and sweet sixteen transportation across NoVA, DC & Maryland. Sprinter court party packages. Call (877) 609-1919.",
     stats: [
       { label: "Pricing", value: "Hourly packages, court-party capacity" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
       { label: "Coverage", value: "Northern Virginia, DC & Maryland" },
     ],
     intro: [
-      "A quinceañera or sweet sixteen is built around a grand entrance, and the ride matters as much as the dress. We provide stretch limousines and Sprinter vans for the honoree and her court, timed to arrive at the church, hall or reception venue exactly when the schedule calls for it.",
-      "Because a quinceañera court can run anywhere from a handful of damas and chambelanes to a full court of a dozen or more, we size the vehicle to the group — a stretch limousine for a smaller court, or a Mercedes Sprinter van when the whole court travels together.",
+      "A quinceañera or sweet sixteen is built around a grand entrance, and the ride matters as much as the dress. We provide Sprinter Executive vans, first-class sedans and Lincoln Navigators for the honoree and her court, timed to arrive at the church, hall or reception venue exactly when the schedule calls for it.",
+      "Because a quinceañera court can run anywhere from a handful of damas and chambelanes to a full court of a dozen or more, we size the vehicle to the group — a Lincoln Navigator for a smaller court of up to 6, or a Mercedes Sprinter van when the whole court travels together. (We don't operate stretch limousines.)",
     ],
     highlights: [
-      "Stretch limousines sized for the honoree and a smaller court",
+      "Lincoln Navigator SUVs sized for the honoree and a smaller court",
       "13-passenger Sprinter vans for a full court traveling together",
       "Arrival timing coordinated with your church, hall or photographer's schedule",
       "Multi-stop routing — church, photos, reception — booked as one hourly reservation",
@@ -1665,7 +1665,7 @@ export const MARYLAND_BATCH12 = [
       {
         h2: "Court transportation, sized to your celebration",
         paragraphs: [
-          "Some celebrations need a single stretch limousine for the honoree and her closest court members; others need a Sprinter van to move a full court of damas and chambelanes together between the church, a photo location and the reception hall. We size the vehicle — or vehicles — to your court and confirm capacity before the date.",
+          "Some celebrations need a single Lincoln Navigator for the honoree and her closest court members; others need a Sprinter van to move a full court of damas and chambelanes together between the church, a photo location and the reception hall. We size the vehicle — or vehicles — to your court and confirm capacity before the date.",
           "A multi-stop day is common: church ceremony, a photo session at a park or landmark, then the reception. We book the whole sequence as one hourly reservation with the chauffeur staying with your group the entire time, rather than coordinating separate rides for each leg.",
         ],
       },
@@ -1684,7 +1684,7 @@ export const MARYLAND_BATCH12 = [
     ],
     vehicles: VEHICLES,
     faqs: [
-      { q: "How many people fit in a quinceañera court vehicle?", a: "A stretch limousine seats up to 8; a 13-passenger Mercedes Sprinter van fits a full court of damas and chambelanes together. We size the vehicle to your court so everyone can arrive together. Parents and family can ride separately in a sedan or SUV." },
+      { q: "How many people fit in a quinceañera court vehicle?", a: "A Lincoln Navigator seats up to 6; a 13-passenger Mercedes Sprinter van fits a full court of damas and chambelanes together. We size the vehicle to your court so everyone can arrive together. Parents and family can ride separately in a sedan or SUV." },
       { q: "Can you coordinate a multi-stop day — church, photos and reception?", a: "Yes, this is one of our most common quinceañera bookings, run as a single hourly reservation with the chauffeur staying with your group throughout. The route can cover the church, a photo stop and the reception hall. Timing is coordinated with your planner or photographer." },
       { q: "Can the chauffeur time our arrival for the grand entrance?", a: "Yes, we coordinate with your planner, hall or photographer so the vehicle arrives exactly when your entrance is scheduled. Share the schedule when you book and we build the day around it. The chauffeur stays with the court between stops." },
       { q: "Is pricing hourly or a flat rate?", a: "Hourly, as-directed service for the full celebration, confirmed in writing before you book. That covers every stop, from the church to photos and the reception. The rate is set before the day, with no surge pricing." },

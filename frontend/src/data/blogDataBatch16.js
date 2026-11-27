@@ -24,7 +24,7 @@ const batch16 = [
     readTime: "7 min read",
     excerpt:
       "Jiffy Lube Live books some of the biggest tours of the summer, and its parking lot is just as famous - for all the wrong reasons. Here is how to actually get in and out.",
-    image: "/images/blog/scenario-group-boarding.webp",
+    image: "/images/mercedes-sprinter.webp",
     intro: [
       "Jiffy Lube Live in Bristow, Virginia pulls in the region's biggest touring concerts every summer, and anyone who has been to a show there knows the second half of the story: a single main exit feeding every car in the lot onto Linton Hall Road at once. The venue itself is a genuinely good night out - the lot afterward is the part people complain about. Here is what actually makes Jiffy Lube Live hard to drive to and from, and how a planned chauffeured pickup sidesteps it entirely.",
     ],

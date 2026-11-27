@@ -59,7 +59,8 @@ REAL FACTS — use only these, never invent others:
   • Sprinter Executive — Mercedes Sprinter or similar — up to 13 passengers, executive interior
 - Services: airport transfers, corporate travel, wedding transportation, prom/school events, wine tours, concerts/events, hourly charter.
 - Payment: the card is charged once the reservation and rate are confirmed.
-- Cancellation policy: Sedans and SUVs can be cancelled free up to 3 hours before pickup. Sprinter vans, limousines and special events can be cancelled free up to 12 hours before pickup.
+- Cancellation policy: Sedans and SUVs can be cancelled free up to 3 hours before pickup. Sprinter vans and special events can be cancelled free up to 12 hours before pickup.
+- We do not operate stretch limousines, party buses or buses. Bookings take up to 13 passengers per vehicle; for weddings, proms and celebrations suggest the Sprinter Executive, and for larger groups more than one Sprinter.
 
 TONE: Warm, concise, professional chauffeur-service tone. Keep replies to 2-4 sentences unless you're listing the fleet.
 

@@ -24,7 +24,7 @@ const batch9 = [
           'Executive sedan (1–3 passengers): low-to-mid $100s, all-in',
           'Luxury SUV (up to 6 passengers): mid $100s to low $200s, all-in',
           'Sprinter van (up to 13 passengers): above SUV pricing, varies by group size and date',
-          'Stretch limousine: priced similarly to Sprinter, more common for celebrations than straight transfers',
+          'Groups over 13: more than one vehicle (for example, two Sprinters), quoted together',
         ],
       },
       {
@@ -94,7 +94,7 @@ const batch9 = [
     readTime: '7 min read',
     excerpt:
       "Lead time at Dulles is not just about the calendar date — it is about what else is happening in Northern Virginia that week. Here is the regional events map that actually drives demand.",
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'How far ahead you should book a Dulles car service depends less on the generic calendar than on what is happening in Northern Virginia that particular week. Our dispatch desk sees the same regional patterns repeat every year — university graduation weekends, wine-country wedding season, concert series, and the holidays — and each one tightens vehicle availability in a slightly different way. Here is the map, month by month.',
     ],
@@ -110,7 +110,7 @@ const batch9 = [
         heading: 'Summer: Concerts, Wine Country and Wedding Saturdays',
         paragraphs: [
           'Wolf Trap\'s outdoor concert season runs roughly May through September and fills Saturday evenings with pre-show dinner trips and after-show pickups timed to the final encore. Capital One Hall in Tysons runs a similar calendar indoors. Neither drains our sedan fleet badly, but if you want a specific vehicle for a concert night, book a few days ahead rather than that afternoon.',
-          'The bigger seasonal squeeze is wedding season, roughly April through October, which peaks on Saturdays. Loudoun County\'s wineries and barns — Stone Tower, The Barns at Hamilton Station and others — book Sprinter vans and stretch limousines for guest shuttles and wedding parties, and those same vehicle classes serve airport transfers from the same standing fleet. If your trip needs a larger vehicle on a summer or fall Saturday, book it the moment your date is set.',
+          'The bigger seasonal squeeze is wedding season, roughly April through October, which peaks on Saturdays. Loudoun County\'s wineries and barns — Stone Tower, The Barns at Hamilton Station and others — book Sprinter vans and Lincoln Navigators for guest shuttles and wedding parties, and those same vehicle classes serve airport transfers from the same standing fleet. If your trip needs a larger vehicle on a summer or fall Saturday, book it the moment your date is set.',
         ],
       },
       {
@@ -133,7 +133,7 @@ const batch9 = [
         list: [
           'GMU commencement weekend (May) → book as soon as the date is published',
           'Wolf Trap / Capital One Hall concert nights → a few days ahead for a specific vehicle',
-          'Loudoun wine-country wedding Saturdays (Apr–Oct) → as early as your date is set, for Sprinter vans and limousines',
+          'Loudoun wine-country wedding Saturdays (Apr–Oct) → as early as your date is set, for Sprinter vans and Navigators',
           'GMU move-in weekend (late August) → one to two weeks ahead for SUVs and Sprinter vans',
           'Thanksgiving through New Year\'s → five to seven days ahead',
           'Any forecasted winter storm → book ahead of the storm, not during it',
@@ -147,7 +147,7 @@ const batch9 = [
           'For an ordinary weekday trip, 24 hours ahead is enough. Around a specific Northern Virginia event — graduation, a wine-country wedding, a holiday week — book as soon as your date is confirmed instead.',
       },
       {
-        question: 'Why do Sprinter vans and limousines book up faster than sedans?',
+        question: 'Why do Sprinter vans and Navigators book up faster than sedans?',
         answer:
           'Fewer of those vehicles exist in any standing fleet, and the same vehicles serve both weddings and group airport transfers, so wedding-season Saturdays pull from the same limited pool. Booking as soon as your date is set gives you the best chance of getting the vehicle your group needs on a busy weekend.',
       },

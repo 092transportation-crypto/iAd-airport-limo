@@ -8,7 +8,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small families with luggage" },
 ];
 
 export const MARYLAND_BATCH6 = [
@@ -81,7 +81,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Maryland Corporate Car Service", to: "/maryland-corporate-car-service" },
       { label: "Potomac Wedding Limo Service", to: "/potomac-wedding-limo-service" },
     ],
-    schema: { areaServed: ["Potomac, MD", "Montgomery County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Potomac, MD", "Montgomery County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "annapolis-limo-service",
@@ -106,7 +106,7 @@ export const MARYLAND_BATCH6 = [
       "Naval Academy commissioning week, Parents' Weekend and graduation transportation, booked well in advance",
       "Meet and greet inside baggage claim, with 45 minutes of complimentary wait time on domestic arrivals and 60 on international",
       "Chauffeurs familiar with City Dock, Rowe Boulevard, US-50 and the Severn River Bridge traffic pattern",
-      "Sprinter vans and stretch limousines for sailing-week groups, weddings and reunions",
+      "Sprinter vans for sailing-week groups, weddings and reunions",
       "Licensed and insured Virginia and Maryland carrier",
     ],
     sections: [
@@ -126,7 +126,7 @@ export const MARYLAND_BATCH6 = [
       {
         h2: "Naval Academy events, weddings and sailing week",
         paragraphs: [
-          "Annapolis bookings spike around Naval Academy commissioning week, Parents' Weekend, Army-Navy watch parties and graduation, when hotels fill and every car service in the region is fully booked — we recommend reserving these dates weeks ahead. The same applies to Annapolis sailing week, the fall and spring boat shows, and waterfront weddings, all of which bring Sprinter van and stretch limousine bookings for groups moving between hotels, the Academy and the venue.",
+          "Annapolis bookings spike around Naval Academy commissioning week, Parents' Weekend, Army-Navy watch parties and graduation, when hotels fill and every car service in the region is fully booked — we recommend reserving these dates weeks ahead. The same applies to Annapolis sailing week, the fall and spring boat shows, and waterfront weddings, all of which bring Sprinter van bookings for groups moving between hotels, the Academy and the venue.",
         ],
       },
     ],
@@ -135,7 +135,7 @@ export const MARYLAND_BATCH6 = [
       { q: "How much is a car service from Annapolis to BWI or Dulles?", a: "We quote a flat rate by vehicle and address, confirmed in writing before you ride, with no surge pricing. Call (877) 609-1919 or book online for exact pricing to BWI, IAD or DCA." },
       { q: "How far is BWI from Annapolis?", a: "About 25 miles and 30–45 minutes via US-50 and I-97, making BWI the fastest airport option for most Annapolis travelers. Every BWI pickup is flight-tracked, with meet and greet inside baggage claim available on request." },
       { q: "Do you handle Naval Academy commissioning week and graduation?", a: "Yes, every year. These are our busiest Annapolis dates — we recommend booking as soon as your dates are confirmed, since vehicles sell out weeks ahead." },
-      { q: "Can you provide a Sprinter van for a sailing week or wedding group?", a: "Yes. Our 13-passenger Sprinter vans and stretch limousines regularly handle Annapolis wedding parties, sailing-week crews and family reunions moving between hotels and the venue." },
+      { q: "Can you provide a Sprinter van for a sailing week or wedding group?", a: "Yes. Our 13-passenger Sprinter vans regularly handle Annapolis wedding parties, sailing-week crews and family reunions moving between hotels and the venue." },
       { q: "Do you serve the Annapolis boat shows?", a: "Yes. We run dedicated transportation for both the fall sail and powerboat shows — see our Annapolis Boat Show page for show-specific pickup details." },
     ],
     related: [
@@ -147,7 +147,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Arnold Limo Service", to: "/arnold-limo-service" },
       { label: "Chesapeake Bay Events Transportation", to: "/chesapeake-bay-events-transportation" },
     ],
-    schema: { areaServed: ["Annapolis, MD", "Anne Arundel County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Annapolis, MD", "Anne Arundel County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "columbia-md-limo-service",
@@ -221,7 +221,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Laurel Limo Service", to: "/laurel-limo-service" },
       { label: "Clarksville Limo Service", to: "/clarksville-limo-service" },
     ],
-    schema: { areaServed: ["Columbia, MD", "Howard County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Columbia, MD", "Howard County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "brambleton-limo-service",
@@ -284,7 +284,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
       { label: "Dulles Town Center Transportation", to: "/dulles-town-center-transportation" },
     ],
-    schema: { areaServed: ["Brambleton, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Brambleton, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "homecoming-limo-service",
@@ -294,19 +294,19 @@ export const MARYLAND_BATCH6 = [
     h1: "Homecoming Limo Service",
     metaTitle: "Homecoming Limo Service | DC, MD & VA",
     metaDescription:
-      "Safe, supervised homecoming limo service across DC, Maryland and Virginia — sedans, SUVs and stretch limos with a professional chauffeur. (877) 609-1919.",
+      "Safe, supervised homecoming limo service across DC, Maryland and Virginia — sedans, SUVs and Sprinter vans with a professional chauffeur. (877) 609-1919.",
     stats: [
       { label: "Coverage", value: "Maryland · DC · Virginia" },
-      { label: "Fleet", value: "Sedans · SUVs · Sprinters · Limos" },
+      { label: "Fleet", value: "Sedans · SUVs · Sprinter vans" },
       { label: "Availability", value: "24/7, booked weeks ahead for dance season" },
     ],
     intro: [
       "Homecoming season brings the same group-coordination problem as prom, usually with less lead time: a dance, a dinner reservation and a group of teenagers who want to arrive together and get home safely without a parent playing designated driver between three or four houses. Our homecoming limo service covers Washington DC, Northern Virginia and Maryland with a professional, background-checked chauffeur for the whole night.",
-      "Groups typically book a stretch limousine or a Sprinter van for six to thirteen students, with a flat rate covering pickup at each house, the dinner stop, the dance, and drop-off at the end of the night. Parents get a confirmed itinerary in advance and a chauffeur who stays with the group the entire evening — not a rideshare driver who disappears after one leg of the trip.",
+      "Groups typically book a Lincoln Navigator for up to six students or a Sprinter van for up to thirteen, with a flat rate covering pickup at each house, the dinner stop, the dance, and drop-off at the end of the night. Parents get a confirmed itinerary in advance and a chauffeur who stays with the group the entire evening — not a rideshare driver who disappears after one leg of the trip.",
     ],
     highlights: [
       "Flat-rate pricing for the full night — pickup, dinner stop, dance and drop-off — confirmed before you book",
-      "Stretch limousines and Sprinter vans sized for groups of six to thirteen students",
+      "Lincoln Navigators and Sprinter vans sized for groups of up to thirteen students",
       "Professional, background-checked chauffeurs who stay with the group for the entire evening",
       "Parents receive a confirmed itinerary and the chauffeur's direct contact number",
       "No alcohol policy strictly enforced, with chauffeurs trained to handle group dynamics appropriately",
@@ -316,7 +316,7 @@ export const MARYLAND_BATCH6 = [
       {
         h2: "How a homecoming group books with us",
         paragraphs: [
-          "Most homecoming groups book an SUV for a smaller group or a stretch limousine or Sprinter van for a larger one, with one organizing parent coordinating pickup addresses, the dinner reservation and the dance venue and start time. We quote the whole night as a single flat rate — no mileage surprises, no per-stop fees — and confirm the exact pickup order and timing with the organizing parent before the night.",
+          "Most homecoming groups book an SUV for a smaller group or a Sprinter van for a larger one, with one organizing parent coordinating pickup addresses, the dinner reservation and the dance venue and start time. We quote the whole night as a single flat rate — no mileage surprises, no per-stop fees — and confirm the exact pickup order and timing with the organizing parent before the night.",
           "A typical homecoming itinerary runs four to six hours: pickups across two or three neighborhoods, a dinner reservation, the dance itself, and a final drop-off run reversing the pickup order. We build in realistic timing for each stop so the group is never rushed and never waiting.",
         ],
       },
@@ -326,17 +326,17 @@ export const MARYLAND_BATCH6 = [
           "Every chauffeur is licensed, background-checked and trained specifically for teen group bookings, with a strict no-alcohol policy enforced throughout the night. Parents receive the chauffeur's direct number and a confirmed itinerary before the event, and can call dispatch at any point in the evening for a status update — a level of visibility a rideshare booking simply cannot offer.",
           "Vehicles are inspected and detailed before every homecoming booking, and our dispatch team tracks the group's schedule in real time, adjusting for a dinner reservation that runs long or a dance that lets out earlier than planned.",
           "Payment is settled in advance by the organizing parent, so there is no awkward splitting of a fare among teenagers at the end of the night, and gratuity is already built into the quoted flat rate.",
-          "Sprinter vans and stretch limousines require 12 hours",
+          "Sprinter vans and special-event bookings require 12 hours' notice.",
         ],
       },
     ],
     vehicles: VEHICLES,
     faqs: [
       { q: "How much does homecoming limo service cost?", a: "Pricing depends on vehicle size and the length of the booking, quoted as one flat rate for the whole night with no mileage or per-stop fees. Call (877) 609-1919 for an exact quote." },
-      { q: "How far ahead should we book for homecoming?", a: "Four to six weeks ahead is ideal. Stretch limousines and Sprinter vans for homecoming season sell out fastest, especially on the first two homecoming weekends in a given area." },
+      { q: "How far ahead should we book for homecoming?", a: "Four to six weeks ahead is ideal. Sprinter vans and Lincoln Navigators for homecoming season sell out fastest, especially on the first two homecoming weekends in a given area." },
       { q: "Is there a no-alcohol policy?", a: "Yes, strictly enforced. Chauffeurs are trained to handle teen group bookings appropriately and will not transport a group that violates the policy." },
       { q: "Can parents track the group or reach the chauffeur during the night?", a: "Yes. Parents receive the chauffeur's direct contact number and a confirmed itinerary in advance, and can call dispatch at any point for a status update." },
-      { q: "What vehicles work best for a homecoming group?", a: "A Lincoln Navigator fits a smaller group of up to six; a Sprinter van or stretch limousine fits larger groups of eight to thirteen comfortably with room for everyone to ride together. One organizing parent usually collects the pickup addresses, dinner reservation and dance time so we can size the vehicle and quote one flat rate." },
+      { q: "What vehicles work best for a homecoming group?", a: "A Lincoln Navigator fits a smaller group of up to six; a Sprinter van fits larger groups of seven to thirteen comfortably with room for everyone to ride together. One organizing parent usually collects the pickup addresses, dinner reservation and dance time so we can size the vehicle and quote one flat rate." },
       
     ],
     related: [
@@ -346,7 +346,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Northern Virginia Graduation Limo", to: "/northern-virginia-graduation-limo" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Washington, DC", "Northern Virginia", "Maryland"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Washington, DC", "Northern Virginia", "Maryland"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "bar-bat-mitzvah-limo-service",
@@ -359,7 +359,7 @@ export const MARYLAND_BATCH6 = [
       "Chauffeured bar and bat mitzvah transportation across DC, Maryland and Virginia — synagogue, reception and guest shuttles. Call (877) 609-1919.",
     stats: [
       { label: "Coverage", value: "Maryland · DC · Virginia" },
-      { label: "Fleet", value: "Sedans · SUVs · Sprinters · Limos" },
+      { label: "Fleet", value: "Sedans · SUVs · Sprinter vans" },
       { label: "Specialty", value: "Multi-stop synagogue & reception shuttles" },
     ],
     intro: [
@@ -414,7 +414,7 @@ export const MARYLAND_BATCH6 = [
       { label: "Maryland Corporate Car Service", to: "/maryland-corporate-car-service" },
       { label: "Northern Virginia Anniversary Limo", to: "/northern-virginia-anniversary-limo" },
     ],
-    schema: { areaServed: ["Washington, DC", "Northern Virginia", "Maryland"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Washington, DC", "Northern Virginia", "Maryland"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "nationals-park-transportation",

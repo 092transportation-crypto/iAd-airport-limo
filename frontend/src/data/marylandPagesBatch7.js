@@ -8,7 +8,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small parties who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH7 = [
@@ -79,7 +79,7 @@ export const MARYLAND_BATCH7 = [
       { label: "IAD to Leesburg", to: "/iad-to-leesburg-va" },
       { label: "Loudoun County Transportation Guide", to: "/loudoun-county-transportation-guide" },
     ],
-    schema: { areaServed: ["Lansdowne, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Lansdowne, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "stone-ridge-limo-service",
@@ -148,7 +148,7 @@ export const MARYLAND_BATCH7 = [
       { label: "IAD Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
     ],
-    schema: { areaServed: ["Stone Ridge, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Stone Ridge, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "dulles-va-limo-service",
@@ -217,7 +217,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Herndon Limo Service", to: "/herndon-limo-service" },
       { label: "Sterling Limo Service", to: "/sterling-limo-service" },
     ],
-    schema: { areaServed: ["Dulles, VA", "Loudoun County", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Dulles, VA", "Loudoun County", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "merrifield-limo-service",
@@ -285,7 +285,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Falls Church Limo Service", to: "/falls-church-limo-service" },
       { label: "Corporate Travel", to: "/corporate" },
     ],
-    schema: { areaServed: ["Merrifield, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Merrifield, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "kingstowne-limo-service",
@@ -332,7 +332,7 @@ export const MARYLAND_BATCH7 = [
         h2: "Family and corporate service in Kingstowne",
         paragraphs: [
           "Kingstowne bookings range from family airport transfers with car seats to daily executive commutes into DC and Tysons, and corporate accounts for the office parks near the interchange. Our chauffeurs are familiar with the community's village layout and plan pickups accordingly rather than guessing at a building number.",
-          "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans, limousines and special-event bookings.",
+          "Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings.",
           "Same-day bookings are usually available — call (877) 609-1919 to confirm. For families or groups flying on separate itineraries, we coordinate multiple vehicles dispatched together so each flight is tracked individually and everyone reaches home or the hotel on schedule.",
         ],
       },
@@ -355,7 +355,7 @@ export const MARYLAND_BATCH7 = [
       { label: "IAD to Alexandria", to: "/iad-to-alexandria" },
       { label: "Mount Vernon Transportation", to: "/mount-vernon-transportation" },
     ],
-    schema: { areaServed: ["Kingstowne, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Kingstowne, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "fair-oaks-limo-service",
@@ -425,7 +425,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Fairfax County Car Service", to: "/fairfax-county-car-service" },
       { label: "IAD Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
     ],
-    schema: { areaServed: ["Fair Oaks, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Fair Oaks, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "fair-lakes-limo-service",
@@ -494,7 +494,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Dulles Airport Corporate Car Service", to: "/dulles-airport-corporate-car-service" },
       { label: "Corporate Travel", to: "/corporate" },
     ],
-    schema: { areaServed: ["Fair Lakes, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Fair Lakes, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "seven-corners-limo-service",
@@ -562,7 +562,7 @@ export const MARYLAND_BATCH7 = [
       { label: "IAD to Falls Church", to: "/iad-to-falls-church-va" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Seven Corners, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Seven Corners, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "baileys-crossroads-limo-service",
@@ -630,7 +630,7 @@ export const MARYLAND_BATCH7 = [
       { label: "IAD to Falls Church", to: "/iad-to-falls-church-va" },
       { label: "Alexandria Limo Service", to: "/alexandria-limo-service" },
     ],
-    schema: { areaServed: ["Bailey's Crossroads, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Bailey's Crossroads, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "franconia-limo-service",
@@ -700,7 +700,7 @@ export const MARYLAND_BATCH7 = [
       { label: "IAD to Springfield, VA", to: "/iad-to-springfield-va" },
       { label: "Corporate Travel", to: "/corporate" },
     ],
-    schema: { areaServed: ["Franconia, VA", "Fairfax County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Franconia, VA", "Fairfax County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "bristow-limo-service",
@@ -768,7 +768,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Nokesville Limo Service", to: "/nokesville-limo-service" },
       { label: "Prince William County Car Service", to: "/prince-william-county-car-service" },
     ],
-    schema: { areaServed: ["Bristow, VA", "Prince William County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Bristow, VA", "Prince William County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "nokesville-limo-service",
@@ -837,7 +837,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Prince William County Car Service", to: "/prince-william-county-car-service" },
       { label: "IAD Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
     ],
-    schema: { areaServed: ["Nokesville, VA", "Prince William County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Nokesville, VA", "Prince William County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "marshall-va-limo-service",
@@ -882,7 +882,7 @@ export const MARYLAND_BATCH7 = [
       {
         h2: "Airport transfers and estate events",
         paragraphs: [
-          "Dulles is about 25 miles — 30 to 40 minutes via I-66 — the most practical airport for Marshall travel, with Reagan National at 50 miles and BWI at 75 miles also available at the same flat-rate structure. Marshall and the surrounding estates also host weddings and private events; a Sprinter van or stretch limousine handles a wedding party or group booking the same way as any other event transportation we run.",
+          "Dulles is about 25 miles — 30 to 40 minutes via I-66 — the most practical airport for Marshall travel, with Reagan National at 50 miles and BWI at 75 miles also available at the same flat-rate structure. Marshall and the surrounding estates also host weddings and private events; a Sprinter van (up to 13 passengers) or a Lincoln Navigator handles a wedding party or group booking the same way as any other event transportation we run.",
           "Often yes for sedans and SUVs, though a little extra lead time helps given the distance. Call (877) 609-1919 to check availability.",
         ],
       },
@@ -893,7 +893,7 @@ export const MARYLAND_BATCH7 = [
       { q: "Do you run wine tour days from Marshall?", a: "Yes. Hourly as-directed service covers a day of tastings at nearby Fauquier County wineries — tell us your preferences and we will build a realistic schedule." },
       { q: "What does a Marshall to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Do you serve rural estate and farm addresses near Marshall?", a: "Yes. We confirm exact directions with you before dispatch, since many Marshall-area addresses are on rural routes." },
-      { q: "Can you provide a vehicle for a wedding or event at a Fauquier County estate?", a: "Yes. A Sprinter van or stretch limousine handles wedding parties and group bookings at estates near Marshall the same way as any other event booking." },
+      { q: "Can you provide a vehicle for a wedding or event at a Fauquier County estate?", a: "Yes. A Sprinter van (up to 13 passengers) or a Lincoln Navigator handles wedding parties and group bookings at estates near Marshall the same way as any other event booking." },
       
     ],
     related: [
@@ -904,7 +904,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Maryland Wine Tour Transportation", to: "/maryland-wine-tour-transportation" },
       { label: "IAD Dulles Airport Car Service", to: "/iad-dulles-airport-car-service" },
     ],
-    schema: { areaServed: ["Marshall, VA", "Fauquier County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Marshall, VA", "Fauquier County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "round-hill-limo-service",
@@ -949,7 +949,7 @@ export const MARYLAND_BATCH7 = [
       {
         h2: "Airport transfers and estate events",
         paragraphs: [
-          "Dulles is about 25 miles — 30 to 40 minutes via Route 7 — the most practical airport for Round Hill travel, with Reagan National at 48 miles and BWI at 70 miles also available at the same flat-rate structure. Round Hill and the surrounding farms also host weddings and private events; a Sprinter van or stretch limousine handles a wedding party or group booking the same way as any other event transportation we run.",
+          "Dulles is about 25 miles — 30 to 40 minutes via Route 7 — the most practical airport for Round Hill travel, with Reagan National at 48 miles and BWI at 70 miles also available at the same flat-rate structure. Round Hill and the surrounding farms also host weddings and private events; a Sprinter van (up to 13 passengers) or a Lincoln Navigator handles a wedding party or group booking the same way as any other event transportation we run.",
           "Often yes for sedans and SUVs, though a little extra lead time helps given the distance. Call (877) 609-1919 to check availability.",
         ],
       },
@@ -960,7 +960,7 @@ export const MARYLAND_BATCH7 = [
       { q: "Do you run wine tour days from Round Hill?", a: "Yes. Hourly as-directed service covers a day of tastings at nearby western Loudoun wineries near Bluemont and Purcellville." },
       { q: "What does a Round Hill to Dulles car service cost?", a: "Every trip is a flat rate by vehicle and address, confirmed in writing before you book, with no surge pricing. Call (877) 609-1919 for an exact quote." },
       { q: "Do you serve rural farm and estate addresses near Round Hill?", a: "Yes. We confirm exact directions with you before dispatch, since many Round Hill-area addresses are on rural routes." },
-      { q: "Can you provide a vehicle for a wedding or event at a nearby farm or vineyard?", a: "Yes. A Sprinter van or stretch limousine handles wedding parties and group bookings the same way as any other event booking." },
+      { q: "Can you provide a vehicle for a wedding or event at a nearby farm or vineyard?", a: "Yes. A Sprinter van (up to 13 passengers) or a Lincoln Navigator handles wedding parties and group bookings the same way as any other event booking." },
       
     ],
     related: [
@@ -971,7 +971,7 @@ export const MARYLAND_BATCH7 = [
       { label: "Loudoun County Transportation Guide", to: "/loudoun-county-transportation-guide" },
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
     ],
-    schema: { areaServed: ["Round Hill, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Round Hill, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "lovettsville-limo-service",
@@ -1010,14 +1010,14 @@ export const MARYLAND_BATCH7 = [
       {
         h2: "Historic district events and Oktoberfest",
         paragraphs: [
-          "Lovettsville's German heritage is celebrated each year with a well-attended Oktoberfest, and the town's historic district draws steady visitor traffic for its preserved 19th-century architecture. We run group and individual transportation for these events, with a Sprinter van or stretch limousine handling larger parties who want to enjoy the celebration without anyone needing to drive home afterward.",
+          "Lovettsville's German heritage is celebrated each year with a well-attended Oktoberfest, and the town's historic district draws steady visitor traffic for its preserved 19th-century architecture. We run group and individual transportation for these events, with a Sprinter van seating up to 13 handling larger parties who want to enjoy the celebration without anyone needing to drive home afterward.",
         ],
       },
       {
         h2: "Airport transfers from Lovettsville",
         paragraphs: [
           "Dulles is about 30 miles — 35 to 45 minutes via Route 287 and Route 7 — the most practical airport for Lovettsville travel, with Reagan National at 52 miles and BWI at 75 miles also available at the same flat-rate structure. Because Lovettsville sits farther from any airport than many of our other service areas, we recommend booking with a bit more lead time for an early-morning departure, though same-day requests are still accommodated when possible.",
-          "Yes. A Sprinter van or stretch limousine comfortably handles larger groups attending Lovettsville",
+          "Yes. A Sprinter van seating up to 13 comfortably handles larger groups attending Lovettsville",
           "Weekend farmers market trips and local festival pickups round out our regular Lovettsville bookings.",
         ],
       },
@@ -1039,6 +1039,6 @@ export const MARYLAND_BATCH7 = [
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
       { label: "IAD to Leesburg", to: "/iad-to-leesburg-va" },
     ],
-    schema: { areaServed: ["Lovettsville, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Lovettsville, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
 ];

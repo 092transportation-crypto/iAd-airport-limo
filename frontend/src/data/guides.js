@@ -103,7 +103,7 @@ export const GUIDES = [
       {
         question: 'What is the cancellation policy for a chauffeured booking?',
         answer:
-          'Cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans, limousines and special events. To cancel or change a booking, call dispatch around the clock at (877) 609-1919.',
+          'Cancellation is free up to 3 hours before pickup for sedans and SUVs and up to 12 hours before for Sprinter vans and special events. To cancel or change a booking, call dispatch around the clock at (877) 609-1919.',
       },
     ],
   },
@@ -813,7 +813,7 @@ export const GUIDES = [
       {
         heading: 'What to Ask Any Holiday Transportation Vendor Before You Book',
         paragraphs: [
-          'Holiday season brings out a wide range of transportation options, from licensed car services to informal party-bus operators advertising on social media, and the difference between them is not always obvious from a quote alone. Before booking anyone for a holiday lights night, ask these questions directly.',
+          'Holiday season brings out a wide range of transportation options, from licensed car services to informal operators advertising on social media, and the difference between them is not always obvious from a quote alone. Before booking anyone for a holiday lights night, ask these questions directly.',
         ],
         list: [
           'Is the rate truly flat, or can it change if the night runs long, traffic is bad, or a particular date is "high demand"? Get the answer in writing, not just verbally on the phone.',
@@ -829,7 +829,7 @@ export const GUIDES = [
       {
         heading: 'Our Cancellation and Wait-Time Policy for Holiday Bookings',
         paragraphs: [
-          'The same policies that apply to every IAD Airport Limo reservation apply to a holiday lights booking. Sedan and SUV reservations cancel free of charge up to 3 hours before pickup, and Sprinter van, limousine and special-event bookings — which is how a larger multi-stop holiday evening is typically classified — cancel free of charge up to 12 hours before pickup. That longer window on larger vehicles exists because a Sprinter held for a group on a busy December weekend is harder to rebook on short notice than a single sedan, so plan a holiday lights night with that window in mind if your group\'s plans tend to shift.',
+          'The same policies that apply to every IAD Airport Limo reservation apply to a holiday lights booking. Sedan and SUV reservations cancel free of charge up to 3 hours before pickup, and Sprinter van and special-event bookings — which is how a larger multi-stop holiday evening is typically classified — cancel free of charge up to 12 hours before pickup. That longer window on larger vehicles exists because a Sprinter held for a group on a busy December weekend is harder to rebook on short notice than a single sedan, so plan a holiday lights night with that window in mind if your group\'s plans tend to shift.',
           'Non-airport pickups, including a holiday lights evening, include 15 minutes of complimentary waiting time built into the booking, which covers the ordinary delay of a group finishing dinner, bundling up kids, or finding where the vehicle is staged outside a venue. If your evening starts at an airport pickup before heading out to see the lights, the standard airport wait policy applies instead: 45 minutes of complimentary wait on domestic arrivals and 60 minutes on international arrivals, timed from actual touchdown rather than the printed schedule.',
         ],
       },
@@ -892,7 +892,7 @@ export const GUIDES = [
       {
         question: 'What is the cancellation policy for a holiday lights booking?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, limousines and special-event bookings — which covers most larger holiday lights group evenings — cancel free of charge up to 12 hours before pickup.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings — which covers most larger holiday lights group evenings — cancel free of charge up to 12 hours before pickup.',
       },
       {
         question: 'Is there waiting time included if we are running late leaving a venue?',
@@ -1113,7 +1113,7 @@ export const GUIDES = [
         list: [
           'Standard sedan or SUV, ordinary weekday or weekend: 24 hours ahead is enough for almost every trip.',
           'International arrival or departure: same 24-hour minimum, but book a specific vehicle if you have a preference, since international travelers often want extra luggage room.',
-          'Sprinter van or stretch limousine, any day: book as early as your date is known — these are the tightest inventory in any fleet, including ours.',
+          'Sprinter van or Lincoln Navigator, any day: book as early as your date is known — these are the tightest inventory in any fleet, including ours.',
           'Holiday week (Thanksgiving through New Year, spring break) or a major regional event weekend: 5 to 7 days ahead.',
           'Wedding season Saturday (roughly April through October) needing a larger vehicle: as early as possible — these dates compete with event bookings for the same vehicles.',
           'Genuine same-day need: call rather than book online — a live dispatcher can confirm real-time availability faster than a web form.',
@@ -1142,7 +1142,7 @@ export const GUIDES = [
       {
         question: 'What is the minimum lead time for a standard Dulles airport transfer?',
         answer:
-          '24 hours covers almost every ordinary sedan or SUV trip. Book further ahead only if your date falls in a holiday week, a major event weekend, or you need a Sprinter van or stretch limousine.',
+          '24 hours covers almost every ordinary sedan or SUV trip. Book further ahead only if your date falls in a holiday week, a major event weekend, or you need a Sprinter van.',
       },
       {
         question: 'Can I still book the same day I am flying?',
@@ -1157,7 +1157,7 @@ export const GUIDES = [
       {
         question: 'Why do Sprinter vans need more lead time than sedans?',
         answer:
-          'Any fleet, including ours, carries fewer large vehicles than sedans simply because fewer trips need them. That makes Sprinter vans and stretch limousines the first vehicles to book out during busy weeks, so reserving one early matters more than it does for a standard sedan.',
+          'Any fleet, including ours, carries fewer large vehicles than sedans simply because fewer trips need them. That makes Sprinter vans and Lincoln Navigators the first vehicles to book out during busy weeks, so reserving one early matters more than it does for a standard sedan.',
       },
       {
         question: 'Where can I find the full breakdown by holiday, weather and trip type?',
@@ -1209,7 +1209,7 @@ export const GUIDES = [
       {
         heading: 'When Same-Day Is Genuinely Difficult',
         paragraphs: [
-          'Be realistic about two situations: a Sprinter van or stretch limousine request on short notice during a known peak period (a holiday week, a Saturday in wedding season), and a request that falls in the thick of a major arrival or departure bank with no flexibility on vehicle class. Neither is impossible, but both are the hardest same-day requests to accommodate, and it is worth knowing that going in rather than being surprised.',
+          'Be realistic about two situations: a Sprinter van request on short notice during a known peak period (a holiday week, a Saturday in wedding season), and a request that falls in the thick of a major arrival or departure bank with no flexibility on vehicle class. Neither is impossible, but both are the hardest same-day requests to accommodate, and it is worth knowing that going in rather than being surprised.',
         ],
       },
       {
@@ -1244,7 +1244,7 @@ export const GUIDES = [
       {
         question: 'Is a Sprinter van harder to book last-minute than a sedan?',
         answer:
-          'Yes. Larger vehicles are the tightest inventory in any fleet, so a same-day Sprinter van or stretch limousine request — especially during a peak period — is the hardest type of last-minute booking to fill.',
+          'Yes. Larger vehicles are the tightest inventory in any fleet, so a same-day Sprinter van request — especially during a peak period — is the hardest type of last-minute booking to fill.',
       },
       {
         question: 'What if dispatch cannot fill my exact request?',
@@ -1826,7 +1826,7 @@ export const GUIDES = [
       {
         heading: 'Weddings and Proms: Book Months, Not Days, Ahead',
         paragraphs: [
-          'Reston hosts a steady run of weddings centered on the Hyatt Regency Reston, the Sheraton Reston and Reston Town Center venues, and Sprinter vans and stretch limousines for the busiest spring and fall Saturdays are typically reserved months in advance — see our Reston wedding limo page for how a full wedding-day booking is structured.',
+          'Reston hosts a steady run of weddings centered on the Hyatt Regency Reston, the Sheraton Reston and Reston Town Center venues, and Sprinter vans for the busiest spring and fall Saturdays are typically reserved months in advance — see our Reston wedding limo page for how a full wedding-day booking is structured.',
           'The same applies to prom season at Northern Virginia high schools serving the Reston area: the most popular spring weekends are shared across several nearby schools, and vehicles for those specific dates book out early in the school year rather than a few weeks before the event.',
         ],
       },
@@ -1876,7 +1876,7 @@ export const GUIDES = [
       {
         question: 'What is the busiest season for Reston wedding transportation?',
         answer:
-          'Spring and fall Saturdays, when Hyatt Regency Reston and Reston Town Center venues book the most weddings and the earliest-filling vehicles are Sprinter vans and stretch limousines. For those dates, vehicles are typically reserved months in advance, so book as soon as the venue and date are set.',
+          'Spring and fall Saturdays, when Hyatt Regency Reston and Reston Town Center venues book the most weddings and the earliest-filling vehicles are Sprinter vans and Lincoln Navigators. For those dates, vehicles are typically reserved months in advance, so book as soon as the venue and date are set.',
       },
     ],
   },
@@ -2027,7 +2027,7 @@ export const GUIDES = [
       {
         heading: 'Choosing the Right Vehicle Across These Venues',
         paragraphs: [
-          'The common thread across the rural Loudoun and Fauquier venues on this list — Morven Park, Airlie, Great Meadow, Stone Tower Winery, The Barns at Hamilton Station — is gravel, grass or limited parking that favors a Sprinter van for both the bridal party and any guest shuttle. The more urban or resort-style venues — Lansdowne Resort, Belmont Country Club, Old Town Alexandria — can often accommodate a traditional stretch limousine as well, though a Sprinter remains the more economical choice for larger wedding parties at any of them.',
+          'The common thread across the rural Loudoun and Fauquier venues on this list — Morven Park, Airlie, Great Meadow, Stone Tower Winery, The Barns at Hamilton Station — is gravel, grass or limited parking that favors a Sprinter van for both the bridal party and any guest shuttle. The more urban or resort-style venues — Lansdowne Resort, Belmont Country Club, Old Town Alexandria — can also accommodate a First Class Sedan or Lincoln Navigator for the couple, though a Sprinter remains the more economical choice for larger wedding parties at any of them. (We don\'t operate stretch limousines.)',
           'Whichever venue you choose, book your wedding-day transportation as one hourly, as-directed reservation covering the full day rather than separate point-to-point trips — call (877) 609-1919 or book online with your venue and timeline.',
         ],
       },
@@ -2051,7 +2051,7 @@ export const GUIDES = [
           'Belmont Country Club in Ashburn, typically 10 to 20 minutes from Dulles — the shortest airport run of any venue on this list. That makes it an easy venue for out-of-town guests flying into Dulles, with every airport pickup flight-tracked so arrivals are timed to the actual landing.',
       },
       {
-        question: 'Which venues need a Sprinter van rather than a stretch limousine?',
+        question: 'Which venues are best suited to a Sprinter van?',
         answer:
           'The rural Loudoun and Fauquier venues — Morven Park, Airlie, Great Meadow, Stone Tower Winery and The Barns at Hamilton Station — all have gravel, grass or limited parking that favors a Sprinter van for the bridal party and any guest shuttle. A Sprinter seats up to 13, which keeps most bridal parties in one vehicle, and a separate Sprinter can handle the hotel-to-venue guest shuttle.',
       },
@@ -2068,7 +2068,7 @@ export const GUIDES = [
       {
         question: 'How far in advance should we book transportation for one of these venues?',
         answer:
-          '2 to 4 months ahead for a popular spring or fall Saturday, since Sprinter vans and stretch limousines for peak wedding season book out first. Once the date and venue are set, share the full day\'s timeline so drive times and buffers between stops can be planned around that venue\'s access and parking.',
+          '2 to 4 months ahead for a popular spring or fall Saturday, since Sprinter vans for peak wedding season book out first. Once the date and venue are set, share the full day\'s timeline so drive times and buffers between stops can be planned around that venue\'s access and parking.',
       },
     ],
   },

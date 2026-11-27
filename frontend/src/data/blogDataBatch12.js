@@ -118,13 +118,13 @@ const batch12 = [
       {
         heading: '"Limousine" Specifically Means a Stretched or Extended Vehicle',
         paragraphs: [
-          'A limousine, in the strict sense, refers to a stretched vehicle with an extended passenger compartment — the classic stretch limo, though limousine fleets can also include stretch SUVs. This is the one term of the three that still describes a specific vehicle type rather than a general service category, and it is the right word to use when you specifically want a stretch vehicle for a wedding, prom or special event rather than a standard sedan.',
+          'A limousine, in the strict sense, refers to a stretched vehicle with an extended passenger compartment — the classic stretch limo, though limousine fleets can also include stretch SUVs. This is the one term of the three that still describes a specific vehicle type rather than a general service category. IAD Airport Limo does not operate stretch limousines; for weddings, proms and special events we use the Mercedes Sprinter Executive, which seats up to 13 in an upgraded cabin, or a First Class Sedan or Lincoln Navigator for a couple.',
         ],
       },
       {
         heading: 'What to Actually Ask For When You Book',
         paragraphs: [
-          'Rather than relying on any of these three terms alone, the clearest way to book is to specify what you need directly: a business sedan for one or two passengers, a luxury SUV for a family or group with luggage, a Sprinter van for a larger party, or a stretch limousine specifically if you want the extended-vehicle experience for a wedding or special occasion. Any reputable car service will walk you through the fleet options rather than assuming which one you mean.',
+          'Rather than relying on any of these three terms alone, the clearest way to book is to specify what you need directly: a business sedan for one or two passengers, a luxury SUV for a family or group with luggage, a Sprinter van for a larger party, or the Sprinter Executive for a wedding or special occasion that calls for an upgraded cabin. Any reputable car service will walk you through the fleet options rather than assuming which one you mean.',
         ],
       },
     ],
@@ -132,7 +132,7 @@ const batch12 = [
       {
         question: 'Is a black car the same as a limousine?',
         answer:
-          'Not exactly. "Black car" is a general service category for professional chauffeured transportation, while "limousine" specifically refers to a stretched vehicle. A black car service can include limousines in its fleet, but the terms aren\'t interchangeable.',
+          'Not exactly. "Black car" is a general service category for professional chauffeured transportation, while "limousine" specifically refers to a stretched vehicle. Some black car services include stretch vehicles in their fleets, but the terms aren\'t interchangeable; ours runs sedans, SUVs and Sprinter vans only.',
       },
       {
         question: 'Do town cars still exist?',
@@ -140,19 +140,19 @@ const batch12 = [
           'The Lincoln Town Car, the vehicle that popularized the term, was discontinued years ago. "Town car" booking requests today are generally fulfilled with a comparable full-size luxury sedan. Our own sedans are the Mercedes-Benz E-Class and BMW 7 Series, so ask which is available if you want that classic black-car look.',
       },
       {
-        question: 'What should I ask for if I want a stretch vehicle?',
+        question: 'What should I ask for if I want a stretch vehicle for a group?',
         answer:
-          'Ask specifically for a "stretch limousine" or "stretch SUV" — this is the one term of the three that reliably describes an extended vehicle rather than a standard sedan. Our fleet is made up of sedans, SUVs and Mercedes Sprinter vans, so for a larger group we would point you to the Sprinter, which seats up to 13 passengers.',
+          'Elsewhere, "stretch limousine" is the term that reliably describes an extended vehicle rather than a standard sedan. We don\'t operate stretch limousines; our fleet is sedans, SUVs and Mercedes Sprinter vans, so for a group we would point you to the Sprinter Executive, which seats up to 13 passengers.',
       },
       {
         question: 'What vehicles does IAD Airport Limo offer?',
         answer:
-          'Mercedes-Benz E-Class and BMW 7 Series sedans, Lincoln Navigator and Chevrolet Suburban SUVs, 13-passenger Mercedes Sprinter vans, and stretch limousines — see our fleet page for the full lineup. Your written confirmation names the vehicle class you booked.',
+          'Mercedes-Benz E-Class and BMW 7 Series or Mercedes S-Class sedans, Lincoln Nautilus, Chevrolet Suburban and Lincoln Navigator SUVs, and 13-passenger Mercedes Sprinter Shuttle and Sprinter Executive vans — see our fleet page for the full lineup. Your written confirmation names the vehicle class you booked.',
       },
       {
         question: 'Does it matter which term I use when I book?',
         answer:
-          'Not much, as long as you describe what you actually need — passenger count, luggage, and whether you want a standard sedan, an SUV or a stretch vehicle. We confirm the exact vehicle before your rate is finalized.',
+          'Not much, as long as you describe what you actually need — passenger count, luggage, and whether you want a sedan, an SUV or a Sprinter van. We confirm the exact vehicle before your rate is finalized.',
       },
     ],
     relatedLinks: [
@@ -784,9 +784,9 @@ const batch12 = [
     readTime: '5 min read',
     excerpt:
       'Splitting a group transportation cost fairly is a small logistics problem with an easy fix once you know the common approaches. Here they are.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
-      'A group booking a Sprinter van or stretch limousine for a bachelorette party, prom night, wine tour or airport run eventually runs into the same question: how do we split this fairly? There is no single right answer, but a few common approaches cover most situations.',
+      'A group booking a Sprinter van or Sprinter Executive for a bachelorette party, prom night, wine tour or airport run eventually runs into the same question: how do we split this fairly? There is no single right answer, but a few common approaches cover most situations.',
     ],
     sections: [
       {

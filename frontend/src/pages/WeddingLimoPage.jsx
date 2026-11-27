@@ -58,7 +58,7 @@ const WeddingLimoPage = () => {
       name: 'Premium Package',
       description: 'For the ultimate wedding experience',
       features: [
-        'Stretch limousine or Sprinter',
+        'Sprinter Executive or First Class Sedan',
         '6 hours of service',
         'Custom floral decorations',
         'Champagne & refreshments',
@@ -257,13 +257,13 @@ const WeddingLimoPage = () => {
               Share your draft timeline when you first book, even if it is not finalized — getting-ready location, ceremony time, photo locations, and reception venue. We flag realistic timing issues before the day, not on it: a fifteen-minute buffer that looked fine on paper often is not once you account for a bridal party photo stop or DC-area traffic between venues.
             </p>
             <p className="text-white/70 leading-relaxed">
-              Many couples book more than one vehicle — a Sprinter for the wedding party and a separate sedan or limousine reserved just for the couple, so the newlyweds are not waiting on group logistics for their own exit. Every wedding booking includes a dry run of the route beforehand and a chauffeur in formal attire, with red carpet and "Just Married" decorations included at no extra charge.
+              Many couples book more than one vehicle — a Sprinter for the wedding party and a separate First Class Sedan or Lincoln Navigator reserved just for the couple, so the newlyweds are not waiting on group logistics for their own exit. Every wedding booking includes a dry run of the route beforehand and a chauffeur in formal attire, with red carpet and "Just Married" decorations included at no extra charge.
             </p>
             <p className="text-white/70 leading-relaxed">
               Guest shuttles between a hotel block and the ceremony or reception venue are one of the most overlooked logistics details on a wedding day, and one of the easiest to solve with a dedicated vehicle running a continuous loop rather than guests coordinating their own rides on rural roads at night. We coordinate the loop schedule directly with your planner or venue when there is one, and build in extra runs around the ceremony start time and the end of the reception, when demand for a ride is highest.
             </p>
             <p className="text-white/70 leading-relaxed">
-              Popular spring and fall Saturdays across Loudoun County vineyards, DC hotels and Annapolis waterfront venues book out furthest in advance, especially for Sprinter vans and stretch limousines — the same fleet used for airport group transfers and other event bookings. If your date is set, we recommend confirming your wedding transportation within two to six months of the ceremony rather than waiting until closer to the day, when your preferred vehicle class may already be booked for another wedding the same weekend.
+              Popular spring and fall Saturdays across Loudoun County vineyards, DC hotels and Annapolis waterfront venues book out furthest in advance, especially for Sprinter vans — the same fleet used for airport group transfers and other event bookings. If your date is set, we recommend confirming your wedding transportation within two to six months of the ceremony rather than waiting until closer to the day, when your preferred vehicle class may already be booked for another wedding the same weekend.
             </p>
           </div>
         </div>

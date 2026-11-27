@@ -23,7 +23,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small parties who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH14 = [
@@ -42,7 +42,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "110 mi · 2 hours – 2 hours 15 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Charlottesville and the surrounding Monticello wine trail are one of Virginia's best-known wedding destinations — vineyard venues with Blue Ridge views, historic estates, and a compact, walkable downtown where most wedding parties stay the weekend. Because so many Charlottesville weddings draw guests flying into Dulles or Richmond rather than driving from town, we run this as a destination-wedding market: group airport pickups, hotel shuttles and a full wedding-day itinerary on a single reservation.",
@@ -53,7 +53,7 @@ export const MARYLAND_BATCH14 = [
       "Group airport pickups from Dulles for out-of-town wedding guests flying in for the weekend",
       "Guest shuttles between downtown hotels and vineyard or estate venues",
       "Chauffeurs experienced with gravel vineyard drives and limited on-site parking",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Virginia carrier for the full Charlottesville weekend",
     ],
     sections: [
@@ -67,7 +67,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Vineyard and estate venue logistics",
         paragraphs: [
-          "Charlottesville's most-booked wedding venues sit along the Monticello wine trail and surrounding countryside, often at the end of gravel entrance roads with limited guest parking by design. We confirm each venue's specific access and parking plan ahead of time, and will recommend a sedan or SUV instead of a stretch limousine when a particular drive calls for it.",
+          "Charlottesville's most-booked wedding venues sit along the Monticello wine trail and surrounding countryside, often at the end of gravel entrance roads with limited guest parking by design. We confirm each venue's specific access and parking plan ahead of time, and will recommend a sedan or SUV instead of a Sprinter van when a particular drive calls for it.",
         ],
       },
       {
@@ -94,7 +94,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you provide wedding transportation for Charlottesville vineyard and estate venues?", a: "Yes, including venues along the Monticello wine trail and surrounding countryside. Tell us the venue when you book and we confirm gate and parking logistics in advance." },
       { q: "Can you pick up out-of-town wedding guests flying into Dulles?", a: "Yes. We regularly run group airport pickups from Dulles for Charlottesville wedding weekends, tracked against each guest's actual flight." },
       { q: "How far is Charlottesville from Dulles Airport?", a: "About 110 miles, roughly 2 hours to 2 hours 15 minutes depending on traffic. Because the drive is that long, we confirm guests' flight times well in advance and stage group pickups so nobody arriving on a different flight is left waiting at the airport." },
-      { q: "Can a stretch limousine access a vineyard's gravel entrance road?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a limousine is not practical." },
+      { q: "Can a Sprinter van access a vineyard's gravel entrance road?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a Sprinter van is not practical." },
       { q: "How far ahead should we book a Charlottesville wedding weekend?", a: "As early as possible, especially for a Saturday in spring or fall, which is peak wedding season for the Monticello wine trail. Include your venue, guest count and arrival flights when you book, so the airport pickups, hotel shuttles and wedding day are planned together." },
     ],
     related: [
@@ -105,7 +105,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Winchester Wedding Limo Service", to: "/winchester-va-wedding-limo-service" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Charlottesville, VA", "Albemarle County, VA", "Monticello Wine Trail"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Charlottesville, VA", "Albemarle County, VA", "Monticello Wine Trail"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Winchester wedding
@@ -122,7 +122,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "70 mi · 75–90 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Winchester sits at the northern end of the Shenandoah Valley, surrounded by a growing cluster of wineries, orchard venues and historic farm properties that have made it a regional wedding destination distinct from the Loudoun horse-country scene closer to Dulles. We provide hourly, as-directed wedding-day transportation built around valley venue logistics — long approach roads, orchard and vineyard parking fields, and ceremony sites set well back from the highway.",
@@ -133,14 +133,14 @@ export const MARYLAND_BATCH14 = [
       "Chauffeurs experienced with Shenandoah Valley winery and orchard venue access",
       "Guest shuttles in Sprinter vans between Old Town hotels and farm or vineyard venues",
       "Coordinated timing with wedding planners familiar with valley venue logistics",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Virginia carrier, 70 miles and 75–90 minutes from Dulles",
     ],
     sections: [
       {
         h2: "Built for Shenandoah Valley venue logistics",
         paragraphs: [
-          "Winchester-area wineries and orchard venues are often working agricultural properties first, with ceremony lawns and reception barns a short drive from the main parking field. We confirm each venue's specific gate, parking and vendor-arrival instructions in advance, and flag any gravel or unpaved stretches that call for an SUV instead of a stretch limousine.",
+          "Winchester-area wineries and orchard venues are often working agricultural properties first, with ceremony lawns and reception barns a short drive from the main parking field. We confirm each venue's specific gate, parking and vendor-arrival instructions in advance, and flag any gravel or unpaved stretches that call for an SUV instead of a Sprinter van.",
         ],
       },
       {
@@ -173,7 +173,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Winchester-area wineries and orchard wedding venues?", a: "Yes, including working-orchard venues and wineries throughout the Shenandoah Valley near Winchester — tell us the venue when you book and we confirm gate and parking logistics in advance. Many of these are working agricultural properties with the ceremony lawn a short drive from the parking field, so we also confirm vendor-arrival instructions." },
       { q: "How far is Winchester from Dulles Airport?", a: "About 70 miles and 75 to 90 minutes depending on traffic, which makes group pickups for out-of-town wedding guests straightforward. We run those pickups in the days before the wedding, tracked against each guest's actual flight." },
       { q: "Can you shuttle guests between an Old Town hotel and a valley venue with limited parking?", a: "Yes. A Mercedes Sprinter van is the most common choice for a guest shuttle loop between a downtown hotel block and a Winchester-area venue." },
-      { q: "Can a stretch limousine access an orchard or vineyard's gravel drive?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a limousine is not practical." },
+      { q: "Can a Sprinter van access an orchard or vineyard's gravel drive?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a Sprinter van is not practical." },
       { q: "How far ahead should we book a Winchester wedding date?", a: "As early as possible, especially for a Saturday in fall orchard season, which is the Shenandoah Valley's busiest wedding window. Sprinter vans for guest shuttles are worth reserving early, since many valley venues limit on-site parking." },
     ],
     related: [
@@ -184,7 +184,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Purcellville Wedding Limo Service", to: "/purcellville-wedding-limo-service" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Winchester, VA", "Shenandoah Valley", "Frederick County, VA"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Winchester, VA", "Shenandoah Valley", "Frederick County, VA"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Annapolis wedding
@@ -212,7 +212,7 @@ export const MARYLAND_BATCH14 = [
       "Chauffeurs experienced with downtown Annapolis parking and summer boat-show traffic",
       "Guest shuttles between downtown hotels and waterfront or Naval Academy venues",
       "Coordinated timing with wedding planners familiar with Annapolis's historic district",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Maryland carrier, 55 miles from Dulles and 25 miles from BWI",
     ],
     sections: [
@@ -264,7 +264,7 @@ export const MARYLAND_BATCH14 = [
       { label: "National Harbor Wedding Limo Service", to: "/national-harbor-wedding-limo-service" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Annapolis, MD", "Anne Arundel County, MD", "United States Naval Academy"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Annapolis, MD", "Anne Arundel County, MD", "United States Naval Academy"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // National Harbor wedding
@@ -292,7 +292,7 @@ export const MARYLAND_BATCH14 = [
       "Chauffeurs experienced with Gaylord National valet and convention-weekend traffic",
       "Guest shuttles between hotel blocks and waterfront or marina ceremony sites",
       "Coordinated timing with wedding planners familiar with National Harbor's venue network",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Maryland and DC-area carrier, available 24/7",
     ],
     sections: [
@@ -343,7 +343,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Maryland Wedding Transportation", to: "/maryland-wedding-transportation" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["National Harbor, MD", "Prince George's County, MD", "Gaylord National Resort"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["National Harbor, MD", "Prince George's County, MD", "Gaylord National Resort"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Purcellville wedding
@@ -360,7 +360,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Purcellville anchors western Loudoun's wine and farm-brewery scene, within easy reach of the wineries and farm venues that make this corner of the county one of Northern Virginia's busiest wedding destinations alongside neighboring Middleburg. We provide hourly, as-directed wedding-day transportation built around rural venue access, unpaved drives and ceremony sites set well back from Route 7.",
@@ -371,14 +371,14 @@ export const MARYLAND_BATCH14 = [
       "Chauffeurs experienced with western Loudoun winery and farm-brewery venue access",
       "Guest shuttles in Sprinter vans for venues with limited on-site parking",
       "Coordinated timing with wedding planners familiar with Purcellville-area properties",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Virginia carrier, 35–50 minutes from Dulles",
     ],
     sections: [
       {
         h2: "Built for western Loudoun venue logistics",
         paragraphs: [
-          "Purcellville-area wineries and farm-brewery venues sit along rural roads off Route 7 and Route 9, often with gravel entrance drives and parking fields rather than paved lots. We confirm each venue's specific access and parking plan in advance and will recommend an SUV instead of a stretch limousine when a particular drive calls for it.",
+          "Purcellville-area wineries and farm-brewery venues sit along rural roads off Route 7 and Route 9, often with gravel entrance drives and parking fields rather than paved lots. We confirm each venue's specific access and parking plan in advance and will recommend an SUV instead of a Sprinter van when a particular drive calls for it.",
         ],
       },
       {
@@ -404,7 +404,7 @@ export const MARYLAND_BATCH14 = [
     faqs: [
       { q: "Do you serve wineries and farm-brewery venues around Purcellville?", a: "Yes, including wineries and working-farm venues throughout western Loudoun — tell us the venue when you book and we confirm gate and parking logistics in advance. Many sit off Route 7 and Route 9 with gravel drives and parking fields, which is why we check access before the day." },
       { q: "How far is Purcellville from Dulles Airport?", a: "About 35 to 50 minutes depending on traffic, making group pickups for out-of-town wedding guests straightforward. Each guest's pickup is tracked against their actual flight, with 45 minutes of complimentary waiting time on domestic arrivals and 60 on international." },
-      { q: "Can a stretch limousine access a winery or farm venue's gravel drive?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a limousine is not practical." },
+      { q: "Can a Sprinter van access a winery or farm venue's gravel drive?", a: "It depends on the specific drive. We confirm vehicle access with the venue ahead of time and will recommend a sedan or SUV instead when a Sprinter van is not practical." },
       { q: "Can you shuttle guests between a hotel and a venue with limited parking?", a: "Yes. A Mercedes Sprinter van is the most common choice for a guest shuttle loop between a Purcellville-area hotel and a winery or farm venue." },
       { q: "How far ahead should we book a Purcellville wedding date?", a: "As early as possible, especially for a Saturday between April and November, which is western Loudoun's peak wedding season. That window overlaps the wine-harvest season, so Sprinter vans for guest shuttles to venues with limited parking are worth reserving early." },
     ],
@@ -416,7 +416,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Purcellville, VA", "Western Loudoun County", "Hamilton, VA", "Round Hill, VA"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Purcellville, VA", "Western Loudoun County", "Hamilton, VA", "Round Hill, VA"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Fredericksburg wedding
@@ -433,7 +433,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "65 mi · 70–85 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Fredericksburg's historic downtown — brick storefronts, riverfront venues and a cluster of 18th- and 19th-century buildings converted into event spaces — has made it a popular mid-Atlantic wedding destination roughly halfway between Washington and Richmond. We provide hourly, as-directed wedding-day transportation built around downtown's narrow one-way streets, limited event parking and venues within easy walking distance of each other.",
@@ -444,7 +444,7 @@ export const MARYLAND_BATCH14 = [
       "Chauffeurs experienced with downtown Fredericksburg's historic-district streets and parking",
       "Guest shuttles between hotel blocks and historic venue ceremony sites",
       "Coordinated timing with wedding planners familiar with Fredericksburg's venue network",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Virginia carrier, 65 miles and 70–85 minutes from Dulles",
     ],
     sections: [
@@ -478,7 +478,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you provide wedding transportation for Fredericksburg's historic downtown venues?", a: "Yes, including historic-district venues, riverfront properties and area estates — tell us the venue when you book and we confirm drop-off and parking logistics in advance. The whole day, from the downtown hotel to the ceremony and reception, runs as one hourly reservation with the same chauffeur." },
       { q: "How far is Fredericksburg from Dulles Airport?", a: "About 65 miles and 70 to 85 minutes depending on traffic. For guests flying in for the wedding, every Dulles pickup is flight-tracked, with 45 minutes of complimentary waiting time on domestic arrivals and 60 on international." },
       { q: "Can you shuttle guests between a downtown hotel and a historic venue?", a: "Yes. A Mercedes Sprinter van is the most common choice for a guest shuttle loop within Fredericksburg's historic district." },
-      { q: "Can you handle narrow downtown streets with a stretch limousine?", a: "Yes, we regularly navigate Fredericksburg's historic district, and will recommend a sedan or SUV instead for any venue where a limousine is not practical. We confirm each venue's drop-off point and loading plan ahead of time, so vehicle choice is settled before the wedding day." },
+      { q: "Can you handle narrow downtown streets with a Sprinter van?", a: "Yes, we regularly navigate Fredericksburg's historic district, and will recommend a sedan or SUV instead for any venue where a Sprinter van is not practical. We confirm each venue's drop-off point and loading plan ahead of time, so vehicle choice is settled before the wedding day." },
       { q: "How far ahead should we book a Fredericksburg wedding date?", a: "As early as possible, especially for a Saturday in spring or fall, which is Fredericksburg's peak wedding season. Rates are hourly and confirmed in writing before the date is booked, so share your venue, timeline and guest count when you reach out." },
     ],
     related: [
@@ -489,7 +489,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Richmond Corporate Car Service", to: "/richmond-va-corporate-car-service" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Fredericksburg, VA", "Stafford County, VA", "Spotsylvania County, VA"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Fredericksburg, VA", "Stafford County, VA", "Spotsylvania County, VA"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // McLean wedding
@@ -517,7 +517,7 @@ export const MARYLAND_BATCH14 = [
       "Chauffeurs experienced with McLean's gated estates and country-club valet procedures",
       "Discreet, professional service for high-profile and privacy-conscious families",
       "Guest shuttles between hotels and estate or club venues",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Virginia carrier, 20–40 minutes from Dulles or Reagan National",
     ],
     sections: [
@@ -562,7 +562,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Potomac Wedding Limo Service", to: "/potomac-wedding-limo-service" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["McLean, VA", "Great Falls, VA", "Fairfax County, VA"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["McLean, VA", "Great Falls, VA", "Fairfax County, VA"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Sterling wedding
@@ -579,7 +579,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "6 mi · 10–15 minutes" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Sterling sits directly next to Dulles Airport, which makes it a practical wedding base for couples with out-of-town guests flying in and a convenient staging point for weddings at nearby Loudoun wineries and event venues. We provide hourly, as-directed wedding-day transportation covering hotel pickups, venue ceremonies and guest shuttles for weddings based in or near Sterling.",
@@ -590,7 +590,7 @@ export const MARYLAND_BATCH14 = [
       "A 10-to-15-minute transfer from Dulles, ideal for fly-in wedding guests",
       "Guest shuttles between airport-area hotels and nearby winery or event venues",
       "Coordinated timing with wedding planners familiar with the Sterling-Loudoun venue network",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Decoration-ready Sprinter Executive vans for the bridal party",
       "Licensed and insured Virginia carrier, available 24/7",
     ],
     sections: [
@@ -635,7 +635,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Loudoun Wine Tours", to: "/wine-tours" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Sterling, VA", "Loudoun County, VA", "Dulles International Airport"], serviceType: "Wedding limousine and chauffeur service" },
+    schema: { areaServed: ["Sterling, VA", "Loudoun County, VA", "Dulles International Airport"], serviceType: "Wedding limo and chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Crystal City corporate
@@ -1188,7 +1188,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "28 mi · 40–55 minutes" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Prom night in Bethesda means a group of students, a dinner stop, the dance itself, and often an after-party — and parents want one word for the whole evening: safe. We provide licensed, insured prom transportation for Bethesda-area high schools with a professional chauffeur who stays with the group for every stop on the itinerary, confirmed in writing before the night.",
@@ -1197,7 +1197,7 @@ export const MARYLAND_BATCH14 = [
     highlights: [
       "Flat hourly rate confirmed in writing before prom night",
       "Licensed, background-checked chauffeurs who stay with the group all evening",
-      "Stretch limousines and Sprinter vans for groups of any size",
+      "Sprinter vans and luxury SUVs for groups of any size",
       "Dinner, dance and after-party stops on one reservation",
       "Parent-friendly booking with a direct point of contact for questions",
       "Serving Bethesda-area high schools and neighboring Montgomery County communities",
@@ -1218,7 +1218,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate and the same licensed chauffeur for the night.",
+          "A Lincoln Navigator comfortably seats a group of six, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost (we don't operate stretch limousines) — both with the same flat, confirmed rate and the same licensed chauffeur for the night.",
         ],
       },
       {
@@ -1233,7 +1233,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Bethesda-area high schools for prom?", a: "Yes, we regularly serve Bethesda and neighboring Montgomery County high schools for prom night. Share your pickup address, dinner reservation and the school's dance venue when you book, and the whole evening goes onto one hourly reservation with a rate confirmed in writing." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening. Parents get a direct point of contact for questions, so there is one person to call about the Bethesda itinerary instead of several rideshare drivers." },
       { q: "Can we book dinner, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost. Bookings take up to 13 passengers per vehicle, so a bigger Bethesda prom group simply reserves a second vehicle on the same itinerary." },
+      { q: "How many people fit in a prom SUV or Sprinter van?", a: "A Lincoln Navigator seats up to 6, and a 13-passenger Sprinter van covers larger groups splitting the cost. Bookings take up to 13 passengers per vehicle, so a bigger Bethesda prom group simply reserves a second vehicle on the same itinerary." },
       { q: "How far ahead should we book Bethesda prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly. Have your date, pickup time and planned stops ready when you call (877) 609-1919 or book online, and the rate is confirmed in writing before the night." },
     ],
     related: [
@@ -1244,7 +1244,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Prom & Homecoming Limo Safety Guide for Parents", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
       { label: "Prom Limo Service", to: "/prom-limo" },
     ],
-    schema: { areaServed: ["Bethesda, MD", "Montgomery County, MD"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Bethesda, MD", "Montgomery County, MD"], serviceType: "Prom limo service" },
   },
   // ---------------------------------------------------------------------
   // Arlington prom
@@ -1261,7 +1261,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–55 minutes, depending on traffic" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Arlington prom nights usually run through a few stops — dinner in Clarendon or Ballston, the dance itself, and a group after-party — and parents book a professional chauffeur for exactly the reason they'd book one for an airport run: a confirmed vehicle, a licensed driver, and no one in the group behind the wheel. We cover the whole evening on one reservation, with the vehicle and chauffeur staying with the group at every stop.",
@@ -1270,7 +1270,7 @@ export const MARYLAND_BATCH14 = [
     highlights: [
       "Flat hourly rate confirmed in writing before prom night",
       "Licensed, background-checked chauffeurs who stay with the group all evening",
-      "Stretch limousines and Sprinter vans for groups of any size",
+      "Sprinter vans and luxury SUVs for groups of any size",
       "Dinner, dance and after-party stops across Arlington's neighborhoods on one reservation",
       "Parent-friendly booking with a direct point of contact for questions",
       "Serving Arlington-area high schools and nearby National Landing communities",
@@ -1291,7 +1291,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
+          "A Lincoln Navigator comfortably seats a group of six, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost (we don't operate stretch limousines) — both with the same flat, confirmed rate.",
         ],
       },
       {
@@ -1306,7 +1306,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Arlington-area high schools for prom?", a: "Yes, we regularly serve Arlington high schools, including students from Clarendon, Ballston, Rosslyn and Crystal City. Our chauffeurs know how drop-off and parking vary block by block in those neighborhoods, so the group doesn't lose time circling." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening. That means the same driver who picks the group up also handles the Clarendon or Ballston dinner stop, the dance and the after-party, and parents have a direct point of contact for questions." },
       { q: "Can we book dinner, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost. Either way the flat hourly rate is confirmed before prom night, which makes it easy for Arlington families to divide the cost evenly." },
+      { q: "How many people fit in a prom SUV or Sprinter van?", a: "A Lincoln Navigator seats up to 6, and a 13-passenger Sprinter van covers larger groups splitting the cost. Either way the flat hourly rate is confirmed before prom night, which makes it easy for Arlington families to divide the cost evenly." },
       { q: "How far ahead should we book Arlington prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly. Booking early also gives the group time to confirm the dinner reservation and after-party address so the chauffeur's schedule is settled well before the dance." },
     ],
     related: [
@@ -1317,7 +1317,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Prom & Homecoming Limo Safety Guide for Parents", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
       { label: "Prom Limo Service", to: "/prom-limo" },
     ],
-    schema: { areaServed: ["Arlington, VA", "Clarendon, VA", "Ballston, VA"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Arlington, VA", "Clarendon, VA", "Ballston, VA"], serviceType: "Prom limo service" },
   },
   // ---------------------------------------------------------------------
   // Alexandria prom
@@ -1334,7 +1334,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "40–60 minutes, depending on traffic" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Alexandria prom night often means a dinner stop in Old Town, the dance, and a group after-party, and parents choose a professional car service for the same reason they would for any evening with teenagers on the road: a licensed chauffeur, a confirmed vehicle, and no one in the group driving. We run the entire night on one reservation, with the chauffeur and vehicle staying with the group at every stop.",
@@ -1343,7 +1343,7 @@ export const MARYLAND_BATCH14 = [
     highlights: [
       "Flat hourly rate confirmed in writing before prom night",
       "Licensed, background-checked chauffeurs who stay with the group all evening",
-      "Stretch limousines and Sprinter vans for groups of any size",
+      "Sprinter vans and luxury SUVs for groups of any size",
       "Old Town dinner, dance and after-party stops on one reservation",
       "Parent-friendly booking with a direct point of contact for questions",
       "Serving Alexandria-area high schools and neighboring Fairfax County communities",
@@ -1364,7 +1364,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
+          "A Lincoln Navigator comfortably seats a group of six, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost (we don't operate stretch limousines) — both with the same flat, confirmed rate.",
         ],
       },
       {
@@ -1379,7 +1379,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Alexandria-area high schools for prom?", a: "Yes, we regularly serve Alexandria high schools, including students from Old Town and neighboring Fairfax County communities. An Old Town dinner, the dance and an after-party can all go on a single hourly reservation." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening. Our chauffeurs also know Old Town's narrow streets and the closest legal stops near its restaurants, so a new driver never has to navigate them after dark." },
       { q: "Can we book dinner in Old Town, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost. If the Alexandria group grows beyond 13, we book a second vehicle so everyone still runs on the same schedule." },
+      { q: "How many people fit in a prom SUV or Sprinter van?", a: "A Lincoln Navigator seats up to 6, and a 13-passenger Sprinter van covers larger groups splitting the cost. If the Alexandria group grows beyond 13, we book a second vehicle so everyone still runs on the same schedule." },
       { q: "How far ahead should we book Alexandria prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly. Sprinter vans and special-event bookings can be cancelled free up to 12 hours before pickup if plans change." },
     ],
     related: [
@@ -1390,7 +1390,7 @@ export const MARYLAND_BATCH14 = [
       { label: "Prom & Homecoming Limo Safety Guide for Parents", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
       { label: "Prom Limo Service", to: "/prom-limo" },
     ],
-    schema: { areaServed: ["Alexandria, VA", "Old Town Alexandria, VA"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Alexandria, VA", "Old Town Alexandria, VA"], serviceType: "Prom limo service" },
   },
   // ---------------------------------------------------------------------
   // Vienna prom
@@ -1407,7 +1407,7 @@ export const MARYLAND_BATCH14 = [
     stats: [
       { label: "Dulles (IAD)", value: "About 20–30 minutes, depending on traffic" },
       { label: "Pricing", value: "Flat rate by the hour, groups welcome" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Vienna prom night typically means a dinner stop near Church Street or Tysons, the dance, and a group after-party — and parents book a professional chauffeur for exactly the reason they would for any night with a group of teenagers on the road: a confirmed vehicle, a licensed driver, and no one in the group driving. We run the entire night on one reservation, with the chauffeur and vehicle staying with the group at every stop.",
@@ -1416,7 +1416,7 @@ export const MARYLAND_BATCH14 = [
     highlights: [
       "Flat hourly rate confirmed in writing before prom night",
       "Licensed, background-checked chauffeurs who stay with the group all evening",
-      "Stretch limousines and Sprinter vans for groups of any size",
+      "Sprinter vans and luxury SUVs for groups of any size",
       "Dinner, dance and after-party stops on one reservation",
       "Parent-friendly booking with a direct point of contact for questions",
       "Serving Vienna-area high schools and neighboring Tysons and McLean communities",
@@ -1437,7 +1437,7 @@ export const MARYLAND_BATCH14 = [
       {
         h2: "Built for groups",
         paragraphs: [
-          "A stretch limousine comfortably seats a group of eight, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost — both with the same flat, confirmed rate.",
+          "A Lincoln Navigator comfortably seats a group of six, and a 13-passenger Sprinter van covers a larger group of friends splitting the cost (we don't operate stretch limousines) — both with the same flat, confirmed rate.",
         ],
       },
       {
@@ -1452,7 +1452,7 @@ export const MARYLAND_BATCH14 = [
       { q: "Do you serve Vienna-area high schools for prom?", a: "Yes, we regularly serve Vienna high schools, including students from neighboring Tysons and McLean communities. A typical night runs from a dinner stop near Church Street or Tysons to the dance and an after-party, all on one hourly reservation." },
       { q: "Are your prom chauffeurs background-checked?", a: "Yes, every chauffeur is licensed and background-checked, and stays with the group for the entire evening. Instead of a group split across rideshare cars, one reserved vehicle keeps everyone together from the Church Street or Tysons dinner to the after-party." },
       { q: "Can we book dinner, the dance and an after-party on one reservation?", a: "Yes. We build the full itinerary into a single hourly reservation so the same chauffeur covers every stop." },
-      { q: "How many people fit in a prom limo or Sprinter van?", a: "A stretch limousine seats up to 8, and a 13-passenger Sprinter van covers larger groups splitting the cost. Tell us your final head count when you book, since groups larger than 13 ride in more than one vehicle under the same Vienna reservation." },
+      { q: "How many people fit in a prom SUV or Sprinter van?", a: "A Lincoln Navigator seats up to 6, and a 13-passenger Sprinter van covers larger groups splitting the cost. Tell us your final head count when you book, since groups larger than 13 ride in more than one vehicle under the same Vienna reservation." },
       { q: "How far ahead should we book Vienna prom transportation?", a: "Several weeks ahead is recommended, since weekend prom dates in April and May book up quickly. Once the date is held, a parent can confirm the full schedule — pickup, dinner, the dance and drop-off — with our team ahead of the night." },
     ],
     related: [
@@ -1463,6 +1463,6 @@ export const MARYLAND_BATCH14 = [
       { label: "Arlington Prom Limo Service", to: "/arlington-prom-limo-service" },
       { label: "Prom Limo Service", to: "/prom-limo" },
     ],
-    schema: { areaServed: ["Vienna, VA", "Tysons, VA", "McLean, VA"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Vienna, VA", "Tysons, VA", "McLean, VA"], serviceType: "Prom limo service" },
   },
 ];

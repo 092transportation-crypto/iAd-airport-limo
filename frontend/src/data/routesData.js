@@ -303,7 +303,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Alexandria reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Alexandria wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Alexandria wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Alexandria?',
@@ -468,7 +468,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Baltimore reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Baltimore wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Baltimore wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Baltimore?',
@@ -655,7 +655,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Tysons group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Tysons group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Tysons group arrives on schedule.',
       }],
   },
   {
@@ -818,7 +818,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Silver Spring reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Silver Spring wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Silver Spring wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Silver Spring?',
@@ -981,7 +981,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large McLean group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your McLean group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your McLean group arrives on schedule.',
       },
       {
         question: 'Do you charge extra for luggage or multiple stops around McLean?',
@@ -991,7 +991,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a McLean reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most McLean wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most McLean wedding, prom and group trips.',
       },
       {
         question: 'Do you accept corporate accounts for recurring McLean travel?',
@@ -1084,7 +1084,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Reston reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Reston wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Reston wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Reston?',
@@ -1265,7 +1265,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Fredericksburg group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Fredericksburg group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Fredericksburg group arrives on schedule.',
       }],
   },
   {
@@ -1338,7 +1338,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Northern Virginia group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Northern Virginia group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Northern Virginia group arrives on schedule.',
       },
       {
         question: 'Do you charge extra for luggage or multiple stops around Northern Virginia?',
@@ -1418,7 +1418,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Columbia MD group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Columbia MD group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Columbia MD group arrives on schedule.',
       },
       {
         question: 'Do you charge extra for luggage or multiple stops around Columbia MD?',
@@ -1428,7 +1428,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Columbia MD reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Columbia MD wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Columbia MD wedding, prom and group trips.',
       },
       {
         question: 'Do you accept corporate accounts for recurring Columbia MD travel?',
@@ -1510,7 +1510,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Ocean City group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Ocean City group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Ocean City group arrives on schedule.',
       }],
   },
   {
@@ -1583,7 +1583,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Downtown Baltimore reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Downtown Baltimore wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Downtown Baltimore wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Downtown Baltimore?',
@@ -1675,7 +1675,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large BWI Airport group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your BWI Airport group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your BWI Airport group arrives on schedule.',
       },
       {
         question: 'How far in advance should I book a BWI Airport reservation?',
@@ -1841,7 +1841,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Philadelphia group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Philadelphia group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Philadelphia group arrives on schedule.',
       },
       {
         question: 'Can I make a stop along the way on a Philadelphia trip?',
@@ -2017,7 +2017,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Leesburg group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Leesburg group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Leesburg group arrives on schedule.',
       },
       {
         question: 'Do you charge extra for luggage or multiple stops around Leesburg?',
@@ -2098,7 +2098,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Winchester reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Winchester wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Winchester wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Winchester?',
@@ -2198,7 +2198,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Charlottesville group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Charlottesville group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Charlottesville group arrives on schedule.',
       }],
   },
   {
@@ -2279,7 +2279,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Ashburn group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Ashburn group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Ashburn group arrives on schedule.',
       },
       {
         question: 'How far in advance should I book a Ashburn reservation?',
@@ -2696,7 +2696,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Woodbridge group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Woodbridge group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Woodbridge group arrives on schedule.',
       },
       {
         question: 'How long does the IAD to Woodbridge transfer take during rush hour?',
@@ -2865,7 +2865,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Reagan National (DCA) reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Reagan National (DCA) wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Reagan National (DCA) wedding, prom and group trips.',
       },
       {
         question: 'Can you provide a car seat for a child riding with us in Reagan National (DCA)?',
@@ -2947,7 +2947,7 @@ const routes = [
       {
         question: 'Can you send more than one vehicle for a large Quantico group?',
         answer:
-          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs, Sprinter vans or a stretch limousine — dispatched together so everyone in your Quantico group arrives on schedule.',
+          'Yes. For wedding parties, corporate teams or families arriving on separate flights, we coordinate multiple vehicles — sedans, SUVs or more than one Sprinter van — dispatched together so everyone in your Quantico group arrives on schedule.',
       },
       {
         question: 'Do you serve Marine Corps Base Quantico for family and official travel?',
@@ -3034,7 +3034,7 @@ const routes = [
       {
         question: 'What is your cancellation policy for a Dumfries reservation?',
         answer:
-          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, stretch limousines and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Dumfries wedding, prom and group trips.',
+          'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings require 12 hours\' notice for a free cancellation, which covers most Dumfries wedding, prom and group trips.',
       },
       {
         question: 'Is Dumfries close to Quantico for military family travel?',

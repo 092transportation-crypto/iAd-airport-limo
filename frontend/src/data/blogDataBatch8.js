@@ -128,7 +128,7 @@ const batch8 = [
         paragraphs: [
           'Once a group exceeds six travelers, or six travelers with an unusual amount of luggage — golf bags, musical instruments, trade-show material — a Mercedes Sprinter is the only vehicle that keeps everyone and everything together in one trip. Sprinter configurations vary by trim: a Shuttle-style layout maximizes seat count for up to 13 passengers, while an Executive configuration trades some seats for more legroom and worktable space, useful for a group that wants to prep for a meeting en route.',
           'The practical advantage of a single Sprinter over two SUVs is coordination, not just capacity: one vehicle means one pickup time, one chauffeur, and no risk of the group splitting up and arriving at different times at a venue or hotel. For corporate groups and wedding parties alike, this is usually worth it even when the headcount technically fits in two smaller vehicles.',
-          'The Sprinter Executive trim adds stretch-limousine styling on top of the van\'s capacity, which some groups prefer for an event-day booking — a wedding party or milestone celebration — where the vehicle itself is part of the occasion rather than purely functional transportation.',
+          'The Sprinter Executive trim adds an upgraded, celebration-ready cabin on top of the van\'s capacity, which some groups prefer for an event-day booking — a wedding party or milestone celebration — where the vehicle itself is part of the occasion rather than purely functional transportation.',
           'For groups that specifically want to work or socialize during the ride rather than simply sit in rows, the Sprinter Executive configuration\'s forward-facing seating and worktable layout is worth requesting by name when booking, since the default assignment for a given passenger count may otherwise be the higher-capacity Shuttle layout instead.',
           'A Sprinter also handles mixed-age groups better than most people expect — a party that includes small children, grandparents, and able-bodied adults all traveling together benefits from the step height, aisle space, and overall room to move around that a van provides compared to climbing into and out of a lower SUV repeatedly across several stops in a single day.',
         ],
@@ -277,7 +277,7 @@ const batch8 = [
     readTime: '12 min read',
     excerpt:
       'Wedding transportation fails on timing far more often than on the vehicle itself. Here is how Northern Virginia couples should build the timeline and size the fleet correctly.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Most wedding transportation problems are not vehicle problems — they are timeline problems. A beautiful Sprinter van arriving ten minutes after the wedding party was supposed to leave for photos is still a late Sprinter van. Northern Virginia weddings have their own specific timing challenges: estate venues in Loudoun County with long gravel approaches, Potomac-area country clubs with valet bottlenecks, and DC hotel ballrooms where loading zone access is tightly controlled.',
       'This guide walks through building a realistic wedding day transportation timeline for a Northern Virginia wedding, choosing the right vehicle for your specific wedding party, and the coordination details that keep a tight schedule from becoming a stressful one.',
@@ -300,7 +300,7 @@ const batch8 = [
           'A sedan — Mercedes-Benz E-Class or BMW 7 Series — is the right choice for the couple\'s private exit: quiet, elegant, and sized for two to three passengers, not a full bridal party. A wedding party of up to six fits comfortably in a Lincoln Navigator, or up to five in a Chevrolet Suburban, with room for garment bags, and a party of seven to thirteen needs a Sprinter van to stay together as one unit rather than splitting across two cars.',
           'The most common sizing mistake: booking a vehicle for the wedding party and forgetting that the couple needs a separate, dedicated vehicle for their own exit at the end of the night — not the same vehicle that spent the day shuttling the wedding party and needs to be released and re-staged.',
           'Full-length gowns and multiple garment bags take up more room than most couples expect when estimating vehicle capacity — a wedding party that technically fits a vehicle\'s seat count by headcount alone can still feel genuinely cramped once dresses, shoes, and overnight bags for a destination-style wedding weekend are loaded in.',
-          'Some couples also want the wedding party vehicle for a dedicated photo session rather than purely transportation — a Sprinter or classic limousine parked as a backdrop, or simply the group posing beside it — and mentioning this when booking lets the chauffeur plan a few extra minutes at that stop rather than treating the vehicle purely as transit between locations.',
+          'Some couples also want the wedding party vehicle for a dedicated photo session rather than purely transportation — a Sprinter Executive or Lincoln Navigator parked as a backdrop, or simply the group posing beside it — and mentioning this when booking lets the chauffeur plan a few extra minutes at that stop rather than treating the vehicle purely as transit between locations.',
           'Flower girls, ring bearers, and other young children in the wedding party add their own sizing consideration — a booster seat or car seat may be required depending on age, and a vehicle that comfortably fits the adult wedding party by headcount can feel noticeably tighter once a child seat is installed and a parent or chaperone needs to sit close by. Mention any children in the party when booking so this is planned for rather than discovered curbside.',
         ],
       },
@@ -325,8 +325,8 @@ const batch8 = [
       {
         heading: 'What to Confirm Before You Book',
         paragraphs: [
-          'Before putting down a deposit, confirm the rate is flat and in writing (not a verbal estimate), confirm the cancellation policy — Sprinter vans, limousines and other event-day vehicles typically cancel free up to 12 hours before pickup, longer than the 3-hour window on a standard transfer — and confirm the company has actually worked your specific venue before. A company that answers all three clearly is one you can trust with the day itself.',
-          'Book your wedding transportation 2–4 months ahead if your date falls on a popular spring or fall Saturday; Sprinter vans and limousines for peak wedding season book out first, though last-minute requests are still worth asking about based on availability.',
+          'Before your card is charged, confirm the rate is flat and in writing (not a verbal estimate), confirm the cancellation policy — Sprinter vans and other special-event bookings typically cancel free up to 12 hours before pickup, longer than the 3-hour window on a standard transfer — and confirm the company has actually worked your specific venue before. A company that answers all three clearly is one you can trust with the day itself.',
+          'Book your wedding transportation 2–4 months ahead if your date falls on a popular spring or fall Saturday; Sprinter vans for peak wedding season book out first, though last-minute requests are still worth asking about based on availability.',
           'If your wedding needs more than one vehicle working in coordination, confirm all of them are booked together through a single dispatcher rather than as separate reservations — this is what keeps a delay with one vehicle from cascading into confusion for the others on the one day where that matters most.',
           'Finally, treat the first conversation with a transportation coordinator as a planning session rather than a transaction — a company genuinely experienced with Northern Virginia weddings will ask thoughtful questions about your venues, your wedding party size, and your timeline before quoting a vehicle and rate, rather than simply taking an order. That willingness to ask questions, more than any single feature or price point, is usually the clearest early signal of whether a company will actually deliver a smooth experience on the day itself.',
         ],
@@ -351,11 +351,11 @@ const batch8 = [
       { label: 'Warrenton Limo Service for Weddings', to: '/warrenton-wedding-limo-service' },
     ],
     faqs: [
-      { question: 'How far in advance should I book Northern Virginia wedding transportation?', answer: 'We recommend 2–4 months ahead for peak spring and fall Saturdays, since Sprinter vans and limousines book out first for wedding season. Last-minute requests are still accepted based on availability.' },
+      { question: 'How far in advance should I book Northern Virginia wedding transportation?', answer: 'We recommend 2–4 months ahead for peak spring and fall Saturdays, since Sprinter vans book out first for wedding season. Last-minute requests are still accepted based on availability.' },
       { question: 'What vehicle fits a 6-person wedding party with garment bags?', answer: 'A Lincoln Navigator comfortably fits a wedding party of up to six, and a Chevrolet Suburban up to five, with garment bags and luggage. A party of seven or more should move up to a Sprinter van to stay together in one vehicle.' },
-      { question: 'Do we need a separate vehicle for the couple\'s exit?', answer: 'Yes, typically. The vehicle used for the wedding party\'s daytime logistics usually needs to be released and re-staged, so most couples book a separate sedan or limousine reserved specifically for their own exit at the end of the night.' },
+      { question: 'Do we need a separate vehicle for the couple\'s exit?', answer: 'Yes, typically. The vehicle used for the wedding party\'s daytime logistics usually needs to be released and re-staged, so most couples book a separate First Class Sedan or Lincoln Navigator reserved specifically for their own exit at the end of the night.' },
       { question: 'Can you provide guest shuttles for our hotel block?', answer: 'Yes. Guest shuttles between a hotel block and venue are a common add-on, especially at venues with limited on-site parking, and are booked as a block reservation with a set schedule rather than individual rides.' },
-      { question: 'What is the cancellation policy for wedding bookings?', answer: 'Sprinter vans, limousines, and other special-event vehicles can be cancelled free of charge up to 12 hours before pickup, longer than the 3-hour window on a standard sedan or SUV transfer. The rate is confirmed in writing before the wedding, and the card is charged once the reservation and rate are confirmed.' },
+      { question: 'What is the cancellation policy for wedding bookings?', answer: 'Sprinter vans and other special-event bookings can be cancelled free of charge up to 12 hours before pickup, longer than the 3-hour window on a standard sedan or SUV transfer. The rate is confirmed in writing before the wedding, and the card is charged once the reservation and rate are confirmed.' },
     ],
   },
   {
@@ -371,7 +371,7 @@ const batch8 = [
     image: '/images/blog/fleet-sclass-1.webp',
     intro: [
       'Prom and homecoming transportation is one of the only times a group of teenagers is handed a chauffeured vehicle for an entire evening, and it is reasonable for Northern Virginia parents to want more than a price quote before approving it. The questions that matter are not about which vehicle looks best in photos — they are about licensing, insurance, and what actually happens if the group\'s plans change mid-evening.',
-      'This guide is written for the parent paying for or approving the booking, not the student planning the group. It covers what a legitimate transportation company should be able to confirm without hesitation, and the specific safety and accountability questions worth asking before a deposit goes down.',
+      'This guide is written for the parent paying for or approving the booking, not the student planning the group. It covers what a legitimate transportation company should be able to confirm without hesitation, and the specific safety and accountability questions worth asking before the card is charged.',
       'None of the questions below are meant to be adversarial — a company that genuinely does this work well will answer each one readily, often before being asked, because the same standards that protect a group of teenagers for an evening are the standards the company already applies to every booking it takes.',
     ],
     sections: [
@@ -390,7 +390,7 @@ const batch8 = [
         paragraphs: [
           'A written confirmation should specify the exact vehicle, the exact hours booked, the flat rate (with gratuity and any fees disclosed, not added afterward), and the pickup and drop-off locations and times. Verbal promises are not enough for a reservation this important — get it in writing before the night of the event.',
           'Confirm the chaperone and conduct policy directly: most reputable companies prohibit alcohol in the vehicle regardless of passenger age, reserve the right to end the reservation early for violations, and have a chauffeur trained to handle a group of teenagers professionally and firmly if needed. Ask how violations are handled and who is notified — this should be a clear, specific answer, not a vague reassurance.',
-          'Ask whether the confirmation includes a deposit and what the refund or credit policy looks like if the event itself is rescheduled or cancelled by the school — this happens more often than families expect, and a company with a clear, pre-stated policy is easier to deal with than one making a decision on the spot.',
+          'Ask when the card is charged and what the cancellation windows and credit policy look like if the event itself is rescheduled or cancelled by the school — this happens more often than families expect, and a company with a clear, pre-stated policy is easier to deal with than one making a decision on the spot.',
           'If multiple families are splitting the cost of one booking, ask whether the company can provide a single itemized confirmation that can be shared among the group, rather than leaving one parent to informally collect money without a clear written reference for what was actually agreed to.',
           'Confirm in writing exactly which parent or guardian is the official point of contact on the reservation, especially when several families are involved — a single clear contact avoids confusion if the company needs to reach someone quickly during the night, and prevents a situation where multiple parents each believe someone else is handling communication with the chauffeur.',
         ],
@@ -408,8 +408,8 @@ const batch8 = [
       {
         heading: 'Vehicle Size and Group Safety',
         paragraphs: [
-          'Match the vehicle to the actual group size rather than squeezing extra friends into a vehicle rated for fewer passengers — a Sprinter van safely and comfortably seats a larger group than a stretch limousine built for a smaller party, and overcrowding a vehicle is both a safety issue and against most companies\' own policies. Confirm seatbelt availability for every passenger, not just a headcount that technically fits.',
-          'If younger students (homecoming groups often include freshmen and sophomores) are part of the group, some parents prefer a smaller, more easily supervised vehicle over a large party bus specifically so the chauffeur can more easily keep an eye on the group. This is a reasonable request to make directly when booking.',
+          'Match the vehicle to the actual group size rather than squeezing extra friends into a vehicle rated for fewer passengers — a Sprinter van comfortably seats up to 13, larger groups should be split across more than one vehicle, and overcrowding a vehicle is both a safety issue and against most companies\' own policies. Confirm seatbelt availability for every passenger, not just a headcount that technically fits.',
+          'If younger students (homecoming groups often include freshmen and sophomores) are part of the group, some parents prefer a smaller, more easily supervised vehicle such as an SUV over a full Sprinter van specifically so the chauffeur can more easily keep an eye on the group. This is a reasonable request to make directly when booking.',
           'Confirm the final passenger count a few days before the event rather than at the original booking — group size for these events often shifts as the date approaches, and a company that asks for a final headcount confirmation shortly before the event is less likely to show up with the wrong vehicle.',
         ],
       },
@@ -501,7 +501,7 @@ const batch8 = [
       {
         heading: 'Making the Ride Part of the Celebration',
         paragraphs: [
-          'The ride itself is part of the celebration for most courts of honor — many groups want music playing, space to take photos inside the vehicle, and enough room to actually enjoy the trip rather than just endure it. The Sprinter Executive trim, which combines stretch-limousine styling with van-level capacity, is a popular choice specifically for this reason when the court is on the larger side.',
+          'The ride itself is part of the celebration for most courts of honor — many groups want music playing, space to take photos inside the vehicle, and enough room to actually enjoy the trip rather than just endure it. The Sprinter Executive trim, which pairs an upgraded, celebration-ready cabin with van-level capacity, is a popular choice specifically for this reason when the court is on the larger side.',
           'If the celebration spans into the evening with a reception that runs late, confirm whether a return trip home is included or needs to be booked separately — some families extend the original booking rather than arranging a second reservation later in the night.',
           'Many courts of honor also want a stop for photos somewhere besides the ceremony and reception venues themselves — confirm this is built into the hourly booking in advance so the chauffeur plans for it as part of the day rather than treating it as an unplanned detour.',
           'For families who want the vehicle itself decorated — ribbons, a banner, or a themed color scheme matching the celebration — ask whether the company allows this and whether there is a process for applying and removing decorations without damaging the vehicle; most companies are accommodating about this with reasonable advance notice.',
@@ -510,7 +510,7 @@ const batch8 = [
       {
         heading: 'Booking Timeline and What to Confirm',
         paragraphs: [
-          'Book 4–8 weeks ahead for a standard celebration, earlier during peak spring and summer quinceañera and sweet sixteen season when Sprinter vans and limousines are in highest demand. Confirm the flat rate in writing, confirm the exact vehicle and court capacity, and confirm the full schedule including any ceremony stop before the reception.',
+          'Book 4–8 weeks ahead for a standard celebration, earlier during peak spring and summer quinceañera and sweet sixteen season when Sprinter vans are in highest demand. Confirm the flat rate in writing, confirm the exact vehicle and court capacity, and confirm the full schedule including any ceremony stop before the reception.',
           'A company experienced with quinceañera and sweet sixteen bookings specifically — not just general event transportation — will ask about the court size and grand entrance timing without needing to be prompted. That is usually a good sign you are booking with the right company.',
           'If the celebration involves family traveling from out of town for the event, consider whether their airport transportation should be coordinated through the same reservation, simplifying the family\'s overall logistics for the weekend into a single point of contact.',
           'Because this celebration marks a genuinely significant milestone for the family, it is worth treating the transportation planning conversation with the same seriousness as any other major vendor decision for the day — venue, catering, photography — rather than as an afterthought handled at the last minute. A company that takes the time to understand your family\'s specific traditions, court size, and vision for the grand entrance will generally deliver a noticeably better experience than one that simply assigns a generic vehicle and driver without that context.',
@@ -528,7 +528,7 @@ const batch8 = [
       { question: 'What vehicle fits a full court of honor for a quinceañera?', answer: 'A full court of damas and chambelanes plus the celebrant needs a Sprinter van to travel together as one group. Smaller courts often fit in a Lincoln Navigator or Chevrolet Suburban.' },
       { question: 'Can the vehicle cover both the church ceremony and the reception?', answer: 'Yes. Book the vehicle hourly for the full block of time covering the ceremony, any photo session, and arrival at the reception, rather than separate point-to-point trips.' },
       { question: 'How do you time the grand entrance correctly?', answer: 'Share your full schedule, including the approximate grand entrance time, with your reservation coordinator in advance, and confirm with the venue exactly where the vehicle should stage for the entrance. Building a short buffer into that timing means the vehicle is staged and ready rather than pulling up at the last minute.' },
-      { question: 'How far in advance should we book for peak season?', answer: 'Book 4–8 weeks ahead for a standard celebration, earlier during peak spring and summer quinceañera and sweet sixteen season when Sprinter vans and limousines book out fastest. Once the date and venue are confirmed, a reservation coordinator can match the vehicle to the court\'s headcount and the evening\'s schedule.' },
+      { question: 'How far in advance should we book for peak season?', answer: 'Book 4–8 weeks ahead for a standard celebration, earlier during peak spring and summer quinceañera and sweet sixteen season when Sprinter vans book out fastest. Once the date and venue are confirmed, a reservation coordinator can match the vehicle to the court\'s headcount and the evening\'s schedule.' },
       { question: 'Is a return trip home included in the booking?', answer: 'Some families extend the original hourly booking to cover the ride home; confirm this directly when booking so it is built into the reservation rather than arranged separately later in the night. Planning it up front also means parents know exactly when and where the group will be picked up at the end of the celebration.' },
     ],
   },
@@ -542,7 +542,7 @@ const batch8 = [
     readTime: '10 min read',
     excerpt:
       'A good bachelor or bachelorette night covers multiple venues across DC and Northern Virginia without anyone worrying about parking, rideshare surge pricing, or splitting the group up.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'A bachelor or bachelorette party rarely stays in one place all night — dinner at one spot, drinks at a second, maybe a rooftop or a specific DC nightlife destination as the main event. Booking transportation for a night like this is a different problem than a single airport transfer or a one-way ride, and planning it properly is what keeps the group together and the night running smoothly from the first stop to the last.',
       'This guide covers how to structure multi-stop party transportation across DC and Northern Virginia, right-sizing the vehicle for your group, and the safety and conduct basics worth confirming before you book.',
@@ -590,7 +590,7 @@ const batch8 = [
       {
         heading: 'Booking Ahead for Weekend Nights',
         paragraphs: [
-          'Weekend nights, especially during spring and summer bachelor and bachelorette season, book out well in advance for Sprinter vans and premium SUVs — reserve at least two to three weeks ahead if your night falls on a popular Friday or Saturday. Confirm the flat hourly rate in writing, the vehicle class, and the full itinerary before the deposit goes down.',
+          'Weekend nights, especially during spring and summer bachelor and bachelorette season, book out well in advance for Sprinter vans and premium SUVs — reserve at least two to three weeks ahead if your night falls on a popular Friday or Saturday. Confirm the flat hourly rate in writing, the vehicle class, and the full itinerary before the card is charged.',
           'A company experienced with this kind of booking will ask about your approximate stops and group size without needing to be prompted — a good sign they understand the difference between a single ride and a full night out.',
           'If your plans are still coming together when you need to lock in the vehicle, book with your best estimate of timing and group size — most reservation coordinators are comfortable refining the exact itinerary as the date gets closer, as long as the vehicle itself is reserved early.',
           'For a group flying in from out of town specifically for the celebration, consider coordinating the airport pickup through the same reservation as the night out itself, so the first and last impressions of the weekend are handled by the same company that already understands the full scope of the group\'s plans, rather than piecing together separate arrangements for the airport and the night out from two different providers.',
@@ -966,7 +966,7 @@ const batch8 = [
       {
         heading: 'Vehicle Options for Immediate Family',
         paragraphs: [
-          'A sedan or SUV works well for a smaller immediate family group, offering a quiet, private, dignified ride without the formality of a traditional funeral limousine. For a larger extended family or wedding-party-sized group attending together, a Sprinter van keeps everyone together for the service and any procession, arriving and departing as one unit.',
+          'A sedan or SUV works well for a smaller immediate family group, offering a quiet, private, dignified ride without the formality of a traditional funeral limousine, which we don\'t operate. For a larger extended family or wedding-party-sized group attending together, a Sprinter van keeps everyone together for the service and any procession, arriving and departing as one unit.',
           'There is no requirement to match the funeral home\'s own vehicle style — many families simply want a comfortable, quiet vehicle and a chauffeur who understands the tone of the day, which any professional vehicle in the fleet can provide.',
           'Some families specifically request a darker or more understated vehicle color for this kind of booking, which most companies can accommodate on request — mention any preference like this when booking so the right vehicle is assigned rather than whatever happens to be available that day.',
           'For a family that wants to travel together in a single vehicle rather than multiple cars arriving separately, confirm the exact headcount including any very young children or elderly relatives who may need extra space or assistance, so the vehicle size is right from the start rather than a last-minute adjustment on a difficult day.',
@@ -1515,7 +1515,7 @@ const batch8 = [
     readTime: '10 min read',
     excerpt:
       'A destination wedding at a Loudoun County winery or estate brings its own guest transportation challenge — remote locations, limited parking, and an out-of-town crowd.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Loudoun County\'s wineries and estate venues make for genuinely beautiful destination weddings, but they bring a transportation challenge most couples do not fully anticipate: remote country locations with limited on-site parking, a guest list that is largely unfamiliar with the roads, and a hotel block often concentrated in a nearby town rather than walking distance from the venue. Planning guest shuttle service properly is often the difference between a relaxed celebration and a parking-lot headache.',
       'This guide covers how to plan guest shuttle and hotel-block transportation for a destination wedding at a Loudoun County winery or estate, separate from the couple\'s and wedding party\'s own transportation.',

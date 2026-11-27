@@ -12,7 +12,7 @@ const POOL = [
   {
     topic: /cancel/i,
     q: () => 'What is the cancellation policy?',
-    a: 'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, limousines and special-event bookings cancel free of charge up to 12 hours before pickup.',
+    a: 'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings cancel free of charge up to 12 hours before pickup.',
   },
   {
     topic: /car seat|child|kids/i,

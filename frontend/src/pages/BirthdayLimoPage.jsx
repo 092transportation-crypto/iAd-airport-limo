@@ -10,7 +10,7 @@ const birthdayFaqs = [
   {
     question: 'How many people fit in a birthday party vehicle?',
     answer:
-      'Sedans carry up to 3 guests and SUVs up to 6. Our Mercedes Sprinter party van takes up to 12, with LED lighting, premium sound, and space to celebrate.',
+      'Sedans carry up to 3 guests and the Lincoln Navigator up to 6. Our Mercedes Sprinter Executive takes up to 13, with mood lighting and premium audio for the ride between stops.',
   },
   {
     question: 'Can we plan multiple stops for the night?',
@@ -47,10 +47,10 @@ const BirthdayLimoPage = () => {
       popular: true
     },
     {
-      name: 'Party Sprinter',
+      name: 'Celebration Sprinter',
       hours: '5 hours',
-      passengers: 'Up to 12',
-      features: ['Mercedes Sprinter', 'LED party lights', 'Premium sound', 'Bar area', 'Dance space']
+      passengers: 'Up to 13',
+      features: ['Mercedes Sprinter Executive', 'Mood lighting', 'Premium audio', 'Group seating', 'Professional chauffeur']
     }
   ];
 
@@ -58,7 +58,7 @@ const BirthdayLimoPage = () => {
     <div className="min-h-screen bg-[#111]">
       <Seo
         title="Birthday Limo Service | DC, Maryland & Virginia"
-        description="Celebrate in style with a birthday limo or party Sprinter — LED lights, premium sound & a professional chauffeur across DC, MD & VA. Call (877) 609-1919."
+        description="Birthday rides in a chauffeured sedan, Navigator or Sprinter Executive with mood lighting and premium audio across DC, MD & VA. Call (877) 609-1919."
         path="/birthday-limo"
         faqs={birthdayFaqs}
       />
@@ -75,7 +75,7 @@ const BirthdayLimoPage = () => {
         <div className="relative max-w-7xl mx-auto px-4 text-center">
           <PartyPopper className="w-16 h-16 text-[#c9a227] mx-auto mb-6" />
           <p className="text-[#c9a227] text-sm tracking-[0.3em] uppercase mb-4">Celebrate in Style</p>
-          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Birthday Limousine</h1>
+          <h1 className="text-5xl md:text-7xl font-light text-white mb-6">Birthday Limo Service</h1>
           <p className="text-gray-300 text-xl max-w-2xl mx-auto mb-8">
             Make your birthday unforgettable with our luxury party transportation
           </p>
@@ -188,7 +188,7 @@ const BirthdayLimoPage = () => {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-light text-black mb-4">Ready to Celebrate?</h2>
           <p className="text-black/70 mb-8">
-            Book your birthday limousine today and make it a day to remember!
+            Book your birthday ride today and make it a day to remember!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

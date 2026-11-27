@@ -13,7 +13,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small families with luggage" },
 ];
 
 export const MARYLAND_BATCH10 = [
@@ -256,7 +256,7 @@ export const MARYLAND_BATCH10 = [
       "Hourly wedding-day packages covering getting ready through the reception exit",
       "10 to 20 minute Dulles pickups for out-of-town wedding parties",
       "Guest shuttle coordination with Sprinter vans for venues with limited parking",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Sprinter Executive vans and First Class Sedans for the bridal party",
       "Coordination with downtown Herndon venues and nearby Reston and Tysons reception sites",
       "Licensed and insured Virginia carrier with a dedicated day-of coordinator",
     ],
@@ -282,7 +282,7 @@ export const MARYLAND_BATCH10 = [
       {
         h2: "Vehicles and booking for a Herndon wedding",
         paragraphs: [
-          "A stretch limousine suits a bridal party of six to eight; a Mercedes Sprinter van handles a larger wedding party or a guest shuttle route. Rates are hourly and confirmed in writing before the date is booked. Call (877) 609-1919 or book online with your venue and timeline.",
+          "A First Class Sedan or Lincoln Navigator suits the couple or a small bridal party; a Mercedes Sprinter Executive seats up to 13 for a larger wedding party, and a Sprinter van handles a guest shuttle route. Rates are hourly and confirmed in writing before the date is booked. Call (877) 609-1919 or book online with your venue and timeline.",
         ],
       },
     ],
@@ -302,7 +302,7 @@ export const MARYLAND_BATCH10 = [
       { label: "IAD to Herndon", to: "/iad-to-herndon" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Herndon", "Fairfax County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Herndon", "Fairfax County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "leesburg-prom-limo-service",
@@ -312,7 +312,7 @@ export const MARYLAND_BATCH10 = [
     h1: "Leesburg Prom Limo Service",
     metaTitle: "Leesburg Prom Limo Service | Loudoun County, VA",
     metaDescription:
-      "Safe, licensed prom limo and party bus service in Leesburg, VA — group pricing, strict no-alcohol policy and parent-confirmed schedules. Call (877) 609-1919.",
+      "Safe, licensed prom limo and Sprinter van service in Leesburg, VA — group pricing, strict no-alcohol policy and parent-confirmed schedules. Call (877) 609-1919.",
     stats: [
       { label: "Group size", value: "Sedans up to Sprinter vans (13 passengers)" },
       { label: "Pricing", value: "Hourly, confirmed in writing before you book" },
@@ -323,7 +323,7 @@ export const MARYLAND_BATCH10 = [
     ],
     highlights: [
       "Hourly prom-night packages covering photos, dinner, the dance and after-party",
-      "Stretch limousines for groups of six to eight; Sprinter vans for larger friend groups",
+      "Lincoln Navigators for groups of up to six; Sprinter vans for larger friend groups (we don't operate stretch limousines)",
       "Strict no-alcohol policy inside the vehicle, enforced by the chauffeur",
       "Fixed pickup and drop-off windows communicated to parents in writing",
       "Direct dispatch phone line for parents during the night",
@@ -339,7 +339,7 @@ export const MARYLAND_BATCH10 = [
       {
         h2: "Vehicle choice for Leesburg prom groups",
         paragraphs: [
-          "A stretch limousine comfortably covers six to eight students. Larger groups of ten to thirteen are better served by a Mercedes Sprinter van, which keeps everyone together for every stop rather than splitting into two vehicles with two separate pickup times — a common cause of a late arrival at the dance.",
+          "A Lincoln Navigator comfortably covers up to six students. Larger groups of seven to thirteen are better served by a Mercedes Sprinter van, which keeps everyone together for every stop rather than splitting into two vehicles with two separate pickup times — a common cause of a late arrival at the dance.",
         ],
       },
       {
@@ -358,7 +358,7 @@ export const MARYLAND_BATCH10 = [
     vehicles: VEHICLES,
     faqs: [
       { q: "What is your alcohol policy for prom bookings?", a: "A strict no-alcohol policy is enforced inside the vehicle by the chauffeur, not just stated as a rule. Parents can reach dispatch 24/7 at (877) 609-1919, and the pickup times and rate are confirmed in writing before prom night." },
-      { q: "Is a limo or a Sprinter van better for a group of twelve?", a: "A Sprinter van. It keeps a larger group together for every stop, avoiding the split pickup times that come with two smaller vehicles." },
+      { q: "Is one Sprinter van or two smaller vehicles better for a group of twelve?", a: "A Sprinter van. It keeps a larger group together for every stop, avoiding the split pickup times that come with two smaller vehicles." },
       { q: "Can parents get the schedule and a direct phone number?", a: "Yes. We confirm the full night's schedule with parents in writing and provide a direct dispatch line to call if plans change." },
       { q: "How far in advance should a Leesburg prom group book?", a: "As soon as the date is set — April and May bookings fill quickly, especially for larger vehicles. Special-event bookings can be cancelled free up to 12 hours before pickup, so reserving early carries little risk if plans change." },
       { q: "Can you add a stop for dinner in DC before the dance?", a: "Yes, hourly as-directed service covers multiple stops on one reservation, including a dinner trip into the District. Give us the restaurant and the dance venue when you book, and we will plan the timing so the group arrives on schedule." },
@@ -371,7 +371,7 @@ export const MARYLAND_BATCH10 = [
       { label: "Prom Limo Service", to: "/prom-limo" },
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
     ],
-    schema: { areaServed: ["Leesburg", "Loudoun County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Leesburg", "Loudoun County"], serviceType: "Prom chauffeur service" },
   },
   {
     slug: "reston-prom-limo-service",
@@ -381,7 +381,7 @@ export const MARYLAND_BATCH10 = [
     h1: "Reston Prom Limo Service",
     metaTitle: "Reston Prom Limo Service | Fairfax County, VA",
     metaDescription:
-      "Safe, licensed prom limo and party bus service in Reston, VA — group pricing, strict no-alcohol policy and parent-confirmed schedules. Call (877) 609-1919.",
+      "Safe, licensed prom limo and Sprinter van service in Reston, VA — group pricing, strict no-alcohol policy and parent-confirmed schedules. Call (877) 609-1919.",
     stats: [
       { label: "Group size", value: "Sedans up to Sprinter vans (13 passengers)" },
       { label: "Pricing", value: "Hourly, confirmed in writing before you book" },
@@ -393,7 +393,7 @@ export const MARYLAND_BATCH10 = [
     ],
     highlights: [
       "Hourly prom-night packages covering photos, dinner, the dance and after-party",
-      "Stretch limousines for groups of six to eight; Sprinter vans for larger friend groups",
+      "Lincoln Navigators for groups of up to six; Sprinter vans for larger friend groups (we don't operate stretch limousines)",
       "Strict no-alcohol policy inside the vehicle, enforced by the chauffeur",
       "Fixed pickup and drop-off windows communicated to parents in writing",
       "Direct dispatch phone line for parents during the night",
@@ -409,7 +409,7 @@ export const MARYLAND_BATCH10 = [
       {
         h2: "Vehicle choice for Reston prom groups",
         paragraphs: [
-          "A stretch limousine comfortably covers six to eight students; larger groups of ten to thirteen are better served by a Mercedes Sprinter van, which keeps the whole group together for every stop instead of splitting across two vehicles with two pickup times.",
+          "A Lincoln Navigator comfortably covers up to six students; larger groups of seven to thirteen are better served by a Mercedes Sprinter van, which keeps the whole group together for every stop instead of splitting across two vehicles with two pickup times.",
         ],
       },
       {
@@ -429,7 +429,7 @@ export const MARYLAND_BATCH10 = [
     faqs: [
       { q: "What is your alcohol policy for prom bookings?", a: "A strict no-alcohol policy is enforced inside the vehicle by the chauffeur, not just stated as a rule. Parents can reach dispatch 24/7 at (877) 609-1919, and the pickup times and rate are confirmed in writing before prom night." },
       { q: "Can we build the night around Reston Town Center?", a: "Yes, a Reston Town Center dinner or photo stop is one of the most common parts of a Reston prom-night itinerary. We plan the timing so the group has time for photos before heading on to dinner or the dance." },
-      { q: "Is a limo or a Sprinter van better for a group of twelve?", a: "A Sprinter van. It keeps a larger group together for every stop, avoiding the split pickup times that come with two smaller vehicles." },
+      { q: "Is one Sprinter van or two smaller vehicles better for a group of twelve?", a: "A Sprinter van. It keeps a larger group together for every stop, avoiding the split pickup times that come with two smaller vehicles." },
       { q: "Can parents get the schedule and a direct phone number?", a: "Yes. We confirm the full night's schedule with parents in writing and provide a direct dispatch line to call if plans change." },
       { q: "How far in advance should a Reston prom group book?", a: "As soon as the date is set — April and May bookings fill quickly, especially for larger vehicles. Special-event bookings can be cancelled free up to 12 hours before pickup, so reserving early carries little risk if plans change." },
     ],
@@ -441,7 +441,7 @@ export const MARYLAND_BATCH10 = [
       { label: "Prom & Homecoming Limo Safety Guide", to: "/blog/prom-homecoming-limo-safety-guide-northern-virginia-parents" },
       { label: "Prom Limo Service", to: "/prom-limo" },
     ],
-    schema: { areaServed: ["Reston", "Fairfax County"], serviceType: "Prom limousine service" },
+    schema: { areaServed: ["Reston", "Fairfax County"], serviceType: "Prom chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // Corporate car service by industry (non-city "service" pages)

@@ -13,7 +13,7 @@ const batch4 = [
     readTime: '6 min read',
     excerpt:
       'Wolf Trap and the region’s outdoor amphitheaters draw huge weeknight crowds. A booked chauffeur skips the parking lot entirely — including the exit.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'Northern Virginia’s outdoor concert season runs from late spring through early fall, anchored by Wolf Trap’s Filene Center and joined by other regional amphitheaters that pull thousands of people to the same parking lots on the same summer evenings. The music is the easy part. The two hardest parts of a Wolf Trap night are getting in before the show and getting out after it, and both are solved the same way — by not driving yourself at all.',
     ],
@@ -301,7 +301,7 @@ const batch4 = [
         heading: 'Choosing the Right Vehicle',
         paragraphs: [
           'A sedan suits a couple celebrating quietly. An SUV covers a small group of close friends. A Sprinter van keeps a larger party — the classic milestone-birthday guest list — together for the whole night without splitting into multiple cars or rideshares.',
-          'For a particularly special milestone, a stretch limousine remains an option for couples or small groups who want the occasion to feel distinctly different from an ordinary night out.',
+          'For a particularly special milestone, a First Class Sedan or the Sprinter Executive is an option for couples or small groups who want the occasion to feel distinctly different from an ordinary night out.',
         ],
       },
       {
@@ -431,7 +431,7 @@ const batch4 = [
     readTime: '7 min read',
     excerpt:
       'Safety, group logistics, and a night that runs on schedule — here is what Northern Virginia parents should know before booking prom transportation.',
-    image: '/images/limousine.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'Prom transportation is one of the few high-stakes bookings parents make on behalf of teenagers rather than for themselves, which means the questions that matter are different from an ordinary rental. Safety, licensing, and a chauffeur who keeps the evening on schedule matter more here than almost anywhere else in event transportation. This guide walks Northern Virginia parents through what to confirm before booking prom limo service.',
     ],
@@ -446,7 +446,7 @@ const batch4 = [
       {
         heading: 'Sizing the Vehicle to the Group',
         paragraphs: [
-          'Prom groups often start smaller and grow as friend groups combine, so confirm the final headcount before booking rather than assuming an early estimate holds. A Sprinter van comfortably seats a larger combined group of up to thirteen, while a stretch limousine suits a more intimate group that wants the classic prom-night look.',
+          'Prom groups often start smaller and grow as friend groups combine, so confirm the final headcount before booking rather than assuming an early estimate holds. A Sprinter Executive comfortably seats a larger combined group of up to thirteen, while a Lincoln Navigator suits a more intimate group of up to six. (We don’t operate stretch limousines.)',
           'Overcrowding a smaller vehicle is a common last-minute mistake as groups merge in the final weeks before prom — confirm capacity with the actual final list, not the group chat’s early headcount.',
         ],
       },
@@ -473,7 +473,7 @@ const batch4 = [
       {
         heading: 'Booking Early for Prom Season',
         paragraphs: [
-          'Prom dates cluster within a few weekends each spring across Northern Virginia high schools, which makes Sprinter vans and limousines the tightest inventory of the season. Book as soon as your group’s plans and headcount are settled — waiting until closer to the date risks losing the vehicle size your group actually needs.',
+          'Prom dates cluster within a few weekends each spring across Northern Virginia high schools, which makes Sprinter vans and Navigators the tightest inventory of the season. Book as soon as your group’s plans and headcount are settled — waiting until closer to the date risks losing the vehicle size your group actually needs.',
         ],
       },
       {
@@ -497,7 +497,7 @@ const batch4 = [
       {
         question: 'How far in advance should we book prom transportation?',
         answer:
-          'As early as possible — prom dates cluster within a few spring weekends, making Sprinter vans and limousines the tightest inventory of the season. Booking early also gives parents time to confirm pickup addresses, timing and the drop-off plan with dispatch before the night.',
+          'As early as possible — prom dates cluster within a few spring weekends, making Sprinter vans and Navigators the tightest inventory of the season. Booking early also gives parents time to confirm pickup addresses, timing and the drop-off plan with dispatch before the night.',
       },
       {
         question: 'Can parents confirm the pickup and drop-off plan directly with dispatch?',
@@ -555,7 +555,7 @@ const batch4 = [
       {
         heading: 'Choosing the Right Vehicle',
         paragraphs: [
-          'An SUV suits a smaller group of close friends; a Sprinter van is the standard choice for a full bachelor or bachelorette party, comfortably keeping up to thirteen people together for the night. For a smaller, more intimate celebration, a sedan or a stretch limousine both remain options depending on the tone the group wants.',
+          'An SUV suits a smaller group of close friends; a Sprinter van is the standard choice for a full bachelor or bachelorette party, comfortably keeping up to thirteen people together for the night. For a smaller, more intimate celebration, a First Class Sedan or a Lincoln Navigator both remain options depending on the tone the group wants.',
         ],
       },
       {
@@ -603,7 +603,7 @@ const batch4 = [
     readTime: '6 min read',
     excerpt:
       'The most common wedding transportation mistake is booking too few vehicles for the group, or too many separate ones. Here is how to size it correctly.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Of all the wedding transportation questions couples ask, this is the one that most often gets guessed at rather than actually calculated: how many vehicles does the day really need? Get it wrong in one direction and the wedding party is cramped and running late; get it wrong in the other and you are paying for capacity nobody uses. Here is how to size it correctly.',
     ],
@@ -624,7 +624,7 @@ const batch4 = [
       {
         heading: 'The Couple: A Separate Vehicle Is Common, Not Required',
         paragraphs: [
-          'Many couples book a separate limousine or luxury sedan for themselves, distinct from the wedding party’s Sprinter — it makes for a cleaner arrival and departure, and photographs differently than stepping out of a van with ten other people. This is a preference rather than a necessity; plenty of couples ride with their full wedding party and it works fine logistically.',
+          'Many couples book a separate First Class Sedan or Lincoln Navigator for themselves, distinct from the wedding party’s Sprinter — it makes for a cleaner arrival and departure, and photographs differently than stepping out of a van with ten other people. This is a preference rather than a necessity; plenty of couples ride with their full wedding party and it works fine logistically.',
           'If the couple wants a distinct getaway vehicle for the exit specifically — a classic send-off moment — that can be booked as a single additional vehicle just for the departure, even if the rest of the day used one shared Sprinter.',
         ],
       },
@@ -651,7 +651,7 @@ const batch4 = [
         paragraphs: ['Work through this list with your transportation provider:'],
         list: [
           'One Sprinter van for the full wedding party (most weddings)',
-          'One limousine or sedan for the couple, if wanted separately',
+          'One First Class Sedan or Navigator for the couple, if wanted separately',
           'One SUV for parents and immediate family, if included',
           'One or more Sprinter vans for guest shuttling, sized by guest count and venue distance',
           'Separate flight-tracked pickups for any out-of-town guests arriving through Dulles',
@@ -667,7 +667,7 @@ const batch4 = [
       {
         question: 'Should the couple ride separately from the wedding party?',
         answer:
-          'It is a preference, not a requirement. Some couples book a separate limousine or sedan for a cleaner arrival and exit; others ride with the full wedding party.',
+          'It is a preference, not a requirement. Some couples book a separate First Class Sedan or Navigator for a cleaner arrival and exit; others ride with the full wedding party.',
       },
       {
         question: 'How many shuttle vans do we need for guests?',
@@ -815,7 +815,7 @@ const batch4 = [
       {
         heading: 'Choosing the Right Vehicle',
         paragraphs: [
-          'A Mercedes-Benz S-Class or E-Class sedan suits a couple perfectly for an evening like this, offering a quiet, private ride between stops. For an especially significant milestone, a stretch limousine adds a more distinctly celebratory feel to the occasion, if that matches the tone you are planning.',
+          'A Mercedes-Benz S-Class or E-Class sedan suits a couple perfectly for an evening like this, offering a quiet, private ride between stops. For an especially significant milestone, a Lincoln Navigator adds more room and a more distinctly celebratory feel to the occasion, if that matches the tone you are planning.',
         ],
       },
       {

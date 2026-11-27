@@ -16,7 +16,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small families with luggage" },
 ];
 
 export const MARYLAND_BATCH11 = [
@@ -31,11 +31,11 @@ export const MARYLAND_BATCH11 = [
     h1: "Tysons Wedding Limo Service",
     metaTitle: "Tysons Wedding Limo Service | Tysons, VA",
     metaDescription:
-      "Chauffeured wedding transportation in Tysons, VA — hotel-to-venue coordination, bridal party limos and guest shuttles. Call (877) 609-1919.",
+      "Chauffeured wedding transportation in Tysons, VA — hotel-to-venue coordination, bridal party Sprinters and guest shuttles. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "15–25 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Tysons is a hotel-heavy, high-rise part of Northern Virginia, which makes it a common staging point for a wedding day even when the ceremony itself is elsewhere — a bridal party getting ready at a Tysons hotel, then moving to a ceremony and reception somewhere in McLean, Vienna, Great Falls or downtown DC. We build that kind of day as one hourly reservation rather than a series of separate rides.",
@@ -46,7 +46,7 @@ export const MARYLAND_BATCH11 = [
       "Bridal party pickup and drop-off coordinated against the photographer's schedule",
       "Guest shuttle service in Sprinter vans for venues with limited parking",
       "Dulles airport pickups for out-of-town wedding guests, 15 to 25 minutes away",
-      "Decoration-ready stretch limousines for the wedding party",
+      "Sprinter Executive vans and First Class Sedans for the wedding party",
       "Licensed and insured Virginia carrier with a dedicated day-of coordinator",
     ],
     sections: [
@@ -91,7 +91,7 @@ export const MARYLAND_BATCH11 = [
       { label: "Top 10 Wedding Venues Near Dulles & NoVA", to: "/top-10-wedding-venues-near-dulles-nova" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Tysons", "Fairfax County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Tysons", "Fairfax County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "bethesda-wedding-limo-service",
@@ -105,7 +105,7 @@ export const MARYLAND_BATCH11 = [
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Downtown Bethesda's density of hotels and restaurants makes it a frequent wedding-day base in Montgomery County, whether the ceremony itself is at a downtown venue or the day includes a drive out to a reception elsewhere in the DC area. We run Bethesda wedding days as one hourly reservation, with the same chauffeur and vehicle dedicated to the wedding party from getting-ready through the reception exit.",
@@ -114,7 +114,7 @@ export const MARYLAND_BATCH11 = [
       "Hourly wedding-day packages covering getting ready through the reception exit",
       "Coordination with downtown Bethesda hotels and nearby Chevy Chase and Rockville venues",
       "Guest shuttle coordination with Sprinter vans for venues with limited parking",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Sprinter Executive vans and First Class Sedans for the bridal party",
       "Airport pickups for out-of-town wedding guests at Dulles, Reagan or BWI",
       "Licensed and insured Maryland carrier with a dedicated day-of coordinator",
     ],
@@ -140,7 +140,7 @@ export const MARYLAND_BATCH11 = [
       {
         h2: "Vehicles and booking for a Bethesda wedding",
         paragraphs: [
-          "A stretch limousine suits a bridal party of six to eight; a Mercedes Sprinter van handles a larger wedding party or a guest shuttle route. Call (877) 609-1919 or book online with your venue and timeline.",
+          "A First Class Sedan or Lincoln Navigator suits the couple or a small bridal party; a Mercedes Sprinter Executive seats up to 13 for a larger wedding party, and a Sprinter van handles a guest shuttle route. Call (877) 609-1919 or book online with your venue and timeline.",
         ],
       },
     ],
@@ -160,7 +160,7 @@ export const MARYLAND_BATCH11 = [
       { label: "Maryland Wedding Limo", to: "/maryland-wedding-limo" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Bethesda", "Montgomery County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Bethesda", "Montgomery County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "arlington-wedding-limo-service",
@@ -174,7 +174,7 @@ export const MARYLAND_BATCH11 = [
     stats: [
       { label: "Reagan (DCA)", value: "10–20 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Arlington wedding days frequently cross into Washington, DC for part of the itinerary — a ceremony at an Arlington venue, photos near the Potomac, and a reception downtown, or the reverse. We build that kind of cross-jurisdiction day as one hourly reservation, so a chauffeur familiar with both Arlington's streets and the District's bridges and traffic patterns handles the whole route.",
@@ -185,7 +185,7 @@ export const MARYLAND_BATCH11 = [
       "Hourly wedding-day packages spanning Arlington and DC venues on one reservation",
       "Reagan National pickups 10 to 20 minutes from most Arlington venues for out-of-town guests",
       "Guest shuttle coordination with Sprinter vans for venues with limited parking",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Sprinter Executive vans and First Class Sedans for the bridal party",
       "Chauffeurs familiar with Crystal City, Rosslyn, Ballston, Clarendon and the DC bridges",
       "Licensed and insured Virginia carrier with a dedicated day-of coordinator",
     ],
@@ -225,7 +225,7 @@ export const MARYLAND_BATCH11 = [
       {
         h2: "Vehicles and booking for an Arlington wedding",
         paragraphs: [
-          "A stretch limousine suits a bridal party of six to eight; a Mercedes Sprinter van handles a larger wedding party or a guest shuttle route. Call (877) 609-1919 or book online with your venue and timeline.",
+          "A First Class Sedan or Lincoln Navigator suits the couple or a small bridal party; a Mercedes Sprinter Executive seats up to 13 for a larger wedding party, and a Sprinter van handles a guest shuttle route. Call (877) 609-1919 or book online with your venue and timeline.",
         ],
       },
     ],
@@ -247,7 +247,7 @@ export const MARYLAND_BATCH11 = [
       { label: "Top 10 Wedding Venues Near Dulles & NoVA", to: "/top-10-wedding-venues-near-dulles-nova" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Arlington", "Arlington County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Arlington", "Arlington County"], serviceType: "Wedding chauffeur service" },
   },
   {
     slug: "potomac-wedding-limo-service",
@@ -257,11 +257,11 @@ export const MARYLAND_BATCH11 = [
     h1: "Potomac Wedding Limo Service",
     metaTitle: "Potomac Wedding Limo Service | Potomac, MD",
     metaDescription:
-      "Chauffeured wedding transportation in Potomac, MD — estate and country club venues, guest shuttles and bridal party limos. Call (877) 609-1919.",
+      "Chauffeured wedding transportation in Potomac, MD — estate and country club venues, guest shuttles and bridal party Sprinters. Call (877) 609-1919.",
     stats: [
       { label: "Dulles (IAD)", value: "35–50 minutes, depending on traffic" },
       { label: "Pricing", value: "Hourly, as-directed wedding packages" },
-      { label: "Fleet", value: "Stretch limousine up to 13-passenger Sprinter van" },
+      { label: "Fleet", value: "Executive sedan up to 13-passenger Sprinter van" },
     ],
     intro: [
       "Potomac's private estates, country clubs and conference-center venues host a steady calendar of weddings, and the area's winding, unmarked roads reward a chauffeur who already knows the way rather than one following a map app through a gravel driveway for the first time. We build Potomac wedding days as one hourly reservation, from getting-ready through the reception exit.",
@@ -270,7 +270,7 @@ export const MARYLAND_BATCH11 = [
       "Hourly wedding-day packages for Potomac estate, club and conference-center venues",
       "Chauffeurs familiar with Potomac's private roads and venue entrances",
       "Guest shuttle coordination with Sprinter vans for venues with limited on-site parking",
-      "Decoration-ready stretch limousines for the bridal party",
+      "Sprinter Executive vans and First Class Sedans for the bridal party",
       "Coordination with nearby Bethesda and Rockville hotels for out-of-town guests",
       "Licensed and insured Maryland carrier with a dedicated day-of coordinator",
     ],
@@ -296,7 +296,7 @@ export const MARYLAND_BATCH11 = [
       {
         h2: "Vehicles and booking for a Potomac wedding",
         paragraphs: [
-          "A stretch limousine suits a bridal party of six to eight; a Mercedes Sprinter van handles a larger wedding party or a guest shuttle route from a Bethesda or Rockville hotel. Call (877) 609-1919 or book online with your venue and timeline.",
+          "A First Class Sedan or Lincoln Navigator suits the couple or a small bridal party; a Mercedes Sprinter Executive seats up to 13 for a larger wedding party, and a Sprinter van handles a guest shuttle route from a Bethesda or Rockville hotel. Call (877) 609-1919 or book online with your venue and timeline.",
         ],
       },
     ],
@@ -316,7 +316,7 @@ export const MARYLAND_BATCH11 = [
       { label: "Maryland Wedding Transportation", to: "/maryland-wedding-transportation" },
       { label: "Wedding Limo Service", to: "/wedding-limo" },
     ],
-    schema: { areaServed: ["Potomac", "Montgomery County"], serviceType: "Wedding limousine service" },
+    schema: { areaServed: ["Potomac", "Montgomery County"], serviceType: "Wedding chauffeur service" },
   },
   // ---------------------------------------------------------------------
   // New city page

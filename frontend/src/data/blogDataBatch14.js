@@ -175,7 +175,7 @@ const batch14 = [
     readTime: '5 min read',
     excerpt:
       'Traditional wedding-cost etiquette assigns transportation to a specific side of the family, but most modern couples split it differently. Here is how it actually tends to work.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Traditional wedding-planning etiquette assigns transportation costs to the couple or, in some older breakdowns, to the groom\'s family specifically. In practice, most couples we work with today handle it differently, and there is no single "correct" answer — just a few common patterns worth knowing before the budget conversation happens.',
     ],
@@ -239,81 +239,6 @@ const batch14 = [
       { label: 'Coordinating Your Chauffeur With Your Wedding Vendor Timeline', to: '/blog/coordinating-chauffeur-wedding-vendor-timeline' },
       { label: 'Wedding Limo Service DC, Maryland & Virginia: Complete Guide', to: '/blog/wedding-limo-service-dc-maryland-virginia-complete-guide' },
       { label: 'Wedding Limo Service', to: '/wedding-limo' },
-    ],
-  },
-  {
-    slug: 'charter-bus-vs-party-bus-vs-limo-which-fits-your-group',
-    title: 'Charter Bus vs. Party Bus vs. Limo: Which Fits Your Group?',
-    metaTitle: 'Charter Bus vs Party Bus vs Limo: Group Transportation',
-    metaDescription:
-      'Planning transportation for a large group? Here is how a charter bus, party bus and limo or Sprinter van actually compare for size, cost and experience.',
-    datePublished: '2026-10-28',
-    readTime: '6 min read',
-    excerpt:
-      'A group of 10 and a group of 50 need completely different vehicles. Here is a clear breakdown of charter bus, party bus and limo or Sprinter van options for Northern Virginia and DC-area events.',
-    image: '/images/blog/scenario-group-boarding.webp',
-    intro: [
-      'Every large-group transportation question eventually comes down to the same three options: a charter bus, a party bus, or a limo-class vehicle like a stretch limousine or Sprinter van. They are not interchangeable — group size, the kind of event, and budget all point toward a different answer.',
-    ],
-    sections: [
-      {
-        heading: 'Group Size Is the First Filter',
-        paragraphs: [
-          'A Sprinter van comfortably covers 10 to 13 passengers, a stretch limousine covers up to about 8 to 10 in a more celebratory format, a party bus typically runs 20 to 40, and a full charter bus covers 40 and up. If your group is 13 or fewer, a limo-class vehicle is almost always the better experience and value; above 20, you are choosing between a party bus and a charter bus rather than a limo at all.',
-        ],
-      },
-      {
-        heading: 'Party Bus vs. Charter Bus',
-        paragraphs: [
-          'A party bus is built for the experience — lighting, sound systems, standing room, a social layout — and fits celebratory events like a bachelor or bachelorette party, a birthday or a sports-game group. A charter bus is built for the trip itself: forward-facing seating, overhead storage and a more conventional, comfortable ride for a longer distance or a corporate group that needs to arrive ready to work rather than socialize.',
-        ],
-      },
-      {
-        heading: 'When a Limo or Sprinter Van Still Wins for a Bigger Group',
-        paragraphs: [
-          'Multi-stop itineraries — a wedding day moving between three venues, or a corporate group splitting into two meetings at once — often work better with two or three Sprinter vans than one large bus, since each vehicle can run its own schedule independently rather than committing the whole group to one vehicle\'s timing.',
-        ],
-      },
-      {
-        heading: 'Choosing Based on Your Event',
-        paragraphs: [
-          'A wedding or prom group under 13: a stretch limousine or Sprinter van. A bachelor or bachelorette party or milestone birthday with 20 or more: a party bus. A corporate retreat, conference shuttle or large family event over 40: a charter bus. Tell us your group size and the kind of event when you book and we will recommend the right fit rather than the biggest vehicle available.',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        question: 'How many people fit on a party bus versus a charter bus?',
-        answer:
-          'A party bus typically fits 20 to 40 passengers in a social, standing-room layout. A full charter bus fits 40 and up in forward-facing seating.',
-      },
-      {
-        question: 'Is a Sprinter van better than a party bus for a smaller group?',
-        answer:
-          'For a group of 10 to 13, yes — a Sprinter van is more cost-effective and still comfortable, while a party bus is built for a larger, more social-format group. Our Mercedes Sprinter seats up to 13 passengers, so a group that size stays together in a single vehicle.',
-      },
-      {
-        question: 'Which option is best for a corporate group?',
-        answer:
-          'A charter bus for a large group traveling together to one destination, or multiple Sprinter vans when the group needs to split into separate meetings or schedules. Our Mercedes Sprinter vans each seat up to 13 passengers, and larger groups simply use more than one vehicle.',
-      },
-      {
-        question: 'Can I book multiple vehicles for one event?',
-        answer:
-          'Yes, we regularly coordinate two or more Sprinter vans or limousines for a single wedding, corporate event or group outing running on overlapping schedules. Each vehicle gets its own pickup times, and dispatch keeps them coordinated throughout the day.',
-      },
-      {
-        question: 'What should I tell you when booking group transportation?',
-        answer:
-          'Your group size, the kind of event, and the stops on your itinerary — we will recommend the right vehicle type rather than defaulting to the largest option. We then confirm a flat, written rate for the vehicle we recommend before you book.',
-      },
-    ],
-    relatedLinks: [
-      { label: 'Maryland Party Bus Rental Guide', to: '/blog/maryland-party-bus-rental-guide' },
-      { label: 'MD Party Bus vs. Limo: Which Is Right for Your Group', to: '/blog/md-party-bus-vs-limo-which-is-right-for-your-group' },
-      { label: 'Sedan vs. SUV vs. Sprinter Van: Which to Book', to: '/blog/sedan-vs-suv-vs-sprinter-van-which-to-book' },
-      { label: 'How to Split Limo Cost for a Group Trip', to: '/blog/how-to-split-limo-cost-group-trip-guide' },
-      { label: 'Fleet', to: '/fleet' },
     ],
   },
   {
@@ -713,7 +638,7 @@ const batch14 = [
     readTime: '6 min read',
     excerpt:
       'Transportation is a small line item on most wedding budgets, but it is also one of the easiest to underestimate. Here is a realistic breakdown for Northern Virginia weddings.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Wedding transportation typically lands near the bottom of most published wedding-budget percentage breakdowns, which leads a lot of couples to underestimate it until they are actually pricing it out. Here is a more realistic way to budget for it in the Northern Virginia and DC-metro market specifically.',
     ],
@@ -727,7 +652,7 @@ const batch14 = [
       {
         heading: 'A Realistic Range for This Market',
         paragraphs: [
-          'For a typical Northern Virginia or DC-metro wedding booking a stretch limousine or Sprinter van for 5 to 6 hours of as-directed service, transportation usually represents a modest single-digit percentage of the overall wedding budget — meaningfully more if a guest shuttle or multiple vehicles are added for a larger wedding party or a multi-venue day.',
+          'For a typical Northern Virginia or DC-metro wedding booking a Sprinter Executive or a First Class Sedan for 5 to 6 hours of as-directed service, transportation usually represents a modest single-digit percentage of the overall wedding budget — meaningfully more if a guest shuttle or multiple vehicles are added for a larger wedding party or a multi-venue day.',
         ],
       },
       {

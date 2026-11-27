@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import './App.css';
 import HomePage from './pages/HomePage';
 import IadAboutPage from './pages/IadAboutPage';
@@ -54,6 +54,7 @@ function App() {
           
           {/* Fleet & Vehicles */}
           <Route path="/fleet" element={<FleetPage />} />
+          <Route path="/vehicles/buses" element={<Navigate to="/fleet" replace />} />
           <Route path="/vehicles/:category" element={<VehiclesPage />} />
           
           {/* Services */}

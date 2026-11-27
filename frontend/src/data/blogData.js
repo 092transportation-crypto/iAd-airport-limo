@@ -1504,7 +1504,7 @@ export const ALL_BLOG_POSTS = [
     readTime: '8 min read',
     excerpt:
       'Dulles with children is completely manageable — with the right plan. Car seats, strollers, the AeroTrain, customs with tired kids, and the vehicle math for families.',
-    image: '/images/blog/scenario-group-boarding.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'Family travel multiplies everything about an airport: the bags, the timelines, the number of small humans who need a bathroom at the exact wrong moment. Dulles, being big, punishes improvisation and rewards planning more than most. This guide covers the family-specific logistics — from car seats to customs — that turn IAD with kids from an ordeal into a routine.',
     ],
@@ -1648,9 +1648,9 @@ export const ALL_BLOG_POSTS = [
         ],
       },
       {
-        heading: 'Tipping, Deposits, and Payment',
+        heading: 'Tipping, Payment, and Cancellation',
         paragraphs: [
-          'Gratuity of 15–20 percent is customary for chauffeured service, and most travelers fold it into the booking so the trip itself is cashless. Expect your card to be charged once the reservation and rate are confirmed, and a written confirmation stating the all-in total before the vehicle ever arrives. Event work — weddings, proms, long charters — normally carries a deposit; simple airport transfers should not.',
+          'Gratuity of 15–20 percent is customary for chauffeured service, and most travelers fold it into the booking so the trip itself is cashless. Expect your card to be charged once the reservation and rate are confirmed, and a written confirmation stating the all-in total before the vehicle ever arrives. Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours for Sprinter vans and special-event bookings such as weddings and proms.',
         ],
       },
       {
@@ -2212,7 +2212,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What is your cancellation policy for BWI transfers?',
         answer:
-          'Sedan and SUV bookings cancel free up to 3 hours before pickup. Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before.',
+          'Sedan and SUV bookings cancel free up to 3 hours before pickup. Sprinter vans and special-event bookings cancel free up to 12 hours before.',
       },
     ],
   },
@@ -2319,7 +2319,7 @@ export const ALL_BLOG_POSTS = [
     readTime: '5 min read',
     excerpt:
       'Marrying across the river? A Virginia couple planning a Bethesda, Frederick County or Eastern Shore wedding needs a limo company licensed on both sides of it.',
-    image: '/images/blog/scenario-wedding-1.webp',
+    image: '/images/blog/scenario-doorman.webp',
     intro: [
       'Many Northern Virginia couples end up marrying in Maryland. The reasons are practical: a family home in Potomac, a barn or vineyard in Frederick County, or a waterfront venue on the Eastern Shore that Virginia cannot match. The complication is that your guests, your vendors and your own getting-ready location may sit in three jurisdictions, and a limo company that is only comfortable on one side of the Potomac will show it on the day.',
       'Here is how to choose wedding transportation in Maryland when you are planning from Loudoun, Fairfax or Arlington.',
@@ -2346,13 +2346,13 @@ export const ALL_BLOG_POSTS = [
           {
             heading: 'The Fleet Question',
             paragraphs: [
-              'Match vehicles to roles. A stretch limousine seats up to eight for the wedding party. A Mercedes Sprinter carries 13 guests from the hotel block. A Mercedes-Benz S-Class is the getaway car. Look at the actual fleet, then ask whether the specific vehicle can be named on your contract.',
+              'Match vehicles to roles. A Mercedes Sprinter Executive seats up to 13 for the wedding party. A Mercedes Sprinter Shuttle carries 13 guests from the hotel block. A Mercedes-Benz S-Class is the getaway car. Look at the actual fleet, then ask whether the specific vehicle can be named on your contract.',
             ],
           },
           {
             heading: 'Cancellation and Change Terms',
             paragraphs: [
-              'Wedding vehicles are booked months out. Our limousines, Sprinter vans and special-event bookings cancel free up to 12 hours before pickup, and on-the-day changes are handled by dispatch by phone or text.',
+              'Wedding vehicles are booked months out. Our Sprinter vans and special-event bookings cancel free up to 12 hours before pickup, and on-the-day changes are handled by dispatch by phone or text.',
             ],
           },
         ],
@@ -2393,7 +2393,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'How far ahead should we book wedding transportation in Maryland?',
         answer:
-          'Four to eight weeks for Saturday dates between May and October, earlier for Commissioning Week in Annapolis or Eastern Shore dates in October. Stretch limousines and Sprinter vans book first.',
+          'Four to eight weeks for Saturday dates between May and October, earlier for Commissioning Week in Annapolis or Eastern Shore dates in October. Sprinter vans and Navigators book first.',
       },
       {
         question: 'Can you shuttle guests from Dulles to our Maryland venue?',
@@ -2501,7 +2501,7 @@ export const ALL_BLOG_POSTS = [
       {
         question: 'What is the cancellation policy for event transportation?',
         answer:
-          'Sprinter vans, limousines and special-event bookings cancel free up to 12 hours before pickup; sedans and SUVs up to 3 hours before. Event bookings are confirmed in writing, so the vehicle, timing and rate are settled well before the day.',
+          'Sprinter vans and special-event bookings cancel free up to 12 hours before pickup; sedans and SUVs up to 3 hours before. Event bookings are confirmed in writing, so the vehicle, timing and rate are settled well before the day.',
       },
     ],
   },

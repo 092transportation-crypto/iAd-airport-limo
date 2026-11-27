@@ -47,7 +47,7 @@ const homeFaqs = [
   {
     question: 'What is your cancellation policy?',
     answer:
-      'A sedan or SUV can be cancelled at no charge up to 3 hours before pickup. Sprinters, limousines and event bookings need 12 hours\' notice to cancel for free. Later changes may carry a fee, so call (877) 609-1919 as soon as your plans move.',
+      'A sedan or SUV can be cancelled at no charge up to 3 hours before pickup. Sprinters and event bookings need 12 hours\' notice to cancel for free. Later changes may carry a fee, so call (877) 609-1919 as soon as your plans move.',
   },
   {
     question: 'Do you serve DCA and BWI airports too?',
@@ -70,7 +70,6 @@ const HomePage = () => {
     navigator: '/images/lincoln-navigator.webp',
     sprinterShuttle: '/images/sprinter-shuttle-seats.webp',
     sprinterExecutive: '/images/mercedes-sprinter.webp',
-    sprinterLimo: '/images/limousine.webp',
   };
 
   const images = {

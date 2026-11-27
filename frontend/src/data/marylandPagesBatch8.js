@@ -9,7 +9,7 @@ const VEHICLES = [
   { name: "Lincoln Navigator", cls: "Premium SUV", seats: 6, best: "families and small groups with luggage" },
   { name: "Chevrolet Suburban", cls: "Luxury SUV", seats: 5, best: "airport runs with beach or golf luggage" },
   { name: "Mercedes Sprinter van", cls: "Executive van", seats: 13, best: "wedding parties, corporate teams and groups" },
-  { name: "Stretch limousine", cls: "Limousine", seats: 8, best: "proms, weddings and celebrations" },
+  { name: "Lincoln Nautilus", cls: "Midsize SUV", seats: 3, best: "couples and small parties who prefer an SUV" },
 ];
 
 export const MARYLAND_BATCH8 = [
@@ -78,7 +78,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Kennedy Center Transportation", to: "/kennedy-center-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Georgetown", "Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Georgetown", "Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "capitol-hill-limo-service",
@@ -145,7 +145,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Nationals Park Transportation", to: "/nationals-park-transportation" },
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
     ],
-    schema: { areaServed: ["Capitol Hill", "Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Capitol Hill", "Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "dupont-circle-limo-service",
@@ -212,7 +212,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "Arlington Limo Service", to: "/arlington-limo-service" },
     ],
-    schema: { areaServed: ["Dupont Circle", "Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Dupont Circle", "Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "noma-dc-limo-service",
@@ -279,7 +279,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "Hyattsville Limo Service", to: "/hyattsville-limo-service" },
     ],
-    schema: { areaServed: ["NoMa", "Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["NoMa", "Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "the-wharf-dc-limo-service",
@@ -346,7 +346,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "Capital One Arena Transportation", to: "/capital-one-arena-transportation" },
     ],
-    schema: { areaServed: ["The Wharf", "Washington, DC"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["The Wharf", "Washington, DC"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "hamilton-va-limo-service",
@@ -413,7 +413,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Maryland Wine Tour Transportation", to: "/maryland-wine-tour-transportation" },
       { label: "Stone Tower Winery Transportation", to: "/stone-tower-winery-transportation" },
     ],
-    schema: { areaServed: ["Hamilton, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Hamilton, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "waterford-va-limo-service",
@@ -480,7 +480,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Loudoun County Fairgrounds Transportation", to: "/loudoun-county-fairgrounds-transportation" },
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
     ],
-    schema: { areaServed: ["Waterford, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Waterford, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "bluemont-va-limo-service",
@@ -547,7 +547,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Maryland Wine Tour Transportation", to: "/maryland-wine-tour-transportation" },
       { label: "Loudoun County Car Service", to: "/loudoun-county-car-service" },
     ],
-    schema: { areaServed: ["Bluemont, VA", "Loudoun County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Bluemont, VA", "Loudoun County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "the-plains-va-limo-service",
@@ -614,7 +614,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
       { label: "Stone Tower Winery Transportation", to: "/stone-tower-winery-transportation" },
     ],
-    schema: { areaServed: ["The Plains, VA", "Fauquier County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["The Plains, VA", "Fauquier County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "upperville-limo-service",
@@ -681,7 +681,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Maryland Wedding Limo", to: "/maryland-wedding-limo" },
       { label: "Northern Virginia Hourly Chauffeur Service", to: "/northern-virginia-hourly-chauffeur-service" },
     ],
-    schema: { areaServed: ["Upperville, VA", "Fauquier County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Upperville, VA", "Fauquier County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "manassas-park-limo-service",
@@ -748,7 +748,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Centreville Limo Service", to: "/centreville-limo-service" },
       { label: "Jiffy Lube Live Transportation", to: "/jiffy-lube-live-transportation" },
     ],
-    schema: { areaServed: ["Manassas Park, VA", "Prince William County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Manassas Park, VA", "Prince William County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "olney-md-limo-service",
@@ -815,7 +815,7 @@ export const MARYLAND_BATCH8 = [
       { label: "BWI to Washington DC", to: "/bwi-to-washington-dc" },
       { label: "Maryland Corporate Car Service", to: "/maryland-corporate-car-service" },
     ],
-    schema: { areaServed: ["Olney, MD", "Montgomery County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Olney, MD", "Montgomery County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "wheaton-md-limo-service",
@@ -882,7 +882,7 @@ export const MARYLAND_BATCH8 = [
       { label: "Germantown Limo Service", to: "/germantown-limo-service" },
       { label: "BWI to Washington DC", to: "/bwi-to-washington-dc" },
     ],
-    schema: { areaServed: ["Wheaton, MD", "Montgomery County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Wheaton, MD", "Montgomery County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "kensington-md-limo-service",
@@ -949,7 +949,7 @@ export const MARYLAND_BATCH8 = [
       { label: "North Bethesda Limo Service", to: "/north-bethesda-limo-service" },
       { label: "DCA to Bethesda", to: "/dca-to-bethesda" },
     ],
-    schema: { areaServed: ["Kensington, MD", "Montgomery County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Kensington, MD", "Montgomery County"], serviceType: "Chauffeured car service" },
   },
   {
     slug: "takoma-park-limo-service",
@@ -1016,6 +1016,6 @@ export const MARYLAND_BATCH8 = [
       { label: "Washington DC Airport Transfers", to: "/washington-dc-airport-transfers" },
       { label: "DCA to Bethesda", to: "/dca-to-bethesda" },
     ],
-    schema: { areaServed: ["Takoma Park, MD", "Montgomery County"], serviceType: "Limousine and car service" },
+    schema: { areaServed: ["Takoma Park, MD", "Montgomery County"], serviceType: "Chauffeured car service" },
   },
 ];

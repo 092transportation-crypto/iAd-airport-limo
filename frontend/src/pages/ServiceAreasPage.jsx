@@ -31,7 +31,7 @@ const faqs = [
   { question: 'My town is not listed — can I still book?', answer: 'Almost certainly. The listed pages are the places we are asked about most, not the limit of where we drive. Send your addresses through the booking form or call (877) 609-1919.' },
   { question: 'Is the rate the same from every town?', answer: 'No — rates depend on distance and vehicle. Every trip is quoted as a flat rate before you book, and the rate is confirmed with you before your card is charged.' },
   { question: 'Do you track flights for Dulles pickups?', answer: 'Yes. Every airport pickup is flight-tracked, and airport pickups include 45 minutes of complimentary waiting time on domestic arrivals and 60 minutes on international arrivals.' },
-  { question: 'What is the cancellation policy?', answer: 'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans, limousines and special-event bookings cancel free of charge up to 12 hours before pickup.' },
+  { question: 'What is the cancellation policy?', answer: 'Sedan and SUV reservations cancel free of charge up to 3 hours before pickup. Sprinter vans and special-event bookings cancel free of charge up to 12 hours before pickup.' },
 ];
 
 const ServiceAreasPage = () => (

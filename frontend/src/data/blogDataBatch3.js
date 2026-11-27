@@ -21,14 +21,14 @@ const batch3 = [
       {
         heading: 'What "Limo Service" Actually Means at IAD',
         paragraphs: [
-          'In the Dulles market, "limo service" rarely means a traditional stretch limousine — those are reserved mostly for weddings, proms, and milestone events. For airport transportation it means a chauffeured, pre-booked vehicle: a sedan, SUV, or van, driven by a professional chauffeur, dispatched against your flight, and priced as a flat rate agreed before you travel. That is the service most travelers mean when they search for a Dulles limo, and it is the one this guide describes.',
+          'In the Dulles market, "limo service" rarely means a traditional stretch limousine — and we don\'t operate them; our larger-group vehicle is the Mercedes Sprinter. For airport transportation it means a chauffeured, pre-booked vehicle: a sedan, SUV, or van, driven by a professional chauffeur, dispatched against your flight, and priced as a flat rate agreed before you travel. That is the service most travelers mean when they search for a Dulles limo, and it is the one this guide describes.',
           'The distinction matters because it separates a real limo service from a taxi with a website. A taxi is available and metered; a limo service is reserved, tracked, and quoted in writing before the trip begins. Confirming which one a company is actually offering before you book saves a surprise at the curb.',
         ],
       },
       {
         heading: 'The Fleet: Matching the Vehicle to the Trip',
         paragraphs: [
-          'A serious IAD limo service names its vehicles rather than promising a generic "luxury car." Executive sedans — Mercedes-Benz E-Class and S-Class, BMW 7 Series — carry up to three passengers with two or three checked bags, and suit solo business travelers or couples. Full-size SUVs carry a full luggage load — the Lincoln Navigator seats six and the Chevrolet Suburban five — the right call for families or small groups. Mercedes Sprinter vans move up to thirteen passengers for delegations, wedding parties, and conference groups, and a stretch limousine remains available for events where the occasion itself calls for one.',
+          'A serious IAD limo service names its vehicles rather than promising a generic "luxury car." Executive sedans — Mercedes-Benz E-Class and S-Class, BMW 7 Series — carry up to three passengers with two or three checked bags, and suit solo business travelers or couples. Full-size SUVs carry a full luggage load — the Lincoln Navigator seats six and the Chevrolet Suburban five — the right call for families or small groups. Mercedes Sprinter vans move up to thirteen passengers for delegations, wedding parties, and conference groups, and the Sprinter Executive adds an upgraded cabin for celebrations where the occasion itself calls for one.',
           'The common booking mistake is choosing by passenger count alone. Three travelers home from two weeks abroad with six suitcases will not fit in a sedan trunk regardless of how few people there are. A good dispatcher asks about luggage before confirming a vehicle — our fleet page breaks down passenger and bag capacity for every vehicle class if you want to check before you call.',
         ],
       },
@@ -163,7 +163,7 @@ const batch3 = [
         heading: 'Peak Periods That Deserve More Lead Time',
         paragraphs: [
           'A handful of periods regularly stretch demand past ordinary levels around Dulles: the week of Thanksgiving through the New Year holidays, spring break weeks in March and April, major regional events that pull crowds through the corridor, and any weekend with a graduation or move-in cluster at the area’s universities. During these windows, book five to seven days ahead if your date and vehicle preference matter to you.',
-          'Wedding season — roughly April through October on Saturdays — also tightens Sprinter van and stretch limousine availability specifically, since those vehicles serve both airport transfers and event bookings from the same fleet. If your trip needs a larger vehicle during a Saturday in wedding season, book as early as your plans allow.',
+          'Wedding season — roughly April through October on Saturdays — also tightens Sprinter van and Lincoln Navigator availability specifically, since those vehicles serve both airport transfers and event bookings from the same fleet. If your trip needs a larger vehicle during a Saturday in wedding season, book as early as your plans allow.',
         ],
       },
       {
@@ -211,7 +211,7 @@ const batch3 = [
       {
         heading: 'A Note on Group and Sprinter Bookings Specifically',
         paragraphs: [
-          'Larger vehicles deserve their own mention because they are consistently the tightest inventory at any car service, including ours. A standing fleet holds fewer Sprinter vans and limousines than sedans and SUVs simply because fewer trips need them, which means the ratio of demand to available vehicles is higher for exactly the bookings — weddings, group airport transfers, conference delegations — that tend to be planned furthest in advance anyway.',
+          'Larger vehicles deserve their own mention because they are consistently the tightest inventory at any car service, including ours. A standing fleet holds fewer Sprinter vans than sedans and SUVs simply because fewer trips need them, which means the ratio of demand to available vehicles is higher for exactly the bookings — weddings, group airport transfers, conference delegations — that tend to be planned furthest in advance anyway.',
           'If your trip needs a larger vehicle on a Saturday, during a holiday week, or in the heart of spring or fall wedding season, treat the booking as a priority the moment your date is set rather than something to circle back to later. The gap between "available if you book now" and "fully booked" closes faster for these vehicle classes than for a standard sedan.',
         ],
       },
@@ -222,7 +222,7 @@ const batch3 = [
           'Ordinary weekday trip, sedan or SUV → 24 hours ahead',
           'Weekend trip with a specific vehicle preference → 3 to 5 days ahead',
           'Holiday week or major regional event → 5 to 7 days ahead',
-          'Sprinter van or limousine on a Saturday in wedding season → as early as possible',
+          'Sprinter van on a Saturday in wedding season → as early as possible',
           'Genuine same-day need → call rather than book online',
         ],
       },
@@ -231,7 +231,7 @@ const batch3 = [
       {
         question: 'How far in advance should I book Dulles car service?',
         answer:
-          '24 hours ahead covers most ordinary trips. Holiday weeks, event weekends, and Saturday Sprinter van or limousine bookings during wedding season deserve five to seven days of lead time or more.',
+          '24 hours ahead covers most ordinary trips. Holiday weeks, event weekends, and Saturday Sprinter van bookings during wedding season deserve five to seven days of lead time or more.',
       },
       {
         question: 'Can I book same-day car service at Dulles?',
@@ -267,7 +267,7 @@ const batch3 = [
     readTime: '8 min read',
     excerpt:
       'Not averages — actual line items. Here is what a limo and an Uber genuinely cost at Dulles once surge, luggage, groups, and distance are priced in honestly.',
-    image: '/images/limousine.webp',
+    image: '/images/mercedes-sprinter.webp',
     intro: [
       'Most cost comparisons between airport limo service and Uber use best-case numbers for both sides, which flatters neither. This guide breaks the comparison into its actual components — how each price is built, what changes it, and what the total genuinely looks like across the trip types Dulles travelers book most — so you can compare like for like instead of guessing.',
     ],
@@ -387,7 +387,7 @@ const batch3 = [
     datePublished: '2026-09-26',
     readTime: '7 min read',
     excerpt:
-      'From choosing between a limousine and a Sprinter to building a timeline that survives a real wedding day, here is how Northern Virginia couples plan transportation.',
+      'From choosing between a First Class Sedan and a Sprinter to building a timeline that survives a real wedding day, here is how Northern Virginia couples plan transportation.',
     image: '/images/lincoln-nautilus.webp',
     intro: [
       'Wedding transportation is one of the few logistics pieces of a wedding day that, done well, nobody notices — and done poorly, throws off every hour that follows. Northern Virginia’s mix of historic venues, wineries, and estate properties adds its own routing considerations. This guide walks through choosing the right vehicle, building a timeline that holds up, and the questions worth asking before you book.',
@@ -403,8 +403,8 @@ const batch3 = [
       {
         heading: 'Choosing the Right Vehicle for Your Wedding Party',
         paragraphs: [
-          'A stretch limousine or a Lincoln Nautilus suits the couple alone or a small immediate-family group, with the classic look most couples picture for ceremony and reception arrivals. For a full wedding party — bridesmaids, groomsmen, and the couple together — a Mercedes Sprinter van comfortably seats up to thirteen, which covers most parties without splitting into two vehicles.',
-          'For guest shuttles between a hotel and venue, Sprinter vans again do the heavy lifting, often running multiple loops through the evening. Cadillac Navigators and Chevrolet Suburbans are a strong middle option for parents, officiants, or a smaller party that still wants an SUV’s presence rather than a van’s footprint.',
+          'A First Class Sedan or a Lincoln Navigator suits the couple alone or a small immediate-family group, with the classic look most couples picture for ceremony and reception arrivals. For a full wedding party — bridesmaids, groomsmen, and the couple together — a Mercedes Sprinter van comfortably seats up to thirteen, which covers most parties without splitting into two vehicles.',
+          'For guest shuttles between a hotel and venue, Sprinter vans again do the heavy lifting, often running multiple loops through the evening. Lincoln Navigators and Chevrolet Suburbans are a strong middle option for parents, officiants, or a smaller party that still wants an SUV’s presence rather than a van’s footprint.',
         ],
       },
       {
@@ -438,8 +438,8 @@ const batch3 = [
       {
         heading: 'What to Ask Before You Book',
         paragraphs: [
-          'Confirm the vehicle by name and year, not a generic description — ask what specific limousine, Sprinter, or SUV will show up. Ask how the company handles a timeline that runs behind, since weddings reliably do; a good provider builds in flexibility rather than charging by the rigid minute. Confirm the rate is a flat quote for your reserved hours, inclusive of the chauffeur and standard travel between stops, and ask about the cancellation and rescheduling policy in writing.',
-          'Book your wedding transportation as early as your other vendors — Saturdays during wedding season are the tightest inventory of the year for Sprinter vans and limousines specifically, since the same fleet also serves everyday airport transfers.',
+          'Confirm the vehicle by name and year, not a generic description — ask what specific sedan, Sprinter, or SUV will show up. Ask how the company handles a timeline that runs behind, since weddings reliably do; a good provider builds in flexibility rather than charging by the rigid minute. Confirm the rate is a flat quote for your reserved hours, inclusive of the chauffeur and standard travel between stops, and ask about the cancellation and rescheduling policy in writing.',
+          'Book your wedding transportation as early as your other vendors — Saturdays during wedding season are the tightest inventory of the year for Sprinter vans and Lincoln Navigators specifically, since the same fleet also serves everyday airport transfers.',
         ],
       },
       {
@@ -452,14 +452,14 @@ const batch3 = [
       {
         heading: 'Transportation for the Getaway and the Morning After',
         paragraphs: [
-          'Plan the exit from the reception with the same care as the arrival. A classic limousine or the Nautilus makes for a clean, photographable send-off for the couple, timed to whatever moment the reception schedule calls for — often earlier in the evening than couples initially expect, once the reality of a packed timeline sets in. If the couple is heading straight to a hotel rather than departing the area, confirm that address specifically rather than assuming it is the same as the getting-ready location.',
+          'Plan the exit from the reception with the same care as the arrival. A First Class Sedan or a Lincoln Navigator makes for a clean, photographable send-off for the couple, timed to whatever moment the reception schedule calls for — often earlier in the evening than couples initially expect, once the reality of a packed timeline sets in. If the couple is heading straight to a hotel rather than departing the area, confirm that address specifically rather than assuming it is the same as the getting-ready location.',
           'The morning after a wedding is often the most neglected piece of transportation planning. Out-of-town guests checking out of hotel blocks and heading to Dulles for a morning flight need their own flight-tracked pickups, separate from any wedding-day vehicle — and if the couple themselves is departing for a honeymoon flight the next day, book that leg at the same time as the rest of the weekend so it does not get missed in the post-wedding rush.',
         ],
       },
       {
         heading: 'Seasonal Considerations for a Northern Virginia Wedding',
         paragraphs: [
-          'Spring and fall are the busiest wedding seasons in Northern Virginia, drawing on the region’s mild weather and the photogenic backdrop of Loudoun’s vineyards and historic estates in bloom or in autumn color — which also makes those months the tightest for Sprinter van and limousine availability. Summer weddings add heat and occasional severe-thunderstorm risk to the planning picture; confirm with your venue and transportation provider how a sudden storm would affect an outdoor ceremony’s timeline, since a delayed start cascades into every transportation booking that follows.',
+          'Spring and fall are the busiest wedding seasons in Northern Virginia, drawing on the region’s mild weather and the photogenic backdrop of Loudoun’s vineyards and historic estates in bloom or in autumn color — which also makes those months the tightest for Sprinter van availability. Summer weddings add heat and occasional severe-thunderstorm risk to the planning picture; confirm with your venue and transportation provider how a sudden storm would affect an outdoor ceremony’s timeline, since a delayed start cascades into every transportation booking that follows.',
           'Winter weddings are less common in the region but come with their own transportation consideration: earlier sunsets mean photo timelines shift earlier in the day, and any snow or ice risk should prompt a conversation with your provider about contingency timing well before the date, not the week of.',
         ],
       },
@@ -480,7 +480,7 @@ const batch3 = [
       {
         question: 'How far in advance should we book wedding transportation in Northern Virginia?',
         answer:
-          'Book as early as your other major vendors, especially for a Saturday during wedding season — Sprinter vans and limousines are the tightest inventory of the year since the same fleet also covers daily airport transfers. Once the date is set, share the full timeline so the right vehicle and enough time between stops are reserved.',
+          'Book as early as your other major vendors, especially for a Saturday during wedding season — Sprinter vans are the tightest inventory of the year since the same fleet also covers daily airport transfers. Once the date is set, share the full timeline so the right vehicle and enough time between stops are reserved.',
       },
       {
         question: 'What vehicle fits a full wedding party?',
@@ -770,7 +770,7 @@ const batch3 = [
       {
         heading: 'Step Two: Choose Your Vehicle',
         paragraphs: [
-          'Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV takes a full luggage load: the Lincoln Navigator fits up to six and the Chevrolet Suburban up to five. A Mercedes Sprinter van covers larger groups up to thirteen, and a stretch limousine remains available for events built around the vehicle itself.',
+          'Match the vehicle to passengers and luggage together, not passengers alone. An executive sedan — Mercedes-Benz E-Class or S-Class, BMW 7 Series — suits one to three passengers with two or three bags. A full-size SUV takes a full luggage load: the Lincoln Navigator fits up to six and the Chevrolet Suburban up to five. A Mercedes Sprinter van covers larger groups up to thirteen, and the Sprinter Executive adds an upgraded cabin for celebrations built around the vehicle itself.',
           'If you are unsure which class fits your trip, describe your group and luggage to dispatch rather than guessing — matching the vehicle correctly the first time avoids a last-minute swap on travel day.',
         ],
       },
@@ -845,7 +845,7 @@ const batch3 = [
           'Giving a neighborhood instead of an exact address',
           'Skipping the flight number on an airport trip',
           'Accepting a verbal estimate instead of a written flat rate',
-          'Waiting until the last minute to book a Sprinter van or limousine on a weekend',
+          'Waiting until the last minute to book a Sprinter van on a weekend',
         ],
       },
     ],
@@ -903,7 +903,7 @@ const batch3 = [
         heading: 'Matching Vehicle to Group Size',
         paragraphs: [
           'For four to six passengers with luggage, a full-size SUV — Lincoln Navigator or Chevrolet Suburban — is usually the right single-vehicle answer, seating the group together with room for a full set of bags. For larger parties, seven to thirteen passengers, a Mercedes Sprinter van keeps everyone in one vehicle rather than splitting into a multi-car convoy that has to coordinate separately at the airport.',
-          'For groups beyond thirteen, or when the party wants a specific event-style vehicle for part of the trip, multiple Sprinters or a stretch limousine paired with an SUV can be arranged — tell dispatch your total headcount and luggage, and they will recommend the combination that avoids leaving anyone or anything behind.',
+          'For groups beyond thirteen, or when the party wants a more celebratory cabin for part of the trip, multiple Sprinters, a Sprinter Executive, or a Sprinter paired with an SUV can be arranged — tell dispatch your total headcount and luggage, and they will recommend the combination that avoids leaving anyone or anything behind.',
         ],
       },
       {
@@ -963,9 +963,9 @@ const batch3 = [
         ],
       },
       {
-        heading: 'Deposits, Confirmations, and Group Booking Timelines',
+        heading: 'Payment, Confirmations, and Group Booking Timelines',
         paragraphs: [
-          'Larger group and multi-vehicle bookings sometimes involve a deposit or a firmer confirmation timeline than a standard solo trip, simply because reserving a Sprinter van or multiple vehicles ties up more of the standing fleet in advance. Ask directly what the deposit and cancellation policy looks like for a group booking before you commit, especially for a date that also happens to fall during a busy period.',
+          'Larger group and multi-vehicle bookings carry a longer cancellation window than a standard solo trip, simply because reserving a Sprinter van or multiple vehicles ties up more of the standing fleet in advance. With us, the rate is quoted and confirmed in writing, and the card is charged once the reservation and rate are confirmed. Cancellation is free up to 3 hours before pickup for sedans and SUVs, and up to 12 hours before for Sprinter vans and special-event bookings, so plan around that window for a group date that falls during a busy period.',
           'Get the group confirmation in writing with the full vehicle and headcount breakdown spelled out, not just a total passenger number — that written detail is what dispatch will actually staff the trip against, and it is the reference point if anything about the group’s plans shifts before travel day.',
         ],
       },

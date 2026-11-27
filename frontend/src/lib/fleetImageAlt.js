@@ -10,7 +10,6 @@ export const FLEET_IMAGE_ALT = {
   '/images/cadillac-escalade.webp': 'Black Cadillac Escalade SUV',
   '/images/sprinter-shuttle-seats.webp': 'Rows of grey passenger seats inside a Mercedes Sprinter shuttle van',
   '/images/mercedes-sprinter.webp': 'Front view of a black Mercedes Sprinter van',
-  '/images/limousine.webp': 'Limousine interior with leather side seating and blue LED ceiling lights',
   // Blog post header photos (/images/blog). Described as shown; several are
   // stock photos of vehicles that are not in our fleet, so the alt names what
   // is in the picture rather than the post topic.
@@ -33,8 +32,6 @@ export const FLEET_IMAGE_ALT = {
   '/images/blog/scenario-corporate-2.webp': 'Man in a grey suit opening the rear door of a black sedan outside a modern building',
   '/images/blog/scenario-corporate-rain.webp': 'Chauffeur holding an umbrella for a woman stepping out of a black Mercedes-Benz sedan',
   '/images/blog/scenario-doorman.webp': 'Chauffeur holding the rear door of a black Mercedes-Benz sedan for a woman in sunglasses',
-  '/images/blog/scenario-group-boarding.webp': 'Group of travelers boarding a white minibus',
-  '/images/blog/scenario-wedding-1.webp': 'Bride and groom beside a white stretch limousine outside a castle-style venue at dusk',
 };
 
 export const fleetImageAlt = (src, fallback = '') => FLEET_IMAGE_ALT[src] || fallback;
