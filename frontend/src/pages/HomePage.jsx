@@ -6,7 +6,7 @@ import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
 import TrustSignals from '../components/TrustSignals';
 import { fleetImageAlt } from '../lib/fleetImageAlt';
-import { GOOGLE_REVIEWS_URL } from '../lib/googleReviews';
+import { GOOGLE_REVIEWS_URL, REVIEW_PHONE_HREF, REVIEW_PHONE_LABEL, REVIEW_EMAIL } from '../lib/googleReviews';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
 
 const homeFaqs = [
@@ -267,9 +267,18 @@ const HomePage = () => {
       <section className="py-16 md:py-24 bg-black">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
           <p className="font-accent text-white/40 text-xs tracking-widest uppercase mb-3">Reviews</p>
-          <h2 className="font-display text-3xl sm:text-4xl text-white mb-4">What Riders Say</h2>
-          <p className="text-white/60 text-base mb-8">Our customer reviews live on Google, posted by riders after their trips. Read them there, or leave one after your own ride.</p>
-          <a href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer" className="text-white underline hover:text-white/80">See Our Google Reviews</a>
+          {GOOGLE_REVIEWS_URL ? (
+            <>
+              <h2 className="font-display text-3xl sm:text-4xl text-white mb-4">What Riders Say</h2>
+              <p className="text-white/60 text-base mb-8">Our customer reviews live on Google, posted by riders after their trips. Read them there, or leave one after your own ride.</p>
+              <a href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer" className="text-white underline hover:text-white/80">See Our Google Reviews</a>
+            </>
+          ) : (
+            <>
+              <h2 className="font-display text-3xl sm:text-4xl text-white mb-4">Tell Us How Your Ride Went</h2>
+              <p className="text-white/60 text-base mb-8">Questions or feedback about a trip? Reach us by phone at <a href={REVIEW_PHONE_HREF} className="text-white underline hover:text-white/80">{REVIEW_PHONE_LABEL}</a> or by email at <a href={`mailto:${REVIEW_EMAIL}`} className="text-white underline hover:text-white/80">{REVIEW_EMAIL}</a>.</p>
+            </>
+          )}
         </div>
       </section>
 

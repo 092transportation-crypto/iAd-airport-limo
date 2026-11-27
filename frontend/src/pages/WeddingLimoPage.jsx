@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 import { Heart, Check, Star, Users, Calendar } from 'lucide-react';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
-import { GOOGLE_REVIEWS_URL } from '../lib/googleReviews';
+import { GOOGLE_REVIEWS_URL, REVIEW_PHONE_HREF, REVIEW_PHONE_LABEL, REVIEW_EMAIL } from '../lib/googleReviews';
 
 const weddingFaqs = [
   {
@@ -192,9 +192,22 @@ const WeddingLimoPage = () => {
       <section className="py-20 bg-[#0d0d0d]">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <p className="text-[#c9a227] text-sm tracking-[0.2em] uppercase mb-4">Reviews</p>
-          <h2 className="text-4xl font-light text-white mb-6">Read Our Reviews on Google</h2>
-          <p className="text-gray-400 mb-8">Couples and wedding planners post their reviews of IAD Airport Limo on Google after the big day.</p>
-          <a href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer" className="inline-block px-8 py-3 border border-[#c9a227] text-[#c9a227] hover:bg-[#c9a227] hover:text-black transition-colors">See Google Reviews</a>
+          {GOOGLE_REVIEWS_URL ? (
+            <>
+              <h2 className="text-4xl font-light text-white mb-6">Read Our Reviews on Google</h2>
+              <p className="text-gray-400 mb-8">Couples and wedding planners post their reviews of IAD Airport Limo on Google after the big day.</p>
+              <a href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer" className="inline-block px-8 py-3 border border-[#c9a227] text-[#c9a227] hover:bg-[#c9a227] hover:text-black transition-colors">See Google Reviews</a>
+            </>
+          ) : (
+            <>
+              <h2 className="text-4xl font-light text-white mb-6">Talk to Us About Your Wedding</h2>
+              <p className="text-gray-400 mb-8">Questions about your date, vehicles or timeline? Call us or send an email.</p>
+              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href={REVIEW_PHONE_HREF} className="inline-block px-8 py-3 border border-[#c9a227] text-[#c9a227] hover:bg-[#c9a227] hover:text-black transition-colors">Call {REVIEW_PHONE_LABEL}</a>
+                <a href={`mailto:${REVIEW_EMAIL}`} className="inline-block px-8 py-3 border border-[#c9a227] text-[#c9a227] hover:bg-[#c9a227] hover:text-black transition-colors">Email Us</a>
+              </div>
+            </>
+          )}
         </div>
       </section>
 
