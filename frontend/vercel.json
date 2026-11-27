@@ -21,22 +21,22 @@
     {
       "source": "/vehicles/buses",
       "destination": "/fleet",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/blog/maryland-party-bus-rental-guide",
       "destination": "/vehicles/sprinters",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/blog/md-party-bus-vs-limo-which-is-right-for-your-group",
       "destination": "/vehicles/sprinters",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/blog/charter-bus-vs-party-bus-vs-limo-which-fits-your-group",
       "destination": "/vehicles/sprinters",
-      "permanent": true
+      "statusCode": 301
     },
     {
       "source": "/booking",
