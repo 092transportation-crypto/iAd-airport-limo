@@ -49,7 +49,7 @@ const PrivacyPolicyPage = () => {
             <div className="mb-12">
               <h2 className="text-2xl font-semibold text-[#d4af37] mb-4">Introduction</h2>
               <p className="text-gray-300 leading-relaxed">
-                King Transportation ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our chauffeured transportation services or visit our website.
+                IAD Airport Limo ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our chauffeured transportation services or visit our website.
               </p>
             </div>
 
@@ -135,9 +135,9 @@ const PrivacyPolicyPage = () => {
                 If you have any questions about this Privacy Policy or our data practices, please contact us:
               </p>
               <div className="mt-4 p-6 bg-gray-900 border border-[#d4af37]/20 rounded-lg">
-                <p className="text-white font-semibold mb-2">King Transportation</p>
+                <p className="text-white font-semibold mb-2">IAD Airport Limo</p>
                 <p className="text-gray-400">Phone: (877) 609-1919</p>
-                <p className="text-gray-400">Email: info@kingtransportation.com</p>
+                <p className="text-gray-400">Email: limoiadairport@gmail.com</p>
                 <p className="text-gray-400">Service Area: Maryland | Virginia | Washington DC</p>
               </div>
             </div>

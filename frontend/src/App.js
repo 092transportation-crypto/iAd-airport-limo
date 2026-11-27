@@ -55,6 +55,9 @@ function App() {
           {/* Fleet & Vehicles */}
           <Route path="/fleet" element={<FleetPage />} />
           <Route path="/vehicles/buses" element={<Navigate to="/fleet" replace />} />
+          <Route path="/vehicles/ford-transit" element={<Navigate to="/fleet" replace />} />
+          <Route path="/vehicles/cadillac-escalade" element={<Navigate to="/fleet" replace />} />
+          <Route path="/vehicles/lincoln-continental" element={<Navigate to="/fleet" replace />} />
           <Route path="/vehicles/:category" element={<VehiclesPage />} />
           
           {/* Services */}

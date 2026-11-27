@@ -19,6 +19,21 @@
   ],
   "redirects": [
     {
+      "source": "/vehicles/ford-transit",
+      "destination": "/fleet",
+      "statusCode": 301
+    },
+    {
+      "source": "/vehicles/cadillac-escalade",
+      "destination": "/fleet",
+      "statusCode": 301
+    },
+    {
+      "source": "/vehicles/lincoln-continental",
+      "destination": "/fleet",
+      "statusCode": 301
+    },
+    {
       "source": "/vehicles/buses",
       "destination": "/fleet",
       "statusCode": 301

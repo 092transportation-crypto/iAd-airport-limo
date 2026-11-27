@@ -5,6 +5,7 @@ import Footer from '../components/Footer';
 import { Heart, Check, Star, Users, Calendar } from 'lucide-react';
 import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
+import { GOOGLE_REVIEWS_URL } from '../lib/googleReviews';
 
 const weddingFaqs = [
   {
@@ -82,18 +83,6 @@ const WeddingLimoPage = () => {
     }
   ];
 
-  const testimonials = [
-    {
-      text: "IAD Airport Limo made our wedding day absolutely perfect. The Navigator was beautifully decorated and our chauffeur was incredibly professional.",
-      author: "Sarah & Michael",
-      location: "McLean, VA"
-    },
-    {
-      text: "We used their services for our entire wedding party. The coordination was flawless and everyone arrived on time and in style!",
-      author: "Jennifer & David",
-      location: "Bethesda, MD"
-    }
-  ];
 
   return (
     <div className="min-h-screen bg-[#111]">
@@ -199,28 +188,13 @@ const WeddingLimoPage = () => {
         </div>
       </section>
 
-      {/* Testimonials */}
+      {/* Reviews */}
       <section className="py-20 bg-[#0d0d0d]">
-        <div className="max-w-4xl mx-auto px-4">
-          <div className="text-center mb-12">
-            <p className="text-[#c9a227] text-sm tracking-[0.2em] uppercase mb-4">Love Stories</p>
-            <h2 className="text-4xl font-light text-white">Happy Couples</h2>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {testimonials.map((testimonial, idx) => (
-              <div key={idx} className="bg-[#1a1a1a] border border-[#333] p-8">
-                <div className="flex gap-1 mb-4">
-                  {[...Array(5)].map((_, i) => (
-                    <Star key={i} className="w-4 h-4 text-[#c9a227] fill-[#c9a227]" />
-                  ))}
-                </div>
-                <p className="text-gray-300 italic mb-6">"{testimonial.text}"</p>
-                <div className="text-white font-semibold">{testimonial.author}</div>
-                <div className="text-gray-500 text-sm">{testimonial.location}</div>
-              </div>
-            ))}
-          </div>
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <p className="text-[#c9a227] text-sm tracking-[0.2em] uppercase mb-4">Reviews</p>
+          <h2 className="text-4xl font-light text-white mb-6">Read Our Reviews on Google</h2>
+          <p className="text-gray-400 mb-8">Couples and wedding planners post their reviews of IAD Airport Limo on Google after the big day.</p>
+          <a href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer" className="inline-block px-8 py-3 border border-[#c9a227] text-[#c9a227] hover:bg-[#c9a227] hover:text-black transition-colors">See Google Reviews</a>
         </div>
       </section>
 

@@ -141,19 +141,6 @@ const VehiclesPage = () => {
         description: 'The Mercedes S-Class represents the ultimate in luxury sedan travel. With its whisper-quiet cabin, massage seats, and state-of-the-art amenities, every journey becomes a first-class experience.'
       }
     },
-    'lincoln-continental': {
-      title: 'Lincoln Continental',
-      subtitle: 'American luxury at its finest',
-      single: true,
-      vehicle: {
-        name: 'Lincoln Continental',
-        subtitle: 'Classic Elegance',
-        pax: 3, luggage: 2,
-        image: images.sedan,
-        features: ['Leather Interior', 'Reclining Seats', 'Premium Audio', 'Climate Control', 'Smooth Ride', 'Privacy Glass'],
-        description: 'The Lincoln Continental delivers timeless American luxury with modern refinements. Its spacious interior and smooth ride make it perfect for airport transfers and executive travel.'
-      }
-    },
     'bmw-7-series': {
       title: 'BMW 7 Series',
       subtitle: 'The ultimate driving machine',
@@ -165,19 +152,6 @@ const VehiclesPage = () => {
         image: images.bmw7,
         features: ['Executive Lounge', 'Panoramic Roof', 'Harman Kardon Audio', 'Ambient Lighting', 'Heated Seats', 'WiFi Hotspot'],
         description: 'The BMW 7 Series combines athletic performance with supreme comfort. Its cutting-edge technology and refined interior create an exceptional travel experience.'
-      }
-    },
-    'cadillac-escalade': {
-      title: 'Lincoln Navigator',
-      subtitle: 'Bold luxury for any occasion',
-      single: true,
-      vehicle: {
-        name: 'Lincoln Navigator',
-        subtitle: 'Premium SUV',
-        pax: 6, luggage: 5,
-        image: images.suv,
-        features: ['Third Row Seating', 'Premium Audio', 'Tri-Zone Climate', 'Heads-Up Display', 'Leather Interior', 'Climate Control'],
-        description: 'The Lincoln Navigator makes a statement wherever it goes. With room for up to 6 passengers and generous luggage space, it\'s the perfect choice for airport runs and special occasions.'
       }
     },
     'chevy-suburban': {
@@ -206,19 +180,6 @@ const VehiclesPage = () => {
         description: 'The Mercedes Sprinter is the gold standard in executive van transportation. Whether for corporate groups or special events, it delivers comfort and style for larger parties.'
       }
     },
-    'ford-transit': {
-      title: 'Ford Transit',
-      subtitle: 'Reliable group transportation',
-      single: true,
-      vehicle: {
-        name: 'Ford Transit',
-        subtitle: 'Passenger Van',
-        pax: 10, luggage: 8,
-        image: images.sprinter,
-        features: ['Comfortable Seating', 'Climate Control', 'Audio System', 'USB Ports', 'Cargo Space'],
-        description: 'The Ford Transit offers reliable and comfortable transportation for medium-sized groups. An economical choice without sacrificing quality.'
-      }
-    }
   };
 
   const currentData = vehicleData[category] || vehicleData.sedans;
@@ -244,20 +205,10 @@ const VehiclesPage = () => {
       'For a Dulles arrival, the S-Class is dispatched with the same flight tracking and complimentary wait time as every other vehicle in the fleet, so the upgrade is entirely about the ride itself rather than the service standard underneath it. Chauffeurs assigned to S-Class bookings are selected for executive-level experience, and the privacy partition and mini bar make it a common choice for a client pickup that doubles as a first impression.',
       'Because inventory on this specific model is smaller than our standard sedan fleet, book an S-Class request a few days ahead when the date matters — a wedding, an anniversary, or a VIP client visit — rather than assuming same-day availability. Pair it with our meet-and-greet service at Dulles for a arrival that starts the moment you clear the gate rather than once you reach the curb.',
     ],
-    'lincoln-continental': [
-      'The Lincoln Continental delivers a quieter, more traditionally American take on luxury sedan travel — deep leather seating, a smooth highway ride and a cabin tuned for comfort over flash. It is a frequent request from clients who want an executive sedan without the overtly sport-luxury styling of a German import, and it performs identically to our other sedans on airport transfers: same flight tracking, same 45-to-60-minute wait allowance, same background-checked chauffeur standard.',
-      'Passengers moving between Dulles and Northern Virginia or DC appointments choose the Continental for its balance of interior space and a genuinely smooth ride on longer highway stretches such as I-66 or the Dulles Toll Road, where the car\'s ride tuning is most noticeable compared with a smaller sedan. Reclining seats and a premium audio system make it a comfortable choice for a long one-way transfer, a client pickup, or an evening out where arriving relaxed matters as much as arriving on time.',
-      'Book it the same way as any sedan on our fleet — specify the Lincoln Continental by name when you reserve, and dispatch will confirm availability for your date and hold the vehicle class in writing before you travel.',
-    ],
     'bmw-7-series': [
       'The BMW 7 Series pairs German engineering with an executive-lounge rear cabin, and it is the sedan most often requested by clients who want performance-oriented handling along with first-class comfort — a panoramic roof, ambient lighting and Harman Kardon audio that make the ride itself notable, not just the destination.',
       'On a Dulles transfer, the 7 Series tracks your flight the same way every vehicle in our fleet does, and its heated seats and WiFi hotspot make it a popular choice for business travelers who want to start working, or simply unwind, the moment they are in the car rather than waiting until they reach a hotel or office. Visiting executives hosted by Tysons-area companies frequently request this model specifically for client pickups, since its styling and interior tech read clearly as a premium experience from the moment the door opens.',
       'Availability on the 7 Series is more limited than our standard Business Sedan, so for an important date — a board visit, a VIP client arrival — request it specifically and book a few days ahead rather than assuming it will be available same-day.',
-    ],
-    'cadillac-escalade': [
-      'The Lincoln Navigator is our boldest SUV, built for groups of up to six passengers who want the capacity of a full-size SUV without sacrificing a genuinely luxury interior — third-row seating, premium audio, tri-zone climate control and a heads-up display that go well beyond a standard rental-class SUV.',
-      'Families flying into Dulles with substantial luggage, wedding parties needing a statement vehicle for the couple, and corporate clients hosting a small group all request the Navigator specifically for the combination of space and presence it brings — it reads as a premium vehicle from the outside while comfortably seating six with full luggage inside. Its smooth, quiet ride suits longer highway transfers to Baltimore, Richmond or the Eastern Shore.',
-      'Every Navigator booking includes the same flight tracking, 45-to-60-minute wait allowance and background-checked chauffeur standard as the rest of our fleet — the upgrade is entirely in the vehicle, not the service model underneath it.',
     ],
     'chevy-suburban': [
       'The Chevrolet Suburban is our most practical full-size SUV, built around maximizing usable space for families and groups rather than maximizing styling — fold-flat seats, generous cargo room and a famously smooth ride make it the vehicle we recommend most often for a family of five traveling with a full set of checked luggage, golf clubs or ski gear.',
@@ -268,11 +219,6 @@ const VehiclesPage = () => {
       'The Mercedes Sprinter is the standard-bearer of our group transportation fleet, seating up to 13 passengers with matching luggage capacity in a cabin tall enough to stand in — a meaningful difference for anyone who has tried to board a crowded minivan with a week of luggage.',
       'Corporate groups use the Sprinter for roadshows, conference delegations and team transportation where keeping everyone together on one schedule matters more than any single passenger\'s preference. Wedding parties and celebration groups request the same vehicle for its conference-style seating, mood lighting and premium audio, which give it a more elevated feel than a typical passenger van.',
       'Because larger vehicles are the tightest inventory in any chauffeured fleet, including ours, book a Sprinter as early as your date is set — especially for a Saturday during wedding season or a week with a major regional conference — rather than waiting until the week of your trip.',
-    ],
-    'ford-transit': [
-      'The Ford Transit is our economical option for mid-sized groups — comfortable seating for up to 10 passengers with solid cargo space, without the premium styling (or premium price) of a Sprinter van. It is a practical choice for a group airport transfer, a school or church trip, or any booking where reliable capacity matters more than conference-style amenities.',
-      'Despite being our value-oriented group vehicle, a Transit booking includes the same standards as the rest of our fleet: a background-checked, professionally licensed chauffeur, commercial insurance, and flight tracking with complimentary wait time on airport pickups. Groups that do not need the Sprinter\'s standing height or mood lighting but do need to travel together in one vehicle consistently choose the Transit for the combination of capacity and value.',
-      'Book it the same way as any group vehicle — tell dispatch your passenger and luggage count, and we will confirm the Transit is the right fit or recommend a Sprinter if your group\'s needs have grown.',
     ],
   };
   const guideParagraphs = vehicleGuide[category] || vehicleGuide.sedans;

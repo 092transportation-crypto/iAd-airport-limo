@@ -6,6 +6,7 @@ import Seo from '../components/Seo';
 import FaqSection from '../components/FaqSection';
 import TrustSignals from '../components/TrustSignals';
 import { fleetImageAlt } from '../lib/fleetImageAlt';
+import { GOOGLE_REVIEWS_URL } from '../lib/googleReviews';
 import { ChevronRight, Users, Briefcase, Plane, Wine, Heart, Star, Shield, Clock, Award, Phone, ArrowRight, Search } from 'lucide-react';
 
 const homeFaqs = [
@@ -106,11 +107,6 @@ const HomePage = () => {
     { icon: <Wine className="w-6 h-6 md:w-8 md:h-8" />, title: 'Wine Tours', desc: 'Virginia wine country', link: '/wine-tours', image: images.wine, alt: 'Glass of red wine overlooking rows of vineyard vines' },
   ];
 
-  const testimonials = [
-    { text: "Exceptional service. The S-Class was immaculate and our chauffeur was outstanding.", author: "Michael R.", role: "Executive", rating: 5 },
-    { text: "We use IAD Airport Limo for all corporate travel. Always reliable and professional.", author: "Sarah C.", role: "VP Operations", rating: 5 },
-    { text: "Made our wedding day perfect. Highly recommend their services!", author: "James & Emily", role: "Newlyweds", rating: 5 },
-  ];
 
   const currentFleet = fleetData[activeFleetTab] || fleetData.all;
 
@@ -267,20 +263,13 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Testimonials */}
+      {/* Reviews */}
       <section className="py-16 md:py-24 bg-black">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6">
-          <div className="text-center mb-10"><p className="font-accent text-white/40 text-xs tracking-widest uppercase mb-3">Testimonials</p><h2 className="font-display text-3xl sm:text-4xl text-white mb-4">Client Reviews</h2></div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {testimonials.map((t, idx) => (
-              <div key={idx} className="luxury-card p-5">
-                <div className="flex gap-1 mb-4">{[...Array(t.rating)].map((_, i) => (<Star key={i} className="w-4 h-4 text-white fill-white" />))}</div>
-                <p className="text-white/80 text-base italic mb-6">"{t.text}"</p>
-                <div className="border-t border-white/10 pt-4"><p className="font-semibold text-white text-sm">{t.author}</p><p className="text-white/40 text-xs">{t.role}</p></div>
-              </div>
-            ))}
-          </div>
-          <div className="text-center mt-8"><Link to="/reviews" className="text-white underline hover:text-white/80">Read More Reviews</Link></div>
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
+          <p className="font-accent text-white/40 text-xs tracking-widest uppercase mb-3">Reviews</p>
+          <h2 className="font-display text-3xl sm:text-4xl text-white mb-4">What Riders Say</h2>
+          <p className="text-white/60 text-base mb-8">Our customer reviews live on Google, posted by riders after their trips. Read them there, or leave one after your own ride.</p>
+          <a href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer" className="text-white underline hover:text-white/80">See Our Google Reviews</a>
         </div>
       </section>
 
